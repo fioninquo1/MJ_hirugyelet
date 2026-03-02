@@ -700,22 +700,26 @@ a {
         padding: 8px;
     }
 
-    /* Columns: no inner scroll on mobile - let the page scroll naturally */
+    /* Columns: full-height with inner scroll, no page scroll conflict */
     .portal-column {
         min-width: 85vw;
         width: 85vw;
-        max-height: none;
+        max-height: calc(100vh - 140px);
+        max-height: calc(100dvh - 140px);
         scroll-snap-align: start;
     }
 
     .column-articles {
-        overflow-y: visible;
+        overflow-y: auto;
+        overscroll-behavior-y: contain;
+        -webkit-overflow-scrolling: touch;
     }
 
     .columns-view {
         scroll-snap-type: x mandatory;
         gap: 8px;
         padding-bottom: 4px;
+        overflow-y: hidden;
     }
 
     /* Cards: single column */

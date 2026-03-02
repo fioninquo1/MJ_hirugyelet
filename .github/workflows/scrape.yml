@@ -5,12 +5,10 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: scrape
@@ -43,27 +41,3 @@ jobs:
           git add -f docs/data/news.json
           git diff --cached --quiet || git commit -m "Update news data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
           git push
-
-  deploy:
-    needs: scrape
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
