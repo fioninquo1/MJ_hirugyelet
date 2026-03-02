@@ -700,12 +700,16 @@ a {
         padding: 8px;
     }
 
-    /* Columns: narrower, snap scrolling */
+    /* Columns: no inner scroll on mobile - let the page scroll naturally */
     .portal-column {
         min-width: 85vw;
         width: 85vw;
-        max-height: calc(100vh - 160px);
+        max-height: none;
         scroll-snap-align: start;
+    }
+
+    .column-articles {
+        overflow-y: visible;
     }
 
     .columns-view {
@@ -724,19 +728,28 @@ a {
         height: 140px;
     }
 
-    /* Timeline: compact */
+    /* Timeline: stack time above title on mobile */
     .timeline-row {
-        grid-template-columns: 50px auto 1fr;
-        gap: 6px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px 8px;
+        align-items: center;
         padding: 8px 10px;
     }
 
     .timeline-time {
         font-size: 0.72rem;
+        min-width: auto;
+        text-align: left;
+    }
+
+    .portal-badge {
+        font-size: 0.65rem;
     }
 
     .timeline-title {
         font-size: 0.85rem;
+        width: 100%;
     }
 }
 
