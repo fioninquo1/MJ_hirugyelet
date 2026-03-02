@@ -31,7 +31,7 @@ async function loadData() {
     showLoading(true);
     hideError();
     try {
-        const response = await fetch(DATA_URL + "?t=" + Date.now());
+        const response = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
         if (!response.ok) throw new Error("HTTP " + response.status);
         const newData = await response.json();
 
@@ -553,7 +553,8 @@ function setupViewSwitcher() {
 
 function setupRefreshButton() {
     const btn = document.getElementById("refresh-btn");
-    btn.addEventListener("click", () => {
+    btn.addEventListener("click", (e) => {
+        e.preventDefault();
         btn.classList.add("loading");
         loadData().then(() => btn.classList.remove("loading"));
     });
