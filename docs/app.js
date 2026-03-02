@@ -1,5 +1,7 @@
 // === Configuration ===
-const DATA_URL = "data/news.json";
+// Use raw GitHub content for fresh data (Pages CDN caches for 10 min)
+const DATA_URL_PRIMARY = "https://raw.githubusercontent.com/fioninquo1/MJ_hirugyelet/master/docs/data/news.json";
+const DATA_URL_FALLBACK = "data/news.json";
 const REFRESH_INTERVAL = 5 * 60 * 1000;
 const STORAGE_KEY_FILTERS = "mj_portal_filters";
 const STORAGE_KEY_VIEW = "mj_view_mode";
@@ -31,7 +33,16 @@ async function loadData() {
     showLoading(true);
     hideError();
     try {
-        const response = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+        let response;
+        try {
+            response = await fetch(DATA_URL_PRIMARY + "?t=" + Date.now(), { cache: "no-store" });
+        } catch (e) {
+            // CORS or network error - fall back to local file
+            response = await fetch(DATA_URL_FALLBACK + "?t=" + Date.now());
+        }
+        if (!response.ok) {
+            response = await fetch(DATA_URL_FALLBACK + "?t=" + Date.now());
+        }
         if (!response.ok) throw new Error("HTTP " + response.status);
         const newData = await response.json();
 
