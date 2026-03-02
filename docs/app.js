@@ -562,9 +562,14 @@ function hideError() {
 
 function updateLastUpdated() {
     const el = document.getElementById("last-updated");
+    const now = new Date();
+    const h = String(now.getHours()).padStart(2, "0");
+    const m = String(now.getMinutes()).padStart(2, "0");
+    let text = "Ellenorizve: " + h + ":" + m;
     if (newsData && newsData.scraped_at) {
-        el.textContent = "Utolso frissites: " + formatTime(newsData.scraped_at);
+        text += " | Adat: " + formatTime(newsData.scraped_at);
     }
+    el.textContent = text;
 }
 
 function setupViewSwitcher() {
