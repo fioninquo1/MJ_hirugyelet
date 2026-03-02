@@ -20,34 +20,51 @@ let isFirstLoad = true;
 
 // === Init ===
 document.addEventListener("DOMContentLoaded", () => {
+    console.log("[MJ] Init started");
     setupViewSwitcher();
     setupRefreshButton();
     setupSearch();
     setupNotifications();
     loadData();
     startAutoRefresh();
+    console.log("[MJ] Init done, auto-refresh interval:", REFRESH_INTERVAL, "ms");
 });
 
 // === Data Loading ===
+let loadCount = 0;
 async function loadData() {
+    const callId = ++loadCount;
+    console.log("[MJ] loadData #" + callId + " started");
     showLoading(true);
     hideError();
     try {
         let response = null;
+        let source = "";
         // Try primary (raw GitHub - no CDN cache)
         try {
+            console.log("[MJ] #" + callId + " fetching primary...");
             const r = await fetch(DATA_URL_PRIMARY + "?t=" + Date.now(), { cache: "no-store" });
-            if (r.ok) response = r;
-        } catch (e) { /* network/CORS error, try fallback */ }
+            console.log("[MJ] #" + callId + " primary status:", r.status);
+            if (r.ok) { response = r; source = "raw.github"; }
+        } catch (e) {
+            console.warn("[MJ] #" + callId + " primary failed:", e.message);
+        }
         // Fallback to local file
         if (!response) {
             try {
+                console.log("[MJ] #" + callId + " fetching fallback...");
                 const r = await fetch(DATA_URL_FALLBACK + "?t=" + Date.now());
-                if (r.ok) response = r;
-            } catch (e) { /* offline */ }
+                console.log("[MJ] #" + callId + " fallback status:", r.status);
+                if (r.ok) { response = r; source = "local"; }
+            } catch (e) {
+                console.warn("[MJ] #" + callId + " fallback failed:", e.message);
+            }
         }
         if (!response) throw new Error("Nem erheto el az adat");
         const newData = await response.json();
+        console.log("[MJ] #" + callId + " loaded from " + source +
+            ", scraped_at: " + newData.scraped_at +
+            ", portals: " + newData.portals.length);
 
         // Track new articles
         const currentUrls = new Set();
@@ -63,7 +80,6 @@ async function loadData() {
                 if (!previousUrls.has(url)) newUrls.add(url);
             });
 
-            // Send notifications for new articles
             if (newUrls.size > 0 && notificationsEnabled) {
                 sendNotifications(newData, newUrls);
             }
@@ -76,11 +92,13 @@ async function loadData() {
         render();
         updateLastUpdated();
         updateNewCount();
+        console.log("[MJ] #" + callId + " render done, newUrls: " + newUrls.size);
     } catch (err) {
-        console.error("loadData error:", err);
+        console.error("[MJ] #" + callId + " ERROR:", err);
         showError("Nem sikerult betolteni az adatokat.");
     } finally {
         showLoading(false);
+        console.log("[MJ] #" + callId + " finished");
     }
 }
 
@@ -570,13 +588,20 @@ function setupRefreshButton() {
     const btn = document.getElementById("refresh-btn");
     btn.addEventListener("click", (e) => {
         e.preventDefault();
+        console.log("[MJ] Refresh button clicked, loading:", btn.classList.contains("loading"));
         if (btn.classList.contains("loading")) return;
         btn.classList.add("loading");
-        loadData().finally(() => btn.classList.remove("loading"));
+        loadData().finally(() => {
+            btn.classList.remove("loading");
+            console.log("[MJ] Refresh button loading cleared");
+        });
     });
 }
 
 function startAutoRefresh() {
     if (refreshTimer) clearInterval(refreshTimer);
-    refreshTimer = setInterval(loadData, REFRESH_INTERVAL);
+    refreshTimer = setInterval(() => {
+        console.log("[MJ] Auto-refresh triggered");
+        loadData();
+    }, REFRESH_INTERVAL);
 }
