@@ -33,17 +33,20 @@ async function loadData() {
     showLoading(true);
     hideError();
     try {
-        let response;
+        let response = null;
+        // Try primary (raw GitHub - no CDN cache)
         try {
-            response = await fetch(DATA_URL_PRIMARY + "?t=" + Date.now(), { cache: "no-store" });
-        } catch (e) {
-            // CORS or network error - fall back to local file
-            response = await fetch(DATA_URL_FALLBACK + "?t=" + Date.now());
+            const r = await fetch(DATA_URL_PRIMARY + "?t=" + Date.now(), { cache: "no-store" });
+            if (r.ok) response = r;
+        } catch (e) { /* network/CORS error, try fallback */ }
+        // Fallback to local file
+        if (!response) {
+            try {
+                const r = await fetch(DATA_URL_FALLBACK + "?t=" + Date.now());
+                if (r.ok) response = r;
+            } catch (e) { /* offline */ }
         }
-        if (!response.ok) {
-            response = await fetch(DATA_URL_FALLBACK + "?t=" + Date.now());
-        }
-        if (!response.ok) throw new Error("HTTP " + response.status);
+        if (!response) throw new Error("Nem erheto el az adat");
         const newData = await response.json();
 
         // Track new articles
@@ -74,7 +77,8 @@ async function loadData() {
         updateLastUpdated();
         updateNewCount();
     } catch (err) {
-        showError("Nem sikerult betolteni az adatokat. Futtasd a scrapert: python -m scraper.main");
+        console.error("loadData error:", err);
+        showError("Nem sikerult betolteni az adatokat.");
     } finally {
         showLoading(false);
     }
@@ -566,8 +570,9 @@ function setupRefreshButton() {
     const btn = document.getElementById("refresh-btn");
     btn.addEventListener("click", (e) => {
         e.preventDefault();
+        if (btn.classList.contains("loading")) return;
         btn.classList.add("loading");
-        loadData().then(() => btn.classList.remove("loading"));
+        loadData().finally(() => btn.classList.remove("loading"));
     });
 }
 
