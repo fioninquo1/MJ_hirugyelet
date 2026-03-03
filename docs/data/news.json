@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-03T13:00:56.326939+00:00",
+  "scraped_at": "2026-03-03T13:05:23.751148+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Hungarian POWs from Transcarpathia recite Russian narrative, which Hungarian public TV broadcasts unscrutinized",
+          "url": "https://telex.hu/english/2026/03/03/hungarian-pows-from-transcarpathia-recite-russian-narrative-with-hungarian-public-tv-broadcasting-it-unscrutinized",
+          "published": "2026-03-03T13:01:24+00:00",
+          "description": "Not only is the use of Ukrainian POWs, among them ethnic Hungarians in Russian propaganda messages a violation of the Geneva Convention on the protection of POWs, so is the way Hungarian public television has covered this.",
+          "image": "https://assets.telex.hu/images/20260303/1772541759-temp-qu06oho3ihb0fmnAnAh_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Nyilas Gergely"
+        },
         {
           "title": "Marosvásárhelyi fiatalokat vittek Szolnokra, hogy a Fidesznek kopogtassanak",
           "url": "https://telex.hu/transtelex/2026/03/03/kopogtatas-fidesz-marosvasarhelyi-diakok",
@@ -225,15 +234,6 @@
           "image": null,
           "category": "Belföld",
           "author": "Iván-Nagy Szilvia"
-        },
-        {
-          "title": "Az Origo bemutatja: Amikor úgy vesszük át az orosz narratívát, hogy fordítani is elfelejtünk",
-          "url": "https://telex.hu/zacc/2026/03/03/origo-iran-hadmuvelet-orosz-propaganda-forditas",
-          "published": "2026-03-03T09:13:27+00:00",
-          "description": "Hoppá, egy lépés kimaradt.",
-          "image": "https://assets.telex.hu/images/20260303/1772528961-temp-tgd74g6c8oji0gNcAbp_cimlap-normal.jpg",
-          "category": "Zacc",
-          "author": "Aradi Hanga Zsófia"
         }
       ]
     },
@@ -486,7 +486,7 @@
           "title": "Itt a képregény Magyar Péter munkásságáról: nem Kétarcú, inkább félkész",
           "url": "https://index.hu/belfold/2026/03/03/karmelita-magyar-peter-kepregeny-batman-ketarc-propaganda-en-a-ketarcu/",
           "published": "2026-03-03T12:52:00+00:00",
-          "description": "Kritika az Én, a Kétarcú című új magyar képregényről.",
+          "description": "Kritika az Én, a kétarcú című új magyar képregényről.",
           "image": "https://kep.index.hu/1/0/6790/67903/679038/67903815_5013441_685f089d8c4b02d37f9984ceb9fe9211_wm.jpg",
           "category": "Belföld",
           "author": null
@@ -714,10 +714,236 @@
       "name": "Magyar Nemzet",
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Drága villanyautóból készített olcsó hibridet a Fiat",
+          "url": "https://magyarnemzet.hu/auto-motor-2/2026/03/draga-villanyautobol-keszitett-olcso-hibridet-a-fiat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T13:02:06+00:00",
+          "description": "A második generációs új 500-asból már nem csak elektromos változat kapható itthon.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/y3LhOIpJqt7ZYBP2GCrgRaU-sYlx-A_RjiAqVCG4cAA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUwMGEyMTRiOTg0NjQxZjNiYWM2NTdlNDM5ZjRjYTg1.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Erről tárgyalt Orbán Viktor és Vlagyimir Putyin",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/orban-viktor-es-vlagyimir-putyin-errol-targyalt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:53:32+00:00",
+          "description": "Telefonon egyeztettek.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/uapqEXjTtb5y6xX1TpqIuaxYMcZPKxN19x5stnqoxcI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5MTRhNzNiN2Q4MTRiYzVhNTg3OWFiZDAyODY1ZGZk.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Gyászol a vadaspark, elaltatták az ország kedvenc szibériai tigrisét + fotók",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/gyaszol-a-vadaspark-elaltattak-az-orszag-kedvenc-sziberiai-tigriset-fotok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:43:36+00:00",
+          "description": "Elárulták, miért.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/YVIlMfoV0Lajz7eMZ7qLsDOA80YiTxa6NMKt04PkJCY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIwM2I4YjU2MGIzMzRmNGViNzFhMWI0ZTU2ZDhmZTMw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "PM Orban: Hungary Could Face Renewed Migratory Pressure Due to Iran War",
+          "url": "https://magyarnemzet.hu/english/2026/03/pm-orban-hungary-could-face-renewed-migratory-pressure-due-to-iran-war?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:33:17+00:00",
+          "description": "Hungary still does not want migrants.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/Np7EUwqBlZfxr8_X5NC1SDzpZXwE5R9tcApuxz-oVUI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IyNWU4M2M1NzFkNjQ2ZWViNGNkZWYxNjUzNTRlOWU1.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Vance: Az amerikai csapások célja, hogy Irán soha ne juthasson atomfegyverhez",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/vance-amerika-csapas-iran-atomfegyver?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:32:44+00:00",
+          "description": "A harcok tovább eszkalálódhatnak.",
+          "image": "https://cdn.magyarnemzet.hu/2025/12/vmvm-MlKsb2WstDfISBXcSGMEdUC8jDYVo44d2f3IzI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk2MGZlYjMzY2UwMjRjM2M5MWFjYmIzNjBjOTkwMjhi.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Újabb körzetekről jöttek ki adatok: nagyon vezet a Fidesz–KDNP Borsodban, Komáromban és Vasban",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/fidesz-kdnp-valasztas-felmeres-kutatas-borsod-komarom-vas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:29:03+00:00",
+          "description": "A kormánypártok nagyon jól állnak a választókerületi adatok szerint.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/-hpFFg8Gq0_q5sWy2gOV-Z769kaS175JL51WxQ8nDCw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y4NmE3YzhhNDZkODQwYjVhMjRkMmNlYjAyMWYxMmZi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Szijjártó Péter: Egyedül a jelenlegi kormány tud továbbra is nemet mondani Brüsszelnek",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/szijjarto-peter-jelenlegi-kormany-brusszel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:26:01+00:00",
+          "description": "„Most is nemet kell mondanunk arra, hogy belevigyenek minket a háborúba.”",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/grLF1yICzs2emZahOeHr_LvIZdiMI3eHGx7uozEhxdo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJlNWZmMWFiODEwODRiZjNhMGFkN2ZkNGFkYWIzZDhm.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Magyarország jól áll a tojáspiacon, de a tavaszi áremelkedést nem ússzuk meg",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/03/tojaspiac-magyarorszag-jol-all-tavaszi-aremelkedes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:24:56+00:00",
+          "description": "A tavalyi madárinfluenza és a húsvét éreztetik a hatásukat.",
+          "image": "https://cdn.magyarnemzet.hu/2025/09/hcPBWAZ6WZkxCi3LnG4FSbJZD5CaeuXF1G8Vl4BUPOY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ2ZTEwMjNjYjA5YjRjMzk4OGU5MmQ4OGZjZWNhNTVk.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Megindult az árhullám a hazai folyókon",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/megindult-az-arhullam-a-hazai-folyokon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:19:10+00:00",
+          "description": "Kiderült, szükség lesz-e árvizi védekezésre.",
+          "image": "https://cdn.magyarnemzet.hu/2026/02/-WBfOG2MoMkknteWNPn1OqsYYnQMWtwkEhzIUKzVPlg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EyMzk4OTllNTFmOTRjODc5NWU1MmFhZTJjN2MzZjdl.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Kamion gázolt a Városház téren, egy nő a helyszínen meghalt",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/kamion-gazolt-a-varoshaz-teren-egy-no-a-helyszinen-meghalt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:18:40+00:00",
+          "description": "Forgalomkorlátozásra kell számítani.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/zrLUA_cSGxvpXbHdOqnxJKyUahOmqiynZRkr7lYeAxE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQyNWIwOWZiZTc1YTQwNzJhOTgyZjYxMGI1NDk1Njgw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Kerítésbe kapaszkodva menekült meg a férfi Odesszában a kényszersorozás elől",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/kenyszersorozas-odessza-kerites?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:17:23+00:00",
+          "description": "Az ukrán hatóságok fokozott ütemben próbálják pótolni a veszteségeket.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/eku1Ci-eGAfRq1jDmceXV0RK-TIn0H84WBDX8NB1wu4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZhYmEyODFhZTFmMDQ5Njc5NWEwYzg0M2M2NzQ0MTkw.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "A pop és a soul hercege 15 év után újra Budapestre érkezik",
+          "url": "https://magyarnemzet.hu/kultura/2026/03/seal-15-ev-utan-ujra-budapesten-lep-fel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:05:37+00:00",
+          "description": "A bársonyos hangú világsztár az MVM Dome-ban ad koncertet nyár közepén.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/QcSIGGZUzCQvq2Yf4U9z0plDFil8BF9iqLi-7fI5Wxw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhNzMwMDBmYzJkNjQ3M2NiMTcyYThjN2ZjMjAzMDI1.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Feketeöves valóságtagadás: a támadás alatt lévő Dubajból jelentkezett a tiszás influenszer, szerinte nincs veszély és csak Orbán hergel",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/dubaj-repuloter-haboru-tiszas-musorvezeto-nagy-adam-jolvanezigy-bohar-daniel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T12:04:53+00:00",
+          "description": "Nem könnyű tiszásnak lenni, tagadni kell a valóságot, akkor is, ha éppen körülötted van – jegyezte meg Bohár Dániel.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/Q8tRxsiQcoqI3IXu9B2pEP0tMVGNoh8dWUY_KfjHTy0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QxMjg3NmE5YTViOTQ2NTdiNDhmNzhkYzgxNzVmMDhi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Hála, genfi konvenció és egyéb gazemberségek",
+          "url": "https://magyarnemzet.hu/velemeny/2026/03/hala-genfi-konvencio-es-egyeb-gazembersegek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:58:59+00:00",
+          "description": "Kezdjük talán a hálával! Ugyanis ez annyira szürreális és felfoghatatlan, hogy Orwell és Ionescu egymás vállán zokog most a mennyekben.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/P3V-z5AHhNYh7uWbYAfqcTcnSpTv-KfR7M1KmwV92qg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U0ZWRlMTFmMTNlYTQ5OGU5ODdmZmNmYWMzYzY4Nzk2.jpg",
+          "category": "vélemény",
+          "author": null
+        },
+        {
+          "title": "Így tehet pontot az ukrajnai háború végére a közel-keleti konfliktus",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/ukrajnai-haboru-kozel-keleti-konfliktus-patriot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:58:55+00:00",
+          "description": "Zelenszkij elkezdett aggódni.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/jBXWZiVCHA-OQkaHz-uWxK9qIfJdGpMlb56neOIKyyg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiMWNmYzllZTJjYTQ5MmNhMzgyZDdlMThjZWJhMzMw.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Sokakat érintő változás történt az autók vizsgáztatásánál",
+          "url": "https://magyarnemzet.hu/auto-motor-2/2026/03/sokakat-erinto-valtozas-tortent-az-autok-vizsgaztatasanal?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:57:58+00:00",
+          "description": "A forgalmiból korábban kikerült egy fontos számsor, most pedig az eredetiség ellenőrzését is könnyítették.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/PC6EiaaXA8HktLaOVoRhuoUU2ExYYWjcYk9EFEUvRjI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEzMDQ4YzNjYWFiMzQzZDhhNzViNTFkNjEwYzg5ZDRi.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Zelenszkij és Magyar Péter tettestársak a Magyarország elleni olajblokádban + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/zelenszkij-magyar-peter-ukran-olajblokad-menczer-tamas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:47:20+00:00",
+          "description": "Az ukrán elnök azt akarja, hogy az olcsó orosz olaj helyett drága nyugati olajat vásároljunk – emlékeztetett Menczer Tamás.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/IrGVlpS010ne68WeUPJtOtNOLt17lsiY0GMLdOKYuc4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjZjU3NTExMzRiMzQwNzk4N2VlOWI0ZWM4MzIxOGQw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Megszólalt a rendőrség a 27 éve eltűnt Zitáról, különös kegyetlenséggel elkövetett emberölés miatt indítottak büntetőeljárást",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/megszolalt-a-rendorseg-a-27-eve-eltunt-zitarol-kulonos-kegyetlenseggel-elkovetett-emberoles-miatt-inditottak-buntetoeljarast?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:43:46+00:00",
+          "description": "A nő gyermeke úgy nőtt fel, hogy azt hitte, az anyja elhagyta.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/557snnMWRsDot8LoYWtXn-JzNMcqBiI4xhFObXg_RlU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ1YjRjZjEwMjc1MzRlZDNiMDllN2MyMWVmZjkxMzE5.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Mol: A Janaf árai háromszorosai az olasz–német–osztrák és több mint másfélszerese az ukrán díjaknak",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/03/mol-a-janaf-arai-haromszorosai-az-olasz-nemet-osztrak-es-tobb-mint-masfelszerese-az-ukran-dijaknak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:42:14+00:00",
+          "description": "A Janaf láthatóan visszaél a helyzetével, mivel nem az iparági árszabásnak megfelelően ad ajánlatot a kőolajszállításra.",
+          "image": "https://cdn.magyarnemzet.hu/2025/09/j2DMZpyBHmKtN-KZ-7kDio3VjjW_3K4Dhu_cbV_zKV8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3MGFmOGRmOTEwMTQ4YmZhN2VlYWY2MDJkY2U3ZWIy.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Kemény üzenet a liberális elemzőtől: Már ősszel taxisblokád jöhet, ha a Tisza körüli szakértők tervei megvalósulnak",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/kemeny-uzenet-a-liberalis-elemzotol-mar-osszel-taxisblokad-johet-ha-a-tisza-koruli-szakertok-tervei-megvalosulnak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:39:24+00:00",
+          "description": "Bod Péter Ákossal példálóztak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/IN4nPtd1MaGUqIiMCmwdGwm6SNFb9fJpA_3FuQgzY5E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E4NjQ3ZTRkOTUzYTQ5ZjM5ODIyYTg4YTA1ZTFlNDg3.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Orbán Viktor Vlagyimir Putyinnal beszélt telefonon",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/orban-viktor-vlagyimir-putyin-telefonbeszelgetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:37:48+00:00",
+          "description": "A két vezető a fogságba esett magyarok ügyéről és az ukrajnai háború diplomáciai rendezésének lehetőségéről tárgyalt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/8fiBDuyK8rGXy8rZmmj_kEZxJOBcIVz9e_JN7n-qfao/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJkMDA0MjFhOWFjZDQ1N2JhMjY4YWRhMWRmYzM0ZmI0.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "A debreceni háborúellenes gyűlés a Holdról is látszani fog",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/orban-viktor-debrecen-haboruellenes-gyules-beke?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:37:17+00:00",
+          "description": "Minden eddiginél határozottabb üzenetet küldünk Brüsszelbe és Kijevbe: nem kérünk a pusztításból – közölte a miniszterelnök.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/zAOP1_XZMwFvYYtWszE2wsPtbgxZUrzQHxzVAm6UrPU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyYmM5MTM0MjVhNzRiZGY5ODJlNjQxYmY1Y2QwMDg5.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "„Magyar Péter haladéktalanul egyeztessen az ukrán barátaival az olajblokád feloldásáról!”",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/magyar-peter-ukran-olajblokad?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:24:32+00:00",
+          "description": "Orbán Balázs felszólította az ellenzéki vezetőt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/NUiJWQgm_dhpzjtVPa11xSmbX12IJn_RnhmywQYSOWY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM2NDhjNTQyZGJmZjQyMGQ4NThlMzgzNDAyMWUyMTFh.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Elnököt játszó balkáni zsaroló",
+          "url": "https://magyarnemzet.hu/velemeny/2026/03/elnokot-jatszo-balkani-zsarolo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:23:39+00:00",
+          "description": "Szintet lépett a tréningruhás diplomácia, amikor az extrém zongoristából ukrán elnökké átváltoztatott pukkancs kifejtette, nem elég hálásak a magyarok.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/JqEWf9Z3YqxIamOv-Tu2xKO8rN19mRbMx6rBLkjsRNU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQyNDBhZGJiOThhODQ3Y2JiNjE0Y2E2N2FiZThjNjRm.jpg",
+          "category": "vélemény",
+          "author": null
+        },
+        {
+          "title": "PM Orban: Political Motives Are Behind the Ukrainian Oil Blockade + Video",
+          "url": "https://magyarnemzet.hu/english/2026/03/pm-orban-political-motives-are-behind-the-ukrainian-oil-blockade-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-03T11:15:41+00:00",
+          "description": "MOL Group CEO confirms that there are only political reason for blocking the Druzhba pipeline.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/vcPIrI1DHi51OGIwbyQQ22P9ECiut6FsoymDk-IMhog/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UyOWI0ZDNhMmNiYTQ2ZmY5YzQxZjg0ZmJjZWJjNGY5.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        }
+      ]
     },
     {
       "id": "mandiner",
@@ -728,6 +954,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Tetőfokára hágott a háború: sorra vonódnak be az országok a konfliktusba, Dubaj már alig látszik ki a füstfelhőből (VIDEÓ)",
+          "url": "https://mandiner.hu/kulfold/2026/03/tetofokara-hagott-a-haboru-sorra-vonodnak-be-az-orszagok-a-konfliktusba-dubaj-mar-alig-latszik-ki-a-fustfelhobol-video",
+          "published": "2026-03-03T13:02:29+00:00",
+          "description": "Egyre több országot ér el a háború szele.",
+          "image": "https://cdn.mandiner.hu/2026/03/X5OSEkZqqOfSURLoBm5HpbBQTUtfLYiqY4mUoProgSs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZiYzE5MDQ3ZGE5NjQ4MDNiYmFiN2RjZDQyNmM5YTU5.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Hatalmas pofon Brüsszelnek: Kiderült, hogy az EU teljesen életképtelen a kemény hatalmi politika korában!",
           "url": "https://mandiner.hu/kulfold/2026/03/brusszel-gopolitika-ukrajna-iran-europai-unio",
@@ -943,15 +1178,6 @@
           "image": "https://cdn.mandiner.hu/2026/03/0D98NTzbtYfPQ0P_okNc_fuSlQYVXucglzxE8MN6pTo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljNDgwNDJlYmI4MjRjYzY5YzEyNzBiMjM5NjU0MmI4.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Gusztustalan: az OBI Tibi atya Facebook-oldalán mulat azon, hogy Ukrajna aljas módszerekkel zsarolja Magyarországot",
-          "url": "https://mandiner.hu/belfold/2026/03/gusztustalan-az-obi-tibi-atya-facebook-oldalan-mulat-azon-hogy-ukrajna-aljas-modszerekkel-zsarolja-magyarorszagot",
-          "published": "2026-03-03T09:41:14+00:00",
-          "description": "Orbán Viktor bejelentésén gúnyolódik az áruházlánc és a vallásgyalázó kocsmatulajdonos.",
-          "image": "https://cdn.mandiner.hu/2026/03/QosGArvOD8SqRYAMYzkCeb7d7unq-0sJlNGX9ZT9GdE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E3Mzg0MTczMWE1ODQyODQ5MWEyM2UxYmYwYzI5MThm.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -964,6 +1190,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Videón, hogy állt le a hajóforgalom a Hormuzi-szorosban",
+          "url": "https://24.hu/kulfold/2026/03/03/iran-amerika-haboru-2/#videon-hogy-allt-le-a-hajoforgalom-a-hormuzi-szorosban",
+          "published": "2026-03-03T13:59:00+01:00",
+          "description": "Animációt osztott meg a Hormuzi-szoros forgalmának megváltozásáról a tengeri hajóforgalmat moniotorozó MarineTraffic nevű oldal az X közösségi platformon.",
+          "image": "https://s.24.hu/app/uploads/2026/03/libanon-legicsapas-e1772533074618-320x180.jpg",
+          "category": "Élő",
+          "author": "Ürmös Dániel"
+        },
+        {
+          "title": "Indul a kétéltűek vándorlása, számos védett állat kerülhet veszélybe",
+          "url": "https://24.hu/tudomany/2026/03/03/keteltuek-vandorlasa-bekak-veszely/",
+          "published": "2026-03-03T13:58:00+01:00",
+          "description": "A tavaszi vándorlás kockázatos vállalkozás a kétéltűek számára a városias, utakkal keresztezett világban.",
+          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-949144262-e1772542328896-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Stéger Dávid"
+        },
         {
           "title": "Bár nem lát rendesen, a látlelet szerint nyolc napon belül gyógyuló sérüléseket szenvedett az alpolgármester által leütött nő",
           "url": "https://24.hu/belfold/2026/03/03/szentmartonkata-alpolgarmester-igazsagugyi-szakerto/",
@@ -1082,15 +1326,6 @@
           "author": "Ács Anna Mária"
         },
         {
-          "title": "787 halálos áldozat Iránban a bombázások nyomán",
-          "url": "https://24.hu/kulfold/2026/03/03/iran-amerika-haboru-2/#787-halalos-aldozat-iranban-a-bombazasok-nyoman",
-          "published": "2026-03-03T12:02:00+01:00",
-          "description": "Az iráni humanitárius szervezet, a Vörös Félhold Mozgalom közlése szerint mintegy 787 ember halt meg Iránban, mióta az Egyesült Államok és Izrael szombaton csapásokat indított az ország ellen.",
-          "image": "https://s.24.hu/app/uploads/2026/03/libanon-legicsapas-e1772533074618-320x180.jpg",
-          "category": "Élő",
-          "author": "Ürmös Dániel"
-        },
-        {
           "title": "Irán háborús bűncselekményekkel vádolta meg az Egyesült Államokat és Izraelt",
           "url": "https://24.hu/kulfold/2026/03/03/iran-amerika-haboru-2/#iran-haborus-buncselekmenyekkel-vadolta-meg-az-egyesult-allamokat-es-izraelt",
           "published": "2026-03-03T11:48:00+01:00",
@@ -1098,6 +1333,15 @@
           "image": "https://s.24.hu/app/uploads/2026/03/libanon-legicsapas-e1772533074618-320x180.jpg",
           "category": "Élő",
           "author": "Ürmös Dániel"
+        },
+        {
+          "title": "Török Gábor elmagyarázza, miért idegesítő a kampány",
+          "url": "https://24.hu/belfold/2026/03/03/torok-gabor-valasztas-2026-kampany/",
+          "published": "2026-03-03T11:44:00+01:00",
+          "description": "Két nézőpont van.",
+          "image": "https://s.24.hu/app/uploads/2026/03/central-1053091967-e1772002330182-1440x810-1-320x180.jpg",
+          "category": "Belföld",
+          "author": "Farkas György"
         },
         {
           "title": "Apa lett Henry Kettner, különleges nevet kapott a kislánya",
@@ -1170,24 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/kesha-rose-sebert-enekesno-zene-320x180.jpg",
           "category": "Kultúra",
           "author": "Ács Anna Mária"
-        },
-        {
-          "title": "Tömegesen törlik a ChatGPT-alkalmazást az amerikaiak",
-          "url": "https://24.hu/tech/2026/03/03/openai-chatgpt-torles-trump-kormany-alku/",
-          "published": "2026-03-03T10:45:00+01:00",
-          "description": "32-szeresére ugrott az OpenAI alkalmazásának törlési üteme, ami miatt már a vezérigazgatónak is meg kellett szólalnia.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2263890424-e1772531019893-320x180.jpg",
-          "category": "Tech",
-          "author": "Lányi Örs"
-        },
-        {
-          "title": "Nagyot gyengült a forint kedden",
-          "url": "https://24.hu/fn/gazdasag/2026/03/03/forint-forintarfolyam-euro-forintgyengules/",
-          "published": "2026-03-03T10:38:00+01:00",
-          "description": "A közel-keleti háború és a gyenge GDP adat mozgatja alapvetően a kurzust.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0616478315-e1772530546448-320x180.jpg",
-          "category": "Gazdaság",
-          "author": "24.hu"
         }
       ]
     },
@@ -1301,6 +1527,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Óriási mérföldkőnél a Tesla önvezető funkciója, hamarosan jöhet az áttörés",
+          "url": "https://hvg.hu/tudomany/20260303_tesla-onvezeto-funkcio-full-self-driving-onvezeto-auto",
+          "published": "2026-03-03T13:03:00+00:00",
+          "description": "Az önvezető funkció bemutatása óta már mintegy 12,8 milliárd kilométert tettek meg a Teslák önvezető módban, ebből 2026 első 50 napjában mintegy 1,6 milliárdot.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a8558031-c0b4-4a76-b945-77d00f9815bd.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Kocsis Máté megfejtette: az ukránok fogják Magyar Pétert a radnaimark.hu-n megjelent képpel",
           "url": "https://hvg.hu/itthon/20260303_kocsis-mate-fidesz-forum-magyar-peter-tisza-part",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7e7cadfc-b921-4204-ae9d-88117f7c71fe.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Itt az előzetes: jön a Magyar Péter-dokumentumfilm, már két hét múlva bemutatják",
-          "url": "https://hvg.hu/elet/20260303_magyar-peter-dokumentumfilm-bemutato-mikor-elozetes-tavaszi-szel-ebredes",
-          "published": "2026-03-03T10:13:25+00:00",
-          "description": "Az alkotók több mint egy éven át kísérték kameráikkal Magyar Pétert.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c84801a6-ee35-4233-87c7-36e52d6e22c8.jpg",
-          "category": "Élet+Stílus",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1621,6 +1847,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Ennek a hírnek nem csak Boconádon örülhetnek",
+          "url": "https://www.origo.hu/gazdasag/2026/03/boconadon-atadtak-a-szelecky-kastelyt",
+          "published": "2026-03-03T13:59:00+01:00",
+          "description": "A mintegy kétmilliárd forintos beruházáshoz a kormány egymilliárd forinttal járult hozzá.",
+          "image": "https://cdn.origo.hu/2026/03/2vMeMk2CU3UO1GGT-u8eyqaftphqxCrdE1Mlo4wRRDc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkwM2Y0NzY1NDNiMjQwYTY4YjhkNmU2MjFhZTRlNDk4.webp",
+          "category": "kastély",
+          "author": null
+        },
+        {
           "title": "Nézze, mi rejtőzött a kertben – ezt találták Sárkeresztúron",
           "url": "https://www.origo.hu/kek-hirek/2026/03/masodik-vilaghaborus-robbanotest-sarkereszturon",
           "published": "2026-03-03T13:55:00+01:00",
@@ -1704,10 +1939,10 @@
         {
           "title": "Felugratott a járdára egy őrült autós Kőbányán, menekültek a gyalogosok – videó",
           "url": "https://www.origo.hu/auto/2026/03/baleset-veszely-kobanya-jarda",
-          "published": "2026-03-03T13:10:00+01:00",
-          "description": "Nem tudni, mi lehetett a sofőr terve.",
-          "image": "https://cdn.origo.hu/2026/03/7X9gEplEnxTRUlbDI8Q1TYk8Ih2PppPdZUnqLBCfM_E/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzZTI3MGJkYzJjMzQyYThiYmVjMjU1NDM3MWVjOGE4.webp",
-          "category": "autós hír",
+          "published": "2026-03-03T12:10:04+00:00",
+          "description": null,
+          "image": null,
+          "category": "Autó",
           "author": null
         },
         {
@@ -1831,15 +2066,6 @@
           "title": "Néma lázadás a világ szeme láttára: az iráni focisták óriási kockázatot vállaltak a himnusz alatt – videó",
           "url": "https://www.origo.hu/sport/sport-futball/2026/03/iran-noi-valogatott-himnusz-tiltakozas-bator-kockazat",
           "published": "2026-03-03T11:18:09+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Átlátszó ruhában okozott totális döbbenetet a szuperszexi sportriporternő – galéria",
-          "url": "https://www.origo.hu/sport/sport-laza/2026/03/kate-tracey-szexi-sportriporterno-atlatszo-ruha",
-          "published": "2026-03-03T11:11:30+00:00",
           "description": null,
           "image": null,
           "category": "Sport",
