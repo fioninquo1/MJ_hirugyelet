@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-04T16:45:42.489707+00:00",
+  "scraped_at": "2026-03-04T16:50:41.639328+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Felfüggesztette Karácsony Gergely büntetőügyét és az alkotmánybírókhoz fordult a bíróság",
+          "url": "https://telex.hu/belfold/2026/03/04/karacsony-gergely-birosag-alkotmanybirosag-pride",
+          "published": "2026-03-04T16:48:24+00:00",
+          "description": "A főpolgármester ellen a Pride megszervezése miatt emeltek vádat, de a bíróság szerint a vádemelésben hivatkozott törvények ellentétesek lehetnek az Alaptörvénnyel.",
+          "image": "https://assets.telex.hu/images/20260304/1772642870-temp-ns0ua8fnqlqrdcnACJo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Csurgó Dénes"
+        },
         {
           "title": "Csalók és top üzleti körök is felbukkantak az ingyenes szigetelési program körül, ami gőzerővel beindult, aztán megállt",
           "url": "https://telex.hu/gazdasag/2026/03/04/szigeteles-ingyenes-padlas-homlokzat-ekr-tamogatas-mvm-hem",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260304/1772624622-temp-7odnb2v7sf79fiGJdHd_cimlap-normal.jpg",
           "category": "Adat",
           "author": "Stubnya Bence"
-        },
-        {
-          "title": "Megtiltották a drónozást Pakson és Százhalombattán",
-          "url": "https://telex.hu/belfold/2026/03/04/dronozas-korlatozas-szazhalombatta-paks-albertirsa",
-          "published": "2026-03-04T11:55:50+00:00",
-          "description": "A Paksi Atomerőmű és a százhalombattai Mol-finomító környékét fedi a tiltás.",
-          "image": "https://assets.telex.hu/images/20260304/1772625326-temp-tv5c2gp2p1050LnghFL_cimlap-normal.jpg",
-          "category": "Belföld",
-          "author": "Világi Máté"
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -724,472 +724,20 @@
       "name": "Mandiner",
       "url": "https://mandiner.hu",
       "color": "#c46a2f",
-      "status": "ok",
-      "error": null,
-      "article_count": 25,
-      "articles": [
-        {
-          "title": "A Közel-Kelet többé nem „távoli történet” – a szomszédunkban riadóztattak, nagyobb a veszély mint gondolnánk",
-          "url": "https://mandiner.hu/kulfold/2026/03/a-kozel-kelet-tobbe-nem-tavoli-tortenet-a-szomszedunkban-riadoztattak-nagyobb-a-veszely-mint-gondolnank",
-          "published": "2026-03-04T16:35:47+00:00",
-          "description": "A NATO-technológia képes elfogni a legtöbb rövid- és közepes hatótávú rakétát, de nincs százszázalékos védelem.",
-          "image": "https://cdn.mandiner.hu/2026/03/9g6IYBa6xuSrv05968UQXR2YjwXrD6FpoRcOhHD9QRE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U3ZWM1NDdmOTE3ODRjYjhhNTRlYjNiY2Q0Yzg5ZDdj.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Nem ismer se Istent se embert Putyin: egy nap leforgása alatt iszonyú pusztítást vitt végbe az orosz hadsereg",
-          "url": "https://mandiner.hu/kulfold/2026/03/nem-ismer-se-istent-se-embert-putyin-egy-nap-leforgasa-alatt-iszonyu-pusztitast-vitt-vegbe-az-orosz-hadsereg",
-          "published": "2026-03-04T16:29:15+00:00",
-          "description": "Szörnyű napon van túl Ukrajna.",
-          "image": "https://cdn.mandiner.hu/2025/12/oqe3-IOxZnOIM-SWBJGbSOKT6YzPu9hDNvN8AkRfWoI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE2MjNjMzM4MjA1NDRjNDE4OWNhOWIwZTFhZDZlNzg3.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Beszédes üzenet a spanyol fővárosból: madridi sztár cipőjében léphet pályára Szoboszlai Dominik (FOTÓ)",
-          "url": "https://mandiner.hu/sport/2026/03/beszedes-uzenet-a-spanyol-fovarosbol-madridi-sztar-cipojeben-lephet-palyara-szoboszlai-dominik-foto",
-          "published": "2026-03-04T16:24:06+00:00",
-          "description": "A magyar középpályás Instagram-oldalán osztotta meg madridi ajándékát.",
-          "image": "https://cdn.mandiner.hu/2026/03/DNXDzL12cFsqVCVKvFuu80Fa5weGhPKG3YzubVTHa14/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ0YjAxOWRjZWZjZjQxNDhiYWIyNjU3OTcwM2Y1M2Fj.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Bilincs, bilincs, BARÁTSÁG, avagy Magyar Péter ukrán akciója – Itt a The Man XIX. része",
-          "url": "https://mandiner.hu/belfold/2026/03/bilincs-bilincs-baratsag-avagy-magyar-peter-ukran-akcioja-itt-a-the-man-xix-resze",
-          "published": "2026-03-04T16:18:55+00:00",
-          "description": "Magyar Péter egymásnak ellentmondó kijelentései, Ruszin-Szendi Romulusz „nincs háború” mondata és a Tisza Párt körüli politikai kommunikáció kerül terítékre a The Man legújabb epizódjában.",
-          "image": "https://cdn.mandiner.hu/2026/03/Ngsa8g1LMSIx6OJdhu_xmwBZMtqszTJOcdr_5Jd5PTs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBkNTQ2ZDczZDM1MzQzMjZhNzdlMDVlZDM1ZDY3NzFm.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Olyan büntetést kaptak Sallaiék, hogy az Szoboszlaiék játékára is hatással lehet",
-          "url": "https://mandiner.hu/sport/2026/03/liverpool-galatasaray-uefa-sallai-szoboszlai-buntetes",
-          "published": "2026-03-04T16:15:46+00:00",
-          "description": "A Galatasaray „tizenkettedik játékosa” nem lehet jelen az Anfielden.",
-          "image": "https://cdn.mandiner.hu/2026/03/9n1KFMfR-clnwWnkV74b0UOnf_RPPWP4cnTpw5wYMtk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VhZDU1YjlhYjM4YzQzNWFiNGZhMGZjYjkxODJlOGY3.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Hiába a bírósági ítélet, hogy nem szélsőjobboldali a párt: nem száll le a titkosszolgálat az AfD-ről",
-          "url": "https://mandiner.hu/kulfold/2026/03/hiaba-a-birosagi-itelet-hogy-nem-szelsojobboldali-a-part-nem-szall-le-a-titkosszolgalat-az-afd-rol",
-          "published": "2026-03-04T15:43:12+00:00",
-          "description": "A német kormány és a baloldal is napirenden tartaná a betiltás kérdését.",
-          "image": "https://cdn.mandiner.hu/2026/03/UepgL0skXsfpIL4BwGTSpo67M_VcAtFevfSct0dXFKQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NmYjYxMWUzYTRlNzQ1MzFiZTFjMTNlOTY5NDY3NGI3.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Kubatov hatósághoz hasonlította az MLSZ-t, de a banki ügyfeleket is szóba hozta",
-          "url": "https://mandiner.hu/sport/2026/03/kubatov-csanyi-mlsz-ferencvaros-hatosag-banki-ugyfel",
-          "published": "2026-03-04T15:40:13+00:00",
-          "description": "Ha Csányi Sándor nem nyitott az egyeztetésekre, az FTC elnöke a drasztikus lépésektől sem riadna vissza.",
-          "image": "https://cdn.mandiner.hu/2026/03/WJ3wg8-GyHx9Hk40KOlnVE5dtciG4uh9gtMvkrM0wa0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNDY0MmU4MjdlNjRiOWE4Mzc5ODNlMjBlZmM5NTlk.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Érkezik a Mandiner Klubest: Rogán Antal és Dér Heni  a győri Olimpiai Sportparkban!",
-          "url": "https://mandiner.hu/belfold/2026/03/erkezik-a-mandiner-klubest-rogan-antal-es-der-heni-a-gyori-olimpiai-sportparkban",
-          "published": "2026-03-04T15:36:31+00:00",
-          "description": "Az érdeklődők megtekinthetik a European Conservative Ukrajnáról szóló dokumentumfilmjét, a Baljós közelséget is.",
-          "image": "https://cdn.mandiner.hu/2026/03/W8s_SfDdiQgepXHzWUZs0byGLlBrEwBQSeY5JU-AqBo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkzN2UyNDRkMzUxYzQ2YzY4ZGZlNmI3ZmJjOWM5OWVk.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Rettegnek az ukránok: Putyin forgatókönyvében szó sincs állóháborúról – ekkor köthet békét Oroszország",
-          "url": "https://mandiner.hu/kulfold/2026/03/rettegnek-az-ukranok-putyin-forgatokonyveben-szo-sincs-allohaborurol-ekkor-kothet-beket-oroszorszag",
-          "published": "2026-03-04T15:36:30+00:00",
-          "description": "A Kreml legalább 2026 őszéig számol a háború folytatásával, az orosz hadvezetés pedig irreális célokat tűz ki a fronton egy friss elemzés szerint.",
-          "image": "https://cdn.mandiner.hu/2026/03/Yc3F_boCopGJwAKeVB5AA5wszgviX0q2kTsSYjsuy3Y/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U5ZDVjNmUyMTM1ZjQ0N2M4NjlkNDU1MTViN2VjZTU3.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Már csak ez hiányzott: kellemetlen meglepetésre számíthatnak a Dunántúlon",
-          "url": "https://mandiner.hu/belfold/2026/03/mar-csak-ez-hianyzott-kellemetlen-meglepetesre-szamithatnak-a-dunantulon",
-          "published": "2026-03-04T15:19:18+00:00",
-          "description": "Még jégdara is eshet.",
-          "image": "https://cdn.mandiner.hu/2026/03/plAmncdp1-cqg281qIjKCmkPVz-hxIOgkzFcfaZ0_vE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY2NDU5N2QzMTNiMTQ4OWJhNTk0YzIzZjY0MDdiYTI0.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "A második világháború óta nem történt ilyen: torpedóval lőttek szét az amerikaiak egy iráni hajót (VIDEÓ)",
-          "url": "https://mandiner.hu/kulfold/2026/03/a-masodik-vilaghaboru-ota-nem-tortent-ilyen-torpedoval-lottek-szet-az-amerikaiak-egy-irani-hajot-video",
-          "published": "2026-03-04T15:11:31+00:00",
-          "description": "Legkevesebb 80 ember meghalt.",
-          "image": "https://cdn.mandiner.hu/2026/03/_8f4Z0m9AeA3FceWHliD_-a7xPXxqKn5EIlCnyKNAT0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q4MzNhY2U0Zjk0YTQ0YmFiMThkY2Y5YjRjZDExNjI2.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Nem lennék azok helyében, akik nagy összegben fogadtak a Tisza Párt győzelmére",
-          "url": "https://mandiner.hu/belfold/2026/03/nem-lennek-azok-helyeben-akik-nagy-osszegben-fogadtak-a-tisza-part-gyozelmere",
-          "published": "2026-03-04T15:09:17+00:00",
-          "description": "A grafikonokat lehet manipulálni, a valóságot nem.",
-          "image": "https://cdn.mandiner.hu/2026/03/Nq74W2IYj74Hjc5R9INq5qTPFWXDN7VY__mVEwbK8cM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIxNmE3MzMwODQxYTRjZmU5MjY1ZTk3NzM1ZTIzZTgx.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Amerika hadügyminisztere kitálalt: Irán megpróbálta megölni Donald Trumpot",
-          "url": "https://mandiner.hu/kulfold/2026/03/amerika-hadugyminisztere-kitalalt-iran-megprobalta-megolni-donald-trumpot",
-          "published": "2026-03-04T14:52:44+00:00",
-          "description": "Az Egyesült Államoknak sikerült kiiktatni az iráni terrorista szerv vezetőjét.",
-          "image": "https://cdn.mandiner.hu/2026/03/mDoBlSd6pGF8EaiMymTHa5jHz5N74KFbqiAmPlxxRIk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E0YmQwZDhjYjNlZjRhY2Q5ZWFkNGY0YzE0YWFiZDUy.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Az angolok szerint Szoboszlai Beckham nyomdokaiba lépett",
-          "url": "https://mandiner.hu/sport/2026/03/szoboszlai-beckham-frizura-vinicius-cipo-schiffermiklos",
-          "published": "2026-03-04T14:47:39+00:00",
-          "description": "És közben egy Vinícius monogramjával ellátott cipőt rendelt magának.",
-          "image": "https://cdn.mandiner.hu/2026/03/uBXvTUhbPpJnBQe41dqGlHBgkvbZWKVv6_OMXm0QAkQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgxOWY1Mzc1ODM1YTRhZDVhZWZmMDk2YmQ3MmUwMGU2.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "A magyar függetlenség nem alku tárgya! – ma is van mit tanulnunk II. Rákóczi Ferenctől",
-          "url": "https://mandiner.hu/kultura/2026/03/a-magyar-fuggetlenseg-nem-alku-targya-ma-is-van-mit-tanulnunk-ii-rakoczi-ferenctol",
-          "published": "2026-03-04T14:37:47+00:00",
-          "description": "350 éve született „a szabadság fejedelme”, az évforduló alkalmából nagyszabású, egész éves programsorozat indul magyarországi és határon túli helyszíneken.",
-          "image": "https://cdn.mandiner.hu/2026/03/rhdfPmVGTWS-MkUv-ofrZPLtBIvcL8nPopk28ThJzMo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBkZDFmM2IzZmI2ZDQyZWZiMjVlZjVlZDM2NjI4MjUz.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Fico döntött: Szlovákia lekapcsolta a villanyt Ukrajnában – leválasztották Zelenszkijéket a kulcsfontosságú villamosenergia-hálózatról",
-          "url": "https://mandiner.hu/kulfold/2026/03/fico-dontott-szlovakia-lekapcsolta-a-villanyt-ukrajnaban-levalasztottak-zelenszkijeket-a-kulcsfontossagu-villamosenergia-halozatrol",
-          "published": "2026-03-04T14:30:41+00:00",
-          "description": "Szlovákia hivatalosan is felfüggeszti az Ukrajnának nyújtott vészhelyzeti villamosenergia szállítását.",
-          "image": "https://cdn.mandiner.hu/2026/03/sDEKImrLbye2s22J2W9CxjoXROyytO8ZKxrTRDfoVoI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk2MGFiN2E1NjFjZjQ2YWRhZmVlMDA1YjVjYzk3NjMy.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Óriási örömhírt jelentett be Szijjártó Péter: végre biztonságban lehetnek a magyarok",
-          "url": "https://mandiner.hu/belfold/2026/03/oriasi-oromhirt-jelentett-be-szijjarto-peter-vegre-biztonsagban-lehetnek-a-magyarok",
-          "published": "2026-03-04T14:22:44+00:00",
-          "description": "Már most úton van hazafelé 83 honfitársunk Ammanból, a következő napokban pedig még több, a Közel-Keleten rekedt magyart hoz haza a kormány.",
-          "image": "https://cdn.mandiner.hu/2026/03/NT00UiGsbz0--zhGx2m4MK-DMzZxKLrFEB3cswqm5_U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E0MWZjZGM2MmIzMTRlNGI5MmNjNzUwNTg4NzU0MDlk.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Ez egyszer már bejött: nagyon leírták a Ferencvárost",
-          "url": "https://mandiner.hu/sport/2026/03/ferencvaros-europa-liga-eselyek",
-          "published": "2026-03-04T14:17:04+00:00",
-          "description": "Szinte semmi esélyt nem adnak.",
-          "image": "https://cdn.mandiner.hu/2026/03/C4kExUZX9f2OwK-DsXdXxzC-VVjB5Be6GlN6vLYf8AE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJlMjQ5MmM4MDBhYTRjMTc5NzcyNjg5ODAyMWQ5NmQ5.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "„El fogják vágni a torkomat” – megérkezett a Sajtóvadászat dokumentumfilm előzetese",
-          "url": "https://mandiner.hu/belfold/2026/03/el-fogjak-vagni-a-torkomat-megerkezett-a-sajtovadaszat-dokumentumfilm-elozetese",
-          "published": "2026-03-04T14:12:33+00:00",
-          "description": "A Mandiner filmje újságírók és riporterek személyes történetein keresztül mutatja be, hogyan változott meg Magyarországon a közbeszéd Magyar Péter és a Tisza hatására.",
-          "image": "https://cdn.mandiner.hu/2026/03/UNUrzPfd3bZYAyGqFFBFeuq6CRNtabelUs0O80OSP-c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JkZGIyMGU1NmQwMTRkNzE5MDViMTYyMDNjYTk1NThh.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Nagy a káosz, elmaradhat a kormányváltás Magyarországon",
-          "url": "https://mandiner.hu/belfold/2026/03/nagy-a-kaosz-elmaradhat-a-kormanyvaltas-magyarorszagon",
-          "published": "2026-03-04T14:07:04+00:00",
-          "description": "Ellenzéki oldalon megjelent a frusztráció: megeshet, hogy a bőszen hirdetett világmegváltás megint csak elmarad. Constantinovits Milán írása.",
-          "image": "https://cdn.mandiner.hu/2026/03/hhwSYKGP9FqMbM9KCvlWVBtBy2Hppnc16Mcpwu54l8U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyN2E3NjU1MzMzNTRkNmI4ZGY0N2U4ZGVmMTUyMzZm.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "A Fidesz ismét megmutatta az egyik legnagyobb erősségét, a Tisza csak számháborúzott – ez kulcsfontosságú lesz a választásokon",
-          "url": "https://mandiner.hu/belfold/2026/03/a-fidesz-ismet-megmutatta-az-egyik-legnagyobb-erosseget-a-tisza-csak-szamhaboruzott-ez-kulcsfontossagu-lesz-a-valasztasokon",
-          "published": "2026-03-04T14:02:51+00:00",
-          "description": "G. Fodor Gábor, a XXI. Század Intézet stratégiai igazgatója hangsúlyozta, hogy „nem a lájkok, és nem a kommentek fogják eldönteni ezt a választást”.",
-          "image": "https://cdn.mandiner.hu/2026/03/h3jlqsj8talworuhU8JYD4utJXlO3DW9eCP4HImXLa8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU4MDY0NzA4YWM3NDRiMDU5ZjNlZmVkMjhiMzUxYzIz.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Orbán Viktor Rónai Egonnál: A kimaradás a következő négy év kulcsszava (Videó)",
-          "url": "https://mandiner.hu/belfold/2026/03/a-masodik-menet-orban-viktor-ujra-ronai-egon-kerdeseire-valaszol-elo",
-          "published": "2026-03-04T13:58:40+00:00",
-          "description": "A magyar kormányfő rámutatott: ha az ukránok az Északi Áramlatot fel merték robbantani, velünk miért ne mernék ezt megtenni?",
-          "image": "https://cdn.mandiner.hu/2026/03/YFb3yHObzgCiJIcg4wdmDW3lfYEPzz9CRc-qiZJ5rYw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NiYjhlMDY1ODg2MzRlNmZiNTdjNGU5ZTAwYWE3ZTk1.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Napok alatt egekbe emelkedtek a háború miatt az energiaárak Nyugat-Európában – Zelenszkij szabotázsakciókon mesterkedik",
-          "url": "https://mandiner.hu/belfold/2026/03/napok-alatt-egekbe-emelkedtek-a-haboru-miatt-az-energiaarak-nyugat-europaban-zelenszkij-szabotazsakciokon-mesterkedik",
-          "published": "2026-03-04T13:58:18+00:00",
-          "description": "Közben Magyar Péter, Kapitány István és a többi nagyon okos tiszás energiaszakértő kussol, lapul, mint dinnye a fűben.",
-          "image": "https://cdn.mandiner.hu/2026/03/bFyM6WrIze94HzjFX4N9tQkJlDwj1cDQzK65ldJGAfA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE2ZTI5MDZkYzc3MzQ2MDNhMDNiMmQ2OWY4YmYwODk4.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "A tehetség nem kiváltság, hanem  feladat – gondolatok az MCC-ről",
-          "url": "https://mandiner.hu/belfold/2026/03/a-tehetseg-nem-kivaltsag-hanem-feladat-gondolatok-az-mcc-rol",
-          "published": "2026-03-04T13:57:06+00:00",
-          "description": "Az MCC évről évre bővülő hálózata egyre több motivált fiatalt gyűjt egybe.",
-          "image": "https://cdn.mandiner.hu/2026/02/ynB50n-su5ucynAHoUrohMJwX4zWwmktjknGjQE7uro/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc1ZWZiZGM3OWIzOTRjNzg4NmU3MmI2ZDYyYjEzNzM2.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Nemzeti petíció: fontos részletekre hívta fel a figyelmet az államtitkár (VIDEÓ)",
-          "url": "https://mandiner.hu/belfold/2026/03/video-41",
-          "published": "2026-03-04T13:40:20+00:00",
-          "description": "Országszerte befejeződik a nemzeti petíció kézbesítése.",
-          "image": "https://cdn.mandiner.hu/2026/03/qP9V6Z-dMHwxNUmqWBvKASwn6xMvIt7LbYtehf_GdrA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwZjUyZWI3Y2I2MzRlMDhiNDBiNWEwMTQyOTRkNmQ1.jpg",
-          "category": null,
-          "author": null
-        }
-      ]
+      "status": "error",
+      "error": "ClientResponseError: 503, message='Service Unavailable', url='https://mandiner.hu/rss'",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "24hu",
       "name": "24.hu",
       "url": "https://24.hu/hirfolyam/",
       "color": "#888888",
-      "status": "ok",
-      "error": null,
-      "article_count": 25,
-      "articles": [
-        {
-          "title": "90 százalékkal csökkent az olajszállító hajók forgalma a Hormuzi-szoroson",
-          "url": "https://24.hu/kulfold/2026/03/04/iran-haboru-kozel-kelet-percrol-percre-elo/#90-szazalekkal-csokkent-az-olajszallito-hajok-forgalma-a-hormuzi-szoroson",
-          "published": "2026-03-04T17:20:00+01:00",
-          "description": "90 százalékkal csökkent a Hormuzi-szoroson áthaladó olajtankerek forgalma az Egyesült Államok és Izrael Irán elleni támadásainak kezdete óta – közölte a Kpler energiapiaci elemzőcég.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2264610436-e1772603619465-320x180.jpg",
-          "category": "Élő",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "Elfogatóparancsot adtak ki a Turbinában drogot áruló tunéziai Salah ellen",
-          "url": "https://24.hu/belfold/2026/03/04/turbina-bezaras-kabitoszer-elfogatoparancs/",
-          "published": "2026-03-04T17:20:00+01:00",
-          "description": "Közleményt adott ki a rendőrség a szórakozóhely bezárásával kapcsolatban. Az akcióról videó is készült.",
-          "image": "https://s.24.hu/app/uploads/2026/03/salah-e1772640536280-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "HVG: a bíróság felfüggesztette a Pride miatt indult büntetőeljárást Karácsonnyal szemben",
-          "url": "https://24.hu/belfold/2026/03/04/birosag-felfuggesztes-karacsony-gergely-pride/",
-          "published": "2026-03-04T17:10:00+01:00",
-          "description": "És az Alkotmánybírósághoz fordult.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-1016260624-e1772640610315-320x180.jpg",
-          "category": "Belföld",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "Megszólalt a rendőrség Galla Miklósról, miután a katasztrófavédelem törte rá az ajtót a humoristára",
-          "url": "https://24.hu/elet-stilus/2026/03/04/galla-miklos-rosszullet-rendorseg/",
-          "published": "2026-03-04T17:08:00+01:00",
-          "description": "Galla Miklós az otthonában lett rosszul szerda délelőtt, mentővel szállították kórházba.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0203182710-e1772640430593-320x180.jpg",
-          "category": "Élet-Stílus",
-          "author": "Grósz Petra"
-        },
-        {
-          "title": "Kisebb csoportokra osztották az amerikaiakat, mert úgy biztonságosabb, mondta az egyik első áldozat férje",
-          "url": "https://24.hu/kulfold/2026/03/04/iran-haboru-kozel-kelet-percrol-percre-elo/#kisebb-csoportokra-osztottak-az-amerikaiakat-mert-ugy-biztonsagosabb-mondta-az-egyik-elso-aldozat-ferje",
-          "published": "2026-03-04T17:03:00+01:00",
-          "description": "Csak napok választották el a hazatéréstől azt amerikai katonanőt, aki az irániak Kuvait elleni dróntámadása során halt meg.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2264610436-e1772603619465-320x180.jpg",
-          "category": "Élő",
-          "author": "Spirk József"
-        },
-        {
-          "title": "Izrael eddig 5000 bombát dobott Iránra",
-          "url": "https://24.hu/kulfold/2026/03/04/iran-haboru-kozel-kelet-percrol-percre-elo/#izrael-eddig-5000-bombat-dobott-iranra",
-          "published": "2026-03-04T16:52:00+01:00",
-          "description": "Az Izraeli Légierő közlése szerint a szombaton indított hadművelet kezdete óta ötezer bombát dobtak Irán területére.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2264610436-e1772603619465-320x180.jpg",
-          "category": "Élő",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "„Éjszaka figyelmeztető üzeneteket kapunk, hogy bújjunk el” – a szlovákok legendája az Emírségekben rekedt",
-          "url": "https://24.hu/sport/2026/03/04/irani-haboru-kajak-kenu-michal-martikan/",
-          "published": "2026-03-04T16:48:00+01:00",
-          "description": "A közel-keleti válság miatt családja nagyon félti a kétszeres olimpiai bajnok Michal Martikánt.",
-          "image": "https://s.24.hu/app/uploads/2026/03/michal_martikan-320x180.jpg",
-          "category": "Sport",
-          "author": "24.hu"
-        },
-        {
-          "title": "Orbán Viktor Rónai Egonnak: Nem vagyok egy bokacsattogtatós, patetikus alak, de érzem a dolog súlyát",
-          "url": "https://24.hu/belfold/2026/03/04/ronai-egon-orban-viktor-atv-interju-miniszterelnok/",
-          "published": "2026-03-04T16:37:00+01:00",
-          "description": "A miniszterelnök szerint elképzelhető, hogy az utcákon is feltűnnek katonák.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-10494267861-320x180.jpg",
-          "category": "Belföld",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "Vezetés közben rosszul lett és meghalt egy ötven körüli nő Jászberényben",
-          "url": "https://24.hu/belfold/2026/03/04/jaszbereny-tragedua-rosszul-lett-a-sofor/",
-          "published": "2026-03-04T16:33:00+01:00",
-          "description": "A rendőrség vizsgálja a tragédia körülményeit.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0803252728-2026-02-09t104351-290-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "Sebestyén Balázs szerint Szoboszlai Dominik nem áll szóba vele – reagált a focista menedzsere",
-          "url": "https://24.hu/elet-stilus/2026/03/04/sebestyen-balazs-szoboszlai-dominik-konfliktus-menedzser-reakcio/",
-          "published": "2026-03-04T16:28:00+01:00",
-          "description": "Vajon tényleg nem kedveli a rádióst?",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-1053313417-e1772638053720-320x180.jpg",
-          "category": "Élet-Stílus",
-          "author": "Grósz Petra"
-        },
-        {
-          "title": "Családja megölésével fenyegették, kikapott Indian Wellsben az olasz teniszező",
-          "url": "https://24.hu/sport/2026/03/04/tenisz-lucrezia-stefanini-halalos-fenyegetes-indian-wells/",
-          "published": "2026-03-04T16:19:00+01:00",
-          "description": "Lucrezia Stefanini jelezte a WTA-nak, de a pályán nem tudta magát függetleníteni a történtektől.",
-          "image": "https://s.24.hu/app/uploads/2026/03/lucrezia_stefanini-320x180.jpg",
-          "category": "Sport",
-          "author": "24.hu"
-        },
-        {
-          "title": "Vasárnapig biztos nem lesz Wizz Air-járat Izraelbe és az Öböl-országokba",
-          "url": "https://24.hu/kulfold/2026/03/04/iran-haboru-kozel-kelet-percrol-percre-elo/#vasarnapig-biztos-nem-lesz-wizz-air-jarat-izraelbe-es-az-obol-orszagokba",
-          "published": "2026-03-04T15:59:00+01:00",
-          "description": "Jövő vasárnapig biztosan nem indít járatot a Wizz Air Izraelbe, Dubajba, Abu-Dzabiba és Ammánba sem - közölte a Wizz Air.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0853537121-e1772636890327-320x180.jpg",
-          "category": "Élő",
-          "author": "Spirk József"
-        },
-        {
-          "title": "„Ha azt mondanám, hogy meglepődtem, akkor hazudnék” – elképesztő bravúrt ért el az olimpiai bronzérmes magyar sportoló",
-          "url": "https://24.hu/sport/2026/03/04/sportloveszet-eb-major-veronika-ot-aranyerem/",
-          "published": "2026-03-04T15:50:00+01:00",
-          "description": "Major Veronika megállíthatatlan volt a légfegyveres Európa-bajnokságon, öt aranyat nyert Jerevánban.",
-          "image": "https://s.24.hu/app/uploads/2026/03/major_veronika-320x180.jpg",
-          "category": "Sport",
-          "author": "24.hu"
-        },
-        {
-          "title": "A rendőrség ideiglenesen bezáratta a Turbina Kulturális Központot is",
-          "url": "https://24.hu/kultura/2026/03/04/rendorseg-turbina-kulturalis-kozpont-bezaratas-drog/",
-          "published": "2026-03-04T15:47:00+01:00",
-          "description": "Újabb szórakozóhely ajtajára került lakat a drogellenes harc nevében.",
-          "image": "https://s.24.hu/app/uploads/2026/03/476603014_637068925496091_6707970314232556339_n-320x180.jpg",
-          "category": "Kultúra",
-          "author": "24.hu"
-        },
-        {
-          "title": "Mindent vitt Palvin Barbara ruhája a Louvre jótékonysági gáláján",
-          "url": "https://24.hu/elet-stilus/2026/03/04/palvin-barbara-estelyi-louvre-jotekonysagi-gala/",
-          "published": "2026-03-04T15:34:00+01:00",
-          "description": "A modell fehér hattyúként tündökölt a férje mellett.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2264628295-e1772634518593-320x180.jpg",
-          "category": "Élet-Stílus",
-          "author": "Grósz Petra"
-        },
-        {
-          "title": "Összeütközött egy kisgéphajó és egy négypárevezős a Dunán, egy férfit keresnek a vízi rendőrök",
-          "url": "https://24.hu/belfold/2026/03/04/duna-halaszi-kisgephajo-baleset/",
-          "published": "2026-03-04T15:28:00+01:00",
-          "description": "A Halászinál történt balesetben senki sem sérült meg.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0803252728-2026-02-02t115729-371-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "Hiába vádolják korrupcióval, Simonka György ismét kormányzati támogatásokhoz jutott, a választáson mégis keresztbe tenne a Fidesznek",
-          "url": "https://24.hu/belfold/2026/03/04/simonka-gyorgy-korrupcio-fidesz-valasztas-2026/",
-          "published": "2026-03-04T15:04:00+01:00",
-          "description": "A bűnszervezet irányításával vádolt volt fideszes képviselő egy olyan alapítvánnyal nyert közpénzeket, amelynek sem honlapja, sem közösségi oldala nincs.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0616057953-masolat-320x180.jpg",
-          "category": "Belföld",
-          "author": "Horváth Csaba László"
-        },
-        {
-          "title": "NATO: Elítéljük, hogy Irán célba vette Törökországot",
-          "url": "https://24.hu/kulfold/2026/03/04/iran-haboru-kozel-kelet-percrol-percre-elo/#nato-eliteljuk-hogy-iran-celba-vette-torokorszagot",
-          "published": "2026-03-04T14:50:00+01:00",
-          "description": "A NATO elítélte, hogy Iránt, miután jelentések szerint egy Iránból indított, a török légtér felé tartó rakétát semmisítettek meg a NATO légvédelmi rendszerei.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2264610436-e1772603619465-320x180.jpg",
-          "category": "Élő",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "Újra kell tárgyalni az esztergomi robbantásban elhunyt TEK-es kártérítési ügyét",
-          "url": "https://24.hu/belfold/2026/03/04/itelotabla-tek-megsemmisitett-itelet/",
-          "published": "2026-03-04T14:47:00+01:00",
-          "description": "Az ügyvéd szerint a Fidesz-frakcióból telefonáltak, ezért rendelték el a tragédiába torkolló rohamot.",
-          "image": "https://s.24.hu/app/uploads/2026/03/d_kos20230920102-e1695243683374-1140x642-1-320x180.jpg",
-          "category": "Belföld",
-          "author": "Spirk József"
-        },
-        {
-          "title": "Dobrev Klára, Molnár Csaba és Kálmán Olga vezeti a DK országos listáját",
-          "url": "https://24.hu/belfold/2026/03/04/dk-orszagos-lista-dobrev-klara-molnar-csaba-kalman-olga/",
-          "published": "2026-03-04T14:40:00+01:00",
-          "description": "A párt tegnap gyűjtötte össze az ajánlásokat.",
-          "image": "https://s.24.hu/app/uploads/2026/03/644233693_1452298216252272_7507757523403177552_n-1140x641-1-320x180.jpg",
-          "category": "Belföld",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "David és Victoria Beckham a család viszály közepette is nyilvános posztban köszöntötték fel a fiukat, Brooklynt",
-          "url": "https://24.hu/szorakozas/2026/03/04/david-victoria-beckham-fiuk-brooklyn-koszontes/",
-          "published": "2026-03-04T14:36:00+01:00",
-          "description": "Békülnének a szülők?",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-1172074644-e1772631408538-320x180.jpg",
-          "category": "Szórakozás",
-          "author": "Grósz Petra"
-        },
-        {
-          "title": "Március lehet a legjobb hónap arra, hogy sarki fényt lássunk",
-          "url": "https://24.hu/tech/2026/03/04/marcius-sarki-feny-napejegyenloseg-naptevekenyseg/",
-          "published": "2026-03-04T14:22:00+01:00",
-          "description": "Az is lehet, hogy egy évtizedig nem láthatunk olyan aktivitást, mint 2026 márciusában.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2261223370-e1772629811661-320x180.jpg",
-          "category": "Tech",
-          "author": "Lányi Örs"
-        },
-        {
-          "title": "Békefi Viktória megmutatta készülőben lévő házukat",
-          "url": "https://24.hu/szorakozas/2026/03/04/bekefi-viktoria-feng-ya-ou-keszuloben-levo-haz/",
-          "published": "2026-03-04T14:13:00+01:00",
-          "description": "A tervek szerint április-május környékén költözik a család.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-0765037383-e1772629575700-320x180.jpg",
-          "category": "Szórakozás",
-          "author": "Grósz Petra"
-        },
-        {
-          "title": "Szijjártó: Két ok miatt jöttem ma Moszkvába",
-          "url": "https://24.hu/kulfold/2026/03/04/szijjarto-peter-moszkva-putyin-energetika/",
-          "published": "2026-03-04T14:12:00+01:00",
-          "description": "A külügyminiszter utalt rá, hogy orosz hadifogságba esett magyarokkal térhet haza.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-06924820018-e1772629234981-320x180.jpg",
-          "category": "Nagyvilág",
-          "author": "Papp Atilla"
-        },
-        {
-          "title": "Orbán: Ez egy csata Ukrajna és Magyarország között",
-          "url": "https://24.hu/belfold/2026/03/04/orban-viktor-ukrajna-csata/",
-          "published": "2026-03-04T14:08:00+01:00",
-          "description": "A miniszterelnök kijelentette, „Magyarország nem akar öngyilkosságot elkövetni”, és azt is, hogy a valóságot nem lehet eltitkolni.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-1065220154-e1772629699473-320x180.jpg",
-          "category": "Belföld",
-          "author": "Rugli Tamás"
-        }
-      ]
+      "status": "error",
+      "error": "ClientResponseError: 405, message='Not Allowed', url='https://24.hu/hirfolyam/'",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "neokohn",
@@ -1540,7 +1088,7 @@
         {
           "title": "Fiala János: Kevés beszédnek is lehet sok az alja",
           "url": "https://kontroll.hu/cikk/velemeny/2026/03/04/fiala-janos-keves-beszednek-is-lehet-sok-az-alja",
-          "published": "2026-03-04T17:18:29.106265+01:00",
+          "published": "2026-03-04T17:18:41.637229+01:00",
           "description": null,
           "image": null,
           "category": "Velemeny",
