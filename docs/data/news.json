@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-06T20:30:47.045719+00:00",
+  "scraped_at": "2026-03-06T20:35:28.567578+00:00",
   "portals": [
     {
       "id": "telex",
@@ -11,7 +11,25 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Simonka György: Csak szetyamutyák vannak, akik a pénzért indulnak el",
+          "title": "Arról kérdezték Orbánt, hogy érhet sok állami gondozottat abúzus, de szerinte minden gyereket megvédenek",
+          "url": "https://telex.hu/belfold/2026/03/06/orban-viktor-szolo-utca-rtl-kerdes",
+          "published": "2026-03-06T20:33:51+00:00",
+          "description": "Először csak kikerülte az RTL kérdéseit, majd teljesen ignorálta a csatorna riporterét.",
+          "image": "https://assets.telex.hu/images/20260306/1772829207-temp-ot45cvrsq3jq3NnmBpp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Detained CIT staff back in Ukraine, where proceedings were initiated for hostage-taking",
+          "url": "https://telex.hu/english/2026/03/06/detained-cit-staff-back-in-ukraine-where-proceedings-initiated-for-hostage-taking",
+          "published": "2026-03-06T20:30:39+00:00",
+          "description": "Their lawyer said that they were not charged with anything, and the seized money has not yet been returned to Ukraine.",
+          "image": "https://assets.telex.hu/images/20260306/1772828699-temp-dhvnc8h3d9unacHCJGF_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Simonka György: Csak szetye-motyák vannak, akik a pénzért indulnak el",
           "url": "https://telex.hu/belfold/2026/03/06/simonka-gyorgy-fuggetlen-jelolt-szetyamutyak-lazar-janos-bekes-4-partizan",
           "published": "2026-03-06T20:23:40+00:00",
           "description": "Az 1,4 milliárdos költségvetési csalással vádolt egykori fideszes politikus szerint őt nem a pénz motiválja abban, hogy független képviselő legyen, csak Dél-Békés érdekli.",
@@ -216,24 +234,6 @@
           "image": "https://assets.telex.hu/images/20260306/1772808100-temp-gvslj5ecf24m9eLnEed_cimlap-normal.jpg",
           "category": "Gazdaság",
           "author": "Kovács Pál"
-        },
-        {
-          "title": "EC says Zelensky's veiled threat to Orbán unacceptable",
-          "url": "https://telex.hu/english/2026/03/06/ec-says-zelensky-s-veiled-threat-to-orban-unacceptable",
-          "published": "2026-03-06T14:47:36+00:00",
-          "description": "The European Commission is \"in active discussions with all sides\".",
-          "image": "https://assets.telex.hu/images/20260306/1772808292-temp-5v4q296vbj949PicGpB_cimlap-normal.jpg",
-          "category": "English",
-          "author": "Kovács Pál"
-        },
-        {
-          "title": "25 nap és 5 műtét után Lindsey Vonn talpra állt, és edzett egy kicsit",
-          "url": "https://telex.hu/sport/2026/03/06/lindsey-vonn-labra-allas-edzes",
-          "published": "2026-03-06T14:42:41+00:00",
-          "description": "A súlyos balesete után felmerült az amputáció is, ettől menekült meg az olimpiai bajnok síelő.",
-          "image": "https://assets.telex.hu/images/20260306/1772807093-temp-23k7elb5nvqe4DpdKdB_cimlap-normal.jpg",
-          "category": "Sport",
-          "author": "Ághassi Attila"
         }
       ]
     },
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "A szlovák rendőrség nem tudott mit kezdeni az önmagukat feljelentő felvidéki magyarokkal",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/03/06/a-szlovak-rendorseg-nem-tudott-mit-kezdeni-az-oenmagukat-feljelento-felvideki-magyarokkal",
+          "published": "2026-03-06T21:04:28.565535+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kulfold",
+          "author": null
+        },
+        {
+          "title": "Dráguló üzemanyag, szűkülő kínálat – mennyiségi korlátozások jelentek meg egyes benzinkutakon",
+          "url": "https://kontroll.hu/cikk/gazdasag/2026/03/06/dragulo-uezemanyag-szukuelo-kinalat-mennyisegi-korlatozasok-jelentek-meg-egyes-benzinkutakon",
+          "published": "2026-03-06T18:40:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Gazdasag",
+          "author": null
+        },
+        {
+          "title": "Az EU is bírálja Zelenszkijt az Orbán ellen irányuló burkolt fenyegetése miatt",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/03/06/az-eu-is-biralja-zelenszkijt-az-orban-ellen-iranyulo-burkolt-fenyegetese-miatt",
+          "published": "2026-03-06T18:04:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kulfold",
+          "author": null
+        },
+        {
+          "title": "Magyar futballista emlékére ad támogatást a kormány egy Los Angeles-i holokauszt-kiállításhoz",
+          "url": "https://kontroll.hu/cikk/belfold/2026/03/06/magyar-futballista-emlekere-ad-tamogatast-a-kormany-egy-los-angeles-i-holokauszt-kiallitashoz",
+          "published": "2026-03-06T18:03:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A Tisza Párt leadta országos listáját",
+          "url": "https://kontroll.hu/cikk/belfold/2026/03/06/a-tisza-part-leadta-orszagos-listajat",
+          "published": "2026-03-06T17:47:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A kormány döntésének épp azok a kisboltok isszák meg a levét, amiknek kedvezni akartak",
+          "url": "https://kontroll.hu/cikk/gazdasag/2026/03/06/a-kormany-doentesenek-epp-azok-a-kisboltok-isszak-meg-a-levet-amiknek-kedvezni-akartak",
+          "published": "2026-03-06T17:42:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Gazdasag",
+          "author": null
+        },
+        {
+          "title": "Csoki politikus lett, a 49. helyről is bejutna a Parlamentbe",
+          "url": "https://kontroll.hu/cikk/belfold/2026/03/06/csoki-politikus-lett-a-49-helyrol-is-bejutna-a-parlamentbe",
+          "published": "2026-03-06T17:18:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Nem találtak kábítószert Egressy Mátyás szervezetében",
+          "url": "https://kontroll.hu/cikk/belfold/2026/03/06/nem-talaltak-kabitoszert-egressy-matyas-szervezeteben",
+          "published": "2026-03-06T16:55:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
@@ -1773,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Ünnepelnek a baloldali kommentszekciókban Zelenszkij halálos fenyegetése után",
+          "url": "https://www.origo.hu/belpol/2026/03/zelenszkij-halalos-fenyegetese-utan",
+          "published": "2026-03-06T21:31:00+01:00",
+          "description": "A baloldali lapok olvasói között többen egyetértenek Zelenszkij fenyegetőzésével.",
+          "image": "https://cdn.origo.hu/2026/03/5phCzk0n2TN73aBwfEZcIU15ktFxIOOjUZakp38l4P8/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNmNzAyOGEyOTdkNTRlMzVhM2JkZTJhNDMyZTAzZDQ0.webp",
+          "category": "Hírtv",
+          "author": null
+        },
         {
           "title": "Most kapaszkodjon meg! Kiderült, milyen idő lesz hétvégén",
           "url": "https://www.origo.hu/itthon/2026/03/idojaras-elorejelzes-hetvege-szombat",
@@ -1857,10 +1939,10 @@
         {
           "title": "Tiszához köthető ügyvédi iroda védi a pénzmosás gyanúja miatt lekapcsolt ukránokat",
           "url": "https://www.origo.hu/belpol/2026/03/ugyvedi-iroda-vedi-a-penzmosas",
-          "published": "2026-03-06T20:27:00+01:00",
-          "description": "Csak véletlen, hogy az ukrán pénzszállítókat védő ügyvédi irodában dolgozik a tiszás politikus Laczó Adrienn?",
-          "image": "https://cdn.origo.hu/2026/03/UbvnI2bunc6iWNhHfdvRtjb-9Z9Xc8JRAqKHQqXFt70/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQzYjhjMWUxYWRhOTQ5MTViMjdjNTZhYzJlNWE0ZTFh.webp",
-          "category": "ukrán",
+          "published": "2026-03-06T19:27:01+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1987,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Lajkó Fanni: Minket nem zsarolhatnak",
-          "url": "https://www.origo.hu/belpol/2026/03/hatalmas-tomeg-vett-reszt-az-ukran-fenyegetes-elleni-budapesti-demonstracion",
-          "published": "2026-03-06T18:09:24+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
