@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-03-11T08:20:51.651423+00:00",
+  "scraped_at": "2026-03-11T08:25:26.371276+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Kobe Bryantet is felülmúlta a Miami Heat centere, 83 pontot szerzett egy meccsen",
+          "url": "https://telex.hu/sport/2026/03/11/bam-adebayo-miami-heat-center-83-pont-egy-meccsen-washington-wizards-nba-wilt-chamberlain-rekord",
+          "published": "2026-03-11T07:52:57+00:00",
+          "description": "Bam Adebayo megközelítette Wilt Chamberlain 100 pontos rekordját.",
+          "image": "https://assets.telex.hu/images/20260311/1773215268-temp-gi1l402d62dl0MogKMH_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "„Klára nem kell segíteni” – A Kutyapárt elhatárolódik a DK szolidaritásától",
+          "url": "https://telex.hu/zacc/2026/03/11/klara-nem-kell-segiteni-a-kutyapart-elhatarolodik-a-dk-szolidaritasatol",
+          "published": "2026-03-11T07:11:23+00:00",
+          "description": "Dobrev Klára kedden megvédte a kétfarkúakat, félve attól, hogy elveszik a párttól az indulás jogát, de nem kell nekik az együttérzése.",
+          "image": "https://assets.telex.hu/images/20260311/1773212953-temp-vg8ml61t91fbcHIMGEk_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "„Én nem akarok itt meghalni” – egy fájdalmas este a Szent Imre kórház sürgősségi osztályán",
+          "url": "https://telex.hu/direkt36/2026/03/11/en-nem-akarok-itt-meghalni-egy-fajdalmas-este-a-szent-imre-korhaz-surgossegi-osztalyan",
+          "published": "2026-03-11T07:06:49+00:00",
+          "description": "Egy idős, de életerős nőt elviselhetetlen fájdalommal, súlyos állapotban vitt be a mentő a Szent Imre kórházba. Ez az ország egyik legjobban felszerelt egészségügyi intézménye, de az asszony közönnyel és megaláztatással szembesült. A Direkt36 elmeséli Piroska kritikus óráinak történetét.",
+          "image": "https://assets.telex.hu/images/20260310/1773169241-temp-m0r6ktec958u4KcPDcn_cimlap-normal.jpg",
+          "category": "Direkt36",
+          "author": "Marton Kamilla"
+        },
+        {
+          "title": "Ukrajna semmisnek tekinti a szerinte a pénze elrablását legalizáló magyar törvényeket",
+          "url": "https://telex.hu/belfold/2026/03/11/ukrajna-semmisnek-tekinti-a-penze-elrablasat-legalizalo-torvenyeket",
+          "published": "2026-03-11T07:04:27+00:00",
+          "description": "„A magyar parlament bizonyosan tapsot aratott – Moszkvában” – írta Ukrajna Magyarországi Nagykövetsége.",
+          "image": "https://assets.telex.hu/images/20260310/1773131232-temp-ueep6vfh672oaBBJGlp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Lassan két hete tombol a háború, Irán mégis több olajat exportál, mint előtte",
+          "url": "https://telex.hu/gazdasag/2026/03/11/iran-tanker-kinai-hajok-hormuzi-szoros-export",
+          "published": "2026-03-11T06:45:14+00:00",
+          "description": "Kína nem szenved akkora károkat, mint mindenki más a Hormuzi-szoros lezárásával.",
+          "image": "https://assets.telex.hu/images/20260311/1773211486-temp-s0r9ns7uj9vg7OADIoK_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Legalább hat ember meghalt, amikor felgyújtottak egy távolsági buszt Svájcban",
+          "url": "https://telex.hu/kulfold/2026/03/11/legalabb-hat-ember-meghalt-amikor-felgyujtottak-egy-tavolsagi-buszt-svajcban",
+          "published": "2026-03-11T06:43:05+00:00",
+          "description": "Szemtanúk elmondása szerint egy férfi benzint öntött a testére, majd felgyújtotta magát.",
+          "image": "https://assets.telex.hu/images/20260311/1773211252-temp-u70sdsg940vfdFKFGkb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "21 Kutatóközpont: Erősödik a Fidesz, de még mindig 53-39-re vezet a Tisza a biztos szavazó pártválasztók között",
+          "url": "https://telex.hu/belfold/2026/03/11/21-kutatokozpont-partprferencia-tisza-fidesz",
+          "published": "2026-03-11T06:15:39+00:00",
+          "description": "A becslés szerint a Tisza a 199 parlamenti mandátumból 115-öt szerezne meg egy most vasárnapi választáson.",
+          "image": "https://assets.telex.hu/images/20260311/1773208490-temp-7kpp3m0pd98ochalfMI_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Új támadást indított Izrael Irán ellen, a Hormuzi-szorosban megsérült egy konténerhajó",
+          "url": "https://telex.hu/kulfold/2026/03/11/izrael-usa-iran-haboru-tizenkettedik-nap",
+          "published": "2026-03-11T05:33:15+00:00",
+          "description": "A CNN kedden arról írt, hogy Irán elkezdte elaknásítani a Hormuzi-szorost. Donald Trump válaszul azzal fenyegetett, hogy soha nem látott mértékű katonai következményei lesznek a lépésnek, ha igazak a hírek. Közvetítésünk a közel-keleti háborúról.",
+          "image": "https://assets.telex.hu/images/20260311/1773206574-temp-fbdaufi7onqp2AnoBMb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Telex"
+        },
+        {
+          "title": "Napsütéssel jön a tavasz, mi kell még?",
+          "url": "https://telex.hu/belfold/2026/03/11/idojaras-napsutes-tavasz",
+          "published": "2026-03-11T04:57:57+00:00",
+          "description": "Akár 20 fok körüli hőmérséklet is várható a következő pár napban.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Spórolásból építették a betonfalat, amelybe 179 utas halálát okozva belecsapódott a dél-koreai gép",
+          "url": "https://telex.hu/kulfold/2026/03/11/sporolasbol-epitettek-a-betonfalat-amelybe-179-utas-halalat-okozva-belecsapodott-a-del-koreai-gep",
+          "published": "2026-03-11T04:33:35+00:00",
+          "description": "Ha törékeny anyagból lett volna a navigációs antenna rendszerét tartó szerkezet, valamennyi utas túlélte volna a balesetet.",
+          "image": "https://assets.telex.hu/images/20241230/1735572178-temp-aFoFIi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Arte: Az ICC elnöke szerint nincsenek elég erős szavak arra, hogy leírja, milyen támadások érik a bírókat",
+          "url": "https://telex.hu/kulfold/2026/03/11/arte-explainer-nemzetkozi-buntetobirosag-haga-icc",
+          "published": "2026-03-11T04:03:29+00:00",
+          "description": "A Putyin és Netanjahu ellen kiadott nemzetközi elfogatóparancsok óta példátlan nyomás nehezedik a Nemzetközi Büntetőbíróságra.",
+          "image": "https://assets.telex.hu/images/20260306/1772803271-temp-augaes7918bk0oGIKbn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "Ennél egy jót, de nincs kedved órákat tölteni a konyhában? Ásd el a babot, és rakj tüzet a tetején!",
+          "url": "https://telex.hu/eszkombajn/2026/03/11/egyesult-allamok-maine-oslakos-bab-godor",
+          "published": "2026-03-11T04:02:55+00:00",
+          "description": "Amerikai őslakosok már évszázadokkal ezelőtt gödrökben főzték meg a babos ételeiket, a módszert a telepesek és a favágók is lelkesen átvették.",
+          "image": "https://assets.telex.hu/images/20260310/1773154199-temp-bjb479te6i2icpcCHMC_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Orbán Viktor nyilvános országjárása annak a beismerése, hogy nem áll olyan jól a Fidesz",
+          "url": "https://telex.hu/belfold/2026/03/11/orban-viktor-valasztasi-kampany-hajra-orszagjaras-nyilvanos",
+          "published": "2026-03-11T04:02:02+00:00",
+          "description": "Az évek óta titokban, kizárólag zárt körben kampányoló miniszterelnök a választás előtt nyilvános fórumokat hirdetett meg. Többségében nehezen nyerhető választókerületekbe megy, ahol nem elég a meglévő tábor mozgósítása. Úgy tűnik, Orbán nyitna az új szavazók felé, de van ebben kockázat: fotók le...",
+          "image": "https://assets.telex.hu/images/20260310/1773171527-temp-8cd480qd8ual9APFliM_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Nagyobb a baj a budapesti levegővel, mint ami a hivatalos adatokból látszik",
+          "url": "https://telex.hu/g7/adat/2026/03/11/legszennyezes-budapest-belvaros-meres-levego-munkacsoport-nitrogen-dioxid-hungaromet",
+          "published": "2026-03-11T03:50:02+00:00",
+          "description": "A HungaroMet adatai alapján valószínű, a Levegő Munkacsoport által koordinált mérések alapján pedig szinte biztos, hogy a belváros egy részén meghaladja az éves határértéket a nitrogén-dioxid-koncentráció.",
+          "image": "https://assets.telex.hu/images/20260310/1773152307-temp-kqdicpi8j4hj5mgklPG_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Tóth Csaba"
+        },
+        {
+          "title": "2,7-es erősségű földrengés volt Mosonmagyaróvár közelében",
+          "url": "https://telex.hu/belfold/2026/03/10/foldrenges-mosonmagyarovar-kozeleben-szlovak-hatar",
+          "published": "2026-03-10T22:00:41+00:00",
+          "description": "A katasztrófavédelem szerint egyelőre nem kaptak bejelentést károkról.",
+          "image": "https://assets.telex.hu/images/20260221/1771680240-temp-07gh64i06i5jfJNCFbF_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Hat góllal tartott erődemonstrációt a Bayern a BL-ben, a Barcelona a 96. percben egyenlített",
+          "url": "https://telex.hu/sport/2026/03/10/bajnokok-ligaja-szerda-jateknap-liverpool-galata-bayern-barcelona",
+          "published": "2026-03-10T22:00:33+00:00",
+          "description": "A Newcastle nem tudta megtartani az előnyét a katalánokkal szemben. Az Atlético a 22. percben már 4-0-ra vezetett a Tottenham ellen, magabiztosan nyert.",
+          "image": "https://assets.telex.hu/images/20260310/1773179383-temp-5tek5ip4l77d9DMcJbG_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "A vád szerint megölte a menyasszonyát, majd kikérdezte a ChatGPT-t, hogyan tudná megúszni",
+          "url": "https://telex.hu/kulfold/2026/03/10/a-vad-szerint-megolte-a-menyasszonyat-majd-kikerdezte-a-chatgpt-t-hogyan-tudna-meguszni",
+          "published": "2026-03-10T21:52:12+00:00",
+          "description": "Az amerikai focista Darron Lee két napon keresztül kérdezgette az appot, többek között arról, hogy az állítólagos barátja mit mondjon a rendőröknek.",
+          "image": "https://assets.telex.hu/images/20260310/1773179467-temp-vvk6m45o487jdgCGgld_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Klág Dávid"
+        },
+        {
+          "title": "Az amerikai hadsereg nem számított rá, hogy ekkora problémát jelentenek az iráni drónok",
+          "url": "https://telex.hu/kulfold/2026/03/10/iran-haboru-dronok-ukrajna-egyesult-allamok-izrael-vedekezes",
+          "published": "2026-03-10T20:56:51+00:00",
+          "description": "Hat amerikai katona is iráni dróntámadásban halt meg Kuvaitban, drága radarrendszereket is ilyen olcsó fegyverekkel rongáltak meg. Az amerikai hadseregnek több éve volt arra, hogy ellesse Ukrajnától, hogyan érdemes védekezni a drónok ellen, de nem éltek a lehetőséggel. Zelenszkij szerint most 11 ...",
+          "image": "https://assets.telex.hu/images/20260310/1773166108-temp-ipv95s9e2e631aanlNi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Aki védett áron tankol, annak felírják a rendszámát vagy a forgalmiját, és küldik tovább az adatokat a NAV-nak",
+          "url": "https://telex.hu/gazdasag/2026/03/10/arsapka-vedett-ar-benzin-automata-kut-1",
+          "published": "2026-03-10T20:20:26+00:00",
+          "description": "A Magyar Közlönyben jelentek meg részletszabályok a benzinárstophoz.",
+          "image": "https://assets.telex.hu/images/20260310/1773173991-temp-rd2ddudtsl2k4MLlEjp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Lopott autó sofőrjét szondáztatták Józsefvárosban, 46 perces autós üldözés és 4 millió forintos bírság lett belőle",
+          "url": "https://telex.hu/belfold/2026/03/10/szondaztatas-46-perc-autos-uldozes-rendorseg-lopas-4-millios-birsag",
+          "published": "2026-03-10T20:02:48+00:00",
+          "description": "Az üldözött autó 46-szor ment át a piroson, a rendőrségi hajszának Rákospalotán lett vége.",
+          "image": "https://assets.telex.hu/images/20260310/1773170918-temp-erma2fu1hsi2eiIlJcc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Harry Styles diszkójában jó a buli, mégsem érzem otthon magam",
+          "url": "https://telex.hu/after/2026/03/10/harry-styles-lemezkritika-portre-kiss-all-the-time-disco-occasionally",
+          "published": "2026-03-10T20:02:38+00:00",
+          "description": "Harry Styles sírós berlini klubélményekből és mély önvizsgálatból rakta össze új albumát, ami végül inkább ügyes imitáció lett nagy popzenei áttörés helyett.",
+          "image": "https://assets.telex.hu/images/20260310/1773159467-temp-6tsii7ulut5vbMmkjck_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Megvan, ki építheti a budai fonódó második ütemét, nemsokára indulhat a kivitelezés",
+          "url": "https://telex.hu/gazdasag/2026/03/10/budai-fonodo-villamos-masodik-utem-kivitelezes",
+          "published": "2026-03-10T20:01:48+00:00",
+          "description": "A Szent Gellért tértől építenek új villamosvonalat.",
+          "image": "https://assets.telex.hu/images/20220125/1643120188-temp-mAfMpH_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Horvátországnak 236 millió dollárt kell fizetnie a Molnak",
+          "url": "https://telex.hu/gazdasag/2026/03/10/karterites-magyarorszag-horvatorszag-ina-mol",
+          "published": "2026-03-10T19:44:09+00:00",
+          "description": "Ha eddig rossz volt a magyar-horvát energiapiaci viszony, akkor ettől a 80 milliárd forinttól most aligha javul a helyzet.",
+          "image": "https://assets.telex.hu/images/20260310/1773171839-temp-9takp3nm6ke19ghJghl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Hadházyék odavonultak az orosz nagykövetséghez, de kordonokkal zárták le a Bajza utcát",
+          "url": "https://telex.hu/belfold/2026/03/10/hadhazy-tuntetes-orosz-nagykovetseg",
+          "published": "2026-03-10T19:10:42+00:00",
+          "description": "Volt némi fennforgás, mert a tüntetést állítólag a Navalnij-emlékműhöz jelentették be – mondta Hadházy.",
+          "image": "https://assets.telex.hu/images/20260310/1773167363-temp-15nfb45k75et9mOlLKo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Nem oldódott meg a nyugdíjvita, csütörtökön és pénteken is sztrájkolnak a Lufthansa pilótái",
+          "url": "https://telex.hu/gazdasag/2026/03/10/lufthansa-ketnapos-sztrajk-bervita",
+          "published": "2026-03-10T19:06:14+00:00",
+          "description": "Legutóbb februárban sztrájkoltak a pilóták, akkor 800 járatot töröltek, ami nagyjából 100 ezer utast érintett.",
+          "image": "https://assets.telex.hu/images/20260310/1773167815-temp-9kmi7tu03q2t3GENODf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pupli Anna Sára"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Gáspár Bea váratlan vallomása: „Ha 25 évvel fiatalabb lennék, férjhez mennék Peter Srámekhez”",
+          "url": "https://index.hu/mindekozben/poszt/2026/03/11/gaspar-bea-varatlan-vallomasa-ha-25-evvel-fiatalabb-lennek-ferjhez-mennek-peter-sramekhez-/",
+          "published": "2026-03-11T08:22:31+00:00",
+          "description": "",
+          "image": null,
+          "category": "Mindeközben",
+          "author": null
+        },
+        {
           "title": "Tarolt a magyar válogatott kulcsjátékosa, Európa-liga-negyeddöntős a csapata",
           "url": "https://index.hu/sport/kezilabda/2026/03/11/ferfi-kezilabda-bundesliga-imre-bence-the-kiel-nyolc-gol-legeredmenyesebb-jatekos/",
           "published": "2026-03-11T08:09:00+00:00",
@@ -471,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/6820/68209/682097/68209723_5035427_7d3d5de825d613c10476fb8e42ecbb8f_wm.jpg",
           "category": "Külföld",
           "author": null
-        },
-        {
-          "title": "Miló Viki az őt ért negatív kritikákról: „Nagyon rossz volt, mert én harminc évig egy elismert sportoló voltam”",
-          "url": "https://index.hu/mindekozben/poszt/2026/03/11/milo-viki-visszajelzesek-kritika/",
-          "published": "2026-03-11T05:02:12+00:00",
-          "description": "",
-          "image": null,
-          "category": "Mindeközben",
-          "author": null
         }
       ]
     },
@@ -492,6 +718,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Dömötör Csaba gyorsan felvilágosította a képviselőtársát, miután több tízezer német veszti el az állását",
+          "url": "https://magyarnemzet.hu/kulfold/2026/03/domotor-csaba-gyorsan-felvilagositotta-kepviselotarsat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-11T08:23:04+00:00",
+          "description": "Több problémára mutatott rá a politikus.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/gyQzu7NJZs0ay-EjmwkWB_dToEiizVwJ8bHm3ytenLE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgwMTBlOGVjMGUxNTRhZjRhY2I1NWM0NTBmNGUwZjAw.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "A magyar válogatott Imre Bence és Lukács Péter is brillírozott az Európa-ligában",
+          "url": "https://magyarnemzet.hu/sport/2026/03/magyar-valogatott-imre-bence-lukacs-peter-europa-liga?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-11T08:20:14+00:00",
+          "description": "A magyar jobbszélső nyolc, az irányító hét góllal zárt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/9KKVPjVWCAPu37aXx8AbpB0AVdsLNy1y8kDkMFT5J2g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM5ZjE4NGQzNzExZDQzNDViOTdlZWRjODg2ZjA0NzRk.jpg",
+          "category": "sport",
+          "author": null
+        },
         {
           "title": "Neves külföldi rendező állt ki Orbán Viktor mellett + videó",
           "url": "https://magyarnemzet.hu/kulfold/2026/03/orban-viktor-mellett-neves-kulfoldi-rendezo-allt-ki?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
@@ -507,6 +751,15 @@
           "published": "2026-03-11T08:08:21+00:00",
           "description": "Svájcban korábban már többször is megállítottak hasonlóan gyanús ukrán pénzszállítmányokat.",
           "image": "https://cdn.magyarnemzet.hu/2026/03/4-2Bixt3QK_sLtQ98pV54gaqs7gaUYe_k4BGjh7to2I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU2ZmQwZDQ0NDBjOTQ0ZTQ5OWNmMzllMzZiZGZmM2M5.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Elképesztő magyarázattal igyekszik átkeretezni az aranykonvojügyet a Partizán",
+          "url": "https://magyarnemzet.hu/belfold/2026/03/elkepeszto-magyarazattal-igyekszik-atkeretezni-az-aranykonvojugyet-a-partizan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-11T08:01:41+00:00",
+          "description": "Azt nem feszegették a balliberális médium műsorának vendégei, hogy honnan jöttek a milliárdok és kinek szánták azokat.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/t4aQsZmDbPXKnH4g222116h6OS9jnLyO3q7qweMTfUw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQyZGMxMDkxN2JmMTQ1OGI5MjUwYWRlOTM5ZmEyNDMx.jpg",
           "category": "belföld",
           "author": null
         },
@@ -688,33 +941,6 @@
           "description": "Évek óta figyelmeztetnek a hatóságok.",
           "image": "https://cdn.magyarnemzet.hu/2026/03/zJlX88wf1QPRuwSA4EY73tfFx5OefWkTcGBTGscZxoc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RlNzQ2MTVlZDQzZjRmNDI5OWJkMGQwMjJjYTljZTY0.jpg",
           "category": "alapértelmezett",
-          "author": null
-        },
-        {
-          "title": "Gumipókok és nejlonzacskók belső védelem helyett: maffiapénz lehetett az aranykonvojban",
-          "url": "https://magyarnemzet.hu/belfold/2026/03/aranykonvoj-maffia-zelenszkij-horvath-jozsef-szuverenitasvedelmi-hivatal?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-03-11T06:11:58+00:00",
-          "description": "Horváth József szerint nem zárható ki, hogy a Tisza Párt áll a művelet mögött.",
-          "image": "https://cdn.magyarnemzet.hu/2026/03/4Fu0AO2gZMFEHzwT_HpsB1rn-1gJYbOF2ersRmolU-w/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjOTBiOTZhMTkwMjQ1ZmM4ZGYwZTQ4YWYwNGE4ZWVm.jpg",
-          "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "A Barcelona játékosa nem érti a szabályt, ami a Newcastle BL-góljához vezetett",
-          "url": "https://magyarnemzet.hu/sport/2026/03/barcelona-newcastle-bl-hansi-flick-ronald-araujo-gol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-03-11T06:10:00+00:00",
-          "description": "Hansi Flick elmondta azt is, miért cserélte le 0-0-nál a katalánok egyik legjobb játékosát.",
-          "image": "https://cdn.magyarnemzet.hu/2026/03/lI1yE43zCFlXDVFHpK2azw8Q-NLd5SzJmccCDlTVSvc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU2YjIzMjNlZmMyYzRhOTA4OTczNzA3YjdiODZlMzA1.jpg",
-          "category": "sport",
-          "author": null
-        },
-        {
-          "title": "A védett ár az egyetlen biztos eszköz, állítja az energiajogász",
-          "url": "https://magyarnemzet.hu/belfold/2026/03/energiajogasz-rezsicsokkentes-uzemanyag-vedett-ar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-03-11T05:49:15+00:00",
-          "description": "A Tisza Párt mégis a leválást szorgalmazza.",
-          "image": "https://cdn.magyarnemzet.hu/2026/03/ySUws0dY67i-ZEYfQfzRxEgjkxkKhD97zZpAbBLn_qc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY3YWI4ZWJlZTBlOTQwMGZhMDk0NWFhMGI3NzJkYmI3.jpg",
-          "category": "belföld",
           "author": null
         }
       ]
@@ -1100,15 +1326,6 @@
           "author": "Grósz Petra"
         },
         {
-          "title": "Szerdai friss hírek, forgalom, időjárás – Reggeli pakk",
-          "url": "https://24.hu/belfold/2026/03/11/szerdai-friss-hirek-forgalom-idojaras-reggeli-pakk-423/",
-          "published": "2026-03-11T07:03:00+01:00",
-          "description": "Nagy Tisza-előny a 21 Kutatóközpont felmérésében, iráni aknák a Hormuzi-szorosban, Garancsi cége hatalmas pénzeket szállított Bécs és Ukrajna között.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-615196020-2-320x180.jpg",
-          "category": "Belföld",
-          "author": "24.hu"
-        },
-        {
           "title": "Trump szerint iráni aknatelepítő hajót semmisített meg az Egyesült Államok",
           "url": "https://24.hu/kulfold/2026/03/11/izrael-amerikai-irani-haboru-elo-percol-percre/#trump-szerint-irani-aknatelepito-hajot-semmisitett-meg-az-egyesult-allamok",
           "published": "2026-03-11T07:02:00+01:00",
@@ -1125,15 +1342,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/b5ea9c70-4613-4dde-bea0-b6a9beb5dae1-e1773208630155-320x180.jpeg",
           "category": "Élő",
           "author": "Papp Atilla"
-        },
-        {
-          "title": "Videó: téli bundájában vágtázott a tüneményes ragadozó Somogyban",
-          "url": "https://sokszinuvidek.24.hu/mozaik/2026/03/11/hermelin-termeszet-ragadozo/",
-          "published": "2026-03-11T07:00:00+01:00",
-          "description": "Meglehetősen ritkán találkozhatunk hermelinnel a természetben, óvatos, rejtőzködő állat és kerüli az ember jelenlétét.",
-          "image": "https://24.hu/app/uploads/sites/11/2026/03/kepernyokep-2026-03-10-083642-e1773128276231-320x180.png",
-          "category": "Mozaik",
-          "author": "Miskolczi Timea Panny"
         },
         {
           "title": "Bejrút sűrűn lakott városközpontját támadta Izrael",
@@ -1187,6 +1395,24 @@
           "description": "A részvételüket biztosra mondók körében csökkent a kormánypárt hátránya.",
           "image": "https://s.24.hu/app/uploads/2026/03/ill24_terkep_02-1-320x180.gif",
           "category": "Belföld",
+          "author": "24.hu"
+        },
+        {
+          "title": "Mol-vezetők részvényeladása: már nem csak bennfentes kereskedés a gyanú",
+          "url": "https://24.hu/fn/gazdasag/2026/03/11/mol-vezetok-reszvenyeladasa-bennfentes-kereskedes-kereskedesi-tilalom/",
+          "published": "2026-03-11T05:58:00+01:00",
+          "description": "Nem is kereskedhettek volna az olajtársaság vezetői a másfél milliárdos részvényeladás idején – állítja a kisbefektetők érdekvédelmi szervezete.",
+          "image": "https://s.24.hu/app/uploads/2026/03/central-0743352532_hernadi_kiem-320x180.jpg",
+          "category": "Gazdaság",
+          "author": "Vitéz F. Ibolya"
+        },
+        {
+          "title": "Kvíz: mennyire ismered a második világháború történetét?",
+          "url": "https://24.hu/tudomany/2026/03/11/kviz-tortenelem-masodik-vilaghaboru/",
+          "published": "2026-03-11T05:45:00+01:00",
+          "description": "Teszteld a tudásod a második világháborúból!",
+          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-3209092-e1773143414220-320x180.jpg",
+          "category": "Tudomány",
           "author": "24.hu"
         }
       ]
@@ -1540,7 +1766,7 @@
         {
           "title": "21 Kutatóközpont: továbbra is stabilan vezet a Tisza Párt, keveset faragott hátrányából a Fidesz",
           "url": "https://kontroll.hu/cikk/belfold/2026/03/11/21-kutatokoezpont-tovabbra-is-stabilan-vezet-a-tisza-part-keveset-faragott-hatranyabol-a-fidesz",
-          "published": "2026-03-11T08:38:37.702262+01:00",
+          "published": "2026-03-11T08:39:26.368918+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1666,10 +1892,10 @@
           "author": null
         },
         {
-          "title": "Elképesztő pontzuhatag az NBA meccsen: Adebayo közel volt a legendás csúcshoz",
+          "title": "Történelmi teljesítmény – ilyen meccset még senki sem látott",
           "url": "https://www.origo.hu/sport/sport-csapat/2026/03/adebayo-83-rekord-nba-kobe-chamberlain",
           "published": "2026-03-11T08:53:00+01:00",
-          "description": "Történelmi teljesítményt nyújtott a Miami Heat centere",
+          "description": "Elképesztő teljesítményt nyújtott a Miami Heat centere.",
           "image": "https://cdn.origo.hu/2026/03/1aDrI182jHq_0tzUTcb8d3oUZqtFVbtKAGX9tWBAvOw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVmNWNmMzNmNGMyZTRiMDE5MDMzMWJkMmExZjEyNWY1.webp",
           "category": "Bam Adebayo",
           "author": null
