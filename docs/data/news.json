@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-19T23:15:26.958379+00:00",
+  "scraped_at": "2026-03-19T23:20:41.985217+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1759,83 +1759,10 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "ok",
-      "error": null,
-      "article_count": 8,
-      "articles": [
-        {
-          "title": "Magyar Péter szerint Gulyás kijelentésével összeomlott a kormány békepropagandája",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/19/magyar-peter-szerint-gulyas-kijelentesevel-oesszeomlott-a-kormany-bekepropagandaja",
-          "published": "2026-03-20T19:01:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Exkluzív részletek derültek a Barátság kőolajvezetékkel kapcsolatos vizsgálatról",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/03/19/exkluziv-reszletek-derueltek-a-baratsag-koolajvezetekkel-kapcsolatos-vizsgalatrol",
-          "published": "2026-03-20T18:57:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
-        },
-        {
-          "title": "Elfogyott az EU türelme, Orbán a tűzzel játszik",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/03/19/orban-utolso-bruesszeli-halaltanca-joehet",
-          "published": "2026-03-20T17:47:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
-        },
-        {
-          "title": "Tömegével jelentek meg Magyar Péter kétarcú receptjei a mindmegette.hu oldalon",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/19/toemegevel-jelentek-meg-magyar-peter-ketarcu-receptjei-a-mindmegette-hu-gasztronomiai-receptjeit",
-          "published": "2026-03-20T16:08:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Két szándéknyilatkozat – Két út a kétharmadhoz?",
-          "url": "https://kontroll.hu/cikk/velemeny/2026/03/19/ket-szandeknyilatkozat-ket-ut-a-ketharmadhoz",
-          "published": "2026-03-20T14:48:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Velemeny",
-          "author": null
-        },
-        {
-          "title": "Felmérés: 14 százalékon áll a Fidesz a 30 alattiaknál, csak a 65 év feletti korcsoportban vezet",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/19/21-kutatointezet-14-szazalekon-all-a-fidesz-a-30-alattiaknal-csak-a-65-feletti-korcsoportban-vezet",
-          "published": "2026-03-20T13:52:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Brutális túlköltekezés jellemezte az MNB-székház felújítását: aranyvécékre és ajtókra ment el a pénz",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/19/brutalis-tulkoeltekezes-jellemezte-az-mnb-szekhaz-felujitasat-aranyvecekre-es-ajtokra-ment-el-a-penz",
-          "published": "2026-03-20T12:55:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Elismerte a Fidesz székesfehérvári szervezete: ők fizették a buszokat",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/19/elismerte-a-fidesz-szekesfehervari-szervezete-ok-fizettek-a-buszokat",
-          "published": "2026-03-20T11:01:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        }
-      ]
+      "status": "error",
+      "error": "TimeoutError: ",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "origo",
@@ -1846,6 +1773,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Orbán Viktor: Nem kérhetik tőlem, hogy tegyek úgy, mintha mi sem történt volna – videó",
+          "url": "https://www.origo.hu/kulpol/2026/03/orban-viktor-brusszel-nyilatkozat",
+          "published": "2026-03-20T00:20:00+01:00",
+          "description": "A brüsszeli tanácskozás egyik központi témája az Ukrajnának szánt pénzügyi támogatás, valamint az olajszállítások körüli vita.",
+          "image": "https://cdn.origo.hu/2026/03/HDgjygtVEkzQNOBLV7pldhlGGjRDpRQ3cpJ97tOCd9s/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAwOTUwM2RiMGVjYTQwOWY5YjkxMTE3ZThkZDk1YzU1.webp",
+          "category": "Orbán Viktor",
+          "author": null
+        },
         {
           "title": "A legjobb sportszemüvegek 4 ismérve",
           "url": "https://www.origo.hu/itthon-hirdetes/2026/03/a-legjobb-sportszemuvegek-4-ismerve",
@@ -1930,10 +1866,10 @@
         {
           "title": "Kelei Zita: A választás tétje a béke és gyermekeink jövője",
           "url": "https://www.origo.hu/belpol/2026/03/valasztas-tetje-a-beke",
-          "published": null,
-          "description": "Kelei Zita szerint csak a Fidesz vezette nemzeti kormány képes a jelenlegi nemzetközi válsághelyzet kezelésére.",
-          "image": "https://cdn.origo.hu/2026/03/AmVx1tfI-nWnKOJBLo-s0etUoIyKEtSSnX3wFgVuzQ0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc0NTY0N2UzODliYzQyZTViYzYxNTQzM2FmZmJmNTZl.webp",
-          "category": "Fidesz",
+          "published": "2026-03-19T19:57:09+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -2060,15 +1996,6 @@
           "description": null,
           "image": null,
           "category": "Kék hírek",
-          "author": null
-        },
-        {
-          "title": "Aggasztó hír érkezett: kórházba került Chuck Norris",
-          "url": "https://www.origo.hu/nagyvilag/2026/03/chuck-norris-korhaz-hawaii-egeszseg",
-          "published": "2026-03-19T18:19:53+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
