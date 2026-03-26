@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-26T19:15:42.891032+00:00",
+  "scraped_at": "2026-03-26T19:20:30.675628+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Csak a szokásos, újabb magyarországi bank jelentett a csúcsokról",
+          "url": "https://index.hu/gazdasag/2026/03/26/cib-bank-penzugyi-eredmeny-arbevetel-profit-adozott-eredmeny-bank-penzugyi-szektor-penzintezet-hitel-hitelpiac/",
+          "published": "2026-03-26T19:14:00+00:00",
+          "description": "3870 milliárd forintos mérlegfőösszeg.",
+          "image": "https://kep.index.hu/1/0/4373/43733/437330/43733070_3337494_9324efe083d9c2cbb93bc0e08b89caed_wm.jpg",
+          "category": "Gazdaság",
+          "author": null
+        },
+        {
           "title": "Isztambulban foszlottak szerte a román vb-álmok, a kvalifikáció kapujában Törökország",
           "url": "https://index.hu/sport/futball/2026/vb/2026/03/26/torokorszag-romania-2026-os-vilagbajnoki-potselejtezok-olaszorszag-eszak-irorszag/",
           "published": "2026-03-26T18:55:00+00:00",
@@ -697,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/6849/68490/684907/68490735_5055761_a676d8c6bea71e1b5be0bd56edd322da_wm.jpg",
           "category": "Belföld",
           "author": null
-        },
-        {
-          "title": "Sajtóinformációk szerint Ukrajna amerikai pénzből támogatta volna Joe Biden újraválasztását",
-          "url": "https://index.hu/kulfold/2026/03/26/kampanyfinanszirozas-ukrajna-joe-biden-egyesult-allamok-hirszerzes/",
-          "published": "2026-03-26T16:06:00+00:00",
-          "description": "Politikai célokra irányították volna át egy energetikai projekt forrásait.",
-          "image": "https://kep.index.hu/1/0/6849/68490/684900/68490031_5055709_9657ded396ac96d8b6883a9a92eef573_wm.jpg",
-          "category": "Külföld",
-          "author": null
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Kormánytisztviselők munkaidőben gyűjtöttek aláírásokat a fideszes jelöltnek",
           "url": "https://kontroll.hu/cikk/belfold/2026/03/26/kormanytisztviselok-munkaidoben-gyujtoettek-alairasokat-a-fideszes-jeloeltnek-1",
-          "published": "2026-03-26T19:52:28.905902+01:00",
+          "published": "2026-03-26T19:52:30.673101+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1549,7 @@
         {
           "title": "Magyar Péter hősnek nevezte Szabó Bence századost",
           "url": "https://kontroll.hu/cikk/belfold/2026/03/26/magyar-peter-a-direkt36-nak-megszolalo-nyomozorol-beszelt-jaszberenyben",
-          "published": "2026-03-26T19:23:28.906101+01:00",
+          "published": "2026-03-26T19:23:30.673443+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
