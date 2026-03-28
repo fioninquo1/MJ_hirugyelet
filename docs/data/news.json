@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-28T12:10:25.143722+00:00",
+  "scraped_at": "2026-03-28T12:15:41.120030+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1759,83 +1759,10 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "ok",
-      "error": null,
-      "article_count": 8,
-      "articles": [
-        {
-          "title": "A tüntetőkkel kétségbeesetten kiabáló miniszterelnök még Magyar Pétert is meglepte",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/28/magyar-peter-orban-viktorrol-bar-politikai-ellenfelem-megis-szomoru-latvany",
-          "published": "2026-03-28T12:39:25.141545+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "A szavazat ára – egy film a vidék teljes fideszes leuralásáról, és az üzemszerű szavazatvásárlásról",
-          "url": "https://kontroll.hu/cikk/kultura/2026/03/28/a-szavazat-ara-egy-film-a-videk-teljes-fideszes-leuralasarol-es-az-uezemszeru-szavazatvasarlasrol",
-          "published": "2026-03-28T10:43:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kultura",
-          "author": null
-        },
-        {
-          "title": "Újra megszólalt Szabó Bence volt rendőrszázados: Ha nem a Tisza Párt bedöntése lett volna a cél, semmi nem indokolta volna",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/28/ujra-megszolalt-szabo-bence-volt-rendorszazados-ha-nem-a-tisza-part-bedoentese-lett-volna-a-cel-semmi-nem-indokolta-volna",
-          "published": "2026-03-28T09:10:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Az utolsókat rúgja a gyógyászati segédeszközök hazai piaca, pedig nagyon nagy szükség lenne rá",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/28/az-utolsokat-rugja-a-gyogyaszati-segedeszkoezoek-hazai-piaca-pedig-nagyon-nagy-szuekseg-lenne-ra",
-          "published": "2026-03-28T07:51:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Panyi Szabolcs: „Ez teljesen az orosz, szovjet minta”",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/28/panyi-szabolcs-ez-teljesen-az-orosz-szovjet-minta",
-          "published": "2026-03-28T07:00:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Irgalmatlan nagy a tét: 1800 milliárd eurós költségvetési tárgyalás sorsa múlik a magyar választásokon",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/03/28/irgalmatlan-nagy-a-tet-1800-milliard-euros-koeltsegvetesi-targyalas-sorsa-mulik-a-magyar-valasztasokon",
-          "published": "2026-03-28T06:11:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
-        },
-        {
-          "title": "Évek óta eredménytelenül nyomoz egy jegybanki vesztegetés ügyében az AH és az NNI",
-          "url": "https://kontroll.hu/cikk/belfold/2026/03/28/evek-ota-eredmenytelenuel-nyomoz-egy-jegybanki-vesztegetes-uegyeben-az-ah-es-az-nni",
-          "published": "2026-03-27T23:29:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Már az amerikai republikánus elit is aggódik Orbán esélyei miatt",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/03/27/mar-az-amerikai-republikanus-elit-is-aggodik-orban-eselyei-miatt",
-          "published": "2026-03-27T19:07:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
-        }
-      ]
+      "status": "error",
+      "error": "TimeoutError: ",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "origo",
@@ -1846,6 +1773,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Sokk a 4805-ös úton: árokba csapódott az autó Ebesnél – videó és fotók",
+          "url": "https://www.origo.hu/kek-hirek/2026/03/baleset-ebes-arok-auto-serultek-video",
+          "published": "2026-03-28T13:10:00+01:00",
+          "description": "A baleset során ketten megsérültek, egyikük súlyosan.",
+          "image": "https://cdn.origo.hu/2026/03/NNxsTbwT70N9kZf2utObjUzPtBqHdSZzqLQbPE2EA8w/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMwNDhhMGU1MjE0MDRhODNiNjBjMjRmNzQ1NTliMzQ0.webp",
+          "category": "baleset",
+          "author": null
+        },
+        {
+          "title": "Iskolabusz ütközött több járművel – két gyerek meghalt, heten súlyosan megsérültek",
+          "url": "https://www.origo.hu/nagyvilag/2026/03/iskolabusz-baleset-tragedia-kirandulas-uton",
+          "published": "2026-03-28T13:09:00+01:00",
+          "description": "Kirándulásból lett halálos tragédia.",
+          "image": "https://cdn.origo.hu/2026/03/fplanJAnA5x8bN1np_tKXkF6ISvKXZFhYtPzdcJZZe4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzcwYTc3ZWMzNmMwMjQ5MGM5MzYzZmEwZjY2MmYyNGEz.webp",
+          "category": "iskolabusz",
+          "author": null
+        },
         {
           "title": "Lázár: Nem jön kőolaj, nem megy gáz és nincs pénz!",
           "url": "https://www.origo.hu/belpol/2026/03/lazarinfo-mateszalka-ukran-zsarolas-valasztas-2026",
@@ -1860,7 +1805,7 @@
           "url": "https://www.origo.hu/belpol/2026/03/tisza-part-kulfoldi-titkosszolgalatok-szervezhettek-be",
           "published": "2026-03-28T13:00:00+01:00",
           "description": "A kormány nyilvánosságra hozta a Tisza Párt informatikusának meghallgatását.",
-          "image": "https://cdn.origo.hu/2026/03/syL0sKDphXs5fiaBDrHfGFMr6rOCL6fOjMc79SZsJUM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM2YzhlMDU5NDg5NzRkN2E4Mjg0MGJhYWI4ZTZmMmVh.webp",
+          "image": "https://cdn.origo.hu/2026/03/PH_SpjYN5JxMAXny5EmVnKDK49qNhaOb5RN3DjSwDrs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4ZjFlMWIzOGUxZTRlNTNiNTRkMGFhNWQwZWQ0YmI1.webp",
           "category": "Tisza Párt",
           "author": null
         },
@@ -1921,19 +1866,19 @@
         {
           "title": "CPAC Hungary: A jobboldal világszerte többségben van",
           "url": "https://www.origo.hu/belpol/2026/03/cpac-hungary-szanto-miklos-magyar-nemzet",
-          "published": "2026-03-28T12:28:00+01:00",
-          "description": "A patrióta, migrációellenes és békepárti politikai irányzat világszinten is többségben van.",
-          "image": "https://cdn.origo.hu/2026/03/YTWXq2orCDT6gO58NK0ynCz1EXWTNsH-JHHvtKnhNzk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMxMWY2NjEwOGE4ZTRjYzZhNmZiYjU5N2EwMDJhMTM2.webp",
-          "category": "CPAC Hungary",
+          "published": "2026-03-28T11:28:22+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
           "title": "Ez az apró nyomelem titokban lassítja az öregedést",
           "url": "https://www.origo.hu/nagyvilag/2026/03/oregedes-lassithato-cink-errendszer",
-          "published": "2026-03-28T12:27:00+01:00",
-          "description": "Gyakran alulértékelt, pedig rendkívül hatékony lehet.",
-          "image": "https://cdn.origo.hu/2026/03/AYll_w9Uzb3L33reVwutvzxe3S-2R7vkHa_eJgSoxQs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFhZTFlZTQxM2YwNzQ5MTY5NmExZGMxYzgzNjQzYTgx.webp",
-          "category": "öregedés",
+          "published": "2026-03-28T11:27:52+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -2051,24 +1996,6 @@
           "description": null,
           "image": null,
           "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "Dolly szívszorító vallomást tett Fenyő Miklósról",
-          "url": "https://www.origo.hu/teve/2026/03/fenyo-miklos-dolly-baratsag",
-          "published": "2026-03-28T10:09:38+00:00",
-          "description": null,
-          "image": null,
-          "category": "TV",
-          "author": null
-        },
-        {
-          "title": "Dávid Petra exeinek most okuk lesz rettegni – váratlan dologra készül a fitneszmodell",
-          "url": "https://www.origo.hu/teve/2026/03/david-petra-konyv-exek-retteges-verseny",
-          "published": "2026-03-28T10:04:36+00:00",
-          "description": null,
-          "image": null,
-          "category": "TV",
           "author": null
         }
       ]
