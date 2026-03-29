@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-29T13:00:37.418499+00:00",
+  "scraped_at": "2026-03-29T13:05:30.995337+00:00",
   "portals": [
     {
       "id": "telex",
@@ -7,7 +7,7 @@
       "url": "https://telex.hu",
       "color": "#2ec4b6",
       "status": "error",
-      "error": "ClientResponseError: 500, message='Internal Server Error', url='https://telex.hu/rss'",
+      "error": "ClientConnectorDNSError: Cannot connect to host telex.hu:443 ssl:False [No address associated with hostname]",
       "article_count": 0,
       "articles": []
     },
@@ -493,6 +493,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Filmszakadás",
+          "url": "https://magyarnemzet.hu/ahelyzet/2026/03/filmszakadas-9?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-29T13:04:00+00:00",
+          "description": "Őrült Guy Ritchie-filmet játszanak Budapesten.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/mjsg0uNntWhxDPx9qAJzMibk4lx8ybOcmLjlY1d3JMo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIxODdhNmE4MzM4ZDRiYTg5N2M0YjFjOGY2NjMzZWU3.jpg",
+          "category": "vélemény",
+          "author": null
+        },
+        {
+          "title": "Román dráma: a 80 éves Mircea Lucescu szövetségi kapitány elájult a válogatott edzésén",
+          "url": "https://magyarnemzet.hu/sport/2026/03/lucescu-roman-szlovak-romania-torok-pozsony-szlovak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-03-29T13:01:05+00:00",
+          "description": "A román és a szlovák csapat is elvérzett a vb-pótselejtezőn, így kedden Pozsonyban nem a vb-részvételért csap össze, hanem felkészülési meccsen.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/FsSCZDvxVAwiPlQ_UMZltWPYvTviHJmgaI1Wz0KpA0o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxZGIxNzNkNWU1ODQxZDY5ZjBkMTk1ZDA0MWQyZjE5.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
           "title": "Az ukrán háború borzalmairól mesélnek a fiatal katonák",
           "url": "https://magyarnemzet.hu/kulfold/2026/03/haboru-borzalmairol-meselnek-a-fiatal-katonak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-03-29T12:54:15+00:00",
@@ -696,24 +714,6 @@
           "published": "2026-03-29T10:04:07+00:00",
           "description": "Az intézkedés során a toborzók két férfival szemben is erőszakot alkalmaztak.",
           "image": "https://cdn.magyarnemzet.hu/2026/03/WCbnwI1CzbugXLdbyiVJ3_CNkKne6ZO79pBU4OX37gw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE3MmYyNmQ4YTc2MTRjNmVhYTYwMWE5NzEzM2E5OTgx.jpg",
-          "category": "alapértelmezett",
-          "author": null
-        },
-        {
-          "title": "Nyolcvanmilliárdból teremt ezer új munkahelyet a kínai óriáscég ebben a nagyvárosban",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/03/nyolcvanmilliardbol-teremt-ezer-uj-munkahelyet-a-kinai-oriasceg-ebben-a-nagyvarosban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-03-29T10:03:39+00:00",
-          "description": "Újabb autóipari beruházás a láthatáron, mutatjuk, mit gyártanak majd itt.",
-          "image": "https://cdn.magyarnemzet.hu/2026/03/eneoux8m5_lhU_0mVT8IR8RdKNWIn-wqnEHgPqny_4o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyNzA0NTgxZDhiYjQ4YjliZmJlNTQ2YWRmM2U0YTIy.jpg",
-          "category": "gazdaság",
-          "author": null
-        },
-        {
-          "title": "Deutsch Tamás: Zelenszkij finanszírozza Magyar Péterék kampányát + videó",
-          "url": "https://magyarnemzet.hu/kulfold/2026/03/deutsch-tamas-zelenszkij-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-03-29T09:55:58+00:00",
-          "description": "„Az ukránok már a tiszás spájzban vannak. Ne hagyjuk, hogy ukránpárti kormány alakuljon!”",
-          "image": "https://cdn.magyarnemzet.hu/2026/03/cps323VDFdUxOnb_21XTda9UbceAEicNXK8y27qtXNE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ExNTdjYjcyMDExMDQ0Y2I4NmQxMjljMjY2NjAzN2Jk.jpg",
           "category": "alapértelmezett",
           "author": null
         }
@@ -1341,7 +1341,7 @@
           "title": "A Századvég volt elemzője: Egyszercsak érkezik egy aljas parancs, ahogy velem is történt",
           "url": "https://hvg.hu/itthon/20260329_szazadveg-volt-elemzoje-balogh-bence-tompos-marton-interju",
           "published": "2026-03-29T12:29:10+00:00",
-          "description": "Balogh Bence hosszú éveken át tipródott, végül otthagyta munkahelyét, a Századvéget, és annak működéséről osztott meg részleteket egy Tompos Mártonnál közzétett élő videóban.",
+          "description": "Balogh Bence hosszú éveken át tipródott, végül otthagyta munkahelyét, a Századvéget, és annak működéséről osztott meg részleteket egy Tompos Mártonnál közzétett élő videóban, amelyben magáról úgy beszélt, mint liberális gerilláról a NER vonalai mögött.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b3827055-632a-42c4-a4bd-0a0503579671.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
@@ -1540,7 +1540,7 @@
         {
           "title": "„Trump király” mozgósító ereje vitathatatlan, az egész Egyesült Államokban ellene tüntetnek",
           "url": "https://kontroll.hu/cikk/kulfold/2026/03/29/trump-kiraly-mozgosito-ereje-vitathatatlan-az-egesz-egyesuelt-allamokban-ellene-tuentetnek",
-          "published": "2026-03-29T13:32:37.416245+01:00",
+          "published": "2026-03-29T13:32:30.993211+01:00",
           "description": null,
           "image": null,
           "category": "Kulfold",
