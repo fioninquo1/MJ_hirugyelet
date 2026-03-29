@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-29T13:05:30.995337+00:00",
+  "scraped_at": "2026-03-29T13:10:34.725192+00:00",
   "portals": [
     {
       "id": "telex",
@@ -7,7 +7,7 @@
       "url": "https://telex.hu",
       "color": "#2ec4b6",
       "status": "error",
-      "error": "ClientConnectorDNSError: Cannot connect to host telex.hu:443 ssl:False [No address associated with hostname]",
+      "error": "ClientResponseError: 404, message='Not Found', url='https://telex.hu/rss'",
       "article_count": 0,
       "articles": []
     },
@@ -502,7 +502,7 @@
           "author": null
         },
         {
-          "title": "Román dráma: a 80 éves Mircea Lucescu szövetségi kapitány elájult a válogatott edzésén",
+          "title": "Román dráma: a nyolcvanéves Mircea Lucescu szövetségi kapitány elájult a válogatott edzésén",
           "url": "https://magyarnemzet.hu/sport/2026/03/lucescu-roman-szlovak-romania-torok-pozsony-szlovak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-03-29T13:01:05+00:00",
           "description": "A román és a szlovák csapat is elvérzett a vb-pótselejtezőn, így kedden Pozsonyban nem a vb-részvételért csap össze, hanem felkészülési meccsen.",
@@ -729,6 +729,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "„Nekem ez a legfontosabb, nem a büntetés” – Ligetvári Patrik szerint nagyon nehéz ilyenkor visszaszerezni a szurkolók bizalmát",
+          "url": "https://mandiner.hu/sport/2026/03/ligetvari-patrik-veszprem-buntetes-melypont",
+          "published": "2026-03-29T13:05:20+00:00",
+          "description": "„Rettentően megviselt mindenkit, nagyon mélyre kerültünk.”",
+          "image": "https://cdn.mandiner.hu/2026/03/lS84LxGxUzCpp8h2XcWTg2kNTpKP2iDZbd7TcjrcrOw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRjNTdiZDllNTc3MTQ1MTNiMjIxYmVjYzhkZmI4MzAy.jpg",
+          "category": null,
+          "author": null
+        },
+        {
           "title": "Itt vannak a legfrissebb adatok: újabb ellenzéki mantra dőlt meg",
           "url": "https://mandiner.hu/belfold/2026/03/itt-vannak-a-legfrissebb-adatok-ujabb-ellenzeki-mantra-dolt-meg",
           "published": "2026-03-29T12:58:42+00:00",
@@ -943,15 +952,6 @@
           "image": "https://cdn.mandiner.hu/2026/03/r1x5hWgu_s7UGycni1CZ3hPzILfN4VYUO6ZRjsaGUO0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBiZTNmNWJhYmQ0MjRjMjhhMjBjYzlmOWMwYTY1YmE2.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "„Ha már véget kellett érnie, legalább a Fradi-szurkolók előtt történt” – könnyek között nyilatkozott a magyar válogatott kapusa",
-          "url": "https://mandiner.hu/sport/2026/03/ftc-szikora-melinda-visszavonul-kapus-konnyek",
-          "published": "2026-03-29T08:06:44+00:00",
-          "description": "Húszéves karrier zárul le.",
-          "image": "https://cdn.mandiner.hu/2026/03/cehtUxS9wbgVFMxJQDJJgXgNYYGn688r0dQOc63avF0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE4YmVmNjVjMmQ5ODQ2Mjk4NGExNTZiODNmMTIxNzJl.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -964,6 +964,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Számos előnye van, ha a kutya csak engedélyre kezdhet enni",
+          "url": "https://24.hu/otthon/2026/03/29/kutya-etetes-jelre/",
+          "published": "2026-03-29T15:02:00+01:00",
+          "description": "Nem azt jelenti, hogy uralni kell a kutyát.",
+          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2209341914-e1774789178245-320x180.jpg",
+          "category": "Otthon",
+          "author": "24.hu"
+        },
         {
           "title": "XIV. Leó pápa: Krisztus a keresztről kiáltja az embereknek, hogy tegyék le a fegyvert",
           "url": "https://24.hu/kultura/2026/03/29/xiv-leo-papa-viragvasarnap-mise-vatikan-haboru/",
@@ -1091,13 +1100,13 @@
           "author": "Varga Zsuzsa"
         },
         {
-          "title": "Magyar Péter: Fel kell számolni a maffiát!",
-          "url": "https://24.hu/belfold/2026/03/29/magyar-peter-maffia-valasztas-2026/",
-          "published": "2026-03-29T11:16:00+01:00",
-          "description": "Üzent a rendőröknek, ügyészeknek, titkosszolgáknak.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-1082611315-e1774634118305-2048x1154-1-320x180.jpg",
-          "category": "Belföld",
-          "author": "Farkas György"
+          "title": "Amit sokan elrontanak: így nem lesz rémálom a tavaszi gyepgondozás",
+          "url": "https://24.hu/otthon/2026/03/29/tavaszi-gyepgondozas-feladatok/",
+          "published": "2026-03-29T11:12:00+01:00",
+          "description": "Fontos a megfelelő időben és módon elvégzett első fűnyírás, de a tápanyagpótlás és a szellőztetés is.",
+          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2227539093-e1774775513112-320x180.jpg",
+          "category": "Otthon",
+          "author": "24.hu"
         },
         {
           "title": "Elloptak 12 tonnányi KitKatet, Európa-szerte csokihiány lehet húsvétkor",
@@ -1179,15 +1188,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/659390615_1507222707441989_1754298922958005250_n-e1774691245569-1140x643-1-320x180.jpg",
           "category": "Belföld",
           "author": "Farkas György"
-        },
-        {
-          "title": "Elszúrta a rajtot Kimi Antonelli, de így is behúzta a Japán Nagydíjat",
-          "url": "https://24.hu/sport/forma-1/2026/03/29/japan-nagydij-kimi-antonelli-gyozelem-legfiatalabb-vezeto/",
-          "published": "2026-03-29T09:04:00+01:00",
-          "description": "Egy kis szerencse is kellett.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2268874873-e1774767724281-320x180.jpg",
-          "category": "Forma-1",
-          "author": "Aranyossy Áron"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "„Trump király” mozgósító ereje vitathatatlan, az egész Egyesült Államokban ellene tüntetnek",
           "url": "https://kontroll.hu/cikk/kulfold/2026/03/29/trump-kiraly-mozgosito-ereje-vitathatatlan-az-egesz-egyesuelt-allamokban-ellene-tuentetnek",
-          "published": "2026-03-29T13:32:30.993211+01:00",
+          "published": "2026-03-29T13:32:34.544174+01:00",
           "description": null,
           "image": null,
           "category": "Kulfold",
@@ -1621,10 +1621,19 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Szívszorító tragédia: először adott vért, de többé már nem lesz rá lehetősége",
+          "url": "https://www.origo.hu/kek-hirek/2026/03/tragedia-szivszorito-halaleset-eloszor-adott-vert",
+          "published": "2026-03-29T14:56:00+01:00",
+          "description": "Családja láttára esett össze a futballszurkoló.",
+          "image": "https://cdn.origo.hu/2026/03/2_MV9CVxpHZ7J62S0xtKB4IB71-ujVw4Fhe3J9ffywk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JlNDQ4ZmI5NTI3ODRjY2ViZjBhMjRhOTQ1M2NjZmEy.webp",
+          "category": "európában",
+          "author": null
+        },
+        {
           "title": "A devizahiteleseket képviselő ügyvéd szerint szélhámosság a kiugrott nyomozónak indított gyűjtés",
           "url": "https://www.origo.hu/belpol/2026/03/ukran-kembotrany-gyujtes-szelhamossag",
           "published": "2026-03-29T14:53:00+01:00",
-          "description": "Itt is-ott is feltűnnek egyes emberek.",
+          "description": "Itt is, ott is feltűnnek egyes emberek.",
           "image": "https://cdn.origo.hu/2026/03/Gf_vyvGQTlP5-fcBjJDdSuSPusbNjYVVP1eIx2JeWF4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JlZjNjZTdkZTcwYzQzYjU5ZmMwOTFkYzljM2U1ZGQz.webp",
           "category": "szabó bence",
           "author": null
@@ -1704,10 +1713,10 @@
         {
           "title": "Durva balhé robbant ki a UFC-sztár barátnője miatt, brutális dobás lett a vége",
           "url": "https://www.origo.hu/sport/sport-egyeni/2026/03/ufc-arman-tsarukyan-georgio-poullas-raf-visszavago",
-          "published": "2026-03-29T14:01:00+01:00",
-          "description": "A botrányos első meccs után az örmény Arman Tsarukyan ezúttal sem fogta vissza magát.",
-          "image": "https://cdn.origo.hu/2026/03/bv8SeZyChkffcHj44qIyo_p0glTnT9Nt2LfYbqlkzTQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUzM2I3MTUwMTA1MzRjOGNhZGI4YzI3MzdjZjAwMWVj.webp",
-          "category": "arman tsarukyan",
+          "published": "2026-03-29T12:01:19+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1834,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Most szakad meg minden autórajongó szíve: nézze, mit tettek ezzel a Corvette-tel",
-          "url": "https://www.origo.hu/kek-hirek/2026/03/corvette-villanyoszlop-kidontotte-bakony",
-          "published": "2026-03-29T10:44:14+00:00",
-          "description": null,
-          "image": null,
-          "category": "Kék hírek",
           "author": null
         }
       ]
