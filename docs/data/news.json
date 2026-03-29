@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-29T18:30:42.287353+00:00",
+  "scraped_at": "2026-03-29T18:35:41.205787+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -728,6 +728,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "„Te nem sokáig leszel életben” – a riportert és családját fenyegette meg egy tiszás provokátor (VIDEÓ)",
+          "url": "https://mandiner.hu/belfold/2026/03/te-nem-sokaig-leszel-eletben-a-riportert-es-csaladjat-fenyegette-meg-egy-tiszas-provokator-video",
+          "published": "2026-03-29T18:33:07+00:00",
+          "description": "Épül-szépül Magyar Péterék „szeretetországa”.",
+          "image": "https://cdn.mandiner.hu/2026/03/In5kcum0t1Dk_yXPyWxLyneNZeuGbQbBhV5apnL3cV0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FhZDgyY2E4MmNmOTQ4Mzg5M2NiM2ZmOTk0MjQ4ZWJm.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Volt lengyel miniszterelnök: Orbán Viktor győzelme egész Európa jövője szempontjából kulcsfontosságú lehet",
           "url": "https://mandiner.hu/kulfold/2026/03/orban-viktor-valasztasok-europai-unio-jobboldal",
@@ -941,15 +950,6 @@
           "published": "2026-03-29T12:38:01+00:00",
           "description": "Szijjártó Péter felhívta a figyelmet, hogy már az ukránok maguk is bevallották, hogy a Tisza Párt győzelmétől várják a megváltást.",
           "image": "https://cdn.mandiner.hu/2026/03/KJwCo4d3xmAXV0t9wyJmexPBY2zps1BuiGU_jkCHz2k/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAzZjBlMzY2NjMxYzRlMjJiNGU3OGQ2NWI1MjMzMjVh.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Van, aki előtt még Putyin is letérdel – megható pillanatok a Kremlben (VIDEÓ)",
-          "url": "https://mandiner.hu/sport/2026/03/van-aki-elott-meg-putyin-is-leterdel-meghato-pillanatok-a-kremlben-video",
-          "published": "2026-03-29T12:26:17+00:00",
-          "description": "A jelenet gyorsan bejárta a közösségi médiát.",
-          "image": "https://cdn.mandiner.hu/2026/03/oYDlkgHsOVV3SFXmuMKgrvEZjQft15hpiKSsgOMEwt8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY5MDE0Yzc1M2ViMjQwODdiMmIyNmExM2Y0NTA1Njlh.jpg",
           "category": null,
           "author": null
         }
@@ -1302,6 +1302,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Ukrán drón zuhant le Finnországban",
+          "url": "https://hvg.hu/vilag/20260329_ukran-dron-zuhant-le-finnorszagban",
+          "published": "2026-03-29T18:30:57+00:00",
+          "description": "Két, oroszországi célok ellen indított, célt tévesztett szerkezetről lehet szó. Az egyik biztosan ukrán, a másikat még vizsgálják.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/64af7e27-8e12-4176-a9b4-350ee1659f43.jpg",
+          "category": "Világ",
+          "author": "MTI (szerzo@hvg.hu (HVG))"
+        },
+        {
           "title": "Tóth Gabi meglepő tartalommal tért vissza azután, hogy kiderült: fizetést kap a Fidesztől",
           "url": "https://hvg.hu/elet/20260329_toth-gabi-video-allam-fidesz-fizetes",
           "published": "2026-03-29T18:15:42+00:00",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ca9846bb-da0f-4f4d-8eb9-b7d0549752cb.jpg",
           "category": "Élet+Stílus",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "A jó ízű zöldségek és a dús virágú növények titka a kertben: hogyan használjuk a biostimulátorokat?",
-          "url": "https://hvg.hu/360/20260329_biostimulator-alga-kerteszkedes-biokert",
-          "published": "2026-03-29T13:00:00+00:00",
-          "description": "Amíg egy lombtrágya vagy tápoldat úgy hat, mint a testépítőknek mondjuk egy protein shake, a biostimulátorok az immunrendszert erősítő cseppekhez, multivitaminokhoz hasonlítanak.",
-          "image": "https://img.hvg.hu/Img/00000000-0000-0000-0000-000000000000/3e9b5c06-a53e-4a79-af12-6605f383f79d.jpg",
-          "category": "hvg360",
-          "author": "szerzo@hvg.hu (Bálint Dávid)"
         }
       ]
     },
@@ -1534,7 +1534,7 @@
       "url": "https://kontroll.hu",
       "color": "#22c55e",
       "status": "error",
-      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
