@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-29T18:40:45.309157+00:00",
+  "scraped_at": "2026-03-29T18:45:40.537885+00:00",
   "portals": [
     {
       "id": "telex",
@@ -14,7 +14,7 @@
           "title": "Egy japán cég lepkeürüléket tett a szakéba, és elnevezte Titkos Tavasznak",
           "url": "https://telex.hu/zacc/2026/03/29/japan-szake-lepke-urulek-titkos-osszetevo",
           "published": "2026-03-29T18:29:56+00:00",
-          "description": "Tealevelet esznek a molyok, ürítenek, majd abból erjesztik a különleges italt.",
+          "description": "Tealevelet esznek a molyok, ürítenek, majd azzal erjesztik a különleges italt.",
           "image": "https://assets.telex.hu/images/20260329/1774807908-temp-6vgdi1squhdu5CMMdOc_cimlap-normal.jpg",
           "category": "Zacc",
           "author": "Kovács Pál"
@@ -1191,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A nap legfontosabb hírei - 2026.03.29.",
+          "url": "https://24.hu/belfold/2026/03/29/a-nap-legfontosabb-hirei-2026-03-29/",
+          "published": "2026-03-29T20:43:00+01:00",
+          "description": "Ellenállók, verőemberek, óraátállítások.",
+          "image": "https://s.24.hu/app/uploads/2026/03/kepernyofoto-2026-03-29-19-53-07-e1774806838524-320x180.png",
+          "category": "Belföld",
+          "author": "Kerner Zsolt"
+        },
+        {
           "title": "Gyerekkori videó került elő Magyar Péterről, Deutsch Tamás és Orbán Viktor is feltűnik rajta",
           "url": "https://24.hu/kultura/2026/03/29/magyar-peter-gyerekkori-video-orban-viktor-kover-laszlo/",
           "published": "2026-03-29T20:19:00+01:00",
@@ -1317,13 +1326,13 @@
           "author": "Tóth Bálint Soma"
         },
         {
-          "title": "Buda Péter a kihallgatásos videóról: Efféle csúsztatásra akkor szorul az ember, ha el akarja hallgatni az igazságot",
-          "url": "https://24.hu/belfold/2026/03/29/kihallgatas-video-elemzes-buda-peter/",
-          "published": "2026-03-29T16:21:00+01:00",
-          "description": "A volt nemzetbiztonsági főtiszt alaposan leírta, mi a gond a videóval, és mire enged ez következtetni.",
-          "image": "https://s.24.hu/app/uploads/2026/03/buda_peter-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kerner Zsolt"
+          "title": "Története első európai kupaidényében négyes döntőbe jutott Elek Gábor csapata az El-ben",
+          "url": "https://24.hu/sport/2026/03/29/noi-kezilabda-europa-liga-negyeddonto-esztergom-mosonmagyarovar/",
+          "published": "2026-03-29T16:04:00+01:00",
+          "description": "Egy hét alatt háromszor verték a Mosonmagyaróvárt.",
+          "image": "https://s.24.hu/app/uploads/2026/03/d_mrc20260215126-e1774792834365-320x180.jpg",
+          "category": "Sport",
+          "author": "24.hu"
         },
         {
           "title": "„Semmilyen tiszteletet nem érdemeltek Eszter. Semmilyet” - A Szerencseszombat műsorvezetője kommentelt a kormányszóvivőnek",
@@ -1405,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/central-0803254267-320x180.jpg",
           "category": "Belföld",
           "author": "Varga Zsuzsa"
-        },
-        {
-          "title": "A szavazat ára című filmben bemutatott orvos nem MOK-tag",
-          "url": "https://24.hu/belfold/2026/03/29/a-szavazat-ara-mok-valasztas-2026/",
-          "published": "2026-03-29T14:08:00+01:00",
-          "description": "A kamara szerint vizsgálat kellene.",
-          "image": "https://s.24.hu/app/uploads/2026/03/haziorvos-e1710752534909-2048x1152-1-320x180.jpg",
-          "category": "Belföld",
-          "author": "Farkas György"
         }
       ]
     },
@@ -1549,7 +1549,7 @@
           "title": "Orbán facebookozni tanította a híveit a stratégiai eligazításon",
           "url": "https://hvg.hu/itthon/20260329_orban-viktor-dpk-facebook-strategiai-eligazitas-valasztasi-kampany",
           "published": "2026-03-29T18:11:00+00:00",
-          "description": "A Digitális Polgári Körök Facebook-csoportjába meghirdetett stratégiai eligazításon az is kiderült, miről szól a miniszterelnök szerint a választásig hátralevő két hét.",
+          "description": "Két héttel a választás előtt még mindig ez a stratégia – derült ki a Digitális Polgári Körök Facebook-csoportjába meghirdetett stratégiai eligazításon.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6bcbc909-38a5-4955-9ebb-a0f27154ca95.png",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
@@ -1760,7 +1760,7 @@
       "url": "https://kontroll.hu",
       "color": "#22c55e",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 500, message='Internal Server Error', url='https://kontroll.hu'",
       "article_count": 0,
       "articles": []
     },
