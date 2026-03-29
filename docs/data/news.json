@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-29T19:10:41.211372+00:00",
+  "scraped_at": "2026-03-29T19:15:29.022425+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Disznóspermából kreáltak gyógyító szemcseppet kínai kutatók",
+          "url": "https://telex.hu/techtud/2026/03/29/diszno-sperma-szemcsepp-daganatok-ellen",
+          "published": "2026-03-29T19:14:41+00:00",
+          "description": "Egy részecsketípus képes károkozás nélkül áthatolni a retina határán, és bevinni daganatpusztító molekulákat.",
+          "image": "https://assets.telex.hu/images/20260329/1774811541-temp-t2i13qd6g1749IHmcGp_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Molnár Zoltán"
+        },
         {
           "title": "Egy japán cég lepkeürüléket tett a szakéba, és elnevezte Titkos Tavasznak",
           "url": "https://telex.hu/zacc/2026/03/29/japan-szake-lepke-urulek-titkos-osszetevo",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260329/1774777049-temp-4v2gcaahqvmbfOIPaoL_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Aradi Hanga Zsófia"
-        },
-        {
-          "title": "Magyar azt üzente a rendőröknek: Nem kérjük tőletek, hogy hangos hősök legyetek",
-          "url": "https://telex.hu/belfold/2026/03/29/magyar-peter-rendorseg-uzenet",
-          "published": "2026-03-29T09:26:55+00:00",
-          "description": "A Tisza Párt vezetője azt ígérte, kormányra kerülésük esetén „nem lesznek többet eltüntetett akták, nem lesznek felülről leállított nyomozások”.",
-          "image": "https://assets.telex.hu/images/20260329/1774776370-temp-9k8ibr9r3dgu9BMHnKH_cimlap-normal.jpg",
-          "category": "Belföld",
-          "author": "Iván-Nagy Szilvia"
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -1329,7 +1329,7 @@
           "author": "HVG (szerzo@hvg.hu (MTI))"
         },
         {
-          "title": "Tóth Gabi meglepő tartalommal tért vissza azután, hogy kiderült: fizetést kap a Fidesztől",
+          "title": "Tóth Gabi meglepő tartalommal jelentkezett",
           "url": "https://hvg.hu/elet/20260329_toth-gabi-video-allam-fidesz-fizetes",
           "published": "2026-03-29T18:15:42+00:00",
           "description": "A videó alapján az énekesnő is azok közé tartozik, akik kissé már belefáradtak az április 12-ei választást megelőző öldöklő kampányba.",
