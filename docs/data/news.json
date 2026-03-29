@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-29T19:20:36.971008+00:00",
+  "scraped_at": "2026-03-29T19:25:39.434006+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
