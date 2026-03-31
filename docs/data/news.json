@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T19:15:40.936497+00:00",
+  "scraped_at": "2026-03-31T19:20:33.088752+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "A KSH úgy korrigálta a hibás jövedelmi statisztikáit, hogy közben új anomáliákkal rakta tele az adathalmazt",
+          "url": "https://telex.hu/gazdasag/2026/03/31/ksh-szegenysegi-jovedelmi-adatok-korrekcioja-csak-ujabb-anomaliakat-okozott",
+          "published": "2026-03-31T19:19:52+00:00",
+          "description": "A korábban megütközést kiváltó furcsaságok eltűntek, de jöttek helyettük újak.",
+          "image": "https://assets.telex.hu/images/20260331/1774984704-temp-vehiu5641keucBcpPOo_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Előd Fruzsina"
+        },
         {
           "title": "A cseh államfő szerint országának újra kellene értékelnie kapcsolatát Magyarországgal",
           "url": "https://telex.hu/kulfold/2026/03/31/pavel-szijjarto-peter-lavrov-reakcio",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260331/1774967949-temp-hi662q02velg2aPiNNn_cimlap-normal.jpg",
           "category": "Gazdaság",
           "author": "Előd Fruzsina"
-        },
-        {
-          "title": "Blikk: Holtan találtak egy magyar kamionost Ausztriában",
-          "url": "https://telex.hu/kulfold/2026/03/31/magyar-kamionos-ausztria-halal-gyasz-holtan-talaltak",
-          "published": "2026-03-31T14:22:36+00:00",
-          "description": "Még nem tudják, mi okozta a hatvanéves férfi halálát.",
-          "image": "https://assets.telex.hu/images/20260331/1774966951-temp-ide568lajd7m5miHfKL_cimlap-normal.jpg",
-          "category": "Külföld",
-          "author": "Szalma Baksi Ferenc"
         }
       ]
     },
@@ -643,7 +643,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -893,6 +893,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "„Pjotr és én barátok vagyunk” – Szijjártó és Lavrov telefonjaitól megihletve írta át a Carson Coma az egyik dalát",
+          "url": "https://24.hu/kultura/2026/03/31/carson-coma-szijjarto-lavrov-telefon-dal-atirat/",
+          "published": "2026-03-31T21:13:00+01:00",
+          "description": "Újabb aktuális ügyre reagált a zenekar.",
+          "image": "https://s.24.hu/app/uploads/2026/03/000_86g2496-1-e1774984066875-320x180.jpg",
+          "category": "Kultúra",
+          "author": "24.hu"
+        },
+        {
           "title": "Autóbalesetet szenvedett Oszter Alexandra fia, mentőhelikopterrel szállították kórházba",
           "url": "https://24.hu/elet-stilus/2026/03/31/oszter-alexandra-fia-autobaleset/",
           "published": "2026-03-31T21:03:00+01:00",
@@ -1019,13 +1028,13 @@
           "author": "24.hu"
         },
         {
-          "title": "Magyarországon (is) elbúcsúzhatunk a OnePlus okostelefonoktól",
-          "url": "https://24.hu/tech/2026/03/31/oneplus-okostelefonok-magyarorszag/",
-          "published": "2026-03-31T16:44:00+01:00",
-          "description": "A OnePlus visszatért hazánkba, hogy aztán rövid időn belül újra távozzon.",
-          "image": "https://s.24.hu/app/uploads/2026/03/oneplus-magyarorszag-kivonulas-02-e1774968114746-320x180.jpg",
-          "category": "Tech",
-          "author": "Birkás Péter"
+          "title": "Elemzők: Orbánék agresszivitása a 19 éves Gundalffal szemben nem erőt mutat, hanem nevetség tárgya",
+          "url": "https://24.hu/belfold/2026/03/31/elemzok-kampany-kemugy-titkosszolgalat/",
+          "published": "2026-03-31T16:35:00+01:00",
+          "description": "Orbán Viktor maga terelte a kampányt a külpolitika területére, de aztán el kezdtek sorjázni az ügyek, amiket már nem ő uralt. Somogyi Zoltánt és Galgóczi Esztert kérdeztük a legfrissebb botrányok kampányhatásairól.",
+          "image": "https://s.24.hu/app/uploads/2026/03/central-1087673164-320x180.jpg",
+          "category": "Belföld",
+          "author": "Spirk József"
         },
         {
           "title": "Ötven határrendész ellen emeltek vádat, 11 ezer vesztegetési ügy miatt állítják őket bíróság elé",
@@ -1082,7 +1091,7 @@
           "author": "D. Kovács Ildikó"
         },
         {
-          "title": "Puzsér Róbert: Abban bízom, hogy a koncerttel elérjük azokat is, akik nem követik a napi szinten politikát",
+          "title": "Puzsér Róbert: Abban bízom, hogy a koncerttel elérjük azokat is, akik nem követik napi szinten politikát",
           "url": "https://24.hu/kultura/2026/03/31/puzser-robert-rendszerbonto-nagykoncert/",
           "published": "2026-03-31T15:15:00+01:00",
           "description": "Új rétegeket szeretnének mozgósítani a választásra.",
@@ -1107,15 +1116,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/000_a6b239e-e1774961753112-320x180.jpg",
           "category": "Élő",
           "author": "24.hu"
-        },
-        {
-          "title": "Pártsemleges kampányban buzdítja az RTL a nézőket, hogy éljenek a szavazati jogukkal",
-          "url": "https://24.hu/kultura/2026/03/31/rtl-valasztas-szavazas-musor/",
-          "published": "2026-03-31T14:25:00+01:00",
-          "description": "Ismert televíziós személyiségek és közéleti szereplők szólnak majd az állampolgárokhoz.",
-          "image": "https://s.24.hu/app/uploads/2026/03/rtl-logo-csatorna-musor-central-0719670193-320x180.jpg",
-          "category": "Kultúra",
-          "author": "Ács Anna Mária"
         }
       ]
     },
@@ -1549,6 +1549,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Izgulhatnak a Tiszában: újabb dokumentumok lehetnek Csercsa Balázsnál",
+          "url": "https://www.origo.hu/belpol/2026/03/csercsa-balazsnal-izgulhatnak-a-tiszaban-energia-terv",
+          "published": "2026-03-31T21:17:00+01:00",
+          "description": "Magyar Péterék tervéről szóló dokumentumot a Tisza Párt jelenleg is aktív képviselője szivárogtatta ki.",
+          "image": "https://cdn.origo.hu/2026/03/DDF4xByWP6Vsi_VZDYSySYoR6r5HULjQtI3ioNX3l_s/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljYjBmMWRjYzU3NTQ3NjRhNWEyNTM5MmE0NDUwNTNl.webp",
+          "category": "Csercsa Balázs",
+          "author": null
+        },
+        {
           "title": "Gólt érdemelt volna Szoboszlai fantasztikus szólója – videó",
           "url": "https://www.origo.hu/sport/sport-futball/2026/03/szoboszlai-dominik-szolo-magyar-gorog-valogatott-meccs",
           "published": "2026-03-31T21:03:00+01:00",
@@ -1632,10 +1641,10 @@
         {
           "title": "Robbie Keane biztosan nem lesz az angol sztárcsapat edzője",
           "url": "https://www.origo.hu/sport/sport-futball/2026/03/robbie-keane-tottenham-roberto-de-zerbi-hivatalos",
-          "published": "2026-03-31T19:53:00+01:00",
-          "description": "Negyedik vezetőedzőjét nevezte ki a Tottenham.",
-          "image": "https://cdn.origo.hu/2026/03/5EtLIVK9J1Tf3stTZG_7f1s8eq44ucKTKevSArdb7dM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAyZGRlODRkMTBmZjQ0NDVhNjIzYjM4NWJhZmZkOTE5.webp",
-          "category": "Premier League",
+          "published": "2026-03-31T17:53:59+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1762,15 +1771,6 @@
           "description": null,
           "image": null,
           "category": "Kék hírek",
-          "author": null
-        },
-        {
-          "title": "Még messze a dinnyeszezon, de Gabby dinnyéitől összefut a nyál a szánkban",
-          "url": "https://www.origo.hu/nagyvilag/2026/03/dinnye-gabby-mccarthy-osszefut-nyal-szankban",
-          "published": "2026-03-31T16:33:27+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
