@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T19:25:45.142565+00:00",
+  "scraped_at": "2026-03-31T19:30:42.765703+00:00",
   "portals": [
     {
       "id": "telex",
@@ -652,7 +652,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -665,6 +665,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Euromaidan: a volt ukrán vezérkari főnök Zelenszkijt hibáztatja az ellentámadás kudarcáért, ám van egy csavar a történetben",
+          "url": "https://mandiner.hu/kulfold/2026/03/euromaidan-a-volt-ukran-vezerkari-fonok-zelenszkijt-hibaztatja-az-ellentamadas-kudarcaert-am-van-egy-csavar-a-tortenetben",
+          "published": "2026-03-31T19:29:35+00:00",
+          "description": "Az elhibázott döntés óta Ukrajna fokozatosan védekezésbe szorult, és egyre nagyobb nemzetközi nyomás nehezedik rá egy esetleges területi kompromisszum irányába.",
+          "image": "https://cdn.mandiner.hu/2026/03/OTXLM1vKC6KQCC4pXE5FD93H2BNi8_vpHqc02MqtoI8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MzZDgwODZiNWExNzQ4NmM4YWUzOTY1NGUwOWNjZTdm.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Magyarország évek óta támogatja az óraátállítás eltörlését",
           "url": "https://mandiner.hu/belfold/2026/03/magyarorszag-evek-ota-tamogatja-az-oraatallitas-eltorleset",
@@ -878,15 +887,6 @@
           "published": "2026-03-31T15:38:26+00:00",
           "description": "A kifizetés feltétele kizárólag ukrán reformlépések teljesítése.",
           "image": "https://cdn.mandiner.hu/2026/03/qLQGZwoWH1IrsFgcjbRAqkqOlSB7Ej8_0L-KT5GAGlM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI3YWM2YjM3ZTZkNTQxMzZhZjk4ZDJlOWM4NWM0ZWEw.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Fizetett forradalmárok, lelkes ügynökök",
-          "url": "https://mandiner.hu/belfold/2026/03/fizetett-forradalmarok-lelkes-ugynokok",
-          "published": "2026-03-31T15:32:42+00:00",
-          "description": "Nincs itt kérem semmiféle adakozás. A globalista hálózat egyszerűen ezen fedőakción keresztül juttatja el a „majdanpénzt” a magyarországi csicskáihoz.",
-          "image": "https://cdn.mandiner.hu/2026/03/N_6fFfUMtfcQ7ndwC9CMGRRkNvqOcfUGVxQN9ozPdz8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJhNzllMzg0MzEzZTQ3MGI4ZmJkZjIzNjJjZjJjNzBk.jpg",
           "category": null,
           "author": null
         }
@@ -1558,6 +1558,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Szoboszlai Dominik: Álomszerű lenne itt játszani a BL-döntőt",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/03/szoboszlai-dominik-bl-donto-puskas-arena-magyar-gorog",
+          "published": "2026-03-31T21:27:00+01:00",
+          "description": "Most sem kapott gólt a magyar csapat.",
+          "image": "https://cdn.origo.hu/2026/03/xgjW-wbkk1mwuEmxk_PD2ZcscWbc-AOYu_rkljWTeeM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiMDFlNzA2YzIyNDRkNGU4MjRiOGMzOWZlMDBkMjI0.webp",
+          "category": "felkészülési mérkőzés",
+          "author": null
+        },
+        {
           "title": "Izgulhatnak a Tiszában: újabb dokumentumok lehetnek Csercsa Balázsnál",
           "url": "https://www.origo.hu/belpol/2026/03/csercsa-balazsnal-izgulhatnak-a-tiszaban-energia-terv",
           "published": "2026-03-31T21:17:00+01:00",
@@ -1641,10 +1650,10 @@
         {
           "title": "Szétszórnák az időseket a repülőkön a gyorsabb menekülés érdekében",
           "url": "https://www.origo.hu/nagyvilag/2026/03/kiurites-szetszor-idosek-repulo",
-          "published": "2026-03-31T20:05:00+01:00",
-          "description": "Meglepő és sokak számára felháborító javaslattal álltak elő kutatók.",
-          "image": "https://cdn.origo.hu/2026/03/e2DKZeej24iqGUlgWA73z6eN1IInehRfokjPU0mlv1Y/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiZWM3NWZjZmU4MjRjOTBhYjA5MTczMjY5YWQwMDA0.webp",
-          "category": "idősek",
+          "published": "2026-03-31T18:05:19+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1771,15 +1780,6 @@
           "description": null,
           "image": null,
           "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "Élőben nézte végig a tulajdonos, amint betörnek budapesti Airbnb-lakásába – videóval",
-          "url": "https://www.origo.hu/kek-hirek/2026/03/betores-budapesti-airbnb-lakas-tulajdonos-kamera",
-          "published": "2026-03-31T16:34:55+00:00",
-          "description": null,
-          "image": null,
-          "category": "Kék hírek",
           "author": null
         }
       ]
