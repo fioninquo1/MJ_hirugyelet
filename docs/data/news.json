@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T19:20:33.088752+00:00",
+  "scraped_at": "2026-03-31T19:25:45.142565+00:00",
   "portals": [
     {
       "id": "telex",
@@ -480,8 +480,17 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 17,
+      "article_count": 18,
       "articles": [
+        {
+          "title": "Elvitték az Eurojackpot főnyereményét, a szerencsés játékos több mint 70 millió euróval gazdagodott",
+          "url": "https://index.hu/gazdasag/2026/03/31/eurojackpot-szerencsejatek-nyeroszamok-fonyeremeny-sorsolas/",
+          "published": "2026-03-31T19:22:00+00:00",
+          "description": "Egy magyar játékos pedig csaknem negyedmilliárd forintot vihet haza.",
+          "image": "https://kep.index.hu/1/0/4503/45030/450300/45030058_3434916_bb49ad9cab8da622470463a9ff419ead_wm.jpg",
+          "category": "Gazdaság",
+          "author": null
+        },
         {
           "title": "Meglepő fordulatot vett Charlie Kirk meggyilkolásának ügye",
           "url": "https://index.hu/kulfold/2026/03/31/charlie-kirk-gyilkossag-vedelem-tyler-robinson-egyesult-allamok/",
@@ -643,7 +652,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -1738,7 +1747,7 @@
           "author": null
         },
         {
-          "title": "A tökéletes évkezdésre hajt a magyar válogatott a görögök ellen – élő",
+          "title": "A magyar válogatott bíztatóan játszott, Marco Rossi húzását megakadályozta a bíró",
           "url": "https://www.origo.hu/sport/sport-futball/2026/03/magyarorszag-gorogorszag-felkeszules-elo-kozvetites",
           "published": "2026-03-31T17:01:38+00:00",
           "description": null,
