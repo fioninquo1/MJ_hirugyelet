@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T19:30:42.765703+00:00",
+  "scraped_at": "2026-03-31T19:35:49.420562+00:00",
   "portals": [
     {
       "id": "telex",
@@ -480,8 +480,26 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 18,
+      "article_count": 20,
       "articles": [
+        {
+          "title": "Nem mindennapi költözés, mesterséges intelligencia választotta ki az új otthonát a családnak",
+          "url": "https://index.hu/mindekozben/poszt/2026/03/31/nem-mindennapi-koltozes-mesterseges-intelligencia-valasztotta-ki-az-uj-otthonat-a-csaladnak/",
+          "published": "2026-03-31T19:30:17+00:00",
+          "description": "",
+          "image": null,
+          "category": "Mindeközben",
+          "author": null
+        },
+        {
+          "title": "Franciaországot „meglepte” Trump kritikája az amerikai gépek tiltásáról",
+          "url": "https://index.hu/kulfold/2026/03/31/iran-egyesult-allamok-izrael-teheran-haboru-kozel-kelet-konfliktus-libanon-hezbollah-donald-trump/franciaorszagot-meglepte-trump-kritikaja-az-amerikai-katonai-repulesek-betiltasarol/",
+          "published": "2026-03-31T19:30:16+00:00",
+          "description": "",
+          "image": null,
+          "category": "Külföld",
+          "author": null
+        },
         {
           "title": "Elvitték az Eurojackpot főnyereményét, a szerencsés játékos több mint 70 millió euróval gazdagodott",
           "url": "https://index.hu/gazdasag/2026/03/31/eurojackpot-szerencsejatek-nyeroszamok-fonyeremeny-sorsolas/",
@@ -652,7 +670,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -902,6 +920,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Csaknem másfél éve leforgatták a 600 milliós állami támogatással készült Covid-filmet, mégsem lehet tudni, mikor mutatják be",
+          "url": "https://24.hu/kultura/2026/03/31/legszomj-covid-film-filmintezet/",
+          "published": "2026-03-31T21:28:00+01:00",
+          "description": "Bizonyos források szerint politikai okokból tartják vissza, ezzel szemben a Nemzeti FIlmintézet és a producerek szerint még a bemutatási határidőn belül vannak, a rendező viszont szerződés szerint nem nyilatkozhat erről.",
+          "image": "https://s.24.hu/app/uploads/2026/03/244470632_111594181290421_5923306901717244305_n_kiem-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Ács Anna Mária"
+        },
+        {
           "title": "„Pjotr és én barátok vagyunk” – Szijjártó és Lavrov telefonjaitól megihletve írta át a Carson Coma az egyik dalát",
           "url": "https://24.hu/kultura/2026/03/31/carson-coma-szijjarto-lavrov-telefon-dal-atirat/",
           "published": "2026-03-31T21:13:00+01:00",
@@ -1028,13 +1055,13 @@
           "author": "D. Kovács Ildikó"
         },
         {
-          "title": "Donald Trump azt ajánlotta a Hormuzi-szorost használó országoknak, hogy vegyék át az ellenőrzést az útvonal felett",
-          "url": "https://24.hu/kulfold/2026/03/31/iran-izrael-haboru-elo/#donald-trump-azt-ajanlotta-a-hormuzi-szorost-hasznalo-orszagoknak-hogy-vegyek-at-az-ellenorzest-az-utvonal-felett",
-          "published": "2026-03-31T16:58:00+01:00",
-          "description": "Donald Trump azt ajánlotta a Hormuzi-szorost használó országoknak, hogy vegyék át az ellenőrzést az energiaszállítási útvonal felett, vagy szerezzék be az Egyesült Államoktól az energiahordozót.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-2267820939-e1774935177417-320x180.jpg",
-          "category": "Élő",
-          "author": "24.hu"
+          "title": "Magyarországon (is) elbúcsúzhatunk a OnePlus okostelefonoktól",
+          "url": "https://24.hu/tech/2026/03/31/oneplus-okostelefonok-magyarorszag/",
+          "published": "2026-03-31T16:44:00+01:00",
+          "description": "A OnePlus visszatért hazánkba, hogy aztán rövid időn belül újra távozzon.",
+          "image": "https://s.24.hu/app/uploads/2026/03/oneplus-magyarorszag-kivonulas-02-e1774968114746-320x180.jpg",
+          "category": "Tech",
+          "author": "Birkás Péter"
         },
         {
           "title": "Elemzők: Orbánék agresszivitása a 19 éves Gundalffal szemben nem erőt mutat, hanem nevetség tárgya",
@@ -1116,15 +1143,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/24hu_della_podcast_0331-320x180.jpg",
           "category": "Podcast",
           "author": "Baka F. Zoltán"
-        },
-        {
-          "title": "Károly király hivatalos látogatása enyhítheti a brit–amerikai feszült viszonyt",
-          "url": "https://24.hu/kulfold/2026/03/31/iran-izrael-haboru-elo/#karoly-kiraly-hivatalos-latogatasa-enyhitheti-a-brit-amerikai-feszult-viszonyt",
-          "published": "2026-03-31T14:45:00+01:00",
-          "description": "III.",
-          "image": "https://s.24.hu/app/uploads/2026/03/000_a6b239e-e1774961753112-320x180.jpg",
-          "category": "Élő",
-          "author": "24.hu"
         }
       ]
     },
@@ -1238,6 +1256,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Levetették a NER-es cégek tőzsdei zuhanásáról szóló cikket a magyar nyelvű Euronewsról",
+          "url": "https://hvg.hu/itthon/20260331_euronews-ner-tozsdei-cegek-torolt-cikk-belso-levelezes-szerkesztosegi-integritas",
+          "published": "2026-03-31T19:29:00+00:00",
+          "description": "Az Euronews korábban magyar állami hátszéllel került a NER-rel jó viszonyt ápoló és a 4iG-ban is érdekelt portugál Pedro Vargas Santos David tulajdonába.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6de7c125-828c-41ad-b5d4-a08802390329.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Lelőttek egy fiatal antilopot a bécsi állatkertben, még keresik a tettest",
           "url": "https://hvg.hu/vilag/20260331_lelottek-egy-antilopot-a-becsi-allatkertben",
@@ -1422,7 +1449,7 @@
           "title": "Aldi-reklámnak is beillik Orbán és Szijjártó rántottakészítős videója",
           "url": "https://hvg.hu/kkv/20260331_orban-szijjarto-rantotta-aldi",
           "published": "2026-03-31T15:16:41+00:00",
-          "description": "Miközben a kormány élesen bírálja és különadókkal sújtka a multikat, a kabinet is egy ilyen üzletláncnál szeret bevásárolni – derül ki Orbán Viktor Facebook-posztjából.",
+          "description": "Miközben a kormány élesen bírálja és különadókkal sújtja a multikat, a kabinet is egy ilyen üzletláncnál szeret bevásárolni – derül ki Orbán Viktor Facebook-posztjából.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/964ddc6f-d578-4bbf-9d15-732ddb9d449a.jpg",
           "category": "Vállalkozás",
           "author": "szerzo@hvg.hu (HVG)"
@@ -1451,15 +1478,6 @@
           "published": "2026-03-31T15:05:08+00:00",
           "description": "A Tisza Párt elnöke Füzesgyarmaton elmondott beszédében több aktuális témára, így a pártja egykori informatikusának ügyére is kitért.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/909e63d4-2ead-4289-a8a5-46f797b9ba15.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Szijjártó Péter kifakadt: Ugyanazt mondtam a telefonon, amit nyilvánosan is",
-          "url": "https://hvg.hu/itthon/20260331_szijjarto-peter-szergej-lavrov-telefon-lehallgatas-szankcio-reakcio-kulugyminiszter",
-          "published": "2026-03-31T15:02:55+00:00",
-          "description": "Szijjártó szerint a kiszivárgott telefonbeszélgetésen nem hangzik el semmi érdekes, a nyilvánosságra kerülése azonban így is óriási botrány.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/550a8734-a2fd-40b8-a3b4-73b850f7381b.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
         }
