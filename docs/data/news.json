@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T19:55:34.426419+00:00",
+  "scraped_at": "2026-03-31T20:01:02.195291+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "A hatalmas zuhanás után hirtelen visszapattant a NER-es tőzsdei cégek árfolyama",
+          "url": "https://telex.hu/gazdasag/2026/03/31/opus-4ig-neres-cegek-tozsde",
+          "published": "2026-03-31T19:57:35+00:00",
+          "description": "Múlt hét végén nagyot esett a 4IG, az Opus és a Gránit Bank árfolyama, most részben korrigált.",
+          "image": "https://assets.telex.hu/images/20260331/1774986960-temp-ejkiogoah34aaOHIBfm_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
         {
           "title": "A KSH úgy korrigálta a hibás jövedelmi statisztikáit, hogy közben új anomáliákkal rakta tele az adathalmazt",
           "url": "https://telex.hu/gazdasag/2026/03/31/ksh-szegenysegi-jovedelmi-adatok-korrekcioja-csak-ujabb-anomaliakat-okozott",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260331/1774968734-temp-sveaknvrrhi57aPdJbI_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Iván-Nagy Szilvia"
-        },
-        {
-          "title": "Már 4 dollár felett jár egy gallon benzin az USA-ban, és emiatt Donald Trump aggódhat a legjobban",
-          "url": "https://telex.hu/gazdasag/2026/03/31/amerikaban-usa-4-dollar-fole-emelkedett-az-uzemanyag-ara-benzin-2022-ota-eloszor-iran-haboru-trump",
-          "published": "2026-03-31T14:40:41+00:00",
-          "description": "Az iráni konfliktus miatt az ukrajnai háború kirobbanása óta nem látott szintre ment fel az üzemanyagok ára, amit az amerikai választók nem szoktak értékelni.",
-          "image": "https://assets.telex.hu/images/20260331/1774967949-temp-hi662q02velg2aPiNNn_cimlap-normal.jpg",
-          "category": "Gazdaság",
-          "author": "Előd Fruzsina"
         }
       ]
     },
@@ -480,8 +480,35 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 22,
+      "article_count": 24,
       "articles": [
+        {
+          "title": "Búcsúzunk",
+          "url": "https://index.hu/kulfold/2026/03/31/oroszorszag-ukrajna-orosz-ukran-konfliktus-vlagyimir-putyin-volodimir-zelenszkij-kijev-moszkva-egyesult-allamok-donald-trump/bucsuzunk/",
+          "published": "2026-03-31T19:57:58+00:00",
+          "description": "",
+          "image": null,
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Búcsúzunk",
+          "url": "https://index.hu/kulfold/2026/03/31/iran-egyesult-allamok-izrael-teheran-haboru-kozel-kelet-konfliktus-libanon-hezbollah-donald-trump/bucsuzunk/",
+          "published": "2026-03-31T19:57:44+00:00",
+          "description": "",
+          "image": null,
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Orvlövész végezhetett egy ritka antiloppal a bécsi állatkertben",
+          "url": "https://index.hu/kulfold/2026/03/31/antilop-becs-ausztria-allatkert-loves/",
+          "published": "2026-03-31T19:56:00+00:00",
+          "description": "A rendőrség nyomozást indított az ügyben.",
+          "image": "https://kep.index.hu/1/0/6859/68593/685938/68593823_5063135_ed89545c1bf87947361212cc83b32eb2_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
         {
           "title": "Közös versmondással köszönt el az irodalmi világ Nádasdy Ádámtól",
           "url": "https://index.hu/kultur/2026/03/31/nadasdy-adam-gyasz-virrasztas-magyar-irodalom-petofi-irodalmi-muzeum-vers-felolvasas-kultbudapest/",
@@ -670,15 +697,6 @@
           "image": "https://kep.index.hu/1/0/6859/68592/685925/68592561_5063045_e9c947b0e87a8983482e283ba0a61d5d_wm.jpg",
           "category": "Külföld",
           "author": null
-        },
-        {
-          "title": "Népharagra számíthat az Akadémia, ha nem ez a lemez lesz az év albuma",
-          "url": "https://index.hu/kultur/zene/2026/03/31/raye-this-music-may-contain-hope-albumkritika/",
-          "published": "2026-03-31T17:48:00+00:00",
-          "description": "Ez az élmény pezsgőért kiált, de bármi is lesz, a nap ugyanúgy felkel majd és le is nyugszik. Éljen Raye!",
-          "image": "https://kep.index.hu/1/0/6850/68508/685081/68508173_5057011_ee53a75e019dffb31d1da8f810bb487e_wm.jpg",
-          "category": "Stenk",
-          "author": null
         }
       ]
     },
@@ -688,7 +706,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -701,6 +719,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Magyarország–Görögország: „Az volt a fő, hogy ne kapjunk gólt” – komoly pozitívum a nullára lehozott két meccs",
+          "url": "https://mandiner.hu/sport/2026/03/magyar-gorog-kapott-gol-nelkul-toth-balazs",
+          "published": "2026-03-31T19:55:51+00:00",
+          "description": "Összhangban mozgott a védelem.",
+          "image": "https://cdn.mandiner.hu/2026/03/Znhz7t3-c4NqTYbjz5Jw1jOQgNYNe6URj0u58dD9lNI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZhYmYwZTA1YzFjZjQ5YWZhZjc2MzM0NjBiZDkwNTA0.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Pánikban a hálózat: a Tisza kampányfőnöke tiszta ideg, amiért kikerültek a Medián valódi számai",
+          "url": "https://mandiner.hu/belfold/2026/03/panikban-a-halozat-a-tisza-kampanyfonoke-tiszta-ideg-amiert-kikerultek-a-median-valodi-szamai",
+          "published": "2026-03-31T19:54:34+00:00",
+          "description": "Könnyen lehet, hogy az ellenzéki párt más intézet neve alatt hozza majd ki a hamisított kutatást – írta az elemző.",
+          "image": "https://cdn.mandiner.hu/2026/03/hf4nKIGmk1EB1ssi1Ju4dQ2wzLcNo1EjspUyL8Z2q4E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkzZTZjOTA5MGFlODRjNDliYjFiODQwOTU3Nzk4NmQ3.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Terjed a pánik Brüsszelben: már Daniel Freund is Orbán Viktor győzelmére számít",
           "url": "https://mandiner.hu/kulfold/2026/03/terjed-a-panik-brusszelben-mar-daniel-freund-is-orban-viktor-gyozelmere-szamit",
@@ -907,24 +943,6 @@
           "image": "https://cdn.mandiner.hu/2026/02/i6y3A4KYJoqfDR1WyfWNh-8EjJJbbQ7wSdj58nwgMhY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY2MDMzMjA5YWU2ODQwYzhiZjQyYTY5YjI0MjFmMmE3.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Magyar Péter súlyos személyiségtorzulásait mindenki a saját szemével láthatta",
-          "url": "https://mandiner.hu/belfold/2026/03/magyar-peter-sulyos-szemelyisegtorzulasait-mindenki-a-sajat-szemevel-lathatta",
-          "published": "2026-03-31T16:05:19+00:00",
-          "description": "De én még több embertől is részletesen ismerem a jellemtelenségét, brutalitását.",
-          "image": "https://cdn.mandiner.hu/2026/03/QDisql-krGx4b80Mz937vm2qniVPf-gTxdfcCU4ZtiQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmMTUyNzRkN2UzMTRlMDM5OTI3YTY2NDA4MjE0MjA5.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Ha ez bemegy: Szoboszlai óriásit szólózott, az utolsó pillanatban esett el – nem született gól a magyar–görögön",
-          "url": "https://mandiner.hu/sport/2026/03/magyarorszag-gorogorszag-puskas-arena-felkeszulesi-meccs",
-          "published": "2026-03-31T15:51:53+00:00",
-          "description": "Ismét varázsolt a Liverpool világklasszisa.",
-          "image": "https://cdn.mandiner.hu/2026/03/iqeLgnFe90NacAos4AxS9ivCuIXGWd5-pZy3J7iGtr0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0ODlhMTBmY2IxNDQyOTI4OTFjYjBmN2VkYzU2YzQ4.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -937,6 +955,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "A nap legfontosabb hírei – 2025. 03. 31.",
+          "url": "https://24.hu/belfold/2026/03/31/a-nap-legfontosabb-hirei-2025-03-31/",
+          "published": "2026-03-31T21:56:00+01:00",
+          "description": "Szijjártó Lavrovval beszélget, Kósa Lajos Ferrarit vezet.",
+          "image": "https://s.24.hu/app/uploads/2026/03/gettyimages-1813799857-e1774941185706-768x433-1-320x180.jpg",
+          "category": "Belföld",
+          "author": "Dienes Gábriel"
+        },
         {
           "title": "A cseh államfő szerint Szijjártó teljesen megbízhatatlan, ezért felül kéne vizsgálniuk a kapcsolatokat Magyarországgal",
           "url": "https://24.hu/kulfold/2026/03/31/csehorszag-szijjarto-lavrov-unio/",
@@ -1064,13 +1091,13 @@
           "author": "D. Kovács Ildikó"
         },
         {
-          "title": "Magyar Péter felhívta Gundalfot, hogy köszönetet mondjon neki",
-          "url": "https://24.hu/belfold/2026/03/31/magyar-peter-gundalf-telefon/",
-          "published": "2026-03-31T17:28:00+01:00",
-          "description": "„A Tisza melletted áll, és köszönjük szépen, hogy nem törtél meg\" – mondta a politikus a fiatal informatikusnak.",
-          "image": "https://s.24.hu/app/uploads/2026/03/central-1084521899-320x180.jpg",
+          "title": "Závecz: Március végére még egy kicsit nőtt a Tisza támogatottsága",
+          "url": "https://24.hu/belfold/2026/03/31/zavecz-kutatas-2026-marcius-vege-fidesz-tisza/",
+          "published": "2026-03-31T17:19:00+01:00",
+          "description": "A ZRI Závecz Research friss, március végén készült felmérése szerint a heves kampány ellenére alig változtak a pártpreferenciák: a Tisza Párt előnye tovább nőtt.",
+          "image": "https://s.24.hu/app/uploads/2026/03/central-1084522412-e1774970297340-320x180.jpg",
           "category": "Belföld",
-          "author": "Dienes Gábriel"
+          "author": "D. Kovács Ildikó"
         },
         {
           "title": "Donald Trump azt ajánlotta a Hormuzi-szorost használó országoknak, hogy vegyék át az ellenőrzést az útvonal felett",
@@ -1152,15 +1179,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/068_aa_31032026_2717972-e1774963016755-320x180.jpg",
           "category": "Nagyvilág",
           "author": "D. Kovács Ildikó"
-        },
-        {
-          "title": "Puzsér Róbert: Abban bízom, hogy a koncerttel elérjük azokat is, akik nem követik napi szinten a politikát",
-          "url": "https://24.hu/kultura/2026/03/31/puzser-robert-rendszerbonto-nagykoncert/",
-          "published": "2026-03-31T15:15:00+01:00",
-          "description": "Új rétegeket szeretnének mozgósítani a választásra.",
-          "image": "https://s.24.hu/app/uploads/2026/03/puzser-robert-rendszerbonto-nagykoncert-central-1000882262-320x180.jpg",
-          "category": "Kultúra",
-          "author": "Ács Anna Mária"
         }
       ]
     },
