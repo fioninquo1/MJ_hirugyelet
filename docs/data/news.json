@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T18:50:31.973490+00:00",
+  "scraped_at": "2026-03-31T18:55:51.982729+00:00",
   "portals": [
     {
       "id": "telex",
@@ -480,8 +480,26 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 16,
+      "article_count": 14,
       "articles": [
+        {
+          "title": "Megtalálták a megoldást a Hormuzi-szoros körüli káoszra, de azonnal jött az új fenyegetés",
+          "url": "https://index.hu/kulfold/2026/03/31/iran-szaud-arabia-jemen-huszik-olaj-ellatas-konfliktus-haboru-egyesult-allamok-azsia/",
+          "published": "2026-03-31T18:52:00+00:00",
+          "description": "Egy pillanatra fellélegzett a világgazdaság.",
+          "image": "https://kep.index.hu/1/0/6857/68577/685779/68577955_5061999_6b43eb852d06005bb72fd064a5235928_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Megbicsaklott a mesterterv, döntetlent játszott Görögországgal a magyar válogatott",
+          "url": "https://index.hu/sport/futball/2026/03/31/magyar-labdarugo-valogatott-felkeszulesi-merkozes-magyarorszag-gorogorszag-helyszini-tudositas/",
+          "published": "2026-03-31T18:52:00+00:00",
+          "description": "Igaz, egy pontot elvittek a Puskás Arénából, de a szurkolók szívét visszahódított a nemzeti csapat.",
+          "image": "https://kep.index.hu/1/0/6859/68593/685931/68593111_5063081_7d133c554e6faf998ec31f53ac1c67fb_wm.jpg",
+          "category": "Futball",
+          "author": null
+        },
         {
           "title": "Magyar Péter Füzesgyarmatról küldött kemény üzenetet Orbán Viktornak és Szijjártó Péternek",
           "url": "https://index.hu/belfold/2026/03/31/magyar-peter-orszagjaras-fuzesgyarmat-bekes-varmegye-gundalf-kampany-szijjarto-peter-orban-viktor/",
@@ -589,42 +607,6 @@
           "image": "https://kep.index.hu/1/0/6850/68508/685081/68508173_5057011_ee53a75e019dffb31d1da8f810bb487e_wm.jpg",
           "category": "Stenk",
           "author": null
-        },
-        {
-          "title": "Finnország felgyorsítaná légvédelmének fejlesztését a lezuhanó drónok után",
-          "url": "https://index.hu/kulfold/2026/03/31/oroszorszag-ukrajna-orosz-ukran-konfliktus-vlagyimir-putyin-volodimir-zelenszkij-kijev-moszkva-egyesult-allamok-donald-trump/finnorszag-felgyorsitana-legvedelmenek-fejleszteset-a-lezuhano-dronok-utan/",
-          "published": "2026-03-31T17:30:14+00:00",
-          "description": "",
-          "image": null,
-          "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Többen életüket vesztették egy iráni szentély elleni légitámadásban",
-          "url": "https://index.hu/kulfold/2026/03/31/iran-egyesult-allamok-izrael-teheran-haboru-kozel-kelet-konfliktus-libanon-hezbollah-donald-trump/tobben-eletuket-vesztettek-egy-irani-szentely-elleni-legitamadasban/",
-          "published": "2026-03-31T17:30:14+00:00",
-          "description": "",
-          "image": null,
-          "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Az amputációt megúszó Lindsey Vonn lélekemelő videóval üzent a rajongóinak",
-          "url": "https://index.hu/sport/telisport/2026/03/31/lindsey-vonn-teli-olimpia-2026-baleset-serules-felepules/",
-          "published": "2026-03-31T17:20:00+00:00",
-          "description": "Millióknak nyújt inspirációt az olimpiai bajnok klasszis.",
-          "image": "https://kep.index.hu/1/0/6857/68575/685756/68575653_5061821_25e900cf72b7b4a9b7bb36c4a255da36_wm.png",
-          "category": "Téli sport",
-          "author": null
-        },
-        {
-          "title": "Orbán Viktor nem kíméli az Európai Uniót, így vághat vissza a szövetség",
-          "url": "https://index.hu/kulfold/2026/03/31/europai-unio-orban-viktor-daniel-freund-ukrajna-veto-kizaras/",
-          "published": "2026-03-31T17:20:00+00:00",
-          "description": "Daniel Freund szerint az EU-nak van fegyvere Magyarország ellen, csak még nem vetette be.",
-          "image": "https://kep.index.hu/1/0/6859/68591/685915/68591541_5062985_7f1bc812871783b38e46fbd07da43ccd_wm.jpg",
-          "category": "Külföld",
-          "author": null
         }
       ]
     },
@@ -634,7 +616,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -884,6 +866,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Négy embert gyanúsítottként hallgattak ki Gálvölgyi János ügyében",
+          "url": "https://24.hu/elet-stilus/2026/03/31/galvolgyi-janos-mentok-gyanusitottak/",
+          "published": "2026-03-31T20:47:00+01:00",
+          "description": "Három éve hiába hívtak mentőt a színművészhez, az 50 perc után sem érkezett meg.",
+          "image": "https://s.24.hu/app/uploads/2026/03/central-0424172383-1-e1774982759893-320x180.jpg",
+          "category": "Élet-Stílus",
+          "author": "Csontos Kata"
+        },
+        {
           "title": "Magyar Péter a köztársasági elnöknek: Ha ilyen gyáva, akkor távozzon",
           "url": "https://24.hu/belfold/2026/03/31/magyar-peter-sulyok-tamas-uzenet-titkosszolgalat/",
           "published": "2026-03-31T20:28:00+01:00",
@@ -1010,13 +1001,13 @@
           "author": "Spirk József"
         },
         {
-          "title": "Ötven határrendész ellen emeltek vádat, 11 ezer vesztegetési ügy miatt állítják őket bíróság elé",
-          "url": "https://24.hu/belfold/2026/03/31/artand-hatarrendeszek-korrupcio-vademeles/",
-          "published": "2026-03-31T16:26:00+01:00",
-          "description": "15 határrendész ismerte be a bűnösségét.",
-          "image": "https://s.24.hu/app/uploads/2026/03/artand-1024x575-1-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kolontár Krisztián"
+          "title": "Hamarosan fizethetünk azért, hogy mások ne lássák, megnéztük az Instagram sztorijukat",
+          "url": "https://24.hu/tech/2026/03/31/instagram-plus-meta-elofizetes/",
+          "published": "2026-03-31T15:48:00+01:00",
+          "description": "Ha fizetsz, a tudta nélkül nézheted, hogy mit csinál az exed.",
+          "image": "https://s.24.hu/app/uploads/2026/03/instagram-plus-elofiezetes-2268477262-e1774964891860-320x180.jpg",
+          "category": "Tech",
+          "author": "Birkás Péter"
         },
         {
           "title": "„Elég szarul vagyok, azóta folyamatosan ezen jár az agyam” – nem érzi magát felelősnek a metróalagútban történt halálos gázolásért a szerelvény vezetője",
@@ -1098,15 +1089,6 @@
           "image": "https://s.24.hu/app/uploads/2026/03/central-1086943398-e1774958521911-320x180.jpg",
           "category": "Belföld",
           "author": "Rugli Tamás"
-        },
-        {
-          "title": "Végre megváltoztathatjuk a gmailes címünket, az USA-ban már élesedett az új funkció",
-          "url": "https://24.hu/tech/2026/03/31/google-gmail-cim-valtoztatas-csere/",
-          "published": "2026-03-31T14:01:00+01:00",
-          "description": "Lecserélhetők lesznek az e-mail-címek, amiket ma már szégyellünk.",
-          "image": "https://s.24.hu/app/uploads/2026/03/gmail-cim-megvaltoztatas-google-e1774958384763-320x180.jpg",
-          "category": "Tech",
-          "author": "Birkás Péter"
         }
       ]
     },
@@ -1459,7 +1441,7 @@
         {
           "title": "A Bajcsy-Zsilinszky Kórház több épületében sincs fűtés, hősugárzókat és takarókat osztanak a betegeknek",
           "url": "https://kontroll.hu/cikk/belfold/2026/03/31/a-bajcsy-zsilinszky-korhaz-toebb-epueleteben-sincs-futes-hosugarzokat-es-takarokat-osztanak-a-betegeknek",
-          "published": "2026-03-31T19:06:31.971293+01:00",
+          "published": "2026-03-31T19:06:38.448682+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
