@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-07T19:30:50.519328+00:00",
+  "scraped_at": "2026-04-07T19:35:27.279398+00:00",
   "portals": [
     {
       "id": "telex",
@@ -480,7 +480,7 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 18,
+      "article_count": 15,
       "articles": [
         {
           "title": "Balázs Andi a párjáról: Fantasztikusan ért hozzám, ha valamit nem akarok megcsinálni",
@@ -616,33 +616,6 @@
           "image": "https://kep.index.hu/1/0/6872/68720/687206/68720651_5072309_28ec38b9523ee0cf803f19bff83eb7e0_wm.jpg",
           "category": "Fomo",
           "author": null
-        },
-        {
-          "title": "Donald Trump: Imádom Magyarországot, imádom Viktort, elképesztő ember",
-          "url": "https://index.hu/belfold/2026/04/07/j.-d.-vance-orban-viktor-nagygyules-egyesult-allamok-donald-trump-mtk-sportpark/",
-          "published": "2026-04-07T17:07:00+00:00",
-          "description": "J. D. Vance a budapesti nagygyűlésen megemlítette Kossuth Lajost, aki olyan fogadtatást kapott az Egyesült Államokban, mint egy rocksztár.",
-          "image": "https://kep.index.hu/1/0/6872/68722/687223/68722365_5072435_43107f398555614a4110b727e91257b5_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Ezt a két nélkülözhetetlen tárgyat vitte magával Kiara Lord az Ázsia Expressz forgatására",
-          "url": "https://index.hu/fomo/2026/04/07/kiara-lord-azsia-expressz-borond-pakolas-szemelyes-targyak-utazas-david-petra/",
-          "published": "2026-04-07T17:04:00+00:00",
-          "description": "Ezek segítik majd át a verseny nehezebb pillanatain.",
-          "image": "https://kep.index.hu/1/0/6872/68722/687221/68722191_5072423_795963c434156d20978b140dfee72c1e_wm.jpg",
-          "category": "Fomo",
-          "author": null
-        },
-        {
-          "title": "A szomszédban már vészforgatókönyvvel készülnek",
-          "url": "https://index.hu/gazdasag/2026/04/07/romania-veszforgatokonyv-uzemanyaghiany-nicusor-dan-temesvar/",
-          "published": "2026-04-07T16:59:00+00:00",
-          "description": "Esetleges üzemanyaghiánytól tartanak.",
-          "image": "https://kep.index.hu/1/0/6872/68720/687204/68720479_5072297_55dd52f9d4e272b07f2497b697fbb188_wm.jpg",
-          "category": "Gazdaság",
-          "author": null
         }
       ]
     },
@@ -652,7 +625,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -905,7 +878,7 @@
           "title": "A nap legfontosabb hírei - 2026. 04. 07.",
           "url": "https://24.hu/belfold/2026/04/07/a-nap-legfontosabb-hirei-2026-04-07/",
           "published": "2026-04-07T21:22:00+01:00",
-          "description": "JD Vance: Az Egyesült Államok mindenkivel együtt fog működni",
+          "description": "JD Vance: Az Egyesült Államok mindenkivel együtt fog működni.",
           "image": "https://s.24.hu/app/uploads/2026/04/moh_4964-1-1536x1024-1-e1775589759464-320x180.jpg",
           "category": "Belföld",
           "author": "24.hu"
