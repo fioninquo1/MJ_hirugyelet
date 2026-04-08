@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-08T19:01:01.015376+00:00",
+  "scraped_at": "2026-04-08T19:05:39.612128+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,33 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Tarjányi Péter megnyomta a vészcsengőt, szerinte a kiszivárgott hangfelvételekből az látszik: valaki figyel",
+          "url": "https://index.hu/belfold/2026/04/08/tarjanyi-peter-szijjarto-peter-orban-viktor-oroszorszag-egyesult-allamok-valasztas-2026/",
+          "published": "2026-04-08T19:03:00+00:00",
+          "description": "A biztonságpolitikai szakértő szerint valaki fellép a magyar kormány különutas politikájával szemben.",
+          "image": "https://kep.index.hu/1/0/6713/67133/671332/67133275_4956711_ff8626f901f09d14823840ec12cc06fe_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
+          "title": "Választási retorikának tartják Ukrajnában J. D. Vance szavait az ukrán beavatkozásról",
+          "url": "https://index.hu/kulfold/2026/04/08/oroszorszag-ukrajna-orosz-ukran-konfliktus-moszkva-kijev-vlagyimir-putyin-volodimir-zelenszkij-europai-unio-nato-beketargyalasok/valasztasi-retorikanak-tartjak-ukrajnaban-j.-d.-vance-kijelenteseit-az-ukran-beavatkozasrol/",
+          "published": "2026-04-08T19:00:15+00:00",
+          "description": "",
+          "image": null,
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Donald Trump: Csak egy pontlista van, ami elfogadható az Egyesült Államoknak",
+          "url": "https://index.hu/kulfold/2026/04/08/iran-izrael-egyesult-allamok-iran-usa-konfliktus-kozel-keleti-konfliktus-haboru-teheran-washington-donald-trump-benjamin-netanjahu-libanon-hezbollah/trump/",
+          "published": "2026-04-08T19:00:15+00:00",
+          "description": "",
+          "image": null,
+          "category": "Külföld",
+          "author": null
+        },
+        {
           "title": "Orosz sajtó: Több ezer dollárt ígérnek Magyarországon ukránoknak kormányellenes tüntetésért",
           "url": "https://index.hu/kulfold/2026/04/08/orosz-sajto-ukran-hirdetes-tuntetes-demonstracio/",
           "published": "2026-04-08T18:33:00+00:00",
@@ -679,33 +706,6 @@
           "image": null,
           "category": "Külföld",
           "author": null
-        },
-        {
-          "title": "Orbán Viktor szerint a tiszások is a Fideszre szavaznak, ha megfontolják ezeket a gondolatokat",
-          "url": "https://index.hu/belfold/2026/04/08/orban-viktor-fidesz-kampany-sopron-orszagjaras-valasztas2026-orszaggyulesi-valasztasok/",
-          "published": "2026-04-08T16:37:00+00:00",
-          "description": "A miniszterelnök úgy látja, 3 millió szavazóra lesz szükségük vasárnap.",
-          "image": "https://kep.index.hu/1/0/6873/68733/687338/68733897_5073289_471926641fb80843ae3d31feac96ddf6_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Elhalaszthatja a Kreml a győzelem napi parádét, ukrán támadásoktól tartanak",
-          "url": "https://index.hu/kulfold/2026/04/08/oroszorszag-ukrajna-orosz-ukran-konfliktus-moszkva-kijev-vlagyimir-putyin-volodimir-zelenszkij-europai-unio-nato-beketargyalasok/elhalaszthatja-a-kreml-a-gyozelem-napi-paradet-ukran-tamadasoktol-tartanak/",
-          "published": "2026-04-08T16:30:11+00:00",
-          "description": "",
-          "image": null,
-          "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Közösen foglaltak állást európai és kanadai vezetők az iráni háborúról",
-          "url": "https://index.hu/kulfold/2026/04/08/iran-izrael-egyesult-allamok-iran-usa-konfliktus-kozel-keleti-konfliktus-haboru-teheran-washington-donald-trump-benjamin-netanjahu-libanon-hezbollah/europai-es-kanadai-vezetok-a-haboru-befejezese-csak-diplomaciai-uton-erheto-el/",
-          "published": "2026-04-08T16:30:11+00:00",
-          "description": "",
-          "image": null,
-          "category": "Külföld",
-          "author": null
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -1302,6 +1302,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "444: Még tavaly novemberben is 27 milliárdos éves költséget számolt a csádi misszióra a Honvédelmi Minisztérium",
+          "url": "https://hvg.hu/itthon/20260408_csadi-misszio-honvedelmi-miniszterium-tervezet-444-dokumentum",
+          "published": "2026-04-08T19:03:51+00:00",
+          "description": "A lap birtokába került tervezet szerint csak a logisztikai kiadások 21,8 milliárdot emésztettek volna fel.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5528e265-b226-4612-88b1-a9304887f459.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Aba-Horváth István szerint manipulált a felvétel, amin ételosztásról egyeztet a Fidesz jelöltjével",
           "url": "https://hvg.hu/itthon/20260408_aba-horvath-istvan-felvetel-etelosztas-fidesz-tisza",
           "published": "2026-04-08T18:41:41+00:00",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bc3d5f62-ef3d-408d-be6c-ac2bc171f6e4.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Szijjártó reagált az újabb titkos hangfelvételekre: „Szokatlanul durva és nyílt külföldi titkosszolgálati beavatkozás”",
-          "url": "https://hvg.hu/itthon/20260408_szijjarto-titkosszolgalati-beavatkozas-hangfelvetel-lavrov",
-          "published": "2026-04-08T14:59:28+00:00",
-          "description": "A magyar külügyminiszter szerint a mai leleplezésből négy fantasztikus újdonság derült ki.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dd555f55-22eb-46a5-bc31-e948ffca957f.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Megroppanhat a Fidesz: kétharmados Tisza-előnyt mért a Medián",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/08/megroppanhat-a-fidesz-ketharmados-tisza-elonyt-mert-a-median",
-          "published": "2026-04-08T19:28:52.637236+01:00",
+          "published": "2026-04-08T19:29:25.366216+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1621,6 +1621,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Szijjártó Péter: Magyarország jövőjéről a magyar emberek dönthetnek, nem a külföldi titkosszolgálatok",
+          "url": "https://www.origo.hu/kulpol/2026/04/szijjarto-peter-magyarorszag-magyar-emberek-kulfoldi-titkosszolgalatok",
+          "published": "2026-04-08T21:03:00+01:00",
+          "description": "Magyarország jövőjéről a magyar emberek dönthetnek, nem a külföldi titkosszolgálatok, ezért mindenki szavazata fontos április 12-én a nemzeti szuverén kormány fenntartása érdekében.",
+          "image": "https://cdn.origo.hu/2026/04/59pqYUSCgLbJr9O263s9YmVXxIczVZtoq4yQnADwLxA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y0MzVmYzMzODE1NzQzYTg5NzNjZmQ2OTZlOWE0ZGY4.webp",
+          "category": "Szijjártó Péter",
+          "author": null
+        },
+        {
+          "title": "Ukrán NGO toborozhat embereket Magyarországon – puccskísérlet gyanúja is felmerül",
+          "url": "https://www.origo.hu/kulpol/2026/04/ukran-ngo-toborzas-puccs-gyanu",
+          "published": "2026-04-08T21:03:00+01:00",
+          "description": "A katonai tapasztalat sem jelent hátrányt a kiválasztás során.",
+          "image": "https://cdn.origo.hu/2026/04/gE2inF9iR8G-BImmZLWxdqE6jr7QIU0YEHo20PEjzVI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk0MGYzMGNhNDAxNjRmNDBiZjZhNGRjNDVlYjZhZWIw.webp",
+          "category": "Andrij Jermak",
+          "author": null
+        },
+        {
           "title": "Szoboszlai Dominik és a Liverpool a BL-győztesen állna bosszút – ÉLŐ",
           "url": "https://www.origo.hu/sport/sport-futball/2026/04/szoboszlai-dominik-psg-liverpool-bajnokok-ligaja",
           "published": "2026-04-08T20:55:00+01:00",
@@ -1695,19 +1713,19 @@
         {
           "title": "Húsvéthétfőn ölte meg a feleségét, a szomszédok kedvelték a szökésben levő férfit",
           "url": "https://www.origo.hu/kek-hirek/2026/04/gyilkossag-szigethalom-reszletek-hajtovadaszat",
-          "published": "2026-04-08T20:08:00+01:00",
-          "description": "A szomszédokat mélyen lesújtotta a tragédia.",
-          "image": "https://cdn.origo.hu/2026/04/YE8MbYncxeqELNI__XViWI-5CIUPSZqzlVhkWg_Y9Vs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NlYmEwMjZiN2NjNzQ0NGJhYjY4NTllM2MwNWZhMzU4.webp",
-          "category": "Szigethalom",
+          "published": "2026-04-08T18:08:42+00:00",
+          "description": null,
+          "image": null,
+          "category": "Kék hírek",
           "author": null
         },
         {
           "title": "Szenvedély, dráma, hatalmas show – elképesztő műsor érkezik a televízióra",
           "url": "https://www.origo.hu/itthon/2026/04/danko-pista-operett-m5-musor",
-          "published": "2026-04-08T20:03:00+01:00",
-          "description": "Hatalmas sztárok is fellépnek.",
-          "image": "https://cdn.origo.hu/2026/04/Jw_WIgqsv_-InkHnVhv9feF7515FIAmuk7eDJYMqbjM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZkNGVlODA5YWQxYjQ1MTNhNGFmYmU4YTQ4ODZmY2Rk.webp",
-          "category": "operettszínház",
+          "published": "2026-04-08T18:03:49+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
           "author": null
         },
         {
@@ -1825,24 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "J. D. Vance szerint Magyarország energiabiztonsága kiemelkedő",
-          "url": "https://www.origo.hu/itthon/2026/04/j-d-vance-magyarorszag-boka-janos-energia",
-          "published": "2026-04-08T16:38:33+00:00",
-          "description": null,
-          "image": null,
-          "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Szijjártó Péter: Újabb titkosszolgálati akció, ezúttal iráni telefonhívás + videó",
-          "url": "https://www.origo.hu/kulpol/2026/04/szijjarto-peter-titkosszolgalati-akcio-video",
-          "published": "2026-04-08T16:37:45+00:00",
-          "description": null,
-          "image": null,
-          "category": "Külpolitika",
           "author": null
         }
       ]
