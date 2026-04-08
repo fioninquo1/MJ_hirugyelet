@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-08T14:10:35.487504+00:00",
+  "scraped_at": "2026-04-08T14:15:29.908279+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Négymilliárd forintért több, mint 100 sportpálya kap rekortán borítást Magyarországon",
+          "url": "https://index.hu/sport/2026/04/08/sportpalya-felujitas-rekortan-boritas-negymilliard-forint-aktiv-magyarorszag-program/",
+          "published": "2026-04-08T14:10:00+00:00",
+          "description": "A támogatás mértéke 50 százalékos, a költségek másik felét a jelentkezőknek kell biztosítaniuk.",
+          "image": "https://kep.index.hu/1/0/6873/68731/687317/68731721_5073119_dc4bc4bcd6a2a0af1520158812a8022c_wm.jpg",
+          "category": "Sport",
+          "author": null
+        },
+        {
           "title": "Politico: Magyarország és Oroszország 12 pontos együttműködési megállapodást írt alá",
           "url": "https://index.hu/kulfold/2026/04/08/oroszorszag-magyarorszag-megallapodas-szijjarto-peter-mihail-marusko-egyuttmukodes-dokumentum/",
           "published": "2026-04-08T14:02:00+00:00",
@@ -696,15 +705,6 @@
           "description": "A mérkőzés mindössze 49 percig tartott.",
           "image": "https://kep.index.hu/1/0/6872/68728/687284/68728493_5072885_5bcd4ef066d8cadffd4c505886aedfa2_wm.jpg",
           "category": "Tenisz",
-          "author": null
-        },
-        {
-          "title": "Magyar bajnokok vizsgálatából derült ki, melyek a legegészségesebb sportok",
-          "url": "https://index.hu/sport/alapvonal/2026/04/08/sport-eletmod-dns-oregedes-egeszseg/",
-          "published": "2026-04-08T11:35:00+00:00",
-          "description": "De minden sport évekkel hosszabbítja meg az életünket.",
-          "image": "https://kep.index.hu/1/0/6862/68627/686271/68627125_5065535_5dae37fc92e58256294cf8ffc62f8bce_wm.jpg",
-          "category": "Alapvonal",
           "author": null
         }
       ]
@@ -1186,10 +1186,236 @@
       "name": "24.hu",
       "url": "https://24.hu/hirfolyam/",
       "color": "#888888",
-      "status": "error",
-      "error": "ClientResponseError: 405, message='Not Allowed', url='https://24.hu/hirfolyam/'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "„A hét végére börtönbe kerültök” – ellopták Cardi B hitelkártyáját, a rapper a tolvajoknak üzent",
+          "url": "https://24.hu/kultura/2026/04/08/cardi-b-hitelkartyacsalas-lopas/",
+          "published": "2026-04-08T16:10:00+01:00",
+          "description": "A tolvajok hatvanezer dollárt költöttek el ruhákra és Apple termékekre.",
+          "image": "https://s.24.hu/app/uploads/2026/04/063_2260729730-e1775656918666-320x180.jpg",
+          "category": "Kultúra",
+          "author": "24.hu"
+        },
+        {
+          "title": "Magyar Péter: léptesse vissza a Fidesz a csaláson ért két debreceni jelöltjét",
+          "url": "https://24.hu/belfold/2026/04/08/magyar-peter-fidesz-debrecen-visszalepes/",
+          "published": "2026-04-08T15:45:00+01:00",
+          "description": "Szerinte az Országos Roma Önkormányzat vezetőjének is távoznia kell.",
+          "image": "https://s.24.hu/app/uploads/2026/04/magyar-peter-1-e1775655886398-320x180.jpg",
+          "category": "Belföld",
+          "author": "Ürmös Dániel"
+        },
+        {
+          "title": "Szijjártó Péter segítséget ajánlott Iránnak a csipogós támadások után – sajtóértesülés",
+          "url": "https://24.hu/kulfold/2026/04/08/szijjarto-iran-segitseg-csipogok-hezbollah-wapo-ertesules/",
+          "published": "2026-04-08T15:40:00+01:00",
+          "description": "A Hezbollahhoz köthető csipogók 2024 szeptemberi felrobbanása után a magyar kormány felajánlotta együttműködését Iránnak – írja a Washington Post egy kiszivárgott és hitelesített telefonos átirat alapján.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1089257277-e1775655545887-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "Elek Gábor csapata az EL-döntőben találkozhat magyarokkal felálló Thüringerrel",
+          "url": "https://24.hu/sport/2026/04/08/europa-liga-negyes-donto-sorsolas-esztergom/",
+          "published": "2026-04-08T15:33:00+01:00",
+          "description": "Elkészült az Európa Liga négyes döntőjének sorsolása",
+          "image": "https://s.24.hu/app/uploads/2026/04/d_mrc20260215123-e1775655150997-320x180.jpg",
+          "category": "Sport",
+          "author": "24.hu"
+        },
+        {
+          "title": "Kiara Lord elmondta, mi idegesíti a legjobban Ázsia expresszes csapattársában",
+          "url": "https://24.hu/elet-stilus/2026/04/08/azsia-expressz-kiara-lord-david-petra-idegesito-szokas/",
+          "published": "2026-04-08T15:28:00+01:00",
+          "description": "Vajon ez árnyékot vethet a kalandrealityben való együttműködésükre?",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1089450308-1-e1775654870953-320x180.jpg",
+          "category": "Élet-Stílus",
+          "author": "Grósz Petra"
+        },
+        {
+          "title": "Orbán: Úgy tudjuk, hogy nyerésben vagyunk",
+          "url": "https://24.hu/belfold/2026/04/08/valasztas-2026-orban-felmeres-szamok-fidesz/",
+          "published": "2026-04-08T15:21:00+01:00",
+          "description": "Orbán Viktor szerint a Fidesz vezet a közvélemény-kutatásokban, és vasárnap győzelemre készül.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1089463723-e1775654434188-320x180.jpg",
+          "category": "Belföld",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "Fidesz-közeli, közpénzzel támogatott alapítványok hálózata található a Budapestre menekült lengyel politikus körül",
+          "url": "https://24.hu/belfold/2026/04/08/halozat-budapest-lengyel-politikus/",
+          "published": "2026-04-08T15:17:00+01:00",
+          "description": "Érdekes szervezeti hálózat rajzolódott ki a Budapestre szökött, egykori lengyel igazságügyi miniszterhelyettes körül.",
+          "image": "https://s.24.hu/app/uploads/2026/04/marcin-romanowski-e1775651484349-320x180.jpg",
+          "category": "Belföld",
+          "author": "Ürmös Dániel"
+        },
+        {
+          "title": "Mészáros Lőrinc „megúszta”, nem lett semmi a Lázár János által ígért szigorú elszámoltatásból",
+          "url": "https://24.hu/belfold/2026/04/08/r-kord-meszaros-lorinc-lazar-janos-alvallalkozok/",
+          "published": "2026-04-08T15:16:00+01:00",
+          "description": "Az Építési és Közlekedési Minisztérium márciusig húzta a tárgyalásokat az R-Kord ki nem fizetett alvállalkozójával, aztán bejelentette, hogy nem tud segíteni.",
+          "image": "https://s.24.hu/app/uploads/2026/04/8a2e7426-f67f-4884-9ed3-61ba67ee0034_kiem-320x180.jpg",
+          "category": "Belföld",
+          "author": "Spirk József"
+        },
+        {
+          "title": "Hasznos újdonságot kapnak az elmúlt évek Samsung okostévéi",
+          "url": "https://24.hu/tech/2026/04/08/samsung-teve-google-cast-frissites/",
+          "published": "2026-04-08T15:14:00+01:00",
+          "description": "Számos Samsung tévén megjelenik a Google Cast, egyszerűbbé válik a tartalommegosztás.",
+          "image": "https://s.24.hu/app/uploads/2026/04/samsung-okosteve-google-cast-frissites-e1775654032217-320x180.jpg",
+          "category": "Tech",
+          "author": "Birkás Péter"
+        },
+        {
+          "title": "Holtan találtak egy fiatal magyar férfit Grönlandon",
+          "url": "https://24.hu/belfold/2026/04/08/gronland-meghalt-magyar-ferfi/",
+          "published": "2026-04-08T15:13:00+01:00",
+          "description": "Az áldozatot napokig eltűntként keresték Magyarországon.",
+          "image": "https://s.24.hu/app/uploads/2026/04/gettyimages-2255789609-320x180.jpg",
+          "category": "Belföld",
+          "author": "Vaskor Máté"
+        },
+        {
+          "title": "Nagy Dávid: Ebben az országban kell egy erő, amelyik nem gyáva szar",
+          "url": "https://24.hu/belfold/2026/04/08/nagy-david-interju-mkkp-listavezeto-valasztas-2026/",
+          "published": "2026-04-08T15:09:00+01:00",
+          "description": "A listavezető úgy látja: a Kétfarkú Kutya Párt nélkül nem lehetséges a valódi rendszerváltás.",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_4664-copy-320x180.jpg",
+          "category": "Belföld",
+          "author": "Ősze András"
+        },
+        {
+          "title": "Hajtóvadászatot indított a rendőrség Fajta Norbert ellen a felesége meggyilkolása miatt",
+          "url": "https://24.hu/belfold/2026/04/08/szigethalom-emberoles-fajta-norbert-hajtovadaszat/",
+          "published": "2026-04-08T14:58:00+01:00",
+          "description": "Egy 37 éves nőt öltek meg Szigethalmon.",
+          "image": "https://s.24.hu/app/uploads/2026/04/fajta-norb-e1775652929548-320x180.jpg",
+          "category": "Belföld",
+          "author": "Kolontár Krisztián"
+        },
+        {
+          "title": "A Poco X8 Pro Max tényleg hatalmas akkumulátort kapott, és nem ez az egyetlen jó tulajdonsága",
+          "url": "https://24.hu/tech/2026/04/08/xiaomi-poco-x8-pro-max-okostelefon-8500-mah/",
+          "published": "2026-04-08T14:44:00+01:00",
+          "description": "A 200 ezer alatti árért cserébe elég sok mindent kínál ez a középkategóriás mobil.",
+          "image": "https://s.24.hu/app/uploads/2026/04/poco-x8-pro-max-okostelefon-09-e1775652188149-320x180.jpg",
+          "category": "Tech",
+          "author": "Birkás Péter"
+        },
+        {
+          "title": "Kiderült: nem az NGM szervezte Nagy Mártonék Fertő tavi útját",
+          "url": "https://24.hu/belfold/2026/04/08/kiderult-nem-az-ngm-szervezte-nagy-martonek-ferto-tavi-utjat/",
+          "published": "2026-04-08T14:43:00+01:00",
+          "description": "Bírósági eljárásban derült ki, hogy nem a Nemzetgazdasági Minisztérium szervezte Nagy Márton februári, Fertő tóhoz tervezett ausztriai kitelepülését.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0888886395-e1775652187851-320x180.jpg",
+          "category": "Belföld",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "41 éves korában meghalt Lakatos Nikoletta, a MOME rektori kabinetfőnöke, a roma művészeti világ meghatározó alakja",
+          "url": "https://24.hu/kultura/2026/04/08/meghalt-lakatos-nikoletta/",
+          "published": "2026-04-08T14:36:00+01:00",
+          "description": "Váratlan és gyors lefolyású betegség támadta meg.",
+          "image": "https://s.24.hu/app/uploads/2026/04/lakatos-nikoletta-meghalt-e1775651422719-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "Agyonvertek egy férfit Hejőcsabán",
+          "url": "https://24.hu/belfold/2026/04/08/miskolc-hejocsaba-emberoles-letartoztatas/",
+          "published": "2026-04-08T14:28:00+01:00",
+          "description": "Letartóztatták az áldozata fejét szétverő férfit.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0803252728-2026-02-20t090357-327-1-320x180.jpg",
+          "category": "Belföld",
+          "author": "Kolontár Krisztián"
+        },
+        {
+          "title": "Vízilabda-vk: a magyar válogatott legyőzte a szerbeket",
+          "url": "https://24.hu/sport/2026/04/08/vizilabda-ferfi-vizilabda-valogatott-vizilabda-vilagkupa-varga-zsolt-s/",
+          "published": "2026-04-08T14:26:00+01:00",
+          "description": "A magyar férfi vízilabda-válogatott 12-10-re legyőzte az olimpiai- és Európa-bajnok szerbeket a világkupán és ezzel az is eldőlt, hogy Varga Zsolt szövetségi kapitány csapata ott lesz a sorozat nyári nyolcas döntőjében.",
+          "image": "https://s.24.hu/app/uploads/2026/04/vizilabda-2-e1775651062612-320x180.jpg",
+          "category": "Sport",
+          "author": "24.hu"
+        },
+        {
+          "title": "Wossala Rozina ismét kritizálta Rácz Jenőt, így reagált a sztárséf",
+          "url": "https://24.hu/elet-stilus/2026/04/08/wossala-rozina-racz-jeno-kritika-valasz/",
+          "published": "2026-04-08T14:23:00+01:00",
+          "description": "Wossala leszögezte, hogy sokkal jobb szakembernek tartja magánál a séfet, ugyanakkor továbbra is fenntartja azt, amit januárban írt róla.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0943197326-e1775651008329-320x181.jpg",
+          "category": "Élet-Stílus",
+          "author": "Grósz Petra"
+        },
+        {
+          "title": "Kováts Eszter: Először a félelemmel kell kezdenünk valamit",
+          "url": "https://24.hu/belfold/2026/04/08/kovats-eszter-valasztas-kampany-felelem-megosztottsag/",
+          "published": "2026-04-08T14:16:00+01:00",
+          "description": "Ebben a következő kormányra és a választókra is vár feladat, de máshogy nem lehet felszámolni a hisztérikus polarizációt.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1087185428-320x180.jpg",
+          "category": "Vélemény",
+          "author": "Kováts Eszter"
+        },
+        {
+          "title": "Demjén Ferenc letiltatta a Mi vagyunk a NER című paródiavideót",
+          "url": "https://24.hu/kultura/2026/04/08/demjen-ferenc-mi-vagyunk-a-ner/",
+          "published": "2026-04-08T14:10:00+01:00",
+          "description": "A klipben különböző kormánypárti politikusok és üzletemberek Muppet-figuraként énekelték meg, hogy „mi vagyunk a NER, mi vagyunk a tolvajok” .",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1083482372-e1775650046411-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "A Tisza küldi a legtöbb delegáltat a választási bizottságokba",
+          "url": "https://24.hu/belfold/2026/04/08/valasztasi-bizottsagok-delegaltak-tisza-fidesz-2026/",
+          "published": "2026-04-08T14:10:00+01:00",
+          "description": "Több mint 35 ezer párt- és jelölti delegált vesz részt az április 12-ei parlamenti választáson a szavazatszámláló bizottságok munkájában.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0680551940-e1775650197908-320x180.jpg",
+          "category": "Belföld",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "Ruszin-Szendi Romulusz: Szalay-Bobrovinczky Kristófnak hálás lehet a fiatalság",
+          "url": "https://24.hu/belfold/2026/04/08/ruszin-szendi-nyilt-level-koszonet-szalay-bobrovinczky/",
+          "published": "2026-04-08T14:09:00+01:00",
+          "description": "Szerinte a honvédelmi miniszter hozzájárul a Fidesz bukásához.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0976605226-e1775198399277-1440x810-1-320x180.jpg",
+          "category": "Belföld",
+          "author": "Farkas György"
+        },
+        {
+          "title": "„Néha a jó szándékú, nyílt zsarolás a legjobb megoldás” – újabb Szijjártó–Lavrov-beszélgetések kerültek nyilvánosságra",
+          "url": "https://24.hu/kulfold/2026/04/08/szijjarto-peter-szergej-lavrov-vsquare/",
+          "published": "2026-04-08T13:50:00+01:00",
+          "description": "Újabb cikket közölt a VSquare az orosz és a magyar külügyminiszter beszélgetéseiről.",
+          "image": "https://s.24.hu/app/uploads/2026/04/000_86g2496-1-e1775646877306-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "24.hu"
+        },
+        {
+          "title": "Orbán rettegett intézőembere, a Temuról rendelt Bill Gates – Rogán Antalról készített videót Lengyel Tamás",
+          "url": "https://24.hu/kultura/2026/04/08/lengyel-tamas-rogan-antal/",
+          "published": "2026-04-08T13:38:00+01:00",
+          "description": "A Magyarország Kedvenc Műsorát vezető színész szerint Rogán Antal neve sok hazai médiumban továbbra is tabu, ezért ők most listába szedik a titkosszolgálatokért is felelős miniszter bűneit.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1003554689-e1775647706269-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "Manuel Neuer Lionel Messi magasságába ért",
+          "url": "https://24.hu/sport/foci/2026/04/08/manuel-neuer-bayern-munchen-lionel-messi-bajnokok-ligaja-bl/",
+          "published": "2026-04-08T13:33:00+01:00",
+          "description": "Létezik egy mutató, amelyben a világ egyik legjobb mezőnyjátékosa és kapusa teljesítménye összevethető.",
+          "image": "https://s.24.hu/app/uploads/2026/04/051_xxjpbee000029_20260408_pepfn0a001-e1775647110993-320x180.jpg",
+          "category": "Foci",
+          "author": "24.hu"
+        }
+      ]
     },
     {
       "id": "neokohn",
@@ -1540,7 +1766,7 @@
         {
           "title": "Újabb rendőr szólalt meg: a politikai megfelelés kényszere torzítja az NNI munkáját",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/08/ujabb-rendor-szolalt-meg-a-politikai-megfeleles-kenyszere-torzitja-az-nni-munkajat",
-          "published": "2026-04-08T14:31:35.485345+01:00",
+          "published": "2026-04-08T14:31:29.709134+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
