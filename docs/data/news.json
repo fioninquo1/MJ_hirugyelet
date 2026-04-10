@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-10T19:00:46.206400+00:00",
+  "scraped_at": "2026-04-10T19:05:39.733474+00:00",
   "portals": [
     {
       "id": "telex",
@@ -480,7 +480,7 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 20,
+      "article_count": 19,
       "articles": [
         {
           "title": "Panyi Szabolcs megszólalt a lehallgatásokról és az őt ért vádakról",
@@ -652,15 +652,6 @@
           "image": "https://kep.index.hu/1/0/6877/68772/687725/68772547_5076097_ab09f5627756f30f9999d85f136bda88_wm.jpg",
           "category": "Gazdaság",
           "author": null
-        },
-        {
-          "title": "Egy friss felmérés szerint minden hatodik orvos csak magánellátásban dolgozik Magyarországon",
-          "url": "https://index.hu/belfold/2026/04/10/magyar-orvosi-kamara-mok-felmeres-statisztika-allami-maganszektor-maganellatas/",
-          "published": "2026-04-10T16:14:00+00:00",
-          "description": "Az állami ellátás pedig lassan kiürül.",
-          "image": "https://kep.index.hu/1/0/6877/68776/687769/68776945_5076415_540e7e001414c81997ef7039806551f4_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -670,7 +661,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -683,6 +674,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Aki a Tiszára szavaz, annak fogalma sincs, mire mond igent – csak azt tudhatja, mire mond nemet",
+          "url": "https://mandiner.hu/belfold/2026/04/aki-a-tiszara-szavaz-annak-fogalma-sincs-mire-mond-igent-csak-azt-tudhatja-mire-mond-nemet",
+          "published": "2026-04-10T19:01:37+00:00",
+          "description": "Az ellenzéki párt képviselőinek zömét nemcsak a választók nem ismerik, ők sem ismerik egymást. Petri Lukács Ádám írása.",
+          "image": "https://cdn.mandiner.hu/2026/04/W-a6bMx7l8wKbAtof01_2MudRdoRGqySxKRdPzIxRvI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYxMjc0N2NiNDMxZjRjYTU5YWMxMjQxNGUwYWNlYWNl.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Zelenszkij és Brüsszel játszmája – Szijjártó Péter a Stratégában",
           "url": "https://mandiner.hu/video/2026/04/zelenszkij-es-brusszel-jatszmaja-szijjarto-peter-a-strategaban",
@@ -898,15 +898,6 @@
           "image": "https://cdn.mandiner.hu/2026/04/1RpX0VcqREZrxbUNNgcHCELX2jVhgHIkqudM6c7YPQo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYwODI2ZmRkNmFlMTQ5ZTJiNmQxOTc0NDJiMDMyNDU5.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Stabil kormányzás viharos időkben",
-          "url": "https://mandiner.hu/belfold/2026/04/stabil-kormanyzas-viharos-idokben",
-          "published": "2026-04-10T15:08:07+00:00",
-          "description": "A legutóbbi országgyűlési választás előtt háború tört ki a szomszédunkban, ami alapjaiban határozta meg a kampányt. A konfliktus azóta sem jutott nyugvópontra. Gömbicz Nándor írása.",
-          "image": "https://cdn.mandiner.hu/2026/04/mMD1qYJObTu-rqSJAUynMkHtC3rZh6MTK3z3F7y83Hs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA1N2U1ODBmYWYyMzRjMmY4ZGMwOWE2ZDAzNzg0MmNj.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -915,10 +906,236 @@
       "name": "24.hu",
       "url": "https://24.hu/hirfolyam/",
       "color": "#888888",
-      "status": "error",
-      "error": "ClientResponseError: 405, message='Not Allowed', url='https://24.hu/hirfolyam/'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "„Mit loptál ma Kolbász Viktor?”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#mit-loptal-ma-kolbasz-viktor",
+          "published": "2026-04-10T21:02:00+01:00",
+          "description": "Az Anima Sound System után a Puszi Együttes lépett színpadra, hogy előadja több mint tíz éve írt, elég beszédes Mit loptál ma Kolbász Viktor? című dalát:",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_8236-e1775845953211-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "Besötétedett, erősödik a koncerthangulat",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#besotetedett-erosodik-a-koncerthangulat",
+          "published": "2026-04-10T20:55:00+01:00",
+          "description": "",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_8236-e1775845953211-320x180.jpeg",
+          "category": "Élő",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "A Nagykoncert leggyengébb pontja",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#a-nagykoncert-leggyengebb-pontja",
+          "published": "2026-04-10T20:49:00+01:00",
+          "description": "Már a pultoknál álló sorok és hozzáférhetetlensége mellett: a vécék kis keresztmetszete.",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_8236-e1775845953211-320x180.jpeg",
+          "category": "Élő",
+          "author": "Schultz Antal"
+        },
+        {
+          "title": "„Mi szabadabbak vagyunk, mint ti valaha lesztek!”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#mi-szabadabbak-vagyunk-mint-ti-valaha-lesztek",
+          "published": "2026-04-10T20:47:00+01:00",
+          "description": "A Kozmosz lépett színpadra (melynek Pál Zsombor kollégánk a frontembere), és előadták ma esti első és utolsó dalukat, a 2018-as Mi szabadabbak vagyunk, mint ti valaha lesztek címűt, amelynek soraiban felfedezhető némi szatirikus közéleti kommentár:",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_8236-e1775845953211-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "Magyar Péter szerint balhékkal, bombariadókkal zavarhatják meg a választást",
+          "url": "https://24.hu/kozelet/2026/04/10/magyar-peter-miskolc-valasztas/",
+          "published": "2026-04-10T20:45:00+01:00",
+          "description": "De szerinte ez sem fog segíteni a Fideszen, a Tisza nagyon-nagyon-nagyon-nagyon nagy győzelmet arat.",
+          "image": "https://s.24.hu/app/uploads/2026/04/tiszamiskolc-e1775847090171-320x181.jpg",
+          "category": "Közélet",
+          "author": "24.hu"
+        },
+        {
+          "title": "Az Andrássyn még mindig csak jön a tömeg",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#az-andrassyn-meg-mindig-csak-jon-a-tomeg",
+          "published": "2026-04-10T20:38:00+01:00",
+          "description": "Hogy ennek ellenére miért nem az Oktogonig ér a tumultus?",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_8236-e1775845953211-320x180.jpeg",
+          "category": "Élő",
+          "author": "Schultz Antal"
+        },
+        {
+          "title": "Dé:Nash ejtene pár szót arról a bizonyos kisegérről",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#denash-ejtene-par-szot-arrol-a-bizonyos-kisegerrol",
+          "published": "2026-04-10T20:33:00+01:00",
+          "description": "Ha megengeditek, ejtenék pár szót a kisegérről  – sétál be a színpadra Dé:Nash.",
+          "image": "https://s.24.hu/app/uploads/2026/04/de-nash-szb_8485-1024x682-1-e1775847677141-320x180.jpeg",
+          "category": "Élő",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "„Viktor! Savanyú a narancs!”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#viktor-savanyu-a-narancs",
+          "published": "2026-04-10T20:28:00+01:00",
+          "description": "A fiatalkori Orbán-múltidézés után a Hétköznapi Csalódások lépett színpadra, amelynek frontembere először megosztotta, hogy nem gondolták, hogy ennyi ember előtt fognak zenélni.",
+          "image": "https://s.24.hu/app/uploads/2026/04/rendszerbonto-nagykoncert-szb_7872-e1775846905887-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "„Aki nem ugrál, fideszes!”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#aki-nem-ugral-fideszes",
+          "published": "2026-04-10T20:25:00+01:00",
+          "description": "Sisi érkezik a színpadra, rögtön bejelenti, hogy „aki nem ugrál, fideszes” – helyszíni tudósítóink szerint ez hatásos felszólítás.",
+          "image": "https://s.24.hu/app/uploads/2026/04/sisi-szb_8404-1024x683-1-e1775846222673-320x180.jpeg",
+          "category": "Élő",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "A fiatal Orbánra válaszul jön a „Ruszkik haza!”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#a-fiatal-orbanra-valaszul-jon-a-ruszkik-haza",
+          "published": "2026-04-10T20:24:00+01:00",
+          "description": "Következik Orbán Viktor, a magyar fiatalok nevében",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_7909-e1775843548411-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "Válogatott játékosokkal indult be az ETO, lefocizta a Puskás Akadémiát",
+          "url": "https://24.hu/sport/foci/2026/04/10/nb1-eto-puskas-akademia-vitalis-gol-golpassz/",
+          "published": "2026-04-10T20:22:00+01:00",
+          "description": "Alapos verést kaptak a felcsútiak, győzelmi kényszerben a Ferencváros.",
+          "image": "https://s.24.hu/app/uploads/2026/04/dkrcs20260228012-e1775845286244-320x180.jpg",
+          "category": "Foci",
+          "author": "24.hu"
+        },
+        {
+          "title": "Krúbi a színpadon, tombol a tömeg",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#krubi-a-szinpadon-tombol-a-tomeg",
+          "published": "2026-04-10T20:20:00+01:00",
+          "description": "Krúbi érkezik a színpadra, orosz kémek és KISZ-titkárok is szóba jönnek a gyors rapp intróban, ami aktuális üzenettel végződik:",
+          "image": "https://s.24.hu/app/uploads/2026/04/krubi-szb_8263-e1775845836864-320x180.jpeg",
+          "category": "Élő",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "Az Andrássyn a Bajza utcánál a tömeg vége",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#az-andrassyn-a-bajza-utcanal-a-tomeg-vege",
+          "published": "2026-04-10T20:12:00+01:00",
+          "description": "Az Andrássy úton, a Bajza utca vonalában teljesen betorlódott a tömeg, mozdulni sem lehet.",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_7909-e1775843548411-320x180.jpeg",
+          "category": "Élő",
+          "author": "Ősze András"
+        },
+        {
+          "title": "Zebrák is feltűntek a közönségben",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#zebrak-is-feltuntek-a-kozonsegben",
+          "published": "2026-04-10T20:06:00+01:00",
+          "description": "Zebra, zebra, zebra!",
+          "image": "https://s.24.hu/app/uploads/2026/04/rendszerbonto-nagykoncert-szb_8059-1024x682-1-e1775844983360-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "Orbán Viktor Székesfehérváron: „Nyilván ebben a városban is vannak tiszások, csak itt nem szokás elrontani mások örömét”",
+          "url": "https://24.hu/kozelet/2026/04/10/orban-viktor-szekesfehervar-kampany/",
+          "published": "2026-04-10T19:58:00+01:00",
+          "description": "Az a feladat a miniszterelnök szerint, hogy mindenki vigyen el mindenkit a szavazásra.",
+          "image": "https://s.24.hu/app/uploads/2026/04/orban-szekesfehervaron-e1775843744994-320x180.jpg",
+          "category": "Közélet",
+          "author": "Benke Ágnes"
+        },
+        {
+          "title": "„A kormányváltás nem cél, csak a kezdet”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#a-kormanyvaltas-nem-cel-csak-a-kezdet",
+          "published": "2026-04-10T19:58:00+01:00",
+          "description": "Ne felejtsétek, hogy a kormányváltás nem győzelem, nem a cél, hanem csak a kezdet.",
+          "image": "https://s.24.hu/app/uploads/2026/04/g-ras-szb_8049-1024x682-1-e1775844653473-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "„Trump támogatása egy cseresznye lehetne a kampánytorta tetején” – Schultz Nóra szerint azonban tortasütéshez nem elég",
+          "url": "https://24.hu/belfold/2026/04/10/trump-orban-amerika-valasztas/",
+          "published": "2026-04-10T19:48:00+01:00",
+          "description": "A Fidesz kampányának a véghajrában is fontos része, hogy az amerikai támogatás minden jelét hangsúlyozzák – miközben ez nem tűnik olyan erős témának. Schultz Nórával elemeztük a helyzetet.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1089465018-masolat-320x180.jpg",
+          "category": "Belföld",
+          "author": "Dienes Gábriel"
+        },
+        {
+          "title": "„Semmifajta provokációnak nem dőlünk be”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#semmifajta-provokacionak-nem-dolunk-be",
+          "published": "2026-04-10T19:48:00+01:00",
+          "description": "Tóth Jakab megkérte a közönséget, hogy másszanak le a műemléki szobrokról, mert veszélyes, és „akkor nem biztos, hogy el tudtok menni vasárnap szavazni, a sürgősségire nem biztos, hogy lehet kérni mozgóurnát.”",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_7497-e1775840236934-320x180.jpeg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "Szabó Zsófi azt mondja, van a baráti körében ellenzéki, de a többségüknek „helyén van az eszük”",
+          "url": "https://24.hu/szorakozas/2026/04/10/szabo-zsofi-hajdu-peter-bekoltozve-interju/",
+          "published": "2026-04-10T19:44:00+01:00",
+          "description": "Aki gondolkozik, az nem kockáztat – mondta el a TV2-s műsorvezető Hajdú Péter műsorában.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0968315306-e1775839265987-320x180.jpg",
+          "category": "Szórakozás",
+          "author": "Csontos Kata"
+        },
+        {
+          "title": "Orbános utcatábla, hömpölygő tömeg",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#orbanos-utcatabla-hompolygo-tomeg",
+          "published": "2026-04-10T19:42:00+01:00",
+          "description": "Fotós kollégáink képei a Hősök teréről",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_7497-e1775840236934-320x180.jpeg",
+          "category": "Élő",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "Felemás élmény lett az új Citadella, amivel a kormány minden eddiginél erősebb nyomot akart hagyni Budapesten",
+          "url": "https://24.hu/kultura/2026/04/10/ismeretlen-budapest-citadella-kritika-szabadsag-bastyaja/",
+          "published": "2026-04-10T19:42:00+01:00",
+          "description": "A projekt legnagyobb pozitívuma, a kilátás már eleve adott volt, az építészek pedig képtelenek voltak kihasználni az előttük álló nagy lehetőséget. A helyzet a déli rondellába helyezett Szabadság Bástyája nevű kiállításnál sem jobb, hiszen a szobákat járva A tanú egyik jelenetében éreztük magunka...",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1088856998-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Vincze Miklós"
+        },
+        {
+          "title": "„Reményt ad, hogy ilyen sokan kiállunk a rendszerváltás mellett”",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#remenyt-ad-hogy-ilyen-sokan-kiallunk-a-rendszervaltas-mellett",
+          "published": "2026-04-10T19:22:00+01:00",
+          "description": "Néhány utcányit kell hátrébb sétálni ahhoz, hogy kiérjünk a zsúfolt tömegből.",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_7497-e1775840236934-320x180.jpeg",
+          "category": "Élő",
+          "author": "Ősze András"
+        },
+        {
+          "title": "Van, aki már a crowdsurfölést is kipróbálta",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#van-aki-mar-a-crowdsurfolest-is-kiprobalta",
+          "published": "2026-04-10T19:16:00+01:00",
+          "description": "A tömeg közben magát is szórakoztatja, mondjuk így nehéz telefonálni:",
+          "image": "https://s.24.hu/app/uploads/2026/04/rendszerbonto-nagykoncert-moh_6401-1024x683-1-e1775844335761-320x180.jpg",
+          "category": "Élő",
+          "author": "Jankovics Márton"
+        },
+        {
+          "title": "Mikee Mykanic: Szabad Magyarország, szabad kultúra, bazdmeg!",
+          "url": "https://24.hu/kultura/2026/04/10/rendszerbonto-nagykoncert-puzser-robert-azahriah-beton-hofi-krubi/#mikee-mykanic-szabad-magyarorszag-szabad-kultura-bazdmeg",
+          "published": "2026-04-10T19:16:00+01:00",
+          "description": "Kocziha Mihály, művésznevén Mikee Mykanic a színpadon.",
+          "image": "https://s.24.hu/app/uploads/2026/04/szb_7738-e1775841584906-320x180.jpeg",
+          "category": "Élő",
+          "author": "Varga Zsuzsa"
+        },
+        {
+          "title": "Vitézy: A MÁV egy füstölő mozdonnyal búcsúztatta el Lázár Jánost",
+          "url": "https://24.hu/belfold/2026/04/10/vitezy-mav-fustolo-lazar/",
+          "published": "2026-04-10T19:05:00+01:00",
+          "description": "Szerinte sokáig nyöghetjük a miniszter ámokfutásának következményeit.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-1083482287-e1775840708860-320x180.jpg",
+          "category": "Belföld",
+          "author": "24.hu"
+        }
+      ]
     },
     {
       "id": "neokohn",
@@ -1262,10 +1479,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "ClientResponseError: 500, message='Internal Server Error', url='https://kontroll.hu'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Nagyobb sebességre kapcsolt az állami ingatlanok eladása a választások előtt",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/10/nagyobb-sebessegre-kapcsolt-az-allami-ingatlanok-eladasa-a-valasztasok-elott",
+          "published": "2026-04-10T18:04:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Büntetlenül: A Volánbusz következmények nélküli, tízmilliárdos lehúzása",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/10/buentetlenuel-a-volanbusz-tizmilliardos-koevetkezmenyek-nelkueli-lehuzasa",
+          "published": "2026-04-10T16:07:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Sulyok Tamás megszólalt a választásról",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/10/sulyok-tamas-megszolalt-a-valasztasrol",
+          "published": "2026-04-10T15:07:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Életmentő plasztikai műtét egy súlyosan megégett villanyszerelőn – egy rádióműsor hozta el a fordulatot",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/10/eletmento-plasztikai-mutet-egy-sulyosan-megegett-villanyszerelon-egy-radiomusor-hozta-el-a-fordulatot",
+          "published": "2026-04-10T14:10:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A több százmilliárdos MNB-s pénzeltüntetés egyik ikonikus épületénél zárja kampányát Orbán Viktor",
+          "url": "https://kontroll.hu/cikk/velemeny/2026/04/10/a-650-milliardos-mnb-s-penzeltuentetes-egyik-ikonikus-epueletenel-zarja-kampanyat-orban-viktor",
+          "published": "2026-04-10T13:14:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Velemeny",
+          "author": null
+        },
+        {
+          "title": "Torkig vannak a németek is Orbán Viktorral",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/04/10/torkig-vannak-a-nemetek-is-orbannal",
+          "published": "2026-04-10T12:21:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kulfold",
+          "author": null
+        },
+        {
+          "title": "Változás közeleg? Borókai Gábor szerint nehéz évek várnak Magyarországra",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/10/valtozas-koezeleg-borokai-gabor-szerint-nehez-evek-varnak-magyarorszagra",
+          "published": "2026-04-10T11:24:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Provokációtól tartanak a Nagykoncerten",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/10/provokaciotol-tartanak-a-nagykoncerten",
+          "published": "2026-04-10T10:44:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
@@ -1276,6 +1566,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Így néz ki a tiszás \"rendszerbontók\" áradása Budapesten - botrányos képek",
+          "url": "https://www.origo.hu/belpol/2026/04/puzser-koncertjen-vallalhatatlanul-viselkedo-kozonseg",
+          "published": "2026-04-10T21:03:00+01:00",
+          "description": "Áradnak a rendszerbontó fiatalok Budapesten.",
+          "image": "https://cdn.origo.hu/2026/04/DIfm_8zDOr4b1O4DUNZv4atG2Rqy3miiPWQYdYiDVzk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVjZWQ4ZGVhZGM5YzQ3NDJhN2VmMjNkNzM1YmNjMmNh.webp",
+          "category": "Puzsér Róbert",
+          "author": null
+        },
         {
           "title": "Megvan, mikor lép pályára a Veszprém és a Szeged a Bajnokok Ligája-negyeddöntőben",
           "url": "https://www.origo.hu/sport/sport-csapat/2026/04/veszprem-szeged-kezilabda-bajnokok-ligaja-idopontok",
@@ -1360,10 +1659,10 @@
         {
           "title": "Magyar Péter energetikai szakértője szerint a rezsicsökkentés igazságtalan, ezért el kell törölni",
           "url": "https://www.origo.hu/belpol/2026/04/magyar-peter-szakertoje-rezsicsokkentes-igazsagtalan",
-          "published": "2026-04-10T19:04:00+01:00",
-          "description": "Holoda Attila támadja a rezsicsökkentést, és az eltörlését követeli.",
-          "image": "https://cdn.origo.hu/2026/04/aYbXKsnpwmxQzQCH0aXbbybiYlmL_gNBeoh6SbKtmJE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc5OThjMGRiNTI1NDRjMjBhYTViYjhmMTdhYjM1NmJh.webp",
-          "category": "Magyar Péter",
+          "published": "2026-04-10T17:04:18+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1490,15 +1789,6 @@
           "description": null,
           "image": null,
           "category": "Tudomany",
-          "author": null
-        },
-        {
-          "title": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak",
-          "url": "https://www.origo.hu/itthon/2026/04/reviczky-gabor-orszaggyulesi-valasztas-uzenet",
-          "published": "2026-04-10T15:37:33+00:00",
-          "description": null,
-          "image": null,
-          "category": "Itthon",
           "author": null
         }
       ]
