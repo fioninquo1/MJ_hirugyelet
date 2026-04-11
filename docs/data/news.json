@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-11T18:35:37.176665+00:00",
+  "scraped_at": "2026-04-11T18:40:26.993017+00:00",
   "portals": [
     {
       "id": "telex",
@@ -489,7 +489,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -593,10 +593,10 @@
           "author": null
         },
         {
-          "title": "17 éves játékost csodálnak Liverpoolban, Szoboszlaiék jó úton a győzelem felé – ÉLŐ!",
+          "title": "Varázsolt a 17 éves csodatini, ráfért már Szoboszlaiékra ez a győzelem",
           "url": "https://mandiner.hu/sport/2026/04/szoboszlai-kerkez-liverpool-fulham-premier-league",
           "published": "2026-04-11T16:26:16+00:00",
-          "description": "Kerkez Milos a kispadon, a magyar válogatott csapatkapitánya a középpályán kezdte a Fulham ellen bajnokit.",
+          "description": "A Liverpool három nyeretlen meccs után ismét győzött a bajnokságban.",
           "image": "https://cdn.mandiner.hu/2026/04/ORhP8zXrDbKSJT7erU8el4cczoMr84WVR8qvF8jckeI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M3YjQ3MzAzNWVhZTRjYWRhZGY0M2JlZTE0NmQ1ZTY3.jpg",
           "category": null,
           "author": null
@@ -629,7 +629,7 @@
           "author": null
         },
         {
-          "title": "Orbán Viktor: mindenhol győzni fogunk! (VIDEÓ)",
+          "title": "Orbán Viktor: Mindenhol győzni fogunk! (VIDEÓ)",
           "url": "https://mandiner.hu/belfold/2026/04/a-szentharomsag-teren-zarja-kampanyat-orban-viktor-kovesse-nalunk-eloben-video",
           "published": "2026-04-11T15:59:18+00:00",
           "description": "Hatalmas tömeg előtt tartotta kampányzáró rendezvényét Orbán Viktor a Szentháromság téren. A miniszterelnök mellett Lázár János és Szijjártó Péter is felszólalt a budapesti nagygyűlésen.",
@@ -734,236 +734,10 @@
       "name": "24.hu",
       "url": "https://24.hu/hirfolyam/",
       "color": "#888888",
-      "status": "ok",
-      "error": null,
-      "article_count": 25,
-      "articles": [
-        {
-          "title": "Orbán Viktor Budapesten: Az nem lesz véletlen, hogy a romák többsége ránk fog szavazni",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-az-nem-lesz-veletlen-hogy-a-romak-tobbsege-rank-fog-szavazni",
-          "published": "2026-04-11T20:28:00+01:00",
-          "description": "A miniszterelnök az országjárásán rendre elmondta, hogy „rendkívül igazságtalan négy éven vagyunk túl”, mert a háború, a gazdasági krízis problémákat okozott, miközben végig kellett dolgozni – ezt a kampányzárón is megismételte.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9574-e1775930530732-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Remélem, hogy előnyömre változtam az elmúlt két évben",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-remelem-hogy-elonyomre-valtoztam-az-elmult-ket-evben",
-          "published": "2026-04-11T20:25:00+01:00",
-          "description": "Lezárva ezt a két éves szolid kampányt szeretném mindenkinek, a családomnak, a gyerekeimnek, a kollégáimnak, a több mint 50 ezer önkéntesünknek és minden magyar embernek azt a sok kedves szót, ötletet megköszönni.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376627-masolat-320x180.jpg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Orbán Viktor Budapesten: Here-bere partikkal nem tudunk szolgálni",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-here-bere-partikkal-nem-tudunk-szolgalni",
-          "published": "2026-04-11T20:23:00+01:00",
-          "description": "Nem azért jöttünk össze, hogy simfeljük az ellenfelet, bár volna mit.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9574-e1775930530732-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Simon Miklós és Nyírbogát polgármestere tiszás táblás és matricás autóban követ majd el választási csalást",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-simon-miklos-es-nyirbogat-polgarmestere-tiszas-tablas-es-matricas-autoban-kovet-majd-el-valasztasi-csalast",
-          "published": "2026-04-11T20:21:00+01:00",
-          "description": "Hamis zászlós műveletek sorát fogják elvégezni az orosz ügynökökkel egyeztetve, az ő tanácsukra.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376660-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Orbán Viktor Budapesten: Azért lettünk fontosak a titkosszolgálatok számára, mert megmutattuk, hogy a családjainkat meg lehet védeni",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-azert-lettunk-fontosak-a-titkosszolgalatok-szamara-mert-megmutattuk-hogy-a-csaladjainkat-meg-lehet-vedeni",
-          "published": "2026-04-11T20:17:00+01:00",
-          "description": "Fél évvel ezelőtt is mi voltunk többen, folytatta, „csak csendben voltunk, mert megfenyegettek bennünket”.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9574-e1775930530732-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Senkinek nem javaslom, hogy Kubatov, Rogán vagy Lázár helyett börtönbe menjen",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-senkinek-nem-javaslom-hogy-kubatov-rogan-vagy-lazar-helyett-bortonbe-menjen",
-          "published": "2026-04-11T20:17:00+01:00",
-          "description": "Rengeteg feladatunk van.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376627-masolat-320x180.jpg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Tompa Enikő beszéde kapta a legnagyobb tapsot Debrecenben",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#tompa-eniko-beszede-kapta-a-legnagyobb-tapsot-debrecenben",
-          "published": "2026-04-11T20:16:00+01:00",
-          "description": "Hosszú tapsot és nagy üdvrivalgást kapott Tompa Enikő, a Tisza Párt jelöltje Hajdú-Bihar megye 2-es választókerületében.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376627-masolat-320x180.jpg",
-          "category": "Élő",
-          "author": "Ősze András"
-        },
-        {
-          "title": "Orbán Viktor Budapesten: Mindent megtettünk Ukrajnáért",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-mindent-megtettunk-ukrajnaert",
-          "published": "2026-04-11T20:11:00+01:00",
-          "description": "A meglehetősen ellenséges hangnem után Orbán azzal folytatta, hogy „mi egy keresztény közösség is vagyunk és el kell számolnunk a lelkiismeretünkkel”: amikor megtámadták Ukrajnát, mindenkit beengedtünk, aki menekült, fedelet, munkát adtunk nekik, és megnyitottuk az ukrán nyelvű iskolákat.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9574-e1775930530732-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: A Tisza női jelöltjei nem félnek az őszülő halántékú maffiózóktól, sőt",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-a-tisza-noi-jeloltjei-nem-felnek-az-oszulo-halanteku-maffiozoktol-sot",
-          "published": "2026-04-11T20:10:00+01:00",
-          "description": "Óriási öröm számomra, hogy a Tisza jelöltjei között rengeteg bátor magyar nő van.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376565-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Orbán Viktor Budapesten: A választás legfontosabb tétje a béke",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-a-valasztas-legfontosabb-tetje-a-beke",
-          "published": "2026-04-11T20:07:00+01:00",
-          "description": "A miniszterelnök úgy látta, hogy a március 15-i Békemenet után elvégezték azt a feladatot, ami a kampány célja, hogy elmondják, miből lehet választani és miről lehet dönteni.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9574-e1775930530732-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Hat nappal Jézus után az MTK is feltámadt",
-          "url": "https://24.hu/sport/foci/2026/04/11/nb-i-mtk-zte-kiesett-a-kazincbarcika/",
-          "published": "2026-04-11T20:05:00+01:00",
-          "description": "Ezzel eldőlt, hogy a Kazincbarcika búcsúzik az NB I-től.",
-          "image": "https://s.24.hu/app/uploads/2026/04/attachment8007032232-320x180.jpg",
-          "category": "Foci",
-          "author": "24.hu"
-        },
-        {
-          "title": "Bányászetikától a katonai morálig – Ruszin-Szendi Romulusz össztűz alá vett útja a politika frontvonalába",
-          "url": "https://24.hu/belfold/2026/04/11/ruszin-szendi-romulusz-csatater-hajduszoboszlo-honvedseg/",
-          "published": "2026-04-11T20:04:00+01:00",
-          "description": "Pályatársaival, szövetségeseivel és ellenfeleivel beszélgettünk Ruszin-Szendi gyors felemelkedéséről, a politikai fordulatának lehetséges okairól – minderről megkérdeztük a volt vezérkari főnököt, a Tisza Párt politikusát is.",
-          "image": "https://s.24.hu/app/uploads/2026/04/central-1076715231_kiem-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kassai Zsigmond"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Fiatalok, beszéljetek a nagyszülőkkel – jobban szeretnek titeket, mint ahogy hisznek ennek a hazug propagandának",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-fiatalok-beszeljetek-a-nagyszulokkel-jobban-szeretnek-titeket-mint-ahogy-hisznek-ennek-a-hazug-propagandanak",
-          "published": "2026-04-11T20:01:00+01:00",
-          "description": "Kedves fiatalok, ti most a történelem főutcáján jártok, írjunk együtt történelmet.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376180-e1775924860108-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Orbán Viktor Budapesten: Csak idő kérdése, hogy visszaszerezzük Budapestet",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-csak-ido-kerdese-hogy-visszaszerezzuk-budapestet",
-          "published": "2026-04-11T19:58:00+01:00",
-          "description": "Ugyan ez a mai esemény kampányzáró volt, de Orbán kijelentette, hogy a kampány valójában holnap este, az urnazáráskor zárul majd le, hiszen nincs kampánycsend.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9373-masolat-320x180.jpg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Csák László Decemberben: Egy olyan országot fogunk építeni, ahol mindenki elmondhatja a véleményét félelem és negatív következmények nélkül",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#csak-laszlo-decemberben-egy-olyan-orszagot-fogunk-epiteni-ahol-mindenki-elmondhatja-a-velemenyet-felelem-es-negativ-kovetkezmenyek-nelkul",
-          "published": "2026-04-11T19:57:00+01:00",
-          "description": "Mi nem közvélemény-kutatást, hanem választást szeretnénk nyerni és erre mindenkire szükség van.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376180-e1775924860108-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Égnek a fáklyák az Egyetem téren és az Egyetem sugárúton",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#egnek-a-faklyak-az-egyetem-teren-es-az-egyetem-sugaruton",
-          "published": "2026-04-11T19:56:00+01:00",
-          "description": "Eljött az idő, meggyulladtak a fáklyák Debrecenben, Magyar Péter utolsó országjárásán.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376180-e1775924860108-320x180.jpeg",
-          "category": "Élő",
-          "author": "Ősze András"
-        },
-        {
-          "title": "Orbán Viktor Budapesten: Megmutatjuk, milyen erős a jobboldal Budapesten is",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-megmutatjuk-milyen-eros-a-jobboldal-budapesten-is",
-          "published": "2026-04-11T19:55:00+01:00",
-          "description": "„Sokan vagyunk, tegnap is sokan voltak, micsoda különbség” – kezdte beszédét a miniszterelnök, vélhetően a Rendszerbontó Koncertre utalva.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9574-e1775930530732-1140x640-1-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Tárkányi Zsolt Debrecenben: Holnap leváltjuk a földesurainkat",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#tarkanyi-zsolt-debrecenben-holnap-levaltjuk-a-foldesurainkat",
-          "published": "2026-04-11T19:49:00+01:00",
-          "description": "Csodálattal és talán némi irigységgel néztem arra a generációra, amelynek megadatott, hogy leválthasson egy olyan rendszert, aminek egy dolog nem volt soha fontos, az ember.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376180-e1775924860108-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Lázár János Budapesten: Orbán Viktor kezeli a válságokat",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#lazar-janos-budapesten-orban-viktor-kezeli-a-valsagokat",
-          "published": "2026-04-11T19:45:00+01:00",
-          "description": "Kerítés, 14.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9340-1024x683-1-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Aki közpénzt elemel, Szabó Bencékkel és Pálinkás századosokkal találja magát szembe",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-aki-kozpenzt-elemel-szabo-bencekkel-es-palinkas-szazadosokkal-talalja-magat-szembe",
-          "published": "2026-04-11T19:43:00+01:00",
-          "description": "Április 13-ától Magyarország demokrácia lesz, de nem illiberális, népi, hanem egyszerűen demokratikus jogállam, így szimplán.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376482-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Szijjártó Péter felelősségre vonása, a Szőlő utca-botrány feltárása – ezeknek az ígéreteknek tapsoltak leginkább",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#szijjarto-peter-felelossegre-vonasa-a-szolo-utca-botrany-feltarasa-ezeknek-az-igereteknek-tapsoltak-leginkabb",
-          "published": "2026-04-11T19:41:00+01:00",
-          "description": "Magyar Péter felsorolta a Tisza-kormány első beterjesztéseit, melyek között szerepelt többek között, a milliárdosok vagyonadója, a Vagyonvédelmi és Visszaszerzési Hivatal felállítása, és az is, hogy két ciklusban maximálják egy miniszterelnök hivatali idejét.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376180-e1775924860108-320x180.jpeg",
-          "category": "Élő",
-          "author": "Ősze András"
-        },
-        {
-          "title": "Lázár János Budapesten: A mi programunk a hétköznapi, egyszerű embereknek szól",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#lazar-janos-budapesten-a-mi-programunk-a-hetkoznapi-egyszeru-embereknek-szol",
-          "published": "2026-04-11T19:38:00+01:00",
-          "description": "Lázár János beszédében a Tiszával kezdett és arra „figyelmeztette” a fideszeseket, hogy ne higgyenek az ellenzéki pártnak, mert még nem dőlt el a verseny.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9015-e1775924283970-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Új alkotmány lesz, amit népszavazás erősít meg",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-uj-alkotmany-lesz-amit-nepszavazas-erosit-meg",
-          "published": "2026-04-11T19:37:00+01:00",
-          "description": "Ha kell, elmegyünk értük Dubajba, Csádba és hazahozzuk a magyar emberek pénzét.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376312-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        },
-        {
-          "title": "Szijjártó Péter Budapesten: Legyen ez a valaha volt legnagyobb győzelmünk",
-          "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#szijjarto-peter-budapesten-legyen-ez-a-valaha-volt-legnagyobb-gyozelmunk",
-          "published": "2026-04-11T19:34:00+01:00",
-          "description": "A külügyminiszter beszédének további része is pontosan ugyanaz, amit már oly sokszor hallhattunk: az Európai Unió szerinte arra akarja kényszeríteni a magyar kormányt, hogy többet ne vegyen olcsó orosz olajat, ami a Fidesz szerint a háromszorosára növelné a rezsit és megdrágulna a benzin is.",
-          "image": "https://s.24.hu/app/uploads/2026/04/var_9015-e1775924283970-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter Debrecenben: Azonnal vizsgálatot indítunk Szijjártó Péter ellen",
-          "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-azonnal-vizsgalatot-inditunk-szijjarto-peter-ellen",
-          "published": "2026-04-11T19:34:00+01:00",
-          "description": "Egy nap múlva, sőt, kevesebb mint 10 óra múlva megkezdődik a szavazás.",
-          "image": "https://s.24.hu/app/uploads/2026/04/01376180-e1775924860108-320x180.jpeg",
-          "category": "Élő",
-          "author": "Molnár Dávid"
-        }
-      ]
+      "status": "error",
+      "error": "ClientResponseError: 405, message='Not Allowed', url='https://24.hu/hirfolyam/'",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "neokohn",
@@ -1312,6 +1086,15 @@
       "article_count": 8,
       "articles": [
         {
+          "title": "Magyar katonai szerepvállalás Csádban: harci bevetés lehetősége is szerepelt a tervekben",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/11/magyar-katonai-szerepvallalas-csadban-harci-bevetes-lehetosege-is-szerepelt-a-tervekben",
+          "published": null,
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
           "title": "Bocsánatot kért a nemi szervét fogdosó rapper",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/11/bocsanatot-kert-a-nemi-szervet-fogdoso-rapper",
           "published": "2026-04-11T17:28:00+01:00",
@@ -1372,15 +1155,6 @@
           "description": null,
           "image": null,
           "category": "Velemeny",
-          "author": null
-        },
-        {
-          "title": "A rigai magyar nagykövet szerint Magyarország hídfő a nyugati parton",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/11/a-rigai-magyar-nagykoevet-szerint-magyarorszag-hidfo-a-nyugati-parton",
-          "published": "2026-04-11T08:25:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
           "author": null
         }
       ]
