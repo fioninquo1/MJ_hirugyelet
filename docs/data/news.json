@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-11T21:25:26.090935+00:00",
+  "scraped_at": "2026-04-11T21:30:38.447540+00:00",
   "portals": [
     {
       "id": "telex",
@@ -7,7 +7,7 @@
       "url": "https://telex.hu",
       "color": "#2ec4b6",
       "status": "error",
-      "error": "ClientResponseError: 503, message='Service Unavailable', url='https://telex.hu/rss'",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://telex.hu/rss'",
       "article_count": 0,
       "articles": []
     },
