@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-12T19:05:22.550090+00:00",
+  "scraped_at": "2026-04-12T19:10:44.218839+00:00",
   "portals": [
     {
       "id": "telex",
@@ -49,7 +49,7 @@
           "author": null
         },
         {
-          "title": "A kétharmad közelében a Tisza Párt, folyamatosan jönnek az eredmények",
+          "title": "Kétharmaddal vezet a Tisza Párt, folyamatosan jönnek az eredmények",
           "url": "https://index.hu/belfold/2026/04/12/valasztas2026-eredmenyek-orszaggyulesi-valasztasok-fidesz-kdnp-tisza-part-orban-viktor-magyar-peter/",
           "published": "2026-04-12T18:49:00+00:00",
           "description": "Magyar Péterék az élen.",
@@ -200,7 +200,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -213,6 +213,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Csongrádot is viszi a Tisza",
+          "url": "https://mandiner.hu/belfold/2026/04/csongradot-is-viszi-a-tisza",
+          "published": "2026-04-12T19:08:04+00:00",
+          "description": "A szavazatok háromnegyedét már megszámlálták, a négyből egy választókerületet tudhat még visszahozni a Fidesz",
+          "image": "https://cdn.mandiner.hu/2026/04/VyXfIG1hLDPirVTpqNbq-aIlKOXuMKpjXbnmsHHoujw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1OTY5ODYyMGEyNTQyNDY4MGY3NmEzNDhiZWM0N2Yz.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Navracsics Tibor gratulált ellenfelének",
           "url": "https://mandiner.hu/belfold/2026/04/navracsics-tibor-gratulalt-ellenfelenek",
@@ -426,15 +435,6 @@
           "published": "2026-04-12T17:20:26+00:00",
           "description": "A Tisza Párt hónapok óta arra buzdította szavazóit, hogy ne engedjék idős hozzátartozóikat szavazni.",
           "image": "https://cdn.mandiner.hu/2026/04/ce3kQWovoISD2lIUQUGsXRdJkH1kcG5OdSeXuBzMbjQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhZGM1NDM5MWFhNDQ2MGM5YTVkOGU4Yzk4OTM0MmJi.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Újabb vereség és negyedik hely a világkupában, de a nyolcas döntő így is megvan",
-          "url": "https://mandiner.hu/sport/2026/04/magyar-valogatott-vizilabda-vilagkupa-olaszorszag-12-9",
-          "published": "2026-04-12T17:08:34+00:00",
-          "description": "Nem bírtunk a gyakorlatilag legerősebb keretükkel felálló olaszokkal.",
-          "image": "https://cdn.mandiner.hu/2026/04/j0qNWk3l7ndpqP1HOd4-k7o_nIbBK04SXCccXDfmVnw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM2YjAyNTFkNmMyNzQyYTNiNzJjYTU3NDg2OGU4ZGIz.jpg",
           "category": null,
           "author": null
         }
