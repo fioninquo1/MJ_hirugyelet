@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-12T21:25:35.841470+00:00",
+  "scraped_at": "2026-04-12T21:30:35.933399+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Sorban gratulálnak Magyar Péternek a világ vezető politikusai",
+          "url": "https://telex.hu/kulfold/2026/04/12/kulfoldi-politikusok-nemzetkozi-reakcio-orban-veresegere",
+          "published": "2026-04-12T21:29:41+00:00",
+          "description": "A német kancellár, a francia elnök, az Európai Bizottság elnöke és a brit miniszterelnök is kifejezte jókívánságait.",
+          "image": "https://assets.telex.hu/images/20260412/1776029339-temp-5cgtgdsn86qn2lnfffd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ferenci Ármin"
+        },
         {
           "title": "Magyarország Európát választotta – sorban gratulálnak Magyar Péternek az európai vezetők és államfők",
           "url": "https://telex.hu/belfold/2026/04/12/sorban-gratulalnak-magyar-peternek-az-europai-allamfok",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260412/1776007415-temp-0dmpkc01j2h00ipgaee_cimlap-normal.jpg",
           "category": "Videó",
           "author": "Fábián Tamás"
-        },
-        {
-          "title": "Donald Trump: Az amerikai hadsereg blokád alá veszi a Hormuzi-szorost",
-          "url": "https://telex.hu/kulfold/2026/04/12/donald-trump-hormuzi-szoros-targyalasok-blokad-iran",
-          "published": "2026-04-12T15:17:52+00:00",
-          "description": "Az elnök szerint azokat a hajókat is blokkolni fogják, amelyek útdíjat fizettek Iránnak a biztonságos áthaladásért.",
-          "image": "https://assets.telex.hu/images/20260412/1776006623-temp-cf5bes1sg3ph4ckihmj_cimlap-normal.jpg",
-          "category": "Külföld",
-          "author": "Krász Zsombor"
         }
       ]
     },
@@ -254,8 +254,17 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 19,
+      "article_count": 20,
       "articles": [
+        {
+          "title": "Két év alatt berobbant a politikába: Magyar Péter véget vetett a Fidesz kormányzásának",
+          "url": "https://index.hu/belfold/2026/04/12/magyar-peter-tisza-part-valasztas-2026-portre-miniszterelnok-szavazas/",
+          "published": "2026-04-12T21:29:00+00:00",
+          "description": "Az ismeretlenségből a Parlamentig – portré a Tisza elnökéről.",
+          "image": "https://kep.index.hu/1/0/6883/68834/688348/68834863_5080627_d814cdd02c1caf6bbb08aca320ab8bc9_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
         {
           "title": "Nem jött be a volt jobbikos DK-s izmozása, elmosta a Tisza-cunami Jakab Pétert",
           "url": "https://index.hu/belfold/2026/04/12/jakab-peter-miskolc-tisza-part-valasztas-valasztas-2026/",
@@ -278,7 +287,7 @@
           "title": "Magyar Péter: Felszólítom a magyar miniszterelnököt, hogy mától ügyvezető kormányként járjon el",
           "url": "https://index.hu/belfold/2026/04/12/magyar-peter-valasztas-2026-valasztasi-gyozelem-voksolas-megszolalas/",
           "published": "2026-04-12T20:46:00+00:00",
-          "description": "A Tisza Párt elnöke a Batthyány téri eredményváró rendezvényen mondott beszédet.",
+          "description": "A Tisza Párt elnöke elszámoltatást ígér.",
           "image": "https://kep.index.hu/1/0/6883/68837/688374/68837409_5080813_fce79579a982751c5d4286428c5435c6_wm.png",
           "category": "Belföld",
           "author": null
@@ -457,7 +466,7 @@
           "author": null
         },
         {
-          "title": "Magyar Péter: A Tisza megnyerte ezt a választást",
+          "title": "Magyar Péter lemondásra szólította fel az államfőt",
           "url": "https://magyarnemzet.hu/belfold/2026/04/magyar-peter-a-tisza-megnyerte-ezt-a-valasztast?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-04-12T20:45:29+00:00",
           "description": "A Tisza Párt elnöke rövid vonulást követően győzelmi beszédet mondott a Batthyány téren.",
@@ -1028,7 +1037,7 @@
       "url": "https://kontroll.hu",
       "color": "#22c55e",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
       "article_count": 0,
       "articles": []
     },
@@ -1041,6 +1050,33 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Magyar Péter: A Tisza és Magyarország megnyerte ezt a választást",
+          "url": "https://www.origo.hu/belpol/2026/04/magyar-peter-valasztas-2026-tisza-part-megnyerte",
+          "published": "2026-04-12T23:26:00+01:00",
+          "description": "A választási győzelem után beszédet mondott a pártelnök.",
+          "image": "https://cdn.origo.hu/2026/04/3Ok8fL17Jr-iTEkqmE0BknpiZ6i2VQbkhbObpvXYygc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY5Y2FkNDFlNGY1NDRhNWNiMDVkYzVhOTc3ZjUwMDg4.webp",
+          "category": "Magyar Péter",
+          "author": null
+        },
+        {
+          "title": "Kétharmados többséggel költözhet be a Tisza Párt a Parlamentbe",
+          "url": "https://www.origo.hu/belpol/2026/04/ketharmados-tobbseg-tisza-part-parlament-valasztas",
+          "published": "2026-04-12T23:25:00+01:00",
+          "description": "Hárompárti Országgyűlés alakulhat májusban.",
+          "image": "https://cdn.origo.hu/2026/04/vmwQXM1EEwWhgKbtEpgyYmFLll85UEZxAUKGP4Dr51E/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVlMmQ0NDAwZDg3NzQ2ZjY4MThhNDIyNTBhNzNmOTJl.webp",
+          "category": "országgyűlés",
+          "author": null
+        },
+        {
+          "title": "Toroczkai László: A Tisza Párt vissza fog élni a hatalommal",
+          "url": "https://www.origo.hu/itthon/2026/04/toroczkai-laszlo-a-tisza-part-vissza-fog-elni-a-hatalommal",
+          "published": "2026-04-12T23:16:00+01:00",
+          "description": "A demokrácia állapotának rohamos romlására számít.",
+          "image": "https://cdn.origo.hu/2026/04/b-N1r6E_83fmmMAIBVVYZJe3rV6sVXfOasAVMmMno1I/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMxY2UwNDU5OGJiYzRhNzA5MDM3Mjk0MTVmNTJiMDJj.webp",
+          "category": "tisza párt",
+          "author": null
+        },
         {
           "title": "Orbán Balázs: A vereség nem végzetes, folytatjuk a munkát!",
           "url": "https://www.origo.hu/belpol/2026/04/orban-balazs-folytatjuk-a-munkat",
@@ -1063,7 +1099,7 @@
           "title": "Kocsis Máté gratulált a választás győztesének",
           "url": "https://www.origo.hu/belpol/2026/04/kocsis-mate-gratulalt-a-valasztas-gyoztesenek",
           "published": "2026-04-12T22:55:00+01:00",
-          "description": "A Fidesz frakcióvezetője közösségi média oldalán fejezte ki gratulációját.",
+          "description": "A Fidesz frakcióvezetője közösségi médiás oldalán fejezte ki gratulációját.",
           "image": "https://cdn.origo.hu/2026/04/cuX0F6W1Ly6f2W6CUu5sJPJIy222NWV4hjlSNW8wSwY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjMWEwMDJmZWE3YzRhODI5ZGYyYTA1YmE0M2JjMTRk.webp",
           "category": "Kocsis Máté",
           "author": null
@@ -1107,37 +1143,28 @@
         {
           "title": "Gulyás Gergely: A magas részvétel a magyar demokrácia erejét mutatja",
           "url": "https://www.origo.hu/belpol/2026/04/gulyas-gergely-magas-reszvetel",
-          "published": "2026-04-12T20:23:00+01:00",
-          "description": "Gulyás Gergely szerint olyan kevés jogsértés volt a választáson, ami nem befolyásolta a voksolás kimenetelét.",
-          "image": "https://cdn.origo.hu/2026/04/8lz8GAYo54v6qcnQpZMblp6xGEU4hofDymCzyJ39Wt4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y1NzZlNmExYTYxZjQzYjRiMTRjYzYyNWZiOThkYzY3.webp",
-          "category": "Gulyás Gergely",
+          "published": "2026-04-12T18:23:35+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
           "title": "Nagy meglepetésre újra nyílt az angol bajnokság, elkaphatják az Arsenalt",
           "url": "https://www.origo.hu/sport/sport-futball/2026/04/premier-league-chelsea-manchester-city-angol-bajnok",
-          "published": "2026-04-12T20:13:00+01:00",
-          "description": "Ehhez a Manchester City sima győzelme kellett.",
-          "image": "https://cdn.origo.hu/2026/04/fDCvZMpnYi81MQpIqsSXMBmwrAumnfJ5OQQ-KMx7mmQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3Zjk1OTA4NWU0NDQxYTI5YmI2ZjgxZjM4ZDA5Mzc2.webp",
-          "category": "Premier League",
+          "published": "2026-04-12T18:13:04+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
           "title": "Dömötör Csaba: Ez a választás hozta a legmagasabb részvételt a rendszerváltás óta",
           "url": "https://www.origo.hu/belpol/2026/04/valasztas-2026-legmagasabb-reszvetel-domotor-csaba",
-          "published": "2026-04-12T20:10:00+01:00",
-          "description": "Köszönetet mondtak a politikusok.",
-          "image": "https://cdn.origo.hu/2026/04/HrxGkcoVF37msrTl4ZTLB5e2v-HPX9LdX8MCGTPKm7w/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVjZWQ2N2EyZjNkYjQ3YjZhODg3NzcxYWYxMGJhZjhm.webp",
-          "category": "Választás 2026",
-          "author": null
-        },
-        {
-          "title": "Toroczkai László: A Tisza Párt vissza fog élni a hatalommal",
-          "url": "https://www.origo.hu/itthon/2026/04/toroczkai-laszlo-a-tisza-part-vissza-fog-elni-a-hatalommal",
-          "published": "2026-04-12T21:16:27+00:00",
+          "published": "2026-04-12T18:10:15+00:00",
           "description": null,
           "image": null,
-          "category": "Itthon",
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1243,24 +1270,6 @@
           "title": "Kocsis Máté: Még nem késő elindulni, kétszer a Fideszre kell szavazni",
           "url": "https://www.origo.hu/belpol/2026/04/kocsis-mate-meg-nem-keso-elindulni-ketszer-a-fideszre-kell-szavazni",
           "published": "2026-04-12T16:22:19+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "Ezeket sokan rosszul tudják: meglepő tények a kutya- és macskaallergiáról",
-          "url": "https://www.origo.hu/nagyvilag/2026/04/hipoallergen-haziallat-kutya-macska-tunet",
-          "published": "2026-04-12T16:06:46+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Kocsis Máté: Minden aljas eszközt bevetnek a tiszások",
-          "url": "https://www.origo.hu/belpol/2026/04/kocsis-mate-minden-aljas-eszkozt-bevetnek-a-tiszasok",
-          "published": "2026-04-12T16:04:00+00:00",
           "description": null,
           "image": null,
           "category": "Belpolitika",
