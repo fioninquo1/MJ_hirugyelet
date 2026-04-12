@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-12T20:10:45.077430+00:00",
+  "scraped_at": "2026-04-12T20:15:29.322369+00:00",
   "portals": [
     {
       "id": "telex",
@@ -30,6 +30,15 @@
       "error": null,
       "article_count": 17,
       "articles": [
+        {
+          "title": "Ez az a pár választókerület, ahol a Fidesz jelöltje vezet",
+          "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-fidesz-kepviselo-szavazas-mandatum/",
+          "published": "2026-04-12T20:10:00+00:00",
+          "description": "Összesen tizenegy.",
+          "image": "https://kep.index.hu/1/0/6883/68836/688366/68836699_5080759_8f66ca9e7817312a6ebcdf3b1cd12791_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
         {
           "title": "Eldőlt a választás, Magyar Péter kétharmaddal alakíthat kormányt, mutatjuk az adatokat",
           "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-orszaggyulesi-valasztas-magyar-peter-eredmenyek-tisza-part/",
@@ -173,15 +182,6 @@
           "image": null,
           "category": "Mindeközben",
           "author": null
-        },
-        {
-          "title": "Novák Előd: Kevés helyet kaptunk, a média elhallgat minket, de abszolút bizakodóak vagyunk",
-          "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-mi-hazank-eredmenyvaro-toroczkai-laszlo-novak-elod/",
-          "published": "2026-04-12T17:38:00+00:00",
-          "description": "A Mi Hazánknál 5 és 20 százalék közötti eredményt várnak.",
-          "image": "https://kep.index.hu/1/0/6883/68834/688342/68834271_5080581_20154772494a86b95c651a4d8ac5a272_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -191,7 +191,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -204,6 +204,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Dunántúl keleti részén többségben a Tisza nyert, Békésben mindent vitt az ellenzék",
+          "url": "https://mandiner.hu/belfold/2026/04/dunantul-keleti-reszen-tobbsegben-a-tisza-nyert-bekesben-mindent-vitt-az-ellenzek",
+          "published": "2026-04-12T20:14:01+00:00",
+          "description": "Négy megyéből érkeznek végeredménynek tekinthető számok.",
+          "image": "https://cdn.mandiner.hu/2026/04/_ICBsh6fjT1ocCDsR7OHBsVqTCa0JJZGnOtOwJ3kyAk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlMTEwNWRjZDc2MDRkNjQ5ZDZlYThhMGFjMjRhY2Jh.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Jász-Nagykun-Szolnok vármegyében három körzetet nyert a Tisza, egyet a Fidesz",
+          "url": "https://mandiner.hu/belfold/2026/04/jasz-nagy-szolnok-varmegyeben-harom-korzetet-nyert-a-tisza-egyet-a-fidesz",
+          "published": "2026-04-12T20:12:14+00:00",
+          "description": "A megyében az országos tendecia érvényesült.",
+          "image": "https://cdn.mandiner.hu/2026/04/E6PNgTtYipl_p7ezpwxXq9oH5QBhjqBT6DrGr1h1QNY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQzZjRiOTM3ODAzZTRiYjY4NWYzZDJiM2QxYjc2YjZi.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Nem voltam és nem leszek sem hazug propagandista, sem áruló",
           "url": "https://mandiner.hu/belfold/2026/04/nem-voltam-es-nem-leszek-sem-hazug-propagandista-sem-arulo",
@@ -410,24 +428,6 @@
           "image": "https://cdn.mandiner.hu/2026/04/NbNgsXhvFwp2WRzNfgmLll1GJ-ZjmrhSknzkf4W3s7s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZkNjRkMDIxNjQ4MjQyMDE5ODY4MzJiNDE1ODFkNGM4.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Tolna vármegyét is a Tisza viszi – egy körzetben vezet a Fidesz",
-          "url": "https://mandiner.hu/belfold/2026/04/tolna-varmegyeben-a-fidesz-vezet",
-          "published": "2026-04-12T18:19:59+00:00",
-          "description": "Az adatokat a feldolgozottság tükrében frissítjük.",
-          "image": "https://cdn.mandiner.hu/2026/04/lw1hlXoOKY0HVj_D2_A6SFDijVcinXtdyn42iHZfpzY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhZGEwZDI2MGVhNTQ1OGU4MzZiMDRmZjcyYzUyMDkz.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Somogyországban a Fidesz vezet",
-          "url": "https://mandiner.hu/belfold/2026/04/somogyorszagban-a-fidesz-vezet",
-          "published": "2026-04-12T18:19:41+00:00",
-          "description": "Megjöttek az első eredmények, négyből három egyéni választókerületben a kormánypártok vezetnek, igaz, a feldolgozottság még csak 10 százalék körüli.",
-          "image": "https://cdn.mandiner.hu/2026/04/lw1hlXoOKY0HVj_D2_A6SFDijVcinXtdyn42iHZfpzY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhZGEwZDI2MGVhNTQ1OGU4MzZiMDRmZjcyYzUyMDkz.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -551,6 +551,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Lemondott Dobrev Klára",
+          "url": "https://hvg.hu/itthon/20260412_lemondott-dobrev-klara",
+          "published": "2026-04-12T20:13:28+00:00",
+          "description": "Vállalja a felelősséget, ami csakis az övé.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/93f3776f-4d8f-4721-82fe-074f1defc3a5.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Hadházy Ákos otthagyja a politikát",
           "url": "https://hvg.hu/itthon/20260412_hadhazy-akos-valasztasi-eredmeny-zuglo",
@@ -766,15 +775,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0a8fad93-beed-4f69-bb99-7a3042a5abbe.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Vox Populi: A kétpárti parlament a legvalószínűbb kimenetel",
-          "url": "https://hvg.hu/itthon/20260412_vox-populi-a-ketparti-parlament-a-legvaloszinubb-kimenetel",
-          "published": "2026-04-12T17:15:13+00:00",
-          "description": "A legnagyobb ellenzéki párt apránként falta fel a kisebb pártok támogatói bázisát, miközben a Fidesz tovább stagnált.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/490a1905-0cbd-4b11-8ca0-83e32f88d3ef.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -790,7 +790,7 @@
         {
           "title": "Elismerte választási vereségét Orbán Viktor",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/12/elismerte-valasztasi-vereseget-orban-viktor",
-          "published": "2026-04-12T20:33:33.107411+01:00",
+          "published": "2026-04-12T20:33:29.182010+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -870,6 +870,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Drámai győzelemmel kezdte a hazai világbajnokságot a magyar női jégkorong-válogatott",
+          "url": "https://www.origo.hu/sport/sport-csapat/2026/04/jegkorong-noi-vilagbajnoksag-magyar-francia",
+          "published": "2026-04-12T22:10:00+01:00",
+          "description": "A hosszabbításban dőlt el a meccs.",
+          "image": "https://cdn.origo.hu/2026/04/uwNqmjQV6pJNM5sr8wDTJ8UKgNTg5X_6rlaH5pnx_-c/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRhNWI2NjA2YmIyMDRlNjRhYzVkNDdmZmYxNWRmZGMx.webp",
+          "category": "jégkorong",
+          "author": null
+        },
         {
           "title": "Orbán Viktor: 2,5 millió ember bízott bennünk a mai napon is",
           "url": "https://www.origo.hu/belpol/2026/04/orban-viktor-ertekelte-a-fidesz-valasztasi-eredmenyet",
@@ -954,10 +963,10 @@
         {
           "title": "Tragédia a szavazókörben: félbeszakították a voksolást egy haláleset miatt",
           "url": "https://www.origo.hu/itthon/2026/04/valasztas-2026-meghalt-valasztopolgar-szavazo",
-          "published": "2026-04-12T19:35:00+01:00",
-          "description": "Az SzSzB a szavazást felfüggesztette.",
-          "image": "https://cdn.origo.hu/2026/04/g_FYY0ph-7dMsQ5Y6U-O-MnNnHICo7c4bpneqMlkIcs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2ZmE5Mzk5Zjg5MTRkZjk4NDc3YjIyNThmNTM1MjJi.webp",
-          "category": "szavazás",
+          "published": "2026-04-12T17:35:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
           "author": null
         },
         {
@@ -1084,15 +1093,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Toronymagas a részvételi arány: megérkeztek a legfrissebb számok",
-          "url": "https://www.origo.hu/belpol/2026/04/valasztas-2026-reszveteli-szavazas-ot-ora",
-          "published": "2026-04-12T15:37:05+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
