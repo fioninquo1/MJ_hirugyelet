@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-12T11:00:56.905696+00:00",
+  "scraped_at": "2026-04-12T11:05:35.084331+00:00",
   "portals": [
     {
       "id": "telex",
@@ -720,6 +720,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Kis Grófo üzent: Még bőven van időd ma elmenni szavazni, Orbán Viktor a biztos választás!",
+          "url": "https://mandiner.hu/belfold/2026/04/kis-grofo-uzent-meg-boven-van-idod-ma-elmenni-szavazni-orban-viktor-a-biztos-valasztas",
+          "published": "2026-04-12T11:00:13+00:00",
+          "description": "Az előadó arra is emlékeztetett, milyen veszélyekkel járna, ha a Tisza nyerne.",
+          "image": "https://cdn.mandiner.hu/2026/04/TOGST-oDQSDvk0cV7hlHJgUUjs0730JKp-5SpbiA2wE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhOTQ1ZGYyZTExZDRiZTlhNzY3YTNhYjk4YWZlMGUw.jpg",
+          "category": null,
+          "author": null
+        },
+        {
           "title": "Rendkívüli események zavarták meg a szavazást: több helyen is közbe kellett avatkozni",
           "url": "https://mandiner.hu/belfold/2026/04/rendkivuli-esemenyek-zavartak-meg-a-szavazast-tobb-helyen-is-kozbe-kellett-avatkozni",
           "published": "2026-04-12T10:47:16+00:00",
@@ -934,15 +943,6 @@
           "image": "https://cdn.mandiner.hu/2026/04/4h-YcfG7JaJyz-a09CqgTl4paUd2LHQdN8yUyJx6Xho/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA5MGEzOWQ4Yzk2ODQ0YzI4YmQwYWNiZWZkZGRlNGUx.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Lehet, ez az utolsó lehetőségünk: hátborzongató figyelmeztetés érkezett",
-          "url": "https://mandiner.hu/belfold/2026/04/lehet-ez-az-utolso-lehetosegunk-hatborzongato-figyelmeztetes-erkezett",
-          "published": "2026-04-12T07:38:17+00:00",
-          "description": "„Míg van lehetőségünk, tegyünk ez ellen” – írta a Hit Gyülekezete.",
-          "image": "https://cdn.mandiner.hu/2026/04/baKj-PjcoI56TTZz0wczH6CbifubwQ1iUnm8KJs8v-s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk4MmE1YWVlNTdmODQ4NGZhNmVlZjFlZjExNTgxYWU2.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -955,6 +955,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Felismered a politikusokat a bajszuk alapján? – kvíz",
+          "url": "https://24.hu/elet-stilus/2026/04/12/kviz-bajszos-politikusok/",
+          "published": "2026-04-12T13:00:00+01:00",
+          "description": "Fel tudod ismerni a híres politikusokat ikonikus bajszuk alapján? Teszteld a tudásod ebben a képes kvízben!",
+          "image": "https://s.24.hu/app/uploads/2026/04/kover-laszlo-central-1065220326-1-e1775759257588-320x180.jpg",
+          "category": "Élet-Stílus",
+          "author": "24.hu"
+        },
         {
           "title": "„Csak a Tiszára!” – érzékelhetően enyhült a szuperfideszes faluban a kormánypárti fölény",
           "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-szuha-riport/",
@@ -1170,15 +1179,6 @@
           "image": "https://s.24.hu/app/uploads/2026/04/central-1087342003-e1775984157664-320x180.jpg",
           "category": "Szórakozás",
           "author": "Besenyei Balázs"
-        },
-        {
-          "title": "Orbán Viktor a szavazás után: „Hűtsék be a pezsgőt!”",
-          "url": "https://24.hu/belfold/2026/04/12/orban-viktor-a-szavazas-csad/",
-          "published": "2026-04-12T10:54:00+01:00",
-          "description": "Orbán Viktor örül a magas részvételnek, mert eddig az mindig a Fidesznek kedvezett.",
-          "image": "https://s.24.hu/app/uploads/2026/04/orbanviktor-szavazas-24-320x180.png",
-          "category": "Videó",
-          "author": "Hrabéczy Soma Milán"
         }
       ]
     },
@@ -1524,10 +1524,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Bognár Tibor volt MTVA vezető: „A rendszerváltásra szavazok, még ha Magyar Péterrel szemben is fenntartásaim vannak”",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/bognar-tibor-volt-mtva-vezeto-a-rendszervaltasra-szavazok-meg-ha-magyar-peterrel-szemben-is-fenntartasaim-vannak",
+          "published": "2026-04-12T10:05:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Veszprémi végjáték: Lesz-e politikai földindulás a Bakonyban?",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/veszpremi-vegjatek-lesz-e-politikai-foeldindulas-a-bakonyban",
+          "published": "2026-04-12T08:51:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Orbán Viktor és Magyar Péter is leszavazott",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/orban-viktor-es-magyar-peter-is-leadta-szavazatat",
+          "published": "2026-04-12T07:58:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Hűtőszekrényekkel dolgozná le tetemes hátrányát a körzetében Tuzson Bence",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/hutoszekrenyekkel-dolgozna-le-tetemes-hatranyat-a-koerzeteben-tuzson-bence",
+          "published": "2026-04-12T07:24:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Minden generációnak jár egy katarzis",
+          "url": "https://kontroll.hu/cikk/velemeny/2026/04/12/minden-generacionak-jar-egy-katarzis",
+          "published": "2026-04-12T05:36:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Velemeny",
+          "author": null
+        },
+        {
+          "title": "A magyarkanizsai incidens jó eséllyel Putyin húsvéti ajándéka volt Orbánnak",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/04/12/a-magyarkanizsai-incidens-jo-esellyel-putyin-husveti-ajandeka-volt-orbannak",
+          "published": "2026-04-12T04:54:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kulfold",
+          "author": null
+        },
+        {
+          "title": "Magyarország választ - rekordot dönthet a részvétel a délelőtti adatok alapján",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/magyarorszag-valaszt-megnyiltak-a-szavazohelyisegek-1",
+          "published": "2026-04-12T04:47:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Videó a szegedi KDNP-irodától: ételosztásról beszél a fideszes jelölt, a pénzmozgásra nincs magyarázat",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/video-a-szegedi-kdnp-irodatol-etelosztasrol-beszel-a-fideszes-jeloelt-a-penzmozgasra-nincs-magyarazat",
+          "published": "2026-04-12T04:11:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
@@ -1538,6 +1611,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Fantasztikus bravúr: kijutott a világbajnokságra a válogatott!",
+          "url": "https://www.origo.hu/sport/sport-csapat/2026/04/noi-kosarlabda-valogatott-3x3-vilagbajnoksag",
+          "published": "2026-04-12T13:02:00+01:00",
+          "description": "Le a kalappal a csapat előtt.",
+          "image": "https://cdn.origo.hu/2026/04/ReAUU5ZQzVZw_1D-8W0g4fEVdrOVtIBy31MM3HL6NEc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VkOGYyOTRlODdmMjRlMGE4ODA4NDAzMTJlM2RlNTEy.webp",
+          "category": "3x3-as kosárlabda",
+          "author": null
+        },
+        {
+          "title": "Kínos incidens a mozgóurnával, le kellett állítani a szavazást",
+          "url": "https://www.origo.hu/belpol/2026/04/tiszas-incidens-mozgourna-le-kellett-allitani-szavazas",
+          "published": "2026-04-12T13:00:00+01:00",
+          "description": "A tiszás delegált cselekedetét a törvény szigorúan tiltja.",
+          "image": "https://cdn.origo.hu/2026/04/lKeFpKfihSW-62TiB6NT-wgeRJjONXDt8aVGGpiT-qA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I2ZWY3MTYxMzdkZDQxN2FiYjU5N2JmZDA3OTg1MjYx.webp",
+          "category": "Választás 2026",
+          "author": null
+        },
         {
           "title": "Usain Bolt félelmetes rekordja bajba került, egy 18 éves csodatinit figyel a világ",
           "url": "https://www.origo.hu/sport/sport-egyeni/2026/04/usain-bolt-200-meter-futas-rekord-gout-gout",
@@ -1613,19 +1704,10 @@
         {
           "title": "Dopeman: Ha nem akarsz herét a fejedre, szavazz a Fideszre!",
           "url": "https://www.origo.hu/belpol/2026/04/dopeman-ha-nem-akarsz-heret-fejedre-szavazz-fideszre",
-          "published": "2026-04-12T12:27:00+01:00",
-          "description": "A Vadhajtások főszerkesztőjének szavaival üzent a rapper.",
-          "image": "https://cdn.origo.hu/2026/04/_1KUCAllNhgoqllY0aKBhTBKTOS2cKC54pAA7OFwVr4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkxNDhiNDJiNDc1ZjQ3MWQ5NjE5ZDE3YjFhYzliMzI0.webp",
-          "category": "Választás 2026",
-          "author": null
-        },
-        {
-          "title": "Átjelentkezők szavazása az országgyűlési választáson",
-          "url": "https://www.origo.hu/galeria/atjelentkezok-szavazasa-az-orszaggyulesi-valasztason",
-          "published": "2026-04-12T12:26:00+01:00",
-          "description": "",
-          "image": "https://cdn.origo.hu/2026/04/DjHq2Zn7jzwBY15czFw5Z4ZD2sZrUElzxY1358KDnjM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU3NWFiNzZjNzgzOTQwYTI4ZGQxMTJiMDBlMjZiOWI4.webp",
-          "category": "Galeria",
+          "published": "2026-04-12T10:27:37+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1752,15 +1834,6 @@
           "description": null,
           "image": null,
           "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "A világűr meghódításának kezdete: 65 éve írta át a történelmet Jurij Gagarin",
-          "url": "https://www.origo.hu/nagyvilag/2026/04/jurij-gagarin-vilagur-urhajos",
-          "published": "2026-04-12T09:19:26+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
