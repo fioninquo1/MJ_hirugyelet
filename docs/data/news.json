@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-12T20:15:29.322369+00:00",
+  "scraped_at": "2026-04-12T20:20:44.234079+00:00",
   "portals": [
     {
       "id": "telex",
@@ -28,13 +28,31 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 17,
+      "article_count": 19,
       "articles": [
+        {
+          "title": "Dobrev Klára lemond a DK elnöki tisztségéről: Kudarcot vallottam",
+          "url": "https://index.hu/belfold/2026/04/12/dobrev-klara-dk-demokratikus-koalicio-lemondas-elnokseg-valasztas-2026/",
+          "published": "2026-04-12T20:17:00+00:00",
+          "description": "A párt teljes elnöksége szintén távozik.",
+          "image": "https://kep.index.hu/1/0/6883/68836/688369/68836963_5080779_cc3488995307b2dc790d171eb6e3f31b_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
+          "title": "Jócskán előttünk jár időben a sziget, ami a világ legkevésbé látogatott országa lett",
+          "url": "https://index.hu/fomo/2026/04/12/utazas-turizmus-kiribati-sziget-legkevesbe-latogatott-hely-kozossegi-media-fellendules/",
+          "published": "2026-04-12T20:15:00+00:00",
+          "description": "Aki trópusi kikapcsolódásra vágyik a nagy információs zajban, itt biztosan békére lel.",
+          "image": "https://kep.index.hu/1/0/6882/68823/688238/68823835_5079799_50f42c4ca6d48def2a279a8a6e1ecca7_wm.jpg",
+          "category": "Fomo",
+          "author": null
+        },
         {
           "title": "Ez az a pár választókerület, ahol a Fidesz jelöltje vezet",
           "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-fidesz-kepviselo-szavazas-mandatum/",
           "published": "2026-04-12T20:10:00+00:00",
-          "description": "Összesen tizenegy.",
+          "description": "Összesen tizenkettő.",
           "image": "https://kep.index.hu/1/0/6883/68836/688366/68836699_5080759_8f66ca9e7817312a6ebcdf3b1cd12791_wm.jpg",
           "category": "Belföld",
           "author": null
@@ -191,7 +209,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -204,6 +222,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "„Magyarország visszatért Európa szívébe” – Manfred Weber is odáig van Magyar Péter győzelméért",
+          "url": "https://mandiner.hu/belfold/2026/04/magyarorszag-visszatert-europa-szivebe-manfred-weber-is-odaig-van-magyar-peter-gyozelmeert",
+          "published": "2026-04-12T20:15:53+00:00",
+          "description": "Az Európai Néppárt elnöke is gratulált.",
+          "image": "https://cdn.mandiner.hu/2026/04/rdp2vchIEuUzoSDeiZvfaZly4W8lPXKyVpZGZzGyAYk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA4MDJmNWU1YmRhZDQ1ZGM5OTc5M2RhYzc2MGYzZGQ3.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Dunántúl keleti részén többségben a Tisza nyert, Békésben mindent vitt az ellenzék",
           "url": "https://mandiner.hu/belfold/2026/04/dunantul-keleti-reszen-tobbsegben-a-tisza-nyert-bekesben-mindent-vitt-az-ellenzek",
@@ -419,15 +446,6 @@
           "image": "https://cdn.mandiner.hu/2026/04/ttPV8hg5HhpLpltKo4ImLJBItkLROdkuUKSxqqo3PqE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiZmFlZGJlOTFmMzQ4OTZiODRiOTE4ZDc5YTYyNzgy.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Vegyes eredmények Borsodból",
-          "url": "https://mandiner.hu/belfold/2026/04/vegyes-eredmenyek-borsodbol",
-          "published": "2026-04-12T18:32:33+00:00",
-          "description": "Kiélezett a verseny a két nagyobb tömb között.",
-          "image": "https://cdn.mandiner.hu/2026/04/NbNgsXhvFwp2WRzNfgmLll1GJ-ZjmrhSknzkf4W3s7s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZkNjRkMDIxNjQ4MjQyMDE5ODY4MzJiNDE1ODFkNGM4.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -547,236 +565,10 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "ok",
-      "error": null,
-      "article_count": 25,
-      "articles": [
-        {
-          "title": "Lemondott Dobrev Klára",
-          "url": "https://hvg.hu/itthon/20260412_lemondott-dobrev-klara",
-          "published": "2026-04-12T20:13:28+00:00",
-          "description": "Vállalja a felelősséget, ami csakis az övé.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/93f3776f-4d8f-4721-82fe-074f1defc3a5.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Hadházy Ákos otthagyja a politikát",
-          "url": "https://hvg.hu/itthon/20260412_hadhazy-akos-valasztasi-eredmeny-zuglo",
-          "published": "2026-04-12T19:51:42+00:00",
-          "description": "A választók most úgy döntöttek, hogy elbocsátanak a köz szolgálatából - közölte veresége után Hadházy Ákos független képviselő, akinek az életében új szakasz kezdődik; az új kormány ténykedését már magánemberként kíséri majd figyelemmel.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e824dfa2-1b63-40aa-b142-f304d3fd0a55.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Karácsony gratulált és nemzeti színbe kapcsolta a Lánchíd díszkivilágítását",
-          "url": "https://hvg.hu/itthon/20260412_karacsony-gratulalt-es-nemzeti-szinbe-kapcsolta-a-lanchid-diszkivilagitasat",
-          "published": "2026-04-12T19:47:58+00:00",
-          "description": "A főpolgármester szerint „mostantól nem az életünk fog szólni a politikáról, hanem a politika az életünkről”.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f3fa3444-ae7f-4e1f-bfff-845f81c954b3.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Meglepően elfogulatlan a közmédia elemzése, de nem maradnak el a hajmeresztő állítások",
-          "url": "https://hvg.hu/elet/20260412_mraz-agoston-samuel-egyre-valoszinubb-hogy-a-tisza-megszerzi-a-mandatumok-tobbseget-kozmedia-valasztasi-musor-m1",
-          "published": "2026-04-12T19:23:31+00:00",
-          "description": "A kormánypárti Nézőpont Intézet vezetője elismerte, hogy a Tisza győzelme várható.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/585c0c95-5d93-4e91-9554-04b4852442cd.jpg",
-          "category": "Élet+Stílus",
-          "author": "szerzo@hvg.hu (Kovács Bálint)"
-        },
-        {
-          "title": "Financial Times-elemzés: Orbán gazdaságpolitikája megbukott, kiosztották a bizonyítványt a választók",
-          "url": "https://hvg.hu/gazdasag/20260412_valasztas-2026-financial-times-elemzes-orban-gazdasagpolitikaja-megbukott",
-          "published": "2026-04-12T19:21:22+00:00",
-          "description": "A populista közgazdaságtan hajlamos károkat okozni, és erre ékes példa, amit Orbán művelt. Magyarország sokkal szegényebb, mint amilyen egyébként volna.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1c332e91-aaab-4fb4-9114-e0a93bd6ffa0.jpg",
-          "category": "Gazdaság",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Orbán Viktor gratulált Magyar Péternek a győzelemhez",
-          "url": "https://hvg.hu/itthon/20260412_orban-viktor-gratulalt-magyar-peternek-a-gyozelemhez",
-          "published": "2026-04-12T19:21:05+00:00",
-          "description": "A Tisza Párt elnöke a Facebookon jelentette be a hírt.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f8e3f380-0d7e-4c34-a171-b8b712e59962.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Bújtatják a sajtó elől a DK-sokat",
-          "url": "https://hvg.hu/itthon/20260412_eredmenyvaro-demokratikus-koalicio-valasztas-2026-dobrev-klara",
-          "published": "2026-04-12T19:18:25+00:00",
-          "description": "A lifthez siet mindenki, aki felbukkan, és nem áll meg egy szóra sem. Az újságírók csak egy munkatárs széles hátát láthatják, ahogy beáll a lift elé, hogy takarja a párt eredményvárójára érkezőket.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fcf4f4e0-470b-47cb-9173-1371d1d02024.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Megvan a Tisza-kétharmad",
-          "url": "https://hvg.hu/itthon/20260412_megvan-a-tisza-ketharmad",
-          "published": "2026-04-12T19:15:55+00:00",
-          "description": "Nem kicsit, nagyon. Ugyanis 45,71 százalékos feldolgozottság mellett 135 mandátuma van jelenleg a Tiszának a kétharmados többséghez szükséges 133 helyett.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2bf8d3c6-0319-45c6-81a3-06f33a1c2a21.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Orbán Viktor: A választási eredmény fájdalmas",
-          "url": "https://hvg.hu/itthon/20260412_orban-viktor-valasztas-ketharmad-tisza-part-magyar-peter",
-          "published": "2026-04-12T19:15:41+00:00",
-          "description": "„Akárhogyan is alakult, mi ellenzékből is a hazánkat és a magyar nemzetet fogjuk szolgálni” – mondta a Fidesz listavezetője a vesztes választás utáni beszédében. Azt is jelezte: a következő időszakban a fideszes közösség erősítésén dolgoznak majd, és „soha nem adják fel”.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/520b1a2f-75cc-459b-8bcd-b6b18200efc4.jpg",
-          "category": "Itthon",
-          "author": "t.lorincz@hvg.hu (Lőrincz Tamás)"
-        },
-        {
-          "title": "Lengyel újságíró: Magyarországon azt nézzük most, ami jövőre Lengyelországban és Franciaországban is történhet",
-          "url": "https://hvg.hu/itthon/20260412_lengyel-ujsagiro-jd-vance-nem-volt-tul-nagy-segitseg",
-          "published": "2026-04-12T18:59:27+00:00",
-          "description": "Az Onet főszerkesztője szerint az amerikai alelnök maximum enyhíthetett valamit a közelgő vereség mértékén.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4fa5e43f-d92b-4426-b317-b78865e1585a.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Milák Kristóf visszatér, öt számban indul az ob-n",
-          "url": "https://hvg.hu/sport/20260412_milak-kristof-uszo-orszagos-bajnoksag-nevezes",
-          "published": "2026-04-12T18:54:34+00:00",
-          "description": "A kétszeres olimpiai bajnok egy éve versenyzett utoljára.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3468b9db-f310-49e2-9071-98a290af2c8a.jpg",
-          "category": "Sport",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Zeit-tudósítás: Orbán fáradtnak tűnt, mintha már alig tudna állni, nem sok maradt az egykori karizmatikus diákvezérből",
-          "url": "https://hvg.hu/itthon/20260412_zeit-tudositas-orban-faradtnak-tunt-mintha-mar-alig-tudna-allni-nem-sok-maradt-az-egykori-karizmatikus-diakvezerbol",
-          "published": "2026-04-12T18:41:30+00:00",
-          "description": "A kampányzárón úgy jelent meg, mint egy uralkodó, aki látja eljönni a végzetét.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/99492ead-6295-41df-ab26-3a393a43639c.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Standard: A magyarországi választási kampány legyen ébresztő Európa számára",
-          "url": "https://hvg.hu/itthon/20260412_valasztas-2026-standard-lapszemle",
-          "published": "2026-04-12T18:26:39+00:00",
-          "description": "Nem árt, ha készül az Unió, mert nemcsak Magyarországon fenyeget a veszély, hogy a „hazafias populisták” szélesre tárják az ajtót a globális amerikai és orosz uralmi törekvések előtt.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4c331c62-8971-4cba-95c0-563262746ea4.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Térképen a 2026-os parlamenti választás részletes eredményei",
-          "url": "https://hvg.hu/itthon/20260412_terkepen-a-2026-os-parlamenti-valasztas-reszletes-eredmenyei",
-          "published": "2026-04-12T18:26:30+00:00",
-          "description": "Magyarország- és Budapest-térképünkön a 2026-os országgyűlési választás valamennyi választókerületének eredményeit végigböngészheti.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8da03afb-3988-41cf-92dd-b16a62156a3d.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Érkeznek az eredmények",
-          "url": "https://hvg.hu/itthon/20260412_valasztas-2026-elso-eredmenyek-listas-szavazatok",
-          "published": "2026-04-12T18:08:17+00:00",
-          "description": "Elkezdték a szavazatok feldolgozását, az első eredmények alapján vezet a Tisza.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2746c375-6e40-4b8f-bac6-f8620bf60ab1.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Gulyás Gergely: Fel sem merült Orbán Viktor leváltása",
-          "url": "https://hvg.hu/itthon/20260412_gulyas-gergely-fels-sem-merult-orban-viktor-levaltasa",
-          "published": "2026-04-12T18:07:07+00:00",
-          "description": "A miniszter azt mondta a HVG-nek, hogy szerinte 111 mandátumot szereznek majd a kormánypártok.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bc74e2c0-fcd9-4631-b76e-6c39583579b4.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Kurier-vezércikk: Orbán maga gerjesztette az ellenállást magával szemben",
-          "url": "https://hvg.hu/360/20260412_valasztas-2026-lapszemle-kurier",
-          "published": "2026-04-12T18:04:23+00:00",
-          "description": "A kritikus hangok elhallgattatása nem sikerült, viszont felszította a kuruc szellemet a lakosságban.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3826ab4e-1b8b-4d0f-a032-f11a6244c958.jpg",
-          "category": "hvg360",
-          "author": "szerzo@hvg.hu (hvg.hu)"
-        },
-        {
-          "title": "Gergely Márton a Medián felméréséről: A győztes nagyobb legitimitással rendelkezik majd, mint a 2010-es fülkeforradalom",
-          "url": "https://hvg.hu/itthon/20260412_median-urnazaras-tisza-fidesz-gergely-marton",
-          "published": "2026-04-12T18:03:23+00:00",
-          "description": "Lehet, hogy Orbán Viktornak hűséges a szavazói blokkja, de időközben elöregedett. Magyar Péter viszont érzelmi és taktikai szavazásra is rá tudta venni az embereket.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/176810c4-f163-4064-9833-4aef68507cb4.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Sulyok Tamás: A rekordmagas részvétel kétségbevonhatatlanul igazolja a magyarországi demokrácia erőteljes működését",
-          "url": "https://hvg.hu/itthon/20260412_sulyok-tamas-rekordmagas-reszvetel-sajtonyilatkozat-valasztasi-iroda",
-          "published": "2026-04-12T18:01:39+00:00",
-          "description": "A köztársasági elnök szerint bármi is lesz a választás eredménye, legitim felhatalmazást fog jelenteni arra vonatkozóan, hogy a következő időszakban milyen irányba tartson Magyarország.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/29fa7727-b6b7-4812-889a-c85183a550a1.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Magyar Péter: Magyarország újra történelmet írt",
-          "url": "https://hvg.hu/itthon/20260412_magyar-peter-magyarorszag-ujra-tortenelmet-irt",
-          "published": "2026-04-12T18:00:56+00:00",
-          "description": "A Tisza Párt elnöke szerint optimisták és óvatosan bizakodók most a pártban, de majd 20 óra után az első részeredmények ismeretében többet is tudnak mondani. Azt is jelezte: több ezer bejelentést kaptak különböző súlyú választási csalásokról.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/15584749-dc7e-40be-add6-53a26e345fe9.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "„Nem érdekel, odakint mit csinálnak, minden, ami az ajtón belül történik, az törvényes” – gyanús dolgokat láttunk több szavazókörnél",
-          "url": "https://hvg.hu/itthon/20260412_nem-erdekel-odakint-mit-csinalnak-minden-ami-az-ajton-belul-tortenik-az-torvenyes",
-          "published": "2026-04-12T17:57:45+00:00",
-          "description": "Civil aktivisták figyelik a nógrádi kistelepüléseken is, hogy történik-e a Szavazat ára című filmben is feltárt választási csalás. Szirákon és Hugyagon jártunk, és meglehetősen gyanús dolgokat tapasztaltunk.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f86a1e0-5998-4701-bee7-fb71aab8b553.jpg",
-          "category": "Itthon",
-          "author": "i.balla@hvg.hu (Balla István)"
-        },
-        {
-          "title": "Gulyás Gergely: Ez a választás megfelelő keret volt a demokratikus véleménynyilvánításhoz",
-          "url": "https://hvg.hu/itthon/20260412_gulyas-gergely-ez-a-valasztas-megfelelo-keret-volt-a-demokratikus-velemenynyilvanitashoz",
-          "published": "2026-04-12T17:26:20+00:00",
-          "description": "A magas részvétel miatt erős felhatalmazása lesz a következő kormánynak.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0ed17dee-1341-4e1d-8eed-81416ddb8080.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Az egyik, bejutásra számító párt már kezdhet aggódni a friss adatok láttán",
-          "url": "https://hvg.hu/itthon/20260412_magas-revszetel-parlament-bejutas-mi-hazank-toroczkai-laszlo",
-          "published": "2026-04-12T17:21:18+00:00",
-          "description": "A 80 százalék körüli választási részvételnél kérdéses lehet a Mi Hazánk parlamentbe jutása.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ef039678-fc39-4bac-a135-d2c3fa7e0b64.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Utolsó percig tart a kampány Erdélyben",
-          "url": "https://hvg.hu/360/20260412_utolso-percig-tart-a-kampany-erdelyben",
-          "published": "2026-04-12T17:18:15+00:00",
-          "description": "A csíkszeredai szavazókörzetben rekordszámban vesznek részt az erdélyi szavazók, a kolozsvári konzulátuson kisebb létszámban, de folyamatosan érkeznek a választók. A román politikusok is bekapcsolódtak a mozgósításba",
-          "image": "https://img.hvg.hu/Img/00000000-0000-0000-0000-000000000000/073253d1-c9bb-435a-9a52-27d290363a7b.jpg",
-          "category": "hvg360",
-          "author": "szerzo@hvg.hu (Parászka Boróka)"
-        },
-        {
-          "title": "Závecz Research: Kétharmad közelében a Tisza Párt",
-          "url": "https://hvg.hu/itthon/20260412_zavecz-research-ketharmad-kozeleben-a-tisza-part",
-          "published": "2026-04-12T17:15:20+00:00",
-          "description": "A Závecz Research ezen a héten készített felmérése szerint 54-40 százalékos arányban vezetett a Tisza Párt a Fidesszel szemben, a kisebb pártok várhatóan nem jutnak be.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0a8fad93-beed-4f69-bb99-7a3042a5abbe.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        }
-      ]
+      "status": "error",
+      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "kontroll",
@@ -790,7 +582,7 @@
         {
           "title": "Elismerte választási vereségét Orbán Viktor",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/12/elismerte-valasztasi-vereseget-orban-viktor",
-          "published": "2026-04-12T20:33:29.182010+01:00",
+          "published": "2026-04-12T20:33:32.560189+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
