@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-12T19:25:40.336028+00:00",
+  "scraped_at": "2026-04-12T19:30:49.683795+00:00",
   "portals": [
     {
       "id": "telex",
@@ -28,8 +28,26 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 17,
+      "article_count": 18,
       "articles": [
+        {
+          "title": "Tíz év alatt a kilencedik elnökét keresi egy ország, nem csak Magyarországon van választás",
+          "url": "https://index.hu/kulfold/2026/04/12/peru-valasztas-politika-elnok-reszvetel-del-amerika/",
+          "published": "2026-04-12T19:24:00+00:00",
+          "description": "35 jelölt közül választanak vasárnap Peruban.",
+          "image": "https://kep.index.hu/1/0/6883/68832/688328/68832805_5080469_19e784de82d19ce469b6b02e0daaed7a_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Orbán Viktor elismerte a Fidesz vereségét, de folytatja",
+          "url": "https://index.hu/belfold/2026/04/12/orban-viktor-fidesz-kdnp-valasztas-2026-orszaggyulesi-valasztasok-magyar-peter-tisza-part/",
+          "published": "2026-04-12T19:24:00+00:00",
+          "description": "Beszédet mond a kormányfő.",
+          "image": "https://kep.index.hu/1/0/6854/68543/685432/68543255_5059445_a736ad24069ea0837169a5654a6ee58d_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
         {
           "title": "Orbán Viktor telefonon gratulált Magyar Péternek",
           "url": "https://index.hu/belfold/2026/04/12/magyar-peter-orban-viktor-valasztas-2026/",
@@ -173,15 +191,6 @@
           "image": "https://kep.index.hu/1/0/6883/68833/688337/68833745_5080541_f8ae6c6fa35e61cb0874fcdca989215b_wm.jpg",
           "category": "Belföld",
           "author": null
-        },
-        {
-          "title": "A világ legrosszabb állása az övé volt, mégis a legnagyobb sztárok rajonganak érte",
-          "url": "https://index.hu/kultur/2026/04/12/ed-o-neill-al-bundy-egy-rem-rendes-csalad-hollywood-szuletesnap-szitkom/",
-          "published": "2026-04-12T17:05:00+00:00",
-          "description": "Nyolcvanéves a nagy úttörő, aki olyan karaktert hozott létre a televízióban, amilyet korábban még nem látott a világ.",
-          "image": "https://kep.index.hu/1/0/6883/68832/688320/68832017_5080411_c7d15bbc14c4a7a06b80b9c3089317f9_wm.jpg",
-          "category": "Kultúr",
-          "author": null
         }
       ]
     },
@@ -191,7 +200,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -552,6 +561,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Mráz Ágoston Sámuel: Egyre valószínűbb, hogy a Tisza megszerzi a mandátumok többségét",
+          "url": "https://hvg.hu/elet/20260412_mraz-agoston-samuel-egyre-valoszinubb-hogy-a-tisza-megszerzi-a-mandatumok-tobbseget-kozmedia-valasztasi-musor-m1",
+          "published": "2026-04-12T19:23:31+00:00",
+          "description": "A kormánypárti Nézőpont Intézet vezetője elismerte, hogy a Tisza győzelme várható. A közmédia választási műsorának elemző része meglepően elfogulatlan, ám a hírblokkban hajmeresztő állítások hangzottak el tényként „véres ukrán puccsról” és mesterlövészekből.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/585c0c95-5d93-4e91-9554-04b4852442cd.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (Kovács Bálint)"
+        },
+        {
           "title": "Financial Times-elemzés: Orbán gazdaságpolitikája megbukott, kiosztották a bizonyítványt a választók",
           "url": "https://hvg.hu/gazdasag/20260412_valasztas-2026-financial-times-elemzes-orban-gazdasagpolitikaja-megbukott",
           "published": "2026-04-12T19:21:22+00:00",
@@ -766,15 +784,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3d112e09-c2db-4a37-87f0-806a97b1dd83.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "A Tisza történelmi győzelmét vetíti előre a Medián mérése a kampány utolsó napjaiból",
-          "url": "https://hvg.hu/360/20260412_a-tisza-tortenelmi-gyozelmet-vetiti-elore-a-median-merese-a-kampany-utolso-napjaibol",
-          "published": "2026-04-12T17:04:09+00:00",
-          "description": "A Tisza Párt a választási kampány utolsó öt napjában végzett Medián-felmérés szerint a listás szavazatok 55,5 százalékára számíthat, míg a Fidesz legvalószínűbb eredménye 37,9 százalék. A Mi Hazánk a prognózis szerint kiesik az Országgyűlésből. Mindez pedig azt jelenti, hogy a Tisza várható mandá...",
-          "image": "https://img.hvg.hu/Img/00000000-0000-0000-0000-000000000000/3a1e143a-58bd-40a4-8c77-19733e78d73e.jpg",
-          "category": "hvg360",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -783,83 +792,10 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "ok",
-      "error": null,
-      "article_count": 8,
-      "articles": [
-        {
-          "title": "Tényleg nem Freddie vezette a SzerencseSzombat április 11-i adását",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/tenyleg-nem-freddie-vezette-a-szerencse-szombat-aprilis-11-i-adasat",
-          "published": "2026-04-12T17:42:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Rácz András: Készül a forgatókönyv, amiben Ukrajna lesz a bűnbak az elvesztett választás miatt",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/racz-andras-keszuel-a-forgatokoenyv-amiben-ukrajna-lesz-a-bunbak-az-elvesztett-valasztas-miatt",
-          "published": "2026-04-12T16:42:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Szávay István: „Nem jobb- és baloldal között választunk, hanem jövőt”",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/szavay-istvan-nem-jobb-es-baloldal-koezoett-valasztunk-hanem-joevot",
-          "published": "2026-04-12T16:08:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Tiborcz István üzlettársa céges levélben buzdított a Fidesz támogatására",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/tiborcz-istvan-uezlettarsa-ceges-levelben-buzditott-a-fidesz-tamogatasara",
-          "published": "2026-04-12T14:09:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "A szavazóhelyiség előtt vett fel kampányvideót a gyáli fideszes polgármester",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/a-szavazohelyiseg-elott-vett-fel-kampanyvideot-a-gyali-fideszes-polgarmester",
-          "published": "2026-04-12T13:11:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Nem levélben, hanem fél kontinensen át – valójában ilyen a külföldi szavazás",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/04/12/nem-levelben-hanem-fel-kontinensen-at-valojaban-ilyen-a-kuelfoeldi-szavazas",
-          "published": "2026-04-12T13:08:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
-        },
-        {
-          "title": "Hangosan mondták meg, hova menjen az X – videókon a választási visszaélések gyanúja",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/hangosan-mondtak-meg-hova-menjen-az-x-videokon-a-valasztasi-visszaelesek-gyanuja",
-          "published": "2026-04-12T12:08:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Bognár Tibor volt MTVA vezető: „A rendszerváltásra szavazok, még ha Magyar Péterrel szemben is fenntartásaim vannak”",
-          "url": "https://kontroll.hu/cikk/belfold/2026/04/12/bognar-tibor-volt-mtva-vezeto-a-rendszervaltasra-szavazok-meg-ha-magyar-peterrel-szemben-is-fenntartasaim-vannak",
-          "published": "2026-04-12T10:05:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        }
-      ]
+      "status": "error",
+      "error": "TimeoutError: ",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "origo",
