@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-13T18:25:37.873630+00:00",
+  "scraped_at": "2026-04-13T18:30:53.522457+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -728,6 +728,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Orosz szakértők szerint Orbán Viktor a húsz évvel ezelőtti önmagától szenvedett vereséget",
+          "url": "https://mandiner.hu/kulfold/2026/04/orosz-szakertok-szerint-orban-viktor-a-husz-evvel-ezelotti-onmagatol-szenvedett-vereseget",
+          "published": "2026-04-13T18:24:52+00:00",
+          "description": "A szakértők megnevezték a választás legnagyobb vesztesét is.",
+          "image": "https://cdn.mandiner.hu/2026/04/h0hQsuw75sOIkh-2nV7uCYr0Kiyv29orWx3bvrY99MM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YyNzFmYWRmYzVjMjQwMTc5YzBjZmZhYjFjZWNmNjc4.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "A végén kinyílt az olló, a veszprémiek örülhetnek",
           "url": "https://mandiner.hu/sport/2026/04/veszprem-szeged-ferfi-kezilabda-bajnoksag-rangado",
@@ -943,15 +952,6 @@
           "image": "https://cdn.mandiner.hu/2026/04/3ghrq68VFQ8tKFmDCbdaaUMYLjLoYpsa3zbsmOycnbo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiN2U1MzA1N2E4ZDQzNmQ5N2JhMmY4YjNhYjFiYWEy.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Sulyok Tamás üzent: személyes találkozóra hívta Orbán Viktort, Magyar Pétert és Toroczkai Lászlót",
-          "url": "https://mandiner.hu/belfold/2026/04/sulyok-tamas-uzent-az-orszaggyulesbe-juto-partok-vezetoinek",
-          "published": "2026-04-13T14:46:01+00:00",
-          "description": "Szerdán friss információk érkezhetnek az új országgyűlési felállásról.",
-          "image": "https://cdn.mandiner.hu/2026/04/1yGpHbuKAwUHfZ4IRk1vxm40sK079SH9j_q8Xuoyjbk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JkMDI3ZWYxMDFiZTRhODVhMzZkMDY2YTg1M2M0MzBl.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -964,6 +964,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "2002: az év, amikor a Fidesz először vesztett kormányon – és ami utána történt",
+          "url": "https://24.hu/belfold/2026/04/13/2002-fidesz-vereseg-polgari-korok/",
+          "published": "2026-04-13T20:28:00+01:00",
+          "description": "A 2002-es országgyűlési választási vereség után a Fidesz politikai és társadalmi újraszerveződése a polgári körök létrejöttében, a Fidelitas újraszámlálási kampányában és az Erzsébet hídi blokádhoz vezető tiltakozásokban csúcsosodott ki.",
+          "image": "https://s.24.hu/app/uploads/2026/04/c9d17c4d-ae97-49c6-86e9-d0b93aec80e7-masolat-320x180.jpg",
+          "category": "Belföld",
+          "author": "Tóth Bálint Soma"
+        },
         {
           "title": "Magyar Péter: Levelet kaptam a köztársasági elnöktől",
           "url": "https://24.hu/belfold/2026/04/13/valasztas-2026-masnap-elo-hirfolyam/#magyar-peter-levelet-kaptam-a-koztarsasagi-elnoktol",
@@ -1177,15 +1186,6 @@
           "published": "2026-04-13T17:06:00+01:00",
           "description": "A szerdai napra személyes egyeztetésre hívtam az Országgyűlésbe jutó pártok vezetőit",
           "image": "https://s.24.hu/app/uploads/2026/04/central-0855875445-320x180.jpg",
-          "category": "Élő",
-          "author": "Vaskor Máté"
-        },
-        {
-          "title": "Magyar ígéri, nem lesz Orbán kettő",
-          "url": "https://24.hu/belfold/2026/04/13/magyar-peter-nemzetkozi-sajtotajekoztato-elo/#magyar-igeri-nem-lesz-orban-ketto",
-          "published": "2026-04-13T17:03:00+01:00",
-          "description": "Mi a garancia arra, hogy Magyar Péter nem azt az utat járja be, mint Orbán Viktor, hangzik el az utolsó kérdés.",
-          "image": "https://s.24.hu/app/uploads/2026/04/szb_3284_kiem-320x180.jpg",
           "category": "Élő",
           "author": "Vaskor Máté"
         }
