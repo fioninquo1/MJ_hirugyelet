@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-13T19:45:29.892855+00:00",
+  "scraped_at": "2026-04-13T19:50:42.314805+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Toroczkai László a Meta beavatkozása miatt megóvja a választást",
+          "url": "https://telex.hu/belfold/2026/04/13/toroczkai-laszlo-a-meta-beavatkozasa-miatt-megovja-a-valasztast",
+          "published": "2026-04-13T19:47:34+00:00",
+          "description": "A Mi Hazánk pártelnöke kedden ad be kifogást az esélyegyenlőtlenségre hivatkozva a Nemzeti Választási Bizottsághoz.",
+          "image": "https://assets.telex.hu/images/20260413/1776108231-temp-fvafv5ql49gc0mkbble_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Fehér János"
+        },
         {
           "title": "Visszaszerzett EU-s pénzek, csökkentett áfa, kisegített kisvállalkozók – milyen gazdaságpolitikát ígért a Tisza?",
           "url": "https://telex.hu/gazdasag/2026/04/13/tisza-kormany-gazdasagpolitika-adozas-koltsegvetes",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260413/1776089476-temp-v526vfoc127mdcmlgan_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Nádor András"
-        },
-        {
-          "title": "Sulyok Tamás szerdán találkozik a parlamentbe jutó pártok vezetőivel",
-          "url": "https://telex.hu/belfold/2026/04/13/sulyok-tamas-szerdara-hivta-be-a-parlamentbe-juto-partok-vezetoivel",
-          "published": "2026-04-13T14:26:54+00:00",
-          "description": "Magyar Péter arra szólította fel Sulyokot, hogy minél hamarabb kérje fel a Tisza Pártot a kormányalakításra, és mondjon le.",
-          "image": "https://assets.telex.hu/images/20260413/1776090349-temp-07fbqsaup6es0bifdkn_cimlap-normal.jpg",
-          "category": "Belföld",
-          "author": "Bicsérdi-Fülöp Ádám"
         }
       ]
     },
@@ -483,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Újra megnyílnak az X-akták, de vajon visszatér Mulder ügynök is?",
+          "url": "https://index.hu/mindekozben/poszt/2026/04/13/david-duchovny-x-aktak-szinesze-visszaterhet-az-uj-filmben/",
+          "published": "2026-04-13T19:46:14+00:00",
+          "description": "",
+          "image": null,
+          "category": "Mindeközben",
+          "author": null
+        },
+        {
           "title": "Toroczkai László: Megóvjuk a választás eredményét, ha kell, Strasbourgig is elmegyünk",
           "url": "https://index.hu/belfold/2026/valasztas/2026/04/13/toroczkai-laszlo-mi-hazank-mozgalom-valasztas-2026-meta-egyenes-beszed-ronai-egon/",
           "published": "2026-04-13T19:41:00+00:00",
@@ -697,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/6885/68854/688540/68854093_5082065_0aaaff4a3cfa84b81fbc35d17f296f25_wm.jpg",
           "category": "Gazdaság",
           "author": null
-        },
-        {
-          "title": "Rogán Antal reagált a Fidesz bukására: Tudom, hogy megbüntettek minket az emberek",
-          "url": "https://index.hu/belfold/2026/04/13/rogan-antal-valasztasok-2026-reakcio-szabo-balint-buntetes-tisza-ketharmad/",
-          "published": "2026-04-13T16:18:00+00:00",
-          "description": "A politikus szerint a kormányzati felelősség már nem az övék.",
-          "image": "https://kep.index.hu/1/0/6019/60192/601929/60192911_4451647_9bd9312111b714eb8c1c2dd08ffd80eb_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -969,7 +969,7 @@
           "url": "https://24.hu/belfold/2026/04/13/valasztas-2026-masnap-elo-hirfolyam/#ostobanak-nevezte-a-szerb-elnok-magyar-peter-kijelenteset",
           "published": "2026-04-13T21:40:00+01:00",
           "description": "A szerb közszolgálat televízió műsorában adott interjút Alekszandar Vucsics szerb elnök.  Az interjú elején a Szabad Magyar Szó szemléje szerint elején kijelentette, hogy az elmúlt húsz évben jelentősen csökkentek a magyarok és a szerbek közötti konfliktusok, utalva arra, hogy ebben Orbánnak is j...",
-          "image": "https://s.24.hu/app/uploads/2026/04/tisza_unneples_moh_0932-e1776049462147-320x180.jpg",
+          "image": "https://s.24.hu/app/uploads/2026/04/081_3z6xv-320x180.jpg",
           "category": "Élő",
           "author": "Kassai Zsigmond"
         },
