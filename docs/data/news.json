@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-14T06:10:31.871677+00:00",
+  "scraped_at": "2026-04-14T06:15:25.138129+00:00",
   "portals": [
     {
       "id": "telex",
@@ -14,7 +14,7 @@
           "title": "Beszakadt a hazai biztonsági üzemanyag-tartalék: a benzin 80, a gázolaj 75 százaléka elfogyott",
           "url": "https://telex.hu/g7/adat/2026/04/14/uzemanyag-biztonsagi-keszlet-csokkenes",
           "published": "2026-04-14T06:09:25+00:00",
-          "description": "Még döbbenetesebb adat, hogy a védett ár miatt bevezetett intézkedés miatt március 31 napjában 47 napi készletet használtunk fel.",
+          "description": "Úgy fogyasztjuk a tartalékokat, mintha nem lenne holnap: a védett ár miatt bevezetett intézkedés miatt március 31 napjában 47 napi készletet használtunk fel.",
           "image": "https://assets.telex.hu/images/20260414/1776146392-temp-d9f683alei8q4pahlgl_cimlap-normal.jpg",
           "category": "Adat",
           "author": "Jandó Zoltán"
@@ -242,10 +242,236 @@
       "name": "444.hu",
       "url": "https://444.hu",
       "color": "#e6db00",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://444.hu/feed'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Hadházy Ákos sms-ben gratulált Magyarnak, májustól visszatér eredeti szakmájához",
+          "url": "https://444.hu/2026/04/14/hadhazy-akos-sms-ben-gratulalt-magyarnak-majustol-visszater-eredeti-szakmajahoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T06:09:48+00:00",
+          "description": "Azt gondolja, abban is szerepet játszott, hogy Magyar Péternek kinyílt a szeme.",
+          "image": "https://assets.4cdn.hu/kraken/8FfhByFAk5jZmOWHs.jpeg",
+          "category": "szekszárd",
+          "author": "Inkei Bence"
+        },
+        {
+          "title": "Trump megpróbálta elmagyarázni, miért ábrázolta magát Jézusként",
+          "url": "https://444.hu/2026/04/14/trump-megprobalta-elmagyarazni-miert-abrazolta-magat-jezuskent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T05:42:08+00:00",
+          "description": "Az elnök később törölte a felháborodás kiváltó AI-generálta képet.",
+          "image": "https://assets.4cdn.hu/kraken/8KSVrhxsEJ5kGWFPs.jpeg",
+          "category": "iráni háború",
+          "author": "Inkei Bence"
+        },
+        {
+          "title": "Sulyok Tamás reagált a lemondására való felszólításra",
+          "url": "https://444.hu/2026/04/14/sulyok-tamas-reagalt-a-lemondasara-valo-felszolitasra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T05:15:58+00:00",
+          "description": "A válasz alapján nem úgy tűnik, hogy a köztársasági elnöke le akarna mondani.",
+          "image": "https://assets.4cdn.hu/kraken/8KQB5sxWL4nn1qW1ELs.jpeg",
+          "category": "kormányalakítás",
+          "author": "Inkei Bence"
+        },
+        {
+          "title": "Molotov-koktéllal támadt az OpenAI vezetőjének otthonára egy texasi férfi",
+          "url": "https://444.hu/2026/04/14/molotov-koktellal-tamadt-az-openai-vezetojenek-otthonara-egy-texasi-ferfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T05:12:09+00:00",
+          "description": "A rendőrök elfogták a 20 éves férfit, aki nemcsak Sam Altman házát, de az OpenAI központját is fel akarta gyújtani.",
+          "image": "https://assets.4cdn.hu/kraken/8KSTr6s7RvkP1IJrXs.jpeg",
+          "category": "Egyesült Államok",
+          "author": "Benics Márk"
+        },
+        {
+          "title": "Az utolsó héten Orbánnak kampányoló JD Vance nem lepődött meg Orbán vereségén",
+          "url": "https://444.hu/2026/04/14/az-utolso-heten-orbannak-kampanyolo-jd-vance-nem-lepodott-meg-orban-veresegen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T04:55:51+00:00",
+          "description": "Az amerikai alelnök szerint a látogatása nem Orbán győzelméről szólt, hanem arról, hogy kiálljanak egy régi szövetséges mellett.",
+          "image": "https://assets.4cdn.hu/kraken/8KHxSKGklM5B2881Q8s.jpeg",
+          "category": "brüsszeli bürokrácia",
+          "author": "Benics Márk"
+        },
+        {
+          "title": "A Meta „beavatkozása” miatt megóvja a választásokat a Mi Hazánk",
+          "url": "https://444.hu/2026/04/14/a-meta-beavatkozasa-miatt-megovja-a-valasztasokat-a-mi-hazank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T04:33:42+00:00",
+          "description": "Toroczkai László szerint sértette az esélyegyenlőséget, hogy letiltották őt a Facebookról és az Instagramról.",
+          "image": "https://assets.4cdn.hu/kraken/8KQRVRBvl6ttwqdEs.jpeg",
+          "category": "mi hazánk",
+          "author": "Benics Márk"
+        },
+        {
+          "title": "Nem kérnek Trump blokádjából a NATO-tagok, nő a feszültség a szövetségen belül",
+          "url": "https://444.hu/2026/04/14/nem-kernek-trump-blokadjabol-a-nato-tagok-no-a-feszultseg-a-szovetsegen-belul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T04:28:29+00:00",
+          "description": "Több európai ország jelezte: hajlandó lenne részt venni egy ilyen műveletben, de csak tartós tűzszünet és Iránnal kötött megállapodás után, amely garantálja hajóik biztonságát.",
+          "image": "https://assets.4cdn.hu/kraken/8K5XXUsFTUdsjjSIs.jpeg",
+          "category": "Hakan Fidan",
+          "author": "Inkei Bence"
+        },
+        {
+          "title": "Török Zoltán: Eshetnek még ki csontvázak a szekrényből, egy nagy fekete doboz, amit az új kormány megörököl",
+          "url": "https://444.hu/2026/04/14/torok-zoltan-raiffeisen-gazdasagpolitika-koltsegvetes-hitelminosites-unios-penzek-eurobevezetes-gdp-ner-vallalatok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T04:01:17+00:00",
+          "description": "A Raiffeisen vezető elemzője szerint a leköszönő Orbán-kormány a május 1-én lejáró üzemanyag-árstopot nem hosszabbítja meg. Elképzelhetőnek tartja, hogy lesz olyan NER-rel összefonódott, valódi piaci körülmények között eddig nem működött cég, ami bedől az új helyzetben. Arra nem számít, hogy az M...",
+          "image": "https://assets.4cdn.hu/kraken/80dz18CiKTblWGLVs.jpeg",
+          "category": "török zoltán",
+          "author": "Haász János"
+        },
+        {
+          "title": "Hiába bukott óriásit a Fidesz, Rogán, Lázár, Szijjártó, Kocsis és Menczer marad, több húzónevük eltűnhet",
+          "url": "https://444.hu/2026/04/14/hiaba-bukott-oriasit-a-fidesz-rogan-lazar-szijjarto-kocsis-es-menczer-marad-tobb-huzonevuk-eltunhet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T04:01:14+00:00",
+          "description": "Nagy helyezkedésre és önfeláldozásra lesz itt még szükség.",
+          "image": "https://assets.4cdn.hu/kraken/8KQLDS3Tx9zimOWHs.jpeg",
+          "category": "Selmeczi Gabriella",
+          "author": "Windisch Judit"
+        },
+        {
+          "title": "Elfáradt, kipukkadt, újjászerveződne",
+          "url": "https://444.hu/2026/04/14/elfaradt-kipukkadt-ujjaszervezodne?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-14T00:37:36+00:00",
+          "description": "Szimbolikus pillanatok a bukás útján, örömünnep Budapest utcáin, népfelkelés az orbánizmus ellen és Magyar első nemzetközi sajtótájékoztatója a 444 napindító hírlevelében.",
+          "image": "https://assets.4cdn.hu/kraken/8FXl3OA8E6CnfINEs.jpeg",
+          "category": "napindító",
+          "author": "Bódog Bálint"
+        },
+        {
+          "title": "Négy fideszes képviseli 1998 óta a körzetét, de most mindannyian elbuktak",
+          "url": "https://444.hu/2026/04/13/negy-fideszes-kepviseli-1998-ota-a-korzetet-de-most-mindannyian-elbuktak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T18:32:46+00:00",
+          "description": "Font Sándor, Lezsák Sándor, Tállai András és Zsigó Róbert is elvesztette az egyéni mandátumát. Hét választási győzelem után kaptak ki.",
+          "image": "https://assets.4cdn.hu/kraken/8KRGcD3uxaJPUyHQs.jpeg",
+          "category": "fidesz",
+          "author": "Molnár Kristóf"
+        },
+        {
+          "title": "A nagyvárosokban tarolt, Budapesten mindenhol 60% fölött a Tisza, a Fidesz-lista egy helyen 25%-ot sem kapott",
+          "url": "https://444.hu/2026/04/13/a-nagyvarosokban-tarolt-budapesten-mindenhol-60-folott-a-tisza-a-fidesz-lista-egy-helyen-25-ot-sem-kapott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T18:09:49+00:00",
+          "description": "A 106 egyéni választókerület egyikében sem kapott 40 százalék alatt a Tisza. A Fidesz egy helyen kapott 50 százaléknál többet, viszont 32 körzetben az egyharmados eredményt sem érte el.",
+          "image": "https://assets.4cdn.hu/kraken/8KPchbJUa3R029A1Qms.jpeg",
+          "category": "egyéni választókerületek",
+          "author": "Haász János"
+        },
+        {
+          "title": "Magyarország lerázta magáról az Orbán-rendszert",
+          "url": "https://444.hu/2026/04/13/magyarorszag-lerazta-magarol-az-orban-rendszert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T17:53:58+00:00",
+          "description": "Csúcspontjára ért egy óriási politikai történet: a Fidesz sötét pártállami eszközökkel sem tudta megakadályozni, hogy a magyar választók lesöpörjék azt a rendszert, ami zsákutcába juttatta az országot. A Tisza minden korábbinál erősebb felhatalmazást kapott.",
+          "image": "https://assets.4cdn.hu/kraken/8KReSjp99q0XUyHQs.jpeg",
+          "category": "fidesz",
+          "author": "Kristóf Balázs"
+        },
+        {
+          "title": "Orbán Viktor megszólalt",
+          "url": "https://444.hu/2026/04/13/orban-viktor-megszolalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T17:30:07+00:00",
+          "description": "Közölte, hogy ugyanannyi szavazatot kaptak, mint 2014-ben, de ez most „csak a tisztes helytálláshoz és a vereséghez volt elég”.",
+          "image": "https://assets.4cdn.hu/kraken/8KRimXE2oiA8VCJWs.png",
+          "category": "fidesz-kdnp",
+          "author": "Mészáros Juli"
+        },
+        {
+          "title": "Jámbor András szerint vizsgálat indulhat a Tisza elleni titkosszolgálati ügyben",
+          "url": "https://444.hu/2026/04/13/jambor-andras-szerint-vizsgalat-indulhat-a-tisza-elleni-titkosszolgalati-ugyben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T16:59:23+00:00",
+          "description": "A Központi Nyomozó Főügyészségen múlik, hogy elrendelik-e a nyomozást annak kivizsgálására, politikai célból indult-e eljárás a párthoz köthető két informatikus ellen.",
+          "image": "https://assets.4cdn.hu/kraken/8D6izqG6YIxCmNWGs.jpeg",
+          "category": "Központi Nyomozó Főügyészség",
+          "author": "Német Szilvi"
+        },
+        {
+          "title": "Egy hónap alatt feleződött, már csak 44 napra elég a magyar olajtartalék",
+          "url": "https://444.hu/2026/04/13/egy-honap-alatt-felezodott-mar-csak-44-napra-eleg-a-magyar-olajtartalek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T16:19:59+00:00",
+          "description": "A friss számokat a Magyar Szénhidrogén Készletező Szövetség tette közzé egy nappal a választási eredmények kihirdetése után.",
+          "image": "https://assets.4cdn.hu/kraken/8JSvZlYCxqN7X2Nos.jpeg",
+          "category": "magyar szénhidrogén készletező szövetség",
+          "author": "Német Szilvi"
+        },
+        {
+          "title": "Barcs Miklós: Túléltük a szarbánizmust!",
+          "url": "https://444.hu/2026/04/13/barcs-miklos-tuleltuk-a-szarbanizmust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T16:14:27+00:00",
+          "description": "A NER utolsó napján tartott koncertje után feloszlott a Flash zenekar, a frontember boldogan búcsúzott el.",
+          "image": "https://assets.4cdn.hu/kraken/8KRdTtFrCzFaLqDJs.jpeg",
+          "category": "flash",
+          "author": "Herczeg Márk"
+        },
+        {
+          "title": "Rogán: Tudom, hogy megbüntettek minket az emberek",
+          "url": "https://444.hu/2026/04/13/rogan-tudom-hogy-megbuntettek-minket-az-emberek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T15:56:25+00:00",
+          "description": "Szabó Bálintnak válaszolt Orbán propagandaminisztere: „Innentől kezdve a kormányzati felelősség, az nem a miénk.”",
+          "image": "https://assets.4cdn.hu/kraken/8KRcSycq5gttF4C2s.png",
+          "category": "fidesz",
+          "author": "Mészáros Juli"
+        },
+        {
+          "title": "Bulitudósítás: Úgy lüktetett a Margit híd, mint az ér Szijjártó Péter halántékán",
+          "url": "https://444.hu/2026/04/13/bulitudositas-ugy-luktetett-a-margit-hid-mint-az-er-szijjarto-peter-halantekan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T15:48:46+00:00",
+          "description": "A VIP-büfében már alaposan beivott VV Béci kísérteties vonyítása búcsúztatott minket a félig kirült Bálnát elhagyva. Aztán olyan partiba csöppentünk, amilyet az 1990-es rendszerváltáskor sem tartottak az akkori fiatalok. Bánhatja, aki nem volt ott.",
+          "image": "https://assets.4cdn.hu/kraken/8KRQ7VPdjbsa12Wh2s.jpeg",
+          "category": "ünneplés",
+          "author": "Szily László"
+        },
+        {
+          "title": "Ezek jelenthetik a változást: európai ügyészség, euró, visszalépés a Nemzetközi Büntetőbíróságba",
+          "url": "https://444.hu/2026/04/13/ezek-jelenthetik-a-valtozast-europai-ugyeszseg-euro-visszalepes-a-nemzetkozi-buntetobirosagba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T15:11:04+00:00",
+          "description": "Megtartotta első nemzetközi sajtótájékoztatóját Magyar Péter, közvetítette a közmédia is.",
+          "image": "https://assets.4cdn.hu/kraken/8KRP2YBBiQy5mOWHs.jpeg",
+          "category": "Hegedűs Zsolt",
+          "author": "Urfi Péter"
+        },
+        {
+          "title": "Elrendelték a Váci úti felüljárón tömegbalesetet okozó sofőr letartóztatását",
+          "url": "https://444.hu/2026/04/13/elrendeltek-a-vaci-uti-feluljaron-tomegbalesetet-okozo-sofor-letartoztatasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T14:41:21+00:00",
+          "description": "A gyanúsított jelenleg ideiglenes tartózkodási engedéllyel tartózkodik Magyarországon.",
+          "image": "https://assets.4cdn.hu/kraken/8KNLwOrVziTbX2Oms.jpeg",
+          "category": "váci úti felüljáró",
+          "author": "Mészáros Juli"
+        },
+        {
+          "title": "Találtunk egy statisztikát, amely alapján Menczer Tamás nem is szerepelt olyan rosszul",
+          "url": "https://444.hu/2026/04/13/talaltunk-egy-statisztikat-amely-alapjan-menczer-tamas-nem-is-szerepelt-olyan-rosszul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T14:22:37+00:00",
+          "description": "Mondjuk ez is inkább azért van, mert 2022-ben viszont nem szerepelt túl jól. Összeszedtük a négy évvel ezelőttihez képest legnagyobbat és legkisebbet zuhanó fideszes egyéni jelölteket. Egyszámjegyű zuhanás már jónak számít, sokan vannak 20 körül.",
+          "image": "https://assets.4cdn.hu/kraken/8JSBy0kAbSJG1QGwqs.jpeg",
+          "category": "támogatottság",
+          "author": "Rovó Attila"
+        },
+        {
+          "title": "Kipukkadt a lufi, de nem az a lufi",
+          "url": "https://444.hu/2026/04/13/kipukkadt-a-lufi-de-nem-az-a-lufi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T14:11:22+00:00",
+          "description": "A Fidesz végig azzal támadta a Tiszát, hogy csak egy digitális lufi, de végül a saját buborékuk pukkadt ki. Hat dolog a kampányból, ami nagyobbnak mutatta a támogatottságukat a valósnál – a közvélemény-kutatásoktól a bérkommentelőkön és a fizetett tapsolókon keresztül és az influenszerekig.",
+          "image": "https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga.gif",
+          "category": "tisza",
+          "author": "Német Szilvi"
+        },
+        {
+          "title": "Magyar Péter a 444-nek: Orbán Viktor nem lehet már miniszterelnök, rá is vonatkozni fog az alaptörvény",
+          "url": "https://444.hu/2026/04/13/magyar-peter-a-444-nek-orban-viktor-nem-lehet-mar-miniszterelnok-ra-is-vonatkozni-fog-az-alaptorveny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T14:00:55+00:00",
+          "description": "A Tisza módosítani fogja az alaptörvényt, ez alapján csak két ciklusig lehet valaki miniszterelnök. Magyar Péter elmondta, ez Orbán Viktorra is vonatkozik.",
+          "image": "https://assets.4cdn.hu/kraken/8KRRgqbL2LIYUyHQs.jpeg",
+          "category": "alaptörvény-módosítás",
+          "author": "Botos Tamás"
+        },
+        {
+          "title": "Hollandia: a boldog gyerekkor titka",
+          "url": "https://444.hu/2026/04/13/hollandia-a-boldog-gyerekkor-titka?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-04-13T13:33:30+00:00",
+          "description": "Az UNICEF 2025‑ös felmérése alapján a világ legboldogabb gyerekei Hollandiában élnek. De vajon mi a titkuk?",
+          "image": "https://assets.4cdn.hu/kraken/8KRSxjtB2c46UyHQs.jpeg",
+          "category": "2025 felmérés",
+          "author": "444.hu"
+        }
+      ]
     },
     {
       "id": "index",
@@ -256,6 +482,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Így romantikázott a Coachella fesztiválon Katy Perry és Justin Trudeau",
+          "url": "https://index.hu/mindekozben/poszt/2026/04/14/igy-romantikazott-a-coachella-fesztivalon-katy-perry-es-justin-trudeau/",
+          "published": "2026-04-14T06:14:04+00:00",
+          "description": "",
+          "image": null,
+          "category": "Mindeközben",
+          "author": null
+        },
         {
           "title": "Szélsebesen száguld a forint, megállíthatatlan a magyar deviza",
           "url": "https://index.hu/gazdasag/2026/04/14/forint-euro-dollar-arfolyam-valasztas-2026-tisza-part-fidesz-tozsde/",
@@ -471,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/6885/68853/688536/68853653_5082033_2affdf15d6b7ad533cccf3eb6831bef6_wm.jpg",
           "category": "Bajnokok ligája",
           "author": null
-        },
-        {
-          "title": "Két nappal a választás után máris a Magyarországgal szemben felfüggesztett uniós forrásokról tartanak sajtótájékoztatót",
-          "url": "https://index.hu/kulfold/2026/04/13/europai-unio-europai-parlament-magyar-peter-tineke-strik-magyar-jogallamisag-korrupcioellenesseg-reformok-unios-forrasok/",
-          "published": "2026-04-13T18:56:00+00:00",
-          "description": "Európa megkezdi a barátkozást Magyar Péterrel.",
-          "image": "https://kep.index.hu/1/0/6885/68855/688551/68855135_5082141_8a7325b1cba41f9fc19529853c271734_wm.jpg",
-          "category": "Külföld",
-          "author": null
         }
       ]
     },
@@ -559,7 +785,7 @@
           "title": "Vucsics keményen visszaszólt Magyar Péternek, a megszólalása kapcsán az ostobaság szó jutott eszébe",
           "url": "https://magyarnemzet.hu/kulfold/2026/04/vucsics-kemenyen-visszaszolt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-04-14T05:06:10+00:00",
-          "description": "A szerb elnök szerint a kiváló magyar-szerb kapcsolatokban Orbán Viktornak jelentős szerepe van.",
+          "description": "A szerb elnök szerint a kiváló magyar–szerb kapcsolatokban Orbán Viktornak jelentős szerepe van.",
           "image": "https://cdn.magyarnemzet.hu/2026/04/NfijJ3GCP_r7BQADQ6KmILbQHqwswpOYpLScRtAytJs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZhMWYxNjhhZjlhOTQzNWJiYzY3NzI1YWZiODIwYjdi.jpg",
           "category": "alapértelmezett",
           "author": null
@@ -610,7 +836,7 @@
           "author": null
         },
         {
-          "title": "Moszkva szerint vége kell, hogy legyen, nem folytatódhatnak a harcok",
+          "title": "Moszkva szerint vége kell hogy legyen, nem folytatódhatnak a harcok",
           "url": "https://magyarnemzet.hu/kulfold/2026/04/moszkva-szerint-vege-kell-hogy-legyen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-04-14T04:22:54+00:00",
           "description": "Oroszország kész segíteni a rendezésben.",
@@ -728,6 +954,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Itt a lista! Ezeket az ígéreteket lehet számonkérni Magyar Péteren",
+          "url": "https://mandiner.hu/belfold/2026/04/itt-a-lista-ezeket-az-igereteket-lehet-szamonkerni-magyar-peteren",
+          "published": "2026-04-14T06:10:23+00:00",
+          "description": "A Tisza Párt a kampány során fűt-fát ígért, hogy tompítsa a kiszivárgott terveinek pusztító hatását.",
+          "image": "https://cdn.mandiner.hu/2026/04/7ZNfRDIkXHCWVRtacKTP-Sx0eivyCK9z-b8EvkMFXiI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyZWY0NTdjODIwOTRlZWY4MzY2OTRlZWYwYTkxZGEw.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "A Mandiner komoly önreflexió után az új kormány elvi alapú ellenzéki sajtója lesz",
           "url": "https://mandiner.hu/belfold/2026/04/a-mandiner-komoly-onreflexio-utan-az-uj-kormany-elvi-alapu-ellenzeki-sajtoja-lesz",
@@ -941,15 +1176,6 @@
           "published": "2026-04-13T19:03:38+00:00",
           "description": "A Kutyapárt komoly bajba kerülhet anyagilag, mivel nem érték el az 1 százalékos küszöböt sem.",
           "image": "https://cdn.mandiner.hu/2026/04/W7ZHSbqP5u8XfBLjssMvn4Oicd5UkWkf_rJGLZWcL0U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMxYTBkNjAzYjEwODRiZGQ4Y2VkMWM4NDY3OTUzMDk3.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Brüsszel nem tétlenkedett: alig egy nappal a magyar választások után már az ukrajnai hitel folyósítását tárgyalják",
-          "url": "https://mandiner.hu/kulfold/2026/04/brusszel-nem-tetlenkedett-alig-egy-nappal-a-magyar-valasztasok-utan-mar-az-ukrajnai-hitel-folyositasat-targyaljak",
-          "published": "2026-04-13T18:54:49+00:00",
-          "description": "Az Európai Unió elnöksége bejelentette, szándékaik szerint a lehető leghamarabb jóváhagynák a Kijevnek szánt, 90 milliárd eurós hitelcsomagot.",
-          "image": "https://cdn.mandiner.hu/2026/04/7jAd5u_fRNxz_2OnB35gDKBGwotvfwgv20rrZhHYH00/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiYzE3NmVhZjEwYzQwOTI5YzYzYjQxYjA1ZjlmNDA1.jpg",
           "category": null,
           "author": null
         }
@@ -1540,7 +1766,7 @@
         {
           "title": "A kormánypárti válasz az eredményre: Soros, Brüsszel, Zelenszkij",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/14/a-kormanyparti-valasz-az-eredmenyre-soros-bruesszel-zelenszkij",
-          "published": "2026-04-14T07:08:31.515931+01:00",
+          "published": "2026-04-14T07:08:24.907500+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1621,6 +1847,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Luxusélet a rajongók pénzéből: bukott a népszerű magyar influenszer",
+          "url": "https://www.origo.hu/kek-hirek/2026/04/influenszer-nepszeru-magyar-csalo-lebukott-luxuselet",
+          "published": "2026-04-14T08:13:00+01:00",
+          "description": "Legalább 160 embert csaphatott be a TikTok-sztár.",
+          "image": "https://cdn.origo.hu/2026/04/D1fY3klZKK3oIUrlCkTwl8wrn2PdV7AoX9_Ae_cRA5I/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JhYTA0Zjc5NmE4ODQ4ZjI5Y2JlMzg3NTcwNzJhZmUw.webp",
+          "category": "influenszer",
+          "author": null
+        },
+        {
+          "title": "Ezeket az ígéreteket kérheti számon Magyar Péteren",
+          "url": "https://www.origo.hu/belpol/2026/04/tisza-part-valasztas-igeret",
+          "published": "2026-04-14T08:11:00+01:00",
+          "description": "Mindent is megígért.",
+          "image": "https://cdn.origo.hu/2026/04/uVShD5e2D50IziQXJFl1SMEaRqetDPPt-KN3uaSMTq8/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNTRkY2U0ODYwZjQ5ZTE5MDkyMzkwMTgxNDg0ZTk3.webp",
+          "category": "tisza párt",
+          "author": null
+        },
+        {
           "title": "Kolumbia több tucat Pablo Escobarhoz köthető kokainvízilót öl meg",
           "url": "https://www.origo.hu/nagyvilag/2026/04/vizilovak-pablo-escobar-allatkert-kolumbia",
           "published": "2026-04-14T08:02:00+01:00",
@@ -1695,19 +1939,19 @@
         {
           "title": "Vasvári Vivien exkluzív felvételt osztott meg",
           "url": "https://www.origo.hu/teve/2026/04/vasvari-vivien-exkluziv-felvetelt-osztott-meg",
-          "published": "2026-04-14T07:28:00+01:00",
-          "description": "Mutatjuk!",
-          "image": "https://cdn.origo.hu/2026/04/PqxLOK3AwJH9NIz_dKq6ADklTzA1EgWtN3JvWwLNJQI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgyYzM3NmYyNjkxMjQ0MjE4NjI3Yzc4MWMzMDkwZmM0.webp",
-          "category": "videó",
+          "published": "2026-04-14T05:28:22+00:00",
+          "description": null,
+          "image": null,
+          "category": "TV",
           "author": null
         },
         {
           "title": "Vigyázat! Elég megnyitni egy ilyen dokumentumot és már fel is törhetik a gépünket",
           "url": "https://www.origo.hu/techbazis/2026/04/dokumentum-pdf-tamadas-adobe-acrobat-reader",
-          "published": "2026-04-14T07:20:00+01:00",
-          "description": "Kritikus sebezhetőség van a milliók által használt appokban.",
-          "image": "https://cdn.origo.hu/2026/04/URsgViGOQAe9f0V9AdnOuNwB9kHLF8eIqoHqkaEsrGs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyYzNjYzhkZjJiODRiNmI5YzBjYzkwNzIyYTI4YjNl.webp",
-          "category": "sebezhetőség",
+          "published": "2026-04-14T05:20:10+00:00",
+          "description": null,
+          "image": null,
+          "category": "Tech",
           "author": null
         },
         {
@@ -1822,24 +2066,6 @@
           "title": "Kiderült az igazság a borról: tényleg lassítja az öregedést, de van egy csavar",
           "url": "https://www.origo.hu/nagyvilag/2026/04/biologiai-oregedes-bor-napi-1-2-pohar-hatasa",
           "published": "2026-04-14T03:55:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Udvariaskodni akart, amikor nem kellett volna, rommá törték a kocsiját – videó",
-          "url": "https://www.origo.hu/auto/2026/04/baleset-udvariaskodas-kovetesi-tavolsag",
-          "published": "2026-04-14T03:52:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Autó",
-          "author": null
-        },
-        {
-          "title": "Ezt jelezheti a nyakon megjelenő zsírpúp – komoly betegség is állhat a háttérben",
-          "url": "https://www.origo.hu/nagyvilag/2026/04/zsirpup-komoly-betegseg-is-allhat-a-hatterben",
-          "published": "2026-04-14T03:50:00+00:00",
           "description": null,
           "image": null,
           "category": "Nagyvilág",
