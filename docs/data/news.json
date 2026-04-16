@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-16T18:55:23.455390+00:00",
+  "scraped_at": "2026-04-16T19:00:57.599439+00:00",
   "portals": [
     {
       "id": "telex",
@@ -41,7 +41,7 @@
           "title": "Orbán: Újra kell tervezni a Fidesz-frakciót, másfajta képviselők kellenek",
           "url": "https://telex.hu/belfold/2026/04/16/orban-viktor-patriota-interju",
           "published": "2026-04-16T17:23:13+00:00",
-          "description": "Orbán Viktor először adott interjút a választási vereség óta. Azt mondta, az első eredmények után látta hogy baj van, még sokkhatás alatt áll. Teljes megújulásra van szükség, le nem mondott, szerinte itt nem elég annyi, hogy egy-két pozíción változtassanak.",
+          "description": "Orbán Viktor először adott interjút a választási vereség óta. Azt mondta, az első eredmények után látta, hogy baj van, még sokkhatás alatt áll. Teljes megújulásra van szükség, de le nem mondott, szerinte itt nem elég annyi, hogy egy-két pozíción változtassanak.",
           "image": "https://assets.telex.hu/images/20260416/1776361197-temp-j38u4gme2vck7dlpnlg_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Iván-Nagy Szilvia"
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -1302,6 +1302,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Nem kapta meg az elsőbbséget, gázpisztollyal kezdett lövöldözni egy autós Szegeden",
+          "url": "https://hvg.hu/cegauto/20260416_szeged-benzinkut-vita-lovoldozes",
+          "published": "2026-04-16T18:54:00+00:00",
+          "description": "Egy benzinkúton veszett össze két férfi, vitájuk lövöldözésig fajult. A rendőrség felfegyverkezve elkövetett garázdaság miatt nyomoz.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/86add0d3-2c33-4bf6-8e6a-83f208ee2bdc.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Gulyás Gergely szerint a Tisza boszorkányüldözésre készülhet, pedig nincs miért bosszút álljon",
           "url": "https://hvg.hu/itthon/20260416_gulyas-gergely-tisza-boszorkanyuldozes-bosszu-ellenzekiseg-vereseg",
           "published": "2026-04-16T18:36:00+00:00",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/00000000-0000-0000-0000-000000000000/ec85ddb6-a56b-4aec-87db-32849d6865ef.jpg",
           "category": "hvg360",
           "author": "t.lengyel@hvg.hu (Lengyel Tibor)"
-        },
-        {
-          "title": "Autóbalesetben meghalt az Arsenallal bajnok osztrák kapus",
-          "url": "https://hvg.hu/sport/20260416_labdarugas-ausztria-alexander-manninger-autobaleset-halalhir",
-          "published": "2026-04-16T14:18:17+00:00",
-          "description": "Alexander Manninger 48 éves volt.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/30352ccf-de54-4d89-bf84-7739f0b46a38.jpg",
-          "category": "Sport",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Orbán Viktor: „Soha nem tűrtem meg semmilyen korrupciót”",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/16/orban-viktor-soha-nem-turtem-meg-semmilyen-korrupciot",
-          "published": "2026-04-16T19:16:23.453076+01:00",
+          "published": "2026-04-16T19:15:43.114983+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
