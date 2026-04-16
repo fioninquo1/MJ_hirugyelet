@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-16T20:15:40.175916+00:00",
+  "scraped_at": "2026-04-16T20:20:32.497080+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Beesett a Mol-részvények árfolyama a Magyar-Hernádi-találkozó után",
+          "url": "https://telex.hu/gazdasag/2026/04/16/beesett-a-mol-reszvenyek-arfolyama-a-magyar-hernadi-talalkozo-utan",
+          "published": "2026-04-16T20:17:23+00:00",
+          "description": "Az osztalékfizetés körüli bizonytalanság cibálta meg az árfolyamot.",
+          "image": "https://assets.telex.hu/images/20260416/1776370444-temp-sq55iff2hnpn7mjegdg_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Zoltán"
+        },
         {
           "title": "A Jo Nesbø-sorozatot mintha a köztévé riportjai ihlették volna",
           "url": "https://telex.hu/after/2026/04/16/jo-nesbo-sorozat-netflix-harry-hole-boszorkanyszog-adaptacio",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260416/1776346887-temp-vkg2ovrjke6ccdjkmpc_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Iván-Nagy Szilvia"
-        },
-        {
-          "title": "Ungváry Krisztián: Orbán Viktor uralma a magyar történelem egyik mélypontja",
-          "url": "https://telex.hu/karakter/kultura/2026/04/16/ungvary-krisztian-tortenesz-interju-die-zeit-orban-viktor-magyar-peter",
-          "published": "2026-04-16T13:25:57+00:00",
-          "description": "A történész a német Die Zeitnak arról beszélt, hogy a magyarok egy olyan rendszerre mondtak nemet vasárnap, amely a klasszikus értelemben már nem volt demokrácia.",
-          "image": "https://assets.telex.hu/images/20260416/1776346262-temp-0gg9prjvhuou9micddf_cimlap-normal.jpg",
-          "category": "Kultúra",
-          "author": "Rácz Attila"
         }
       ]
     },
@@ -714,10 +714,236 @@
       "name": "Magyar Nemzet",
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Hazánk zavartalan üzemanyag-ellátása továbbra is biztosított",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/hazank-zavartalan-uzemanyag-ellatasa-tovabbra-is-biztositott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T20:04:58+00:00",
+          "description": "Magyar Péter Kapitány István és Kármán András társaságában tárgyalt Hernádi Zsolttal és a MOL felső vezetésével.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/wpdzxQSrkDMFPwxf5itaU-MmKrLQt1E_e6atpbWIoh0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3ZjUxZjhlZDBlOTQ5ZjE4OTU5NDE5YWEzYmJkNzg5.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Üzent a hadügyminiszter: ekkor csaphat le újra Amerika",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/hadugyminiszter-amerika-lecsap?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T20:04:00+00:00",
+          "description": "Minden attól függ, mi jön most.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/0a-X3FcgGve7gdjFqH05kNDgh4MZhY_GoFOWfRZLXAM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M2NzFlNDI2YmQ3NDRhNmJiZTg5MTk3NTAzMGVkNDAy.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Kallas: Oroszország több háborút akar, válaszként fokozni kell Ukrajna támogatását",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/kallas-oroszorszag-haboru?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T19:18:14+00:00",
+          "description": "Az EU minél hamarabb napirendre akarja tűzni a 90 milliárdos hitel kérdését.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/wBLif1l7QiGQ55iZVoUQVuDcB_X4AyHIF6vkSjNioYA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljMjFjOTVkZjFkODQzM2M4YjY5ZDRmNTlmYzYxMWVj.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Babis üzent a NATO-nak: maradtak nyitott kérdések",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/babis-uzenet-nato-nyitott-kerdes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T19:06:40+00:00",
+          "description": "A kormányfő azt állítja: a probléma abból adódik, hogy a felek eltérő adatokkal dolgoznak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/8-fkZaJrHcBx5v0zecqqV7eLLE_FgbQAwLVelHSuWUw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UwNDlmOWI1YmJlNjQ4NmE4NmUwYTUxN2ViOWMzYjcz.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Zelenszkij: A külföldön élő ukrán férfiaknak haza kell térniük",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/zelenszkij-kulfoldon-elo-ukran-ferfi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:59:05+00:00",
+          "description": "Az elnök kiemelte, hogy a felelősséget minden hadra fogható állampolgárnak viselnie kell.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/CmHz3pZphdzPHXchNumi6Yvb2tINWP93sCAIOfapfAo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk2Y2E3YzcxMjZiNjQ3NzRiN2ZhZjkxYTUzNjlkOWQ1.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "NVI: Lezárult a levélszavazatok előzetes összesítése",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/nvi-lezarult-a-levelszavazatok-elozetes-osszesitese?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:56:47+00:00",
+          "description": "Kézzel is megszámlálják majd őket.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/3tUBOTK942YDICQtYW4BoIKLRU37cHLrA6H_W3bi5ms/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc4ZTE2N2UwNDAzNTQ4MDY5MWIyNzI2NGFiMzdjNDQ3.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Kovács Bendegúz parádésan mutatkozott be a Konferencialigában",
+          "url": "https://magyarnemzet.hu/sport/2026/04/kovacs-bendeguz-konferencialiga-az-alkmaar-sahtar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:56:18+00:00",
+          "description": "A labdarúgó Konferencialiga negyeddöntős párharcaiban a holland AZ Alkmaar csütörtökön hazai pályán 2-2-re végzett a Sahtar Doneck ellen.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/CjPNo8ihtkaeuPBXM5WllPWu51cXmcN5tob8lWt8X6s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZmNzU0NzcxNjY0MjQ1NzZhNjAzMjU3YjY5MTYxNTQ0.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Brüsszel: Fenn kell tartani a nyomást Oroszországon",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/brusszel-oroszorszag-szankcio?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:32:33+00:00",
+          "description": "Az EU újabb szigorítások lehetőségét mérlegeli.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/Dcpux1A8kVGWKzdX0q6FDVq8HzKdSZNDPdgc-_JPzAI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNkMGU3OGVlYWJhYzRlYWViMmUxMzYxNzU0MGNkOWNm.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Életmentés a szegedi rakparton",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/eletmentes-a-szegedi-rakparton?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:26:13+00:00",
+          "description": "A beavatkozás ideje alatt jelentős forgalmi torlódás alakult ki a Tisza-parton.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/Wvt7_FTZxtPS_On-LtE19YDWeZyqxcitQJbeuF7csDk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MwNzE2Y2JhNmJlZDQ4ZjRiM2MxZjYzM2E0MjE4NTM1.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Hivatalos: jön a Top Gun 3.",
+          "url": "https://magyarnemzet.hu/kultura/2026/04/top-gun-3-tom-cruise?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:20:57+00:00",
+          "description": "Tom Cruise visszatér Pete „Maverick” Mitchell szerepében.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/cy8GJgPFZLMGxlTVozAj6wBaDZ50BtJ7afXSbV7zM-U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyZWViNjc3NDNkNTQ0MmZiMzA5Yzc4MDNhYTVhNGJm.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Pikk Bayerrel és Ambrózyval - Lesz -e kijózanodás? +videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/pikk-bayerrel-es-ambrozyval-lesz-e-kijozanodas-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T18:13:01+00:00",
+          "description": "A választási vereség okait keresték sajátos módon politikailag inkorrekt műsorunkban.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/yWvcsGGp9HJLb7U9rpnK4KRQvRxe4QKbLnhMmZBh21s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNTY1YjhhMjY0YjRjMzNhODZjOGQ0OTAzMzMxMDRl.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Budanov: Valódi változások nélkül nem térnek haza az ukránok",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/budanov-haboru-gazdasag-visszateres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T17:39:17+00:00",
+          "description": "Az elnöki hivatal vezetője szerint drasztikus változtatásokra van szükség.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/r_xQiKdDm8RkvzRP5s9y2tKARlUWmlYGw4eeF920-JM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljOGNmZWNkYmNlMzQ4ZmZhYjQxOGM3MzhhZTZhYzY2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Jön a Tisza-kormány – a piaci elemző szerint vége lesz a különadóknak, az árrésstopnak és az üzemanyagár-szabályozásnak is",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/04/jon-a-tisza-kormany-a-piaci-elemzo-szerint-vege-lesz-kulonadoknak-az-arresstopnak-es-az-uzemanyagar-szabalyozasnak-is?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T17:18:13+00:00",
+          "description": "Az árintézkedések kivezetése, illetve a piaci árképzés irányába történő visszatérés miatt „lesz zaj az inflációs folyamatokban”.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/gLtF4Tslcbz9kYxfxn9EKi5bViLQYrKyBuuTB4kyULo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MzZmE2MjNmZmIzMjRiN2ZhMDE2M2MwOGQ1ODA4YzJm.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Ozzy death metal a Dürer Kertben",
+          "url": "https://magyarnemzet.hu/kultura/2026/04/grafikai-plakatok-oszk?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T17:04:00+00:00",
+          "description": "Budapesten koncertezik Európa egyik legígéretesebb metálzenekara, a BAEST.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/XEV9R4_CFgGY5XsyyiiXzLqGLWwg8qfCVF69HbSFojM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q0MjJiYTMxOWNhYTQyY2M5NzlhMjdhM2Y5ZTBkYzNl.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Pécsi Ármin nagy dicséretet kapott, és megszellőztették, hogy a La Ligába igazolhat",
+          "url": "https://magyarnemzet.hu/sport/2026/04/pecsi-armin-liverpool-alisson-sevilla-la-liga?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:49:16+00:00",
+          "description": "A Sevillánál júniusban lejár a norvég Orjan Nyland szerződése, és nagy valószínűséggel a görög Odiszéasz Vlahodímosz sem marad.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/4BlvySy_yKvEIyFN9VSV4mS8R3rg4T_VrzeG_55wnIs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBjNzU2YWJiYzQyZDQ4YmQ5MjJmZjJkNjhiMjFiYjVl.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Donald Trump: Tíznapos tűzszünetben állapodott meg Izrael és Libanon",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/trump-tiznapos-tuzszunet-izrael-libanon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:49:07+00:00",
+          "description": "Harmincnégy év után először tartottak hivatalos megbeszélést a két ország diplomatái.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/J8VS-nkhRhUU69HCtO4aCvth7_GmA428rvZnI9k3BUc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IwMzY3ZjMzNDQ4YTQ1NTVhMTBiNGFmOWZkYzRiNWQ3.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Szennyező anyag került a szombathelyi kórház sürgősségi tömbjének vízhálózatába – már megkezdték a hiba elhárítását",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/szennyezo-anyag-szombathelyi-korhaz-surgossegi-tombjenek-vizhalozataba-mar-megkezdtek-a-hiba-elharitasat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:46:30+00:00",
+          "description": "Tizenegy ember ihatott a vízből, az érintettektől vért vettek toxikológiai vizsgálathoz, az eddigi eredmények negatívak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/02/vsQ8YeOorFyHghkpoCrKUyY12pu6VmvE5q0P9HW4gQI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyZGQ5OTIxMWMwNzQxZTBhZTEwOWRiOWFhOGEyNTIw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Sorsoltak: megkapta Eb-csoportellenfeleit a magyar női kézilabda-válogatott",
+          "url": "https://magyarnemzet.hu/sport/2026/04/noi-kezilabda-eb-csoport-magyar-valogatott-sorsolas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:42:40+00:00",
+          "description": "Rendkívül nehéz ágra került a magyar válogatott.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/E92qZt-Xx9EyNG97puyNdUqmscLejija012t9UHT5XA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzZDJiYjM4YzhhYTRhYjk5ZjBkNTVjMjEzYTNkN2E3.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Ez így veszélyes lehet, több százezer autót hív vissza a Honda",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/04/ez-igy-veszelyes-lehet-tobb-szazezer-autot-hiv-vissza-a-honda?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:32:02+00:00",
+          "description": "Eddig huszonötször történt sérülés.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/8O91fzb-FaJ9MQOGN_wn96aJx1Z-X5dJN5VuAyFhqL0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViNGUyYWNmYmFkNjQ1M2U4MDIyNTFkMTE2NWY2Mjc3.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Orbán Viktor: Teljes megújulásra van szükség! + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/orban-viktor-eloszor-ad-interjut-a-valasztasi-vereseg-utan-kovesse-nalunk-eloben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:31:31+00:00",
+          "description": "Lezárult egy korszak, nagyon sok változtatásra van szükség – jelentette ki Orbán Viktor a választási vereség után négy nappal.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/IxLI4lPxRy9OLa9vhOBkD8Lh87j1Pxu88iy8MID5v5A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNmOWUxZTRlZTI4YTQwM2Q5YmRlOTAxMTIwYWMzOGU3.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Új, 17 éves királyfi foglalta el Milák trónját, de aztán Kristóf is óriásit úszott",
+          "url": "https://magyarnemzet.hu/sport/2026/04/milak-kristof-antal-david-aranyerem-uszo-ob-sopron?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:29:39+00:00",
+          "description": "Nyírbátori bajnoka lett a 200 pillangónak, de a kétszeres olimpiai bajnok is örülhetett Sopronban.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/s1GjxfiasHyqJLaikBx8brP_GPBZWJrhe3xeN-XXLCw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZkNGQwZmVlNjBhYjRiMDc4ZDQ4NzRiMzUxZjczNzJj.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Hont András nagy ígéretet tett Magyar Péterrel kapcsolatban",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/hont-andras-nagy-igeretet-tett-magyar-peterrel-kapcsolatban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:18:51+00:00",
+          "description": "Habony Árpád cégének dolgozott korábban Magyar Péter lehetséges miniszterjelöltje.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/XnHeAvLpdcJpcK6OTpmot4sNJao43jNoBC0E_B80uWg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UyZDIyOWQwMmVjMDRkZGI4ZDRiMzMyOWI3MTNjMTc3.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Brüsszel már lépett: Ukrajna csatlakozására és a magyar vétó megszüntetésére készülnek",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/brusszel-nyomasgyakorlas-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:15:38+00:00",
+          "description": "Az új magyar kormány lendületet adhat Ukrajna uniós csatlakozásának – fogalmazott Marta Kos bővítésért felelős biztos.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/y8TiOdYmLFj8w6qN3D_qAnVCKeozJoHQ3encZnmEPH8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I2MjlmYWZlOTc3NzRjMDNiOWE1MGZlM2E3OTAxZTNl.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Megvan Oroszország célpontja, Putyin ráteheti a kezét a szigetre",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/nato-celpont-putyin-sziget?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T16:09:41+00:00",
+          "description": "Oroszország egy kisebb akcióval teheti próbára a NATO katonai képességeit.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/ZFv0ANprLDC_xrYW3q4lVLZXyzIootumlbhxzcZB9Go/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlkMWQ0ZWUxNTMwNjRmYjQ5NjUxNTg3MWFmNTI5MmU3.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Ez is eljött: 2010 után újra kormánypárti lesz a HVG, Magyar Pétert egyből Batthyány Lajosként ábrázolták",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/ez-is-eljott-2010-utan-ujra-kormanyparti-lesz-a-hvg-magyar-petert-egybol-batthyany-lajoskent-abrazoltak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-16T15:51:32+00:00",
+          "description": "Orbán Viktort kicsit másképp jelenítették meg négy éve.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/UXAJJr8kqxEDwPeC_nQXJBi3KQquV6m8DJmO2NSZw48/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA0ZjM3YTk5ZTUwNDQ1NzM4YzdkOGNlZmVlY2UyMTc1.jpg",
+          "category": "belföld",
+          "author": null
+        }
+      ]
     },
     {
       "id": "mandiner",
@@ -1540,7 +1766,7 @@
         {
           "title": "Iványi Gábort köztársasági elnöknek!",
           "url": "https://kontroll.hu/cikk/velemeny/2026/04/16/ivanyi-gabort-koeztarsasagi-elnoeknek",
-          "published": "2026-04-16T21:12:26.579815+01:00",
+          "published": "2026-04-16T21:12:32.085521+01:00",
           "description": null,
           "image": null,
           "category": "Velemeny",
