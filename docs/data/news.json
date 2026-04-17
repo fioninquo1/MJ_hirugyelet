@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-17T18:55:36.815291+00:00",
+  "scraped_at": "2026-04-17T19:00:45.854352+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Wáberer György szerint kizárt, hogy Orbán Viktornak legyen politikai jövője Magyarországon",
+          "url": "https://telex.hu/belfold/2026/04/17/waberer-gyorgy-interju-kizart-orbannak-legyen-politikai-jovoje-magyarorszagon",
+          "published": "2026-04-17T18:59:04+00:00",
+          "description": "A Fidesz maffiaszerű kormányzással működtette az országot, és teljesen alkalmatlanok voltak a kormányzásra. Ezt mondta Wáberer György, aki a Tisza Párt győzelme után újra a Telex stúdiójában járt.",
+          "image": "https://assets.telex.hu/images/20260417/1776441085-temp-qclm7hdc7k2f0fkcgpn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Orbán azt a korrupciót nem tűri, amiben nincs benne – interjú Wáberer Györggyel a Tisza kétharmada után",
+          "url": "https://telex.hu/video/2026/04/17/waberer-gyorgy-interju-mav-tisza-part-orban-viktor-ledaralas",
+          "published": "2026-04-17T18:59:00+00:00",
+          "description": "A választás óta ismét ülésezett a MÁV igazgatósága, ahol a kormányváltás ellenére hosszútávú, több százmilliárd forint értékű szerződéseket akartak áttolni a tagokon. Wáberer György azt is elmondta, milyen nexusa van a Tiszával, illetve hogy miért álljanak ellen azok, akik most dokumentumok megse...",
+          "image": "https://assets.telex.hu/images/20260417/1776437056-temp-ro690l8hcmno9nkgkpb_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Fábián Tamás"
+        },
         {
           "title": "A Tisza Párt teljes Tolna megyét átfordította, Dombóváron is legyőzték a Fidesz jelöltjét",
           "url": "https://telex.hu/belfold/2026/04/17/tisza-part-tolna-megye-2-oevk-dombovar-szijjarto-gabor-forditas-csibi-krisztina-fidesz",
@@ -216,24 +234,6 @@
           "image": "https://assets.telex.hu/images/20260417/1776436278-temp-ee1dehafqr1adfmodlg_cimlap-normal.jpg",
           "category": "Külföld",
           "author": "Kovács Pál"
-        },
-        {
-          "title": "Gulyás Gergely bejelentette, hogy a leköszönő kormány döntött a védett üzemanyagár fenntartásáról",
-          "url": "https://telex.hu/gazdasag/2026/04/17/gulyas-gergely-a-kormany-dontott-a-vedett-ar-meghosszabbitasarol",
-          "published": "2026-04-17T13:27:16+00:00",
-          "description": "Magyar Péter pénteken szólította fel a kormánypártokat, hogy hosszabbítsák meg a védett árra vonatkozó intézkedést május 31-ig, mert az még a Tisza Párt kormányra lépése előtt lejárna.",
-          "image": "https://assets.telex.hu/images/20260417/1776435976-temp-ttbib5ots6djbbagafh_cimlap-normal.jpg",
-          "category": "Gazdaság",
-          "author": "Vida Benjámin"
-        },
-        {
-          "title": "360 forint alá is benézett az euró",
-          "url": "https://telex.hu/gazdasag/2026/04/17/360-ala-is-benezett-a-forint",
-          "published": "2026-04-17T13:22:16+00:00",
-          "description": "Erősödik a forint árfolyama.",
-          "image": "https://assets.telex.hu/images/20260417/1776432028-temp-gqa0jdpc8f55bimdccc_cimlap-normal.jpg",
-          "category": "Gazdaság",
-          "author": "Bánáti Anna"
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
