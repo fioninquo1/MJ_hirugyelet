@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-17T18:40:40.635902+00:00",
+  "scraped_at": "2026-04-17T18:45:24.123294+00:00",
   "portals": [
     {
       "id": "telex",
@@ -576,7 +576,7 @@
           "title": "Rendőrségi eljárás indulhatott a Ferencváros kapusa, Gróf Dávid ellen",
           "url": "https://index.hu/sport/futball/2026/04/17/grof-david-labdaszedo-rendorsegi-eljaras-ujpest-ftc-derbi-botrany/",
           "published": "2026-04-17T16:39:00+00:00",
-          "description": "Az októberi derbin lökte fel az egyik labdaszedőt a választások előtt a Fideszért kampányoló futballista.",
+          "description": "Az októberi derbin lökte fel az egyik labdaszedőt a választások előtt a Fidesznek kampányoló futballista.",
           "image": "https://kep.index.hu/1/0/6542/65424/654248/65424883_4830115_16aec806de19ddb1246490da67e7a1d1_wm.jpg",
           "category": "Futball",
           "author": null
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -1621,6 +1621,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Új korszak jöhet a háborúban – Zelenszkij nagy bejelentést tett",
+          "url": "https://www.origo.hu/nagyvilag/2026/04/volodimir-zelenszkij-orosz-ukran-haboru-legvedelem",
+          "published": "2026-04-17T20:43:00+01:00",
+          "description": "Újabb támogatást követel az ukrán elnök.",
+          "image": "https://cdn.origo.hu/2026/04/rjppQdXllbd1eSt_9B0qIRNeZF28kH_0jscLGckARFk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4MDRkN2MwNDUxNzQxZjRiMDUzYTJlZWYyZDA3ZDI2.webp",
+          "category": "Zelenszkij",
+          "author": null
+        },
+        {
           "title": "Nem lassult le az emberi evolúció, csak nem vesszük észre a jeleket",
           "url": "https://www.origo.hu/tudomany/2026/04/evolucio-ember-lassulas",
           "published": "2026-04-17T20:35:00+01:00",
@@ -1704,10 +1713,10 @@
         {
           "title": "Dzsudzsák Balázs megvillantotta méregdrága sportautóját – kép",
           "url": "https://www.origo.hu/sport/sport-laza/2026/04/dzsudzsak-balazs-meregdraga-alomauto-foto",
-          "published": "2026-04-17T19:29:00+01:00",
-          "description": "A magyar válogatott korábbi kapitánya 50 milliós csodával csapatja.",
-          "image": "https://cdn.origo.hu/2026/04/-zb-cv7bE2pL2AFlJl49sRWbiNbMVCWT4ycDqqX0pX0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyMTY3YjRjMzE0ZjQ0YjU5YzBiN2IwNGNlZjJmM2Yw.webp",
-          "category": "NB I",
+          "published": "2026-04-17T17:29:54+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1834,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Megnézték, mi van Toszkána alatt; elborzadtak attól, amit találtak",
-          "url": "https://www.origo.hu/tudomany/2026/04/magma-mennyisege-toszkana-alatt-szupervulkanhoz-merheto",
-          "published": "2026-04-17T16:14:07+00:00",
-          "description": null,
-          "image": null,
-          "category": "Tudomany",
           "author": null
         }
       ]
