@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-18T11:50:24.264079+00:00",
+  "scraped_at": "2026-04-18T11:55:19.594535+00:00",
   "portals": [
     {
       "id": "telex",
@@ -719,6 +719,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Elszabadultak a tiszás indulatok: Forsthoffer Ágnes rendezvényén a rendőröknek kellett megvédeniük a Hír Tv riporterét + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/tisza-part-forsthoffer-agnes-inzultus-hir-tv-balatonfured?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-18T11:52:30+00:00",
+          "description": "A rendőrségnek kellett közbeavatkoznia.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/7APUhdCI0EdCkLC6Og661T0jlwRqtLHKP74NaugiVIg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U3NzEzMjRlMDAxNjQ2MmFiYWY0MDNkYzk1YWQyODg0.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
           "title": "Here Is How Massive Election Defeat Affected Fidesz's Campaign Chief",
           "url": "https://magyarnemzet.hu/english/2026/04/masolat-mutatjuk-milyen-hatassal-volt-a-brutalis-valasztasi-vereseg-a-fidesz-kampanyfonokere?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-04-18T11:49:06+00:00",
@@ -932,15 +941,6 @@
           "description": "Kis híján megölte a csecsemőt.",
           "image": "https://cdn.magyarnemzet.hu/2026/04/ZTckxEZfZj3ARCI10r2GkHeU0eygFnk3eJirVuF3hfQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyM2M2MDM3YTY3NTRiNWM5NDIxN2FmZTU0MmMyMmUw.jpg",
           "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "Irán válaszolt Trumpnak, itt az újabb fenyegetés",
-          "url": "https://magyarnemzet.hu/kulfold/2026/04/iran-trump-fenyegetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-04-18T08:29:18+00:00",
-          "description": "Ismét lezárhatják a Hormuzi-szorost.",
-          "image": "https://cdn.magyarnemzet.hu/2026/04/ZwESuUdeK0mZQO6ghmvfJ7uJwW9Sbu12_b4gE2WIZAI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlhNTAxNWQ1MWVmODRmYzQ4YmIwNTllMjA5MmZhNGJk.jpg",
-          "category": "alapértelmezett",
           "author": null
         }
       ]
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Városok sora tagadja meg a szolidaritási hozzájárulás befizetését az új kormány megalakulásáig",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/18/varosok-sora-tagadja-meg-a-szolidaritasi-hozzajarulas-befizeteset-az-uj-kormany-megalakulasaig",
+          "published": "2026-04-18T12:38:19.412976+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Eltűnt zebrák Hatvanpusztán: tíz helyett csak négyet talált a Kontroll",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/18/eltunt-zebrak-hatvanpusztan-tiz-helyett-csak-negyet-talalt-a-kontroll",
+          "published": "2026-04-18T10:08:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Vereség után: Orbán Balázs szerint rosszul mérték fel a választói hangulatot",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/18/vereseg-utan-orban-balazs-szerint-rosszul-mertek-fel-a-valasztoi-hangulatot",
+          "published": "2026-04-18T09:45:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Nem számolt a legrosszabbal az MKKP, eddig 57 milliót kalapozott össze a 686 milliós tartozásból",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/18/nem-szamolt-a-legrosszabbal-az-mkkp-eddig-57-milliot-kalapozott-oessze-a-686-millios-tartozasbol",
+          "published": "2026-04-18T09:30:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Néha elég egy hatvanas bőrruhás férfi egy Harley-n, és máris oda a választási csalásra készülők magabiztossága",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/18/neha-eleg-egy-hatvanas-borruhas-ferfi-egy-harley-n-es-maris-oda-a-valasztasi-csalasra-keszuelok-magabiztossaga",
+          "published": "2026-04-18T07:50:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Új korszak veheti kezdetét az MTA életében is a Tisza Párt győzelmével",
+          "url": "https://kontroll.hu/cikk/tudomany/2026/04/18/uj-korszak-veheti-kezdetet-az-mta-eleteben-is-a-tisza-part-gyozelmevel",
+          "published": "2026-04-18T05:49:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Tudomany",
+          "author": null
+        },
+        {
+          "title": "Tánccal lett ismert, reformokkal rázná helyre az egészségügyet Hegedűs Zsolt",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/17/tanccal-lett-ismert-reformokkal-razna-helyre-az-egeszseguegyet-hegedus-zsolt",
+          "published": "2026-04-17T17:36:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Pániküzemmódban mentik ki vagyonukat a NER-es oligarchák",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/17/panikuezemmodban-mentik-ki-vagyonukat-a-ner-es-oligarchak",
+          "published": "2026-04-17T16:11:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
