@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-19T18:00:51.933003+00:00",
+  "scraped_at": "2026-04-19T18:05:24.366031+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Makranczi Zalán szerint a színházban dolgozó emberek félnek, rettegnek Vidnyánszky Attilától",
+          "url": "https://telex.hu/karakter/kultura/2026/04/19/makranczi-zalan-vidnyanszky-attila-nemzeti-szinhaz-reakcio",
+          "published": "2026-04-19T18:02:59+00:00",
+          "description": "A színész szerint Vidnyánszkynak vissza kellene lépnie az összes hatalmi pozíciójából, hogy megszűnjön a félelem.",
+          "image": "https://assets.telex.hu/images/20260419/1776621560-temp-dsltm2ra0mh4bmmjcjh_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Szántó-Nagy Bálint"
+        },
         {
           "title": "A belpolitikai helyzetre hivatkozva hátrált ki a Nobel-díjas Krausz Ferenc alapítványa egy sikeres tehetséggondozó program mögül",
           "url": "https://telex.hu/techtud/2026/04/19/nemzeti-tudoskepzo-akademia-krausz-ferenc-nobel-dijas-elvonal-alapitvany-kekva-finanszirozas-politikai-fuggetlenseg",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260416/1776342559-temp-0k0dt126f8060icnken_cimlap-normal.jpg",
           "category": "Külföld",
           "author": "Nagy Nikoletta"
-        },
-        {
-          "title": "Mit gondol egy 19 éves fiatal a Szőlő utcáról?",
-          "url": "https://telex.hu/karakter/konyvespolc/2026/04/19/mintha-felistenek-vilagaban-elnenk-kritika",
-          "published": "2026-04-19T12:23:47+00:00",
-          "description": "Z generációs novelláskötet jelent meg, ami betekintést nyújt abba, hogyan is képzelik el a fiatalok a jövőt. De kik azok, akik egyáltalán ilyesmikről írni tudnak? Kritika.",
-          "image": "https://assets.telex.hu/images/20260313/1773397368-temp-tcfnchh89nh79AghGNA_cimlap-normal.jpg",
-          "category": "Könyvespolc",
-          "author": "Járvás Péter"
         }
       ]
     },
@@ -714,10 +714,236 @@
       "name": "Magyar Nemzet",
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Több gyermeket megölt egy fegyveres az egyesült államokbeli Louisiana államban",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/louisiana-egyesult-allamok-lovoldozes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T17:45:25+00:00",
+          "description": "A tettes három helyszínen nyitott tüzet az áldozatokra.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/vvzbLSB8KJXlnoKUVwxW-faFEo5dzEF3ntKscsC-IXA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q4YzMyOWZiZWZiYjQ1NjZiNzc2M2UyOTA1YTZiNjhj.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Szoboszlai a csapat motorjaként megmentette a Liverpoolt",
+          "url": "https://magyarnemzet.hu/sport/2026/04/szoboszlai-liverpool-everton-premier-league-osztalyzat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T17:43:52+00:00",
+          "description": "A magyar középpályás teljesítménye méltó volt az Everton elleni jubileumhoz.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/A-dls2_q_vLUvc2X_YLw7YG1tYC8T4hOp5tWyCdQqvU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ5ZTVmMzRlNGZiNDQwNzRiYzVmMGMwNzhiYzc1ZWRl.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Varga Barnabásék nagy lépést tettek a görög bajnoki cím felé",
+          "url": "https://magyarnemzet.hu/sport/2026/04/varga-barnabas-aek-athen-gyozelem-gorog-bajnoki-arany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T17:26:45+00:00",
+          "description": "A magyar válogatott csatár nagyszerűen játszott a PAOK elleni rangadón, csak a gól hiányzott a játékából.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/CKUMdiscP01q4u9i_o2V0kAtpv31CjF2GzmMV3MIoMI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAzNmY2Mzc0MWMyZDRlOGE4ZjQyNTFiOWM0ZDNhMzhj.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Fekete bárány bukkant fel Soroksáron, karambolozott is egy autóval + fotók",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/fekete-barany-soroksar-karambol-baleset-fotok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T17:26:08+00:00",
+          "description": "Eltört két lába, meg kellett operálni.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/Q-YxHSdINSxGV5atJSBqsVx07E-XaoWOYyzBT12vUko/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQyMWZkNDIwZGVjNDRkMzY5NWQ4MGVhZTNhNjlhNzVi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Hihetetlen kapushiba a Premier League csúcsrangadóján",
+          "url": "https://magyarnemzet.hu/sport/2026/04/premier-league-manchester-city-arsenal?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T17:26:01+00:00",
+          "description": "A Manchester City olasz kapusa, Donnarumma elképesztő gólt ajándékozott a listavezető Arsenalnak, ez azonban kevés volt a londoni csapatnak ahhoz, hogy legyőzze Haalandékat.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/QIRUNwtN41gQjnBwYh2kkMOXjkqgoeXumQZLXszhoTI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY1YjA3YjA3Yjg5NDQxNjU4OGFiMTFlZGUwYjExNTM4.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Végleg megváltozik Németország",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/nemetorszag-bevandorlas-demografiai-atalakulas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T17:12:40+00:00",
+          "description": "Már minden harmadik lakos bevándorló-hátterű.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/qVhBxG20dweBEUb6LWzx9JQwox_NyK5RUIRWFt0ocJc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc4YWJhNWQ0NDY1MDRhYWRhOWM0MjQ3OWE5ZmYzOTEx.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Kivégzést tartott a Veszprém a Magyar Kupa döntőjében",
+          "url": "https://magyarnemzet.hu/sport/2026/04/veszprem-tatabanya-magyar-kupa-donto-osszefoglalo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T16:38:19+00:00",
+          "description": "Harminckettedik alkalommal hódították el a kupát a bakonyiak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/ZmWGn1mKGgoJNCBKmrY-Er9DxERsgD6Zfnr8eFU7qVE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA5YTFjZDQxNDNlMjRiZGNiZjllNzFiMzllOTBkYTY5.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Milák Kristóffal még sosem történt ilyen, Kós Hubertnek is „visszavágott”",
+          "url": "https://magyarnemzet.hu/sport/2026/04/milak-kristof-vilag-legjobbja-100-pillango-kos-hubert?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T16:35:51+00:00",
+          "description": "Feladta a leckét a világnak, újra megjavította a világ idei legjobbját 100 pillangón Sopronban.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/mx_Zw_0I9QfHYZza5qxzJaDQA8kDeSpb-ju3PMHa4WI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M5YjFiYjc1YTc5MTQ2YzA5NzcyNjBlYTJmOGVkOTUw.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Szalah beállította a legenda gólrekordját és szép búcsúra készül",
+          "url": "https://magyarnemzet.hu/sport/2026/04/szalah-liverpool-derbi-gerrard-golrekord-bucsu?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T16:34:17+00:00",
+          "description": "A szezon végén távozó egyiptomi csatár a kilencedik találatát lőtte az Everton ellen.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/OL-htH4cq2-yvmYNyOk-HEqsAlkOH98Ek1Rz7kOnIbM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzNmQ4ZDA5M2M5YzQzMzM4MTQ3NzdiZWYyZmIxYmZi.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "A spanyol adózók fizetik meg Sánchez intézkedésének árát",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/sanchez-illegalis-migracio-abascal?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T16:32:00+00:00",
+          "description": "A baloldali spanyol miniszterelnök szembemegy a migráció visszaszorítását célzó intézkedésekkel.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/VhM0W_JkTCHPtSiSsuqk5IXwMfg7579679wogjxZZ30/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg2YTYzMWZkMjQ0MTRiYWVhZGJiYjY4YTBjOWFjNTVk.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Az MSZP el sem tudott indulni a választáson, de Komjáthi Imre szerint újra erősek lesznek",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/mszp-valasztas-komjathi-imre?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T16:09:20+00:00",
+          "description": "A párt elnöke bizakodóan tekint a következő négy év elé.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/qaS-ywcCWsQN0qeVz8mQqE5BrHN_F-KRpl7vMB5Q_Jc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E0ZmZhZjA1ZWZlMTQ3ZGQ4NzU3MDQzMzQ5OTE0ZGI0.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Előkerült Gyurcsány Ferenc, erre Magyar Péter is felkaphatja a fejét",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/gyurcsany-ferenc-konyv-valasztas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T16:00:45+00:00",
+          "description": "A volt miniszterelnök megint könyvet ír.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/uJgEnrnn4ISBXCQ65QNvoVHofyOPbVWWR_tagMiI6BM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg5YWYxNDlhNTEwODQyZmE4NzkxZGNjNTAxYTM2NmNk.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Óriási lépést tett a budapesti Final Four felé a Győr kézilabdacsapata",
+          "url": "https://magyarnemzet.hu/sport/2026/04/gyor-noi-kezilabda-bajnokok-ligaja-odense?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:49:00+00:00",
+          "description": "A magyar csapat a dán Odense otthonában is nyerni tudott, így kedvező helyzetből várhatja az egy hét múlva esedékes visszavágót.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/EYK75UzW2Op9AI2_A-ruSOc_-wDY9gZMsuut56_lRxE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZlZGVjMjg0OTVlMTQxYjZhMTAyY2FiNDMxOGVhOWVj.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Lemaradt egy sztárfellépő a Plácido Domingóval közös budapesti koncertről",
+          "url": "https://magyarnemzet.hu/kultura/2026/04/koncert-lemaradt-sztarfellepo-placido-domingo-mvmdome?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:46:56+00:00",
+          "description": "Sajnálatos sérülés árnyékolta be a szombat esti zeneünnepet az MVM Dome-ban.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/2GyWgeaj9RxV_a45XAeREL73R5XfQ-qhksTOGlra_F8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBjZDMyMjliYWU2NjRiZTc4YWVlOTIyNmQ5ZTA3NTdl.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Az FPÖ támogatottsága folyamatosan emelkedik",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/fpo-tamogatottsaga-folyamatosan-emelkedik?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:43:00+00:00",
+          "description": "Egy friss felmérés szerint a párt akár már egyedül is többséget tudna szerezni.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/VdVhJhlF2pW7uETT1u8gAmQzeBh-vrHHNP9YXyL_elI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MyYTdjYTllMjQxMDRlZjg4ZmI4OTMzNmU4NGNmOTgx.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Ollóval támadt párjára és kétéves kisfiára egy férfi",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/eroszak-apa-keteves-kisfiu?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:15:06+00:00",
+          "description": "Azért gyűlölte gyermekét, mert szerinte nem az ő fia.",
+          "image": "https://cdn.magyarnemzet.hu/2026/01/Z7uEM50rHOf3T_a_16NeUVDTKJzHqNsXAx6dqVDgDAM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ4MmQ1NWNlMDdhYjQ1MTJhMjUwNTEyZDBjNDczODhj.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Irán és az Egyesült Államok nem találja a közös nevezőt",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/iran-es-az-egyesult-allamok-nem-talalja-a-kozos-nevezot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:10:00+00:00",
+          "description": "A hírek szerint vannak kérdések, amelyekben nem közeledtek az álláspontok.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/oS2rUw_j-JXMpJi_XFVCj9gqe4GoS88L23a2Rv-Pv0A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhkZDc1MTQ4MGIxNDQ2NmRiODFjN2MyMTdjMzFjOGEx.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Mexikóban ütöttek rajta a körözött magyar drogkereskedőn",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/drogkereskedo-korozott-magyar-mexikoban-utottek-rajta?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:09:02+00:00",
+          "description": "Hat év börtön elől szaladt a világ végére.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/ABG5Gjxl2Q-kM4faiaeybRDX44Egh5otJGM2n3XPCog/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVjNGZkODYxZTNhMzRlZGQ5YjQ1NWRjMjJhNzJmODgy.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Láthatatlan járvány terjed a fiatalok között",
+          "url": "https://magyarnemzet.hu/belfold/2026/04/lathatatlan-jarvany-vape-dohanyzas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T15:02:42+00:00",
+          "description": "Hiába az EU egyik legszigorúbb szabályozása, a vape egyre több fiatalt ér el.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/8Dz5NIqkEhgPU-XZC8iSrde-pgXqhM3ghwHbf_-GOtA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZiZWNlNDA5NWM4ZTQwODc4M2ExM2E5NDRiODIyMGJh.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Simán győzött a Szeged a Magyar Kupa bronzcsatájában",
+          "url": "https://magyarnemzet.hu/sport/2026/04/szeged-neka-magyar-kupa-bronzmerkozes-gyor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T14:40:15+00:00",
+          "description": "Túl sok izgalmat nem tartogatott a mérkőzés.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/3yA8ghyoTABUcsJ5YB3ZkFoB5LuhUbBiX4Ms8991nzQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYyMTliNDlkZWMyODRmMGY5ZDM4NjdhNDI1MTY5ZjM5.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Greenpeace Reveals: Tisza Party Lied About Battery Factories During  Campaign",
+          "url": "https://magyarnemzet.hu/english/2026/04/masolat-a-greenpeace-lerantotta-a-leplet-hazudott-a-tisza-a-kampanyban-az-akkumulatorgyarakrol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T14:31:32+00:00",
+          "description": "The information was only released after the election.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/6WH7aH9RB9hm4_fXtAIrZ8mQMHzM9uG4XaRG7Kr0djU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY4YjBiNzMyNDIyYjRhNGRiNjkwNWNhYTRiMmZmMTE2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "A tűzzel játszik az ukrán nagykövet",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/ukran-nagykovet-a-tuzzel-jatszik?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T14:22:00+00:00",
+          "description": "A diplomata szerint a háborús finanszírozás korlátozása közös érdek.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/19KU1s5_4gBoZggpVuosbMKorF_V1KLAzSGl0_9C1GY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFhNGUyODRjZmY1MTRmMjQ5ZWU4YTEwNTQ5ZmM1YTk2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Böde Dániel főszereplő lett, lefejelés, piros lap a Paks–Puskás Akadémia meccsen + videó",
+          "url": "https://magyarnemzet.hu/sport/2026/04/bode-daniel-paks-puskas-akademia-bognar-hornyak-gol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T14:09:45+00:00",
+          "description": "A labdarúgó NB I 30. fordulójának vasárnap délutáni mérkőzésén: Paks–Puskás Akadémia 1-0.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/eXvE-diQrcVa3yX-c2NSTApmfrIAOBu4AfdBNzLHSY4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NhYmI2YzU0ZjdjNTQ0YmFhMWRlMmYwZTk5NDE2MDI4.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Megdöntötte a félmaratoni világcsúcsot egy humanoid robot + videó",
+          "url": "https://magyarnemzet.hu/kulfold/2026/04/vilagcsucs-shandian-humanoid-robot-felmaraton-peking?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T14:09:08+00:00",
+          "description": "A pekingi félmaratont 50 perc 26 másodperc alatt teljesítette.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/qsF1LGEPcxn3FWyZVgTtoifFFqyfWupgmnXZa8RQAjM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY4YjBmNzdmOGQ4NTQ2MTBhY2Y3MWY0OTJhMjllZDAx.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Szoboszlai komoly mérföldkőhöz ért a városi rangadón, gólpasszal ünnepelte a Pool győzelmét",
+          "url": "https://magyarnemzet.hu/sport/2026/04/liverpool-everton-szoboszlai-premier-league-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-04-19T13:53:51+00:00",
+          "description": "Fellélegezhetnek a Vörösök, hét pontra nőtt az előnyük a Chelsea előtt a BL-helyekért folyó csatában.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/27B80tvSjJm3FC6JUJ7wUazklEVbUvnwZkHnty02RqQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdjMWJiODk2OGQ2YjRmMWY4NmEzMWVmNWViMjNhZDIx.jpg",
+          "category": "sport",
+          "author": null
+        }
+      ]
     },
     {
       "id": "mandiner",
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Egy ütközés után eszméletét vesztette, mentő vitte el az NB II-es kapust",
+          "url": "https://24.hu/sport/foci/2026/04/19/karcag-ajka-mento-labdaurgo-nb-ii-szabados-istvan/",
+          "published": "2026-04-19T19:57:00+01:00",
+          "description": "Két pályán is nagy volt az ijedtség a magyar másodosztályban.",
+          "image": "https://s.24.hu/app/uploads/2026/04/szabados-istvan-320x180.jpg",
+          "category": "Foci",
+          "author": "24.hu"
+        },
+        {
           "title": "„Nem szállítok szemetet” – nem engedte felszállni a buszsofőr a Tisza Párt plakátjaival érkező fiúkat Pásztón",
           "url": "https://24.hu/belfold/2026/04/19/buszsofor-tiltas-tisza-part-plakat-fiuk-paszto-volan-vizsgalat/",
           "published": "2026-04-19T19:49:00+01:00",
@@ -1091,13 +1326,13 @@
           "author": "24.hu"
         },
         {
-          "title": "Vallási okokra hivatkozva nem ad ki fogamzásgátlót egy budapesti gyógyszertár",
-          "url": "https://24.hu/belfold/2026/04/19/fogamzasgatlo-budapesti-patika-budai-irgalmasrendi-korhaz-granatalma-gyogyszertar/",
-          "published": "2026-04-19T16:41:00+01:00",
-          "description": "A Budai Irgalmasrendi Kórház patikájában nem is tartanak ilyen készítményeket.",
-          "image": "https://s.24.hu/app/uploads/2026/04/fogamzasgatlo-320x180.jpg",
+          "title": "„Ez a két díszfasz még mindig nem érti, mi történt” – üzente Majka Kocsis Máténak és Rákay Philipnek",
+          "url": "https://24.hu/belfold/2026/04/19/majka-kocsis-mate-rakai-philip/",
+          "published": "2026-04-19T16:40:00+01:00",
+          "description": "Szerinte Rákay a Viva TV képernyője után felismerte, hogy nagyobb üzlet a politikában segget nyalni.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0584687117-e1776609580557-320x180.jpg",
           "category": "Belföld",
-          "author": "24.hu"
+          "author": "Molnár Dávid"
         },
         {
           "title": "A hatos lottó vasárnapi sorsolásán már nem vitték el a főnyereményt",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/04/central-0905852781-e1776602676256-320x180.jpg",
           "category": "Belföld",
           "author": "Molnár Dávid"
-        },
-        {
-          "title": "Halálos baleset az autóversenyen – Max Verstappent is sokkolták a történtek",
-          "url": "https://24.hu/sport/2026/04/19/autosport-halalos-baleset-juha-miettinen-max-verstappen-reakcio/",
-          "published": "2026-04-19T14:08:00+01:00",
-          "description": "Egy finn versenyző vesztette életét a nürburgringi 24 órás szombati kvalifikációs versenyen. A mezőnyben ott van Max Verstappen is a csapatával.",
-          "image": "https://s.24.hu/app/uploads/2026/04/nurburgring_gettyimages-2271394782-320x180.jpg",
-          "category": "Sport",
-          "author": "Futó Csaba"
         }
       ]
     },
@@ -1301,6 +1527,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Hegedűs Zsolt leendő egészségügyi miniszter leszerelteti a kórházi arcfelismerő rendszereket",
+          "url": "https://hvg.hu/itthon/20260419_hegedus-zsolta-leendo-egeszsegugyi-miniszter-leszerelteti-a-korhazi-arcfelismero-rendszereket",
+          "published": "2026-04-19T17:59:49+00:00",
+          "description": "Ígérete szerint az egészségügyben dolgozók szabadon nyilatkozhatnak, az őszinteség nem kockázat, hanem kötelesség lesz.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/eb6155aa-ea75-4626-b1de-a07a3d4266dd.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Fekete bárányt gázolt egy autós Budapesten",
           "url": "https://hvg.hu/elet/20260419_eltortek-a-labai-a-budapesten-elgazolt-fekete-baranynak",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2f65ceb3-cd11-4d5c-b5cd-994b0078c362.jpg",
           "category": "Élet+Stílus",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "A Greenpeace nem talált szennyezést az akkugyárak környékén vett vízmintákban",
-          "url": "https://hvg.hu/kkv/20260419_greenpeace-vizminta-akkumulatorgyar-god-komarom-soskut",
-          "published": "2026-04-19T12:15:40+00:00",
-          "description": "Gödön, Komáromban, Sóskúton és Tárnokon vettek sekély, lakossági kutakból mintákat.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5f994275-2013-485b-8f82-b2a4b224e89f.jpg",
-          "category": "Vállalkozás",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1697,7 +1923,7 @@
           "url": "https://www.origo.hu/sport/sport-futball/2026/04/premier-league-city-arsenal-szuperrangado-haaland",
           "published": "2026-04-19T19:25:00+01:00",
           "description": "A norvég támadó főszereplő volt a Manchester City-Arsenal mérkőzésen.",
-          "image": "https://cdn.origo.hu/2026/04/Km67qJEtyUaGhmQQsvezxcIvpZPL2E9N50KoZ8Y3L_4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBhZjQ4MGIzNTJmYzRkZTBhYTYzOTU2OWI5ZjA0ZWVj.webp",
+          "image": "https://cdn.origo.hu/2026/04/o6CF9PNVmuucnnKuexRqUtpX-8HabOYw5aDpgdTZkj0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc4MmM2OWMzNjQ1NTRiM2JhYzczYzFjNjRjN2JjMzI3.webp",
           "category": "Premier League",
           "author": null
         },
@@ -1706,7 +1932,7 @@
           "url": "https://www.origo.hu/sport/sport-futball/2026/04/fradi-eto-donto-nb-i",
           "published": "2026-04-19T19:25:00+01:00",
           "description": "A fővárosiak az előző szezonban Győrben nyerték meg 36. bajnoki címüket.",
-          "image": "https://cdn.origo.hu/2026/04/F9-RHjFmXzlVnxaRMfHZRnqnj1Rx_W9lUxulegIjqyg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I0MzlmMzE5NjU1MDRlMWViYWMwZjcxM2ZjYzBmNGFm.webp",
+          "image": "https://cdn.origo.hu/2026/04/o4pR3mfDucNa61rCbRlybU6rbL2x7w9a6DcVd68gzB4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1MDMwZDExYTRkNjQ1ZjI5MDY4NTZkOGY4NDA5ZjNk.webp",
           "category": "NB I",
           "author": null
         },
