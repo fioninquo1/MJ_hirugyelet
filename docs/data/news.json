@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-22T19:00:41.561721+00:00",
+  "scraped_at": "2026-04-22T19:05:36.681982+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Kapitány István: Kilenc százalék lesz a minimálbér után fizetendő személyi jövedelemadó",
+          "url": "https://telex.hu/gazdasag/2026/04/22/kapitany-istvan-kilenc-szazalek-lesz-a-minimalber-utan-fizetendo-szemelyi-jovedelemado",
+          "published": "2026-04-22T19:05:08+00:00",
+          "description": "A leendő miniszter szerint mindenki kevesebb SZJA-t fog fizetni, aki a mediánbér alatt keres.",
+          "image": "https://assets.telex.hu/images/20260422/1776884586-temp-n28tua1f25uh1hodkaf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Bakró-Nagy Ferenc"
+        },
         {
           "title": "Egy férfi és fia símaszkban machetével rátört egy családra, a házat is megpróbálták felgyújtani",
           "url": "https://telex.hu/belfold/2026/04/22/egy-ferfi-es-fia-simaszkban-machetevel-ratort-egy-csaladra-a-hazat-is-megprobaltak-felgyujtani",
@@ -47,7 +56,7 @@
           "author": "Világi Máté"
         },
         {
-          "title": "Szijjártó Péter a Telexnek: Bánt, hogy sokan hazaárulónak tartanak",
+          "title": "Szijjártó Péter a Telexnek: Már a feltételezés is nagyon sértő, hogy az oroszok fognának minket valamivel",
           "url": "https://telex.hu/belfold/2026/04/22/szijjarto-peter-telex-interju-fidesz-kulugyminiszter",
           "published": "2026-04-22T17:08:24+00:00",
           "description": "Bár erről szólt a Fidesz kampánya, ő sosem beszélt a fiainak arról, hogy elvihetik őket katonáknak, ha a Tisza nyer, és azt sem hiszi, hogy őt 48 évesen elvinnék a frontra. Szerinte ők senkit nem zártak ki a nemzetből, a nemzeti oldal mondás csak egy kifejezés. Örül, hogy nem most van a választás...",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260422/1776861428-temp-tsj25eu35vb0dapegne_cimlap-normal.jpg",
           "category": "English",
           "author": "Márton Balázs"
-        },
-        {
-          "title": "Márki-Zay Péter: Én mint köztársasági elnök?",
-          "url": "https://telex.hu/belfold/2026/04/22/marki-zay-peter-kozvetlen-elnokvalasztason-elindulna-sulyok-tamas-koztarsasagi-elnok-levaltas-magyar-peter",
-          "published": "2026-04-22T12:49:20+00:00",
-          "description": "Hódmezővásárhely polgármestere szívesen elindulna egy közvetlen államfőválasztáson.",
-          "image": "https://assets.telex.hu/images/20260422/1776861998-temp-hsou3c3aefpl7cddcah_cimlap-normal.jpg",
-          "category": "Belföld",
-          "author": "Pál Tamás"
         }
       ]
     },
@@ -483,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Eltemetett jelentés került felszínre, Brüsszel újranyitotta a dohányvitát",
+          "url": "https://index.hu/gazdasag/2026/04/22/dohanyzas-dohanyipar-szabalyozas-artalomcsokkentes-artalomcsokkentett-fustmentes-tpd-adopolitika-ted-europai-bizottsag/",
+          "published": "2026-04-22T19:01:00+00:00",
+          "description": "Fordulat a dohánytermékek uniós szabályozásában.",
+          "image": "https://kep.index.hu/1/0/6899/68991/689913/68991305_5092165_8a5c9e26982f497b0d866be3dc1df110_wm.jpg",
+          "category": "Gazdaság",
+          "author": null
+        },
+        {
           "title": "Márki-Zay Péter szívesen lenne köztársasági elnök",
           "url": "https://index.hu/belfold/2026/04/22/marki-zay-peter-polgarmester-koztarsasagi-elnok-szeged-egyetemistak-beszelgetes-sulyok-tamas/",
           "published": "2026-04-22T18:51:00+00:00",
@@ -697,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/6900/69003/690033/69003397_5093001_c676f8483a4ec5bd7852cc6965190d5f_wm.jpg",
           "category": "Fomo",
           "author": null
-        },
-        {
-          "title": "Szabados Ági férje máig emlékszik első találkozásukra: „Megközelíthetetlennek tűnt”",
-          "url": "https://index.hu/mindekozben/poszt/2026/04/22/szabados-agi-ferje-kozos-interju-gyerekvallalas/",
-          "published": "2026-04-22T15:31:52+00:00",
-          "description": "",
-          "image": null,
-          "category": "Mindeközben",
-          "author": null
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -965,6 +965,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Záptojásszag fojtogat egy somogyi községet, a helyi tojásfeldolgozó cég tagadja a felelősségét",
+          "url": "https://24.hu/tudomany/2026/04/22/zaptojasszag-adand-illegalis-hulladekkezeles/",
+          "published": "2026-04-22T21:00:00+01:00",
+          "description": "Lapunkhoz egy helyi önkormányzati képviselő juttatott el videófelvételt a feltételezett jogsértésről.",
+          "image": "https://s.24.hu/app/uploads/2026/04/2026-e1776423801349-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Stéger Dávid"
+        },
+        {
           "title": "Én, a kétarcú: pert indított az Erste Bank",
           "url": "https://24.hu/fn/gazdasag/2026/04/22/en-a-ketarcu-erste-bank-per/",
           "published": "2026-04-22T20:28:00+01:00",
@@ -1091,13 +1100,13 @@
           "author": "24.hu"
         },
         {
-          "title": "Megvan, mi okozta a tüzet az iváncsai akkumulátorgyárban",
-          "url": "https://24.hu/belfold/2026/04/22/ivancsa-tuz-akkumulatorgyar-nagy-ervin/",
-          "published": "2026-04-22T17:19:00+01:00",
-          "description": "Az ügyben belső vizsgálatot rendeltek el.",
-          "image": "https://s.24.hu/app/uploads/2026/04/central-0873710229-e1776871130309-320x180.jpg",
-          "category": "Belföld",
-          "author": "Ősze András"
+          "title": "Kerozinhiány: a tartalékok felhalmozására kötelezhetik Magyarországot is",
+          "url": "https://24.hu/kulfold/2026/04/22/kerozinhiany-europai-unio-vedekezes/",
+          "published": "2026-04-22T17:06:00+01:00",
+          "description": "A helyzet egyre kiélezettebb.",
+          "image": "https://s.24.hu/app/uploads/2026/04/080_hl_isouriment_3103724-e1776870199537-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "Vaskor Máté"
         },
         {
           "title": "Gáspár Evelin leköszönt: Magyarország leghosszabb ideig szolgáló külügyminisztere mellett dolgozni kivételes lehetőség volt",
@@ -1179,15 +1188,6 @@
           "image": "https://s.24.hu/app/uploads/2026/04/000_34zq9gj-e1776866381113-320x180.jpg",
           "category": "Nagyvilág",
           "author": "Vaskor Máté"
-        },
-        {
-          "title": "A Chelsea-játékos fodrászát gyanúsítják azzal, hogy információkat szivárogtatott",
-          "url": "https://24.hu/sport/foci/2026/04/22/chelsea-informacio-kiszivargas-marc-cucurella-fodrasz/",
-          "published": "2026-04-22T15:45:00+01:00",
-          "description": "Szürreális történet Angliából.",
-          "image": "https://s.24.hu/app/uploads/2026/04/gettyimages-2272445389-e1776865499160-320x180.jpg",
-          "category": "Foci",
-          "author": "24.hu"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Ráfordult az ügyészség a nepáli munkaerő-kölcsönzési ügyre, Orbán Áron neve is felmerült",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/22/rafordult-az-uegyeszseg-a-nepali-munkaero-koelcsoenzesi-uegyre-orban-aron-neve-is-felmeruelt",
-          "published": "2026-04-22T19:59:38.830644+01:00",
+          "published": "2026-04-22T19:59:22.137909+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1549,7 @@
         {
           "title": "Dénes Ferenc: milliárdok mentek el, mégis középszerű maradt a magyar sport",
           "url": "https://kontroll.hu/cikk/sport/2026/04/22/denes-ferenc-milliardok-mentek-el-megis-koezepszeru-maradt-a-magyar-sport",
-          "published": "2026-04-22T19:18:38.830862+01:00",
+          "published": "2026-04-22T19:19:22.138125+01:00",
           "description": null,
           "image": null,
           "category": "Sport",
@@ -1558,7 +1558,7 @@
         {
           "title": "66–25: soha nem látott előnyt mért a Tisza javára a Medián",
           "url": "https://kontroll.hu/cikk/belfold/2026/04/22/66-25-soha-nem-latott-elonyt-mert-a-tisza-javara-a-median",
-          "published": "2026-04-22T19:07:38.830935+01:00",
+          "published": "2026-04-22T19:07:22.138211+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
