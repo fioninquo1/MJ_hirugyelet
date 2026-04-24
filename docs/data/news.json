@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-24T06:00:53.861773+00:00",
+  "scraped_at": "2026-04-24T06:05:23.740788+00:00",
   "portals": [
     {
       "id": "telex",
@@ -731,7 +731,7 @@
           "title": "Veszélyhelyzettől az aranykonvojig: jogalkotási nagyüzem a parlamenti ciklusban",
           "url": "https://magyarnemzet.hu/belfold/2026/04/parlament-orszaggyules-alaptorveny-veszelyhelyzet-aranykonvoj?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-04-24T05:44:39+00:00",
-          "description": "Csaknem négyszázötven törvényjavaslatot fogadott el 2022–26 között az Országgyűlés.",
+          "description": "Csaknem négyszázötven törvényjavaslatot fogadott el 2022 és 2026 között az Országgyűlés.",
           "image": "https://cdn.magyarnemzet.hu/2026/04/-4K9HiXTkpizmvZveonArogvieWrCVj8uoCak69wf9w/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y2Njk3ZmE4YjFmOTQ5YTQ4Y2MyZDNlNzliZTEwNmJm.jpg",
           "category": "belföld",
           "author": null
@@ -1528,6 +1528,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Révész Sándor: A nemzeti egységről, sokféleségről és az Alaptörvényről",
+          "url": "https://hvg.hu/360/20260424_a-nemzeti-egysegrol-sokfelesegrol-es-az-alaptorvenyrol",
+          "published": "2026-04-24T06:00:00+00:00",
+          "description": "Magyar Péter úgy beszélt a nemzet megosztottságának megszüntetéséről, hogy a magyarok egységével kapcsolatban mindenkinek joga van azt gondolni, amit gondol, azt hinni, amit hisz, azt és úgy szeretni, ahogy akar.",
+          "image": "https://img.hvg.hu/Img/00000000-0000-0000-0000-000000000000/4b741dd1-29d6-4172-af72-78edac87aa9b.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Révész Sándor)"
+        },
+        {
           "title": "Percek kérdése – ezek most a leggyorsabban tölthető villanyautók",
           "url": "https://hvg.hu/cegauto/20260424_percek-kerdese-ezek-most-a-leggyorsabban-toltheto-villanyautok",
           "published": "2026-04-24T05:59:00+00:00",
@@ -1742,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/103104b0-f29f-46e4-8736-c65bd825f192.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "260 megabit/másodperccel száguldottak az adatok az Orion űrhajóról a Földre, és ehhez csak egy filléres terminál kellett",
-          "url": "https://hvg.hu/tudomany/20260423_nasa-artemis-ii-kommunikacio-adatkapcsolat-lezer-olcso-terminal",
-          "published": "2026-04-23T17:03:00+00:00",
-          "description": "Az eddigieknél jóval olcsóbb lézeres adatátviteli rendszert is próbára tettek az Artemis II küldetés során, és nagyon úgy fest, hogy rendkívül jól állta a sarat.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9ccf0c30-c0ae-433a-8543-04bd4c158d51.jpg",
-          "category": "Tech",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Olyan kevés a mentős, hogy torlódás keletkezhet a legsürgősebb eseteknél",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/24/olyan-keves-a-mentos-hogy-torlodas-keletkezhet-a-legsuergosebb-eseteknel",
+          "published": "2026-04-24T06:36:23.738628+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A GVH 672 ezer forintos büntetést szabott ki a NER kedvenc takarítócégére",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/24/a-gvh-672-ezer-forintos-buentetest-szabott-ki-a-ner-kedvenc-takaritocegere",
+          "published": "2026-04-24T06:33:23.738874+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Törvénysértő volt a Nemzeti Petíció reklámozása a köztévén, eljárást indított az NMHH",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/toervenyserto-volt-a-nemzeti-peticio-reklamozasa-a-koezteven-eljarast-inditott-az-nmhh",
+          "published": "2026-04-23T17:16:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Rendszerváltást sürgetnek a képzőművészetben: a műkritikusok szerint át kell alakítani az intézményrendszert",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/rendszervaltast-suergetnek-a-kepzomuveszetben-a-mukritikusok-szerint-at-kell-alakitani-az-intezmenyrendszert",
+          "published": "2026-04-23T16:32:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Elfogyott a bizalom: levonultak a kivitelezők a Mészáros-cég építkezéséről",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/elfogyott-a-bizalom-levonultak-a-kivitelezok-a-meszaros-ceg-epitkezeserol",
+          "published": "2026-04-23T15:17:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A Magyar Orvosi Kamara már egyeztet a leendő Tisza-kormánnyal",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/a-magyar-orvosi-kamara-mar-egyeztet-a-leendo-tisza-kormannyal",
+          "published": "2026-04-23T14:52:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Vizsgálat indult Völner Pál ügyvédi tevékenysége miatt",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/vizsgalat-indult-voelner-pal-uegyvedi-tevekenysege-miatt",
+          "published": "2026-04-23T13:24:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Ligeti Miklós: MNB-ügyben bűnpártolásért is felelhet a kormány",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/ligeti-miklos-mnb-uegyben-bunpartolasert-is-felelhet-a-kormany",
+          "published": "2026-04-23T13:19:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
