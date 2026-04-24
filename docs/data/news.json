@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-24T05:45:39.310213+00:00",
+  "scraped_at": "2026-04-24T05:50:23.700639+00:00",
   "portals": [
     {
       "id": "telex",
@@ -719,7 +719,7 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Veszélyhelyzettől az aranykonvojig: itt a parlamenti ciklus mérlege",
+          "title": "Veszélyhelyzettől az aranykonvojig: jogalkotási nagyüzem a parlamenti ciklusban",
           "url": "https://magyarnemzet.hu/belfold/2026/04/parlament-orszaggyules-alaptorveny-veszelyhelyzet-aranykonvoj?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-04-24T05:44:39+00:00",
           "description": "Csaknem négyszázötven törvényjavaslatot fogadott el 2022–26 között az Országgyűlés.",
@@ -1528,6 +1528,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Foreign Policy: Túl van a csúcson és véget érhet az erős emberek kora",
+          "url": "https://hvg.hu/360/20260424_foreign-policy-tul-van-a-csucson-es-veget-erhet-az-eros-emberek-kora",
+          "published": "2026-04-24T05:46:20+00:00",
+          "description": "Orbán Viktor elképesztő bukása törést hozhat a rendszerben – véli Stephen Walt.",
+          "image": "https://img.hvg.hu/Img/00000000-0000-0000-0000-000000000000/985c299e-4149-49ae-b0ed-befb0bdda261.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Szijjártó felesége közel kétmilliárdot vett ki hat év alatt a belsőépítészeti cégéből",
           "url": "https://hvg.hu/gazdasag/20260424_hat-ev-alatt-kozel-ketmilliardot-vett-ki-szijjarto-felesege-a-belsoepiteszeti-cegebol",
           "published": "2026-04-24T05:38:05+00:00",
@@ -1742,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b93c66f1-82f7-4190-bbe3-dce57f1a33fa.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Nyilvánosságra hozták, mi okozta annak a tinédzsernek a halálát, akinek feldarabolt holttestét D4vd autójában találták meg",
-          "url": "https://hvg.hu/kultura/20260423_nyilvanossagra-hoztak-mi-okozta-annak-a-tinedzsernek-a-halalat-akinek-feldarabolt-holttestet-d4vd-autojaban-talaltak-meg",
-          "published": "2026-04-23T17:00:48+00:00",
-          "description": "Az amerikai énekes éppen turnén volt, amikor a hatóságok egy 14 éves eltűnt lány maradványait találták meg az elhagyott autójában.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5b5cb2b2-435f-4e73-8b5f-257ac1a23408.jpg",
-          "category": "Kult",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Olyan kevés a mentős, hogy torlódás keletkezhet a legsürgősebb eseteknél",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/24/olyan-keves-a-mentos-hogy-torlodas-keletkezhet-a-legsuergosebb-eseteknel",
+          "published": "2026-04-24T06:36:23.698444+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A GVH 672 ezer forintos büntetést szabott ki a NER kedvenc takarítócégére",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/24/a-gvh-672-ezer-forintos-buentetest-szabott-ki-a-ner-kedvenc-takaritocegere",
+          "published": "2026-04-24T06:33:23.698662+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Törvénysértő volt a Nemzeti Petíció reklámozása a köztévén, eljárást indított az NMHH",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/toervenyserto-volt-a-nemzeti-peticio-reklamozasa-a-koezteven-eljarast-inditott-az-nmhh",
+          "published": "2026-04-23T17:16:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Rendszerváltást sürgetnek a képzőművészetben: a műkritikusok szerint át kell alakítani az intézményrendszert",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/rendszervaltast-suergetnek-a-kepzomuveszetben-a-mukritikusok-szerint-at-kell-alakitani-az-intezmenyrendszert",
+          "published": "2026-04-23T16:32:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Elfogyott a bizalom: levonultak a kivitelezők a Mészáros-cég építkezéséről",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/elfogyott-a-bizalom-levonultak-a-kivitelezok-a-meszaros-ceg-epitkezeserol",
+          "published": "2026-04-23T15:17:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A Magyar Orvosi Kamara már egyeztet a leendő Tisza-kormánnyal",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/a-magyar-orvosi-kamara-mar-egyeztet-a-leendo-tisza-kormannyal",
+          "published": "2026-04-23T14:52:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Vizsgálat indult Völner Pál ügyvédi tevékenysége miatt",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/vizsgalat-indult-voelner-pal-uegyvedi-tevekenysege-miatt",
+          "published": "2026-04-23T13:24:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Ligeti Miklós: MNB-ügyben bűnpártolásért is felelhet a kormány",
+          "url": "https://kontroll.hu/cikk/belfold/2026/04/23/ligeti-miklos-mnb-uegyben-bunpartolasert-is-felelhet-a-kormany",
+          "published": "2026-04-23T13:19:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
