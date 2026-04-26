@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-26T18:25:18.962021+00:00",
+  "scraped_at": "2026-04-26T18:30:44.747462+00:00",
   "portals": [
     {
       "id": "telex",
@@ -487,7 +487,7 @@
           "url": "https://index.hu/sport/kezilabda/2026/04/26/noi-kezilabda-bajnokok-ligaja-2025-2026-negyeddonto-a-final-four-mezonye-metz-csm-bucuresti-brest-gyor/",
           "published": "2026-04-26T18:23:00+00:00",
           "description": "A címvédő Győr mellett egy román és két francia csapat lép pályára a final fourban.",
-          "image": null,
+          "image": "https://kep.index.hu/1/0/6905/69058/690588/69058885_5097059_bc2bd516d7ab7080c5ad574a71437638_wm.jpg",
           "category": "Kézilabda",
           "author": null
         },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
