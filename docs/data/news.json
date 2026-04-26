@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-26T18:35:34.919857+00:00",
+  "scraped_at": "2026-04-26T18:40:23.914755+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -1621,6 +1621,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Tarol a Michael Jackson-film: minden rekordot megdöntött, de van egy nagy hiányossága",
+          "url": "https://www.origo.hu/nagyvilag/2026/04/michael-jackson-film-rekord-oriasi-erdeklodes",
+          "published": "2026-04-26T20:36:00+01:00",
+          "description": "Klasszikusokat utasított maga mögé.",
+          "image": "https://cdn.origo.hu/2026/04/zDod8P6hJkerY5isWzaO2aJYEnB01HQ6ERvgDO89slI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUzYmEzNjc3OGFjYTQ5MzM5NTI0NTQyZTZiNTE2MzA5.webp",
+          "category": "Michael Jackson",
+          "author": null
+        },
+        {
+          "title": "Elvágom a torkod, és azon keresztül kihúzom a nyelvedet",
+          "url": "https://www.origo.hu/kek-hirek/2026/04/reszeg-tombolt-pusztamonostoron",
+          "published": "2026-04-26T20:34:00+01:00",
+          "description": "Ezt mondták egy rendőrnek Pusztamonosotoron.",
+          "image": "https://cdn.origo.hu/2026/04/Kso06XXdz42JUmXN7jbDLhHTP1Puhdi_xVuOiWI8I3w/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJhOTJiZTQzNGVkNjQ0NzI5Nzc2MWI1OTI0Nzk4Yzgw.webp",
+          "category": "pusztamonostor",
+          "author": null
+        },
+        {
           "title": "Bognár György bármelyik játékosát eladná a Fradinak, de van egy fontos feltétel",
           "url": "https://www.origo.hu/sport/sport-futball/2026/04/bognar-gyorgy-robbie-keane-fradi-paks-nb-i-ertekeles",
           "published": "2026-04-26T20:07:00+01:00",
@@ -1695,19 +1713,19 @@
         {
           "title": "Sophie Reynolds köldökig érő dekoltázzsal kápráztat el bennünket – szexi képgaléria",
           "url": "https://www.origo.hu/foto/2026/04/sophie-reynolds-galeria",
-          "published": "2026-04-26T19:18:00+01:00",
-          "description": "A kisugárzása könnyű, a jelenléte stabil.",
-          "image": "https://cdn.origo.hu/2026/04/1vTjKcrysUoFp46aWyGUQpLF-F2SY2gKMQ1xcZ1B8mA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5NmE3YzVhMjI5YjQ1NDE4MGQ5N2M5MDQ3N2Y0Yzg2.webp",
-          "category": "színésznő",
+          "published": "2026-04-26T17:18:23+00:00",
+          "description": null,
+          "image": null,
+          "category": "Foto",
           "author": null
         },
         {
           "title": "A szupermodell, Caroline Trentini képeit nézve nem hiszel a szemednek – pedig létezik ilyen tökéletes test, mutatjuk a képeket",
           "url": "https://www.origo.hu/foto/2026/04/caroline-trentini-galeria",
-          "published": "2026-04-26T19:16:00+01:00",
-          "description": "Igazi szupermodell‑kisugárzás.",
-          "image": "https://cdn.origo.hu/2026/04/Pmj42XrmFru1N9LlUU8c7DyEJKA53VtdZ9TgDjJ4TDg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhlMzFmNmU3NWQ2OTQxMTliNjhiNzAzYmUwMzY0ZDM4.webp",
-          "category": "brazil",
+          "published": "2026-04-26T17:16:41+00:00",
+          "description": null,
+          "image": null,
+          "category": "Foto",
           "author": null
         },
         {
@@ -1825,24 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Figyelmeztetés: újra medvét láttak Magyarországon",
-          "url": "https://www.origo.hu/itthon/2026/04/medve-eszleles-bogacsi-to-borsod",
-          "published": "2026-04-26T15:42:40+00:00",
-          "description": null,
-          "image": null,
-          "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Története legnagyobb felújításán esett át a magyar Forma-1-es pálya",
-          "url": "https://www.origo.hu/sport/f1/2026/04/forma-1-magyarorszag-hungaroring-felujitottak",
-          "published": "2026-04-26T15:27:23+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
           "author": null
         }
       ]
