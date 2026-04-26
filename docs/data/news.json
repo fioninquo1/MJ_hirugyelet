@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-26T18:45:25.595202+00:00",
+  "scraped_at": "2026-04-26T18:50:36.816700+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -728,6 +728,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Kezdődhet az ünneplés Angyalföldön: a Vasas ismét a labdarúgó NB I-ben! (VIDEÓ)",
+          "url": "https://mandiner.hu/sport/2026/04/kezdodhet-az-unneples-angyalfoldon-a-vasas-ismet-a-labdarugo-nb-i-ben-video",
+          "published": "2026-04-26T18:46:27+00:00",
+          "description": "Székesfehérváron biztosította be a labdarúgó élvonalba való feljutását Erős Gábor együttese.",
+          "image": "https://cdn.mandiner.hu/2026/04/lFwutAykDwjyyEzGZ-Fi402XaqLajdrCPLduUfXsqfI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRkNmM0Y2FmZjg1MjRmMjJiYmVhMmY0ODg4YjBhZTA4.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "„Bosszant, különösen, mert egy magyar játékosról van szó” – Robbie Keane kíméletlen, önmarcangolásba kezdett a Fradi-támadó",
           "url": "https://mandiner.hu/sport/2026/04/bosszant-kulonosen-mert-egy-magyar-jatekosrol-van-szo-robbie-keane-kimeletlen-onmarcangolasba-kezdett-a-fradi-tamado",
@@ -941,15 +950,6 @@
           "published": "2026-04-26T11:36:28+00:00",
           "description": "Sok minden eldőlhet.",
           "image": "https://cdn.mandiner.hu/2025/11/H0QsWaQmLx0qA4Tx9Zxx-Pex0yafQ5rkrsCE_tCkoWQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I5YzU1NDk5YjUwYzRjYTViOTg2ODhlMWUzNDY3M2Rj.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Kormányválság Romániában: a szélsőjobboldal lehet a válság igazi nyertese",
-          "url": "https://mandiner.hu/kulfold/2026/04/kormanyvalsag-romaniaban-a-szelsojobboldal-lehet-a-valsag-igazi-nyertese",
-          "published": "2026-04-26T11:18:53+00:00",
-          "description": "Az szomszédunk rekordmagas költségvetési hiánnyal és a leminősítés rémével küzd, a politikai patthelyzet egyetlen igazi nyertese a népszerűségi listákat vezető magyarellenes AUR lehet, amely egy előrehozott választás esetén alapjaiban rajzolhatja át az erőviszonyokat.",
-          "image": "https://cdn.mandiner.hu/2026/04/svwqqclDz1SPnNwpFZrZ1PUpHk7QSR9erctADQchpNw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3MWM5NjExNGEyYzQ4MDZiYzFlNzcwMWU4YWQzN2Iy.jpg",
           "category": null,
           "author": null
         }
@@ -1621,6 +1621,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Pécsi Ármin remekelt, elképesztő drámával zárult a Liverpool idénye",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/04/pecsi-armin-liverpool-u21-tieznegyes-crystal-palace",
+          "published": "2026-04-26T20:46:00+01:00",
+          "description": "Több védést is bemutatott a magyar kapus.",
+          "image": "https://cdn.origo.hu/2026/04/JMADvPzHqQXOr5oZTNc-M27OrF1wvSBtFBMqmKe8j0k/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk1ZTFmZGZhOGNiYjRjMzFhYjZiYTcxMGVkZTg1Nzdh.webp",
+          "category": "Liverpool FC",
+          "author": null
+        },
+        {
           "title": "Tarol a Michael Jackson-film: minden rekordot megdöntött, de van egy nagy hiányossága",
           "url": "https://www.origo.hu/nagyvilag/2026/04/michael-jackson-film-rekord-oriasi-erdeklodes",
           "published": "2026-04-26T20:36:00+01:00",
@@ -1630,7 +1639,7 @@
           "author": null
         },
         {
-          "title": "Elvágom a torkod, és azon keresztül kihúzom a nyelvedet",
+          "title": "„Elvágom a torkod, és azon keresztül kihúzom a nyelvedet\"",
           "url": "https://www.origo.hu/kek-hirek/2026/04/reszeg-tombolt-pusztamonostoron",
           "published": "2026-04-26T20:34:00+01:00",
           "description": "Ezt mondták egy rendőrnek Pusztamonosotoron.",
@@ -1704,10 +1713,10 @@
         {
           "title": "„Felrobbant a lába” – tocsogott a vérben a sztársportoló cipője a maraton után",
           "url": "https://www.origo.hu/sport/sport-egyeni/2026/04/maraton-eilish-mccolgan-ver-cipo-london-rekord",
-          "published": "2026-04-26T19:40:00+01:00",
-          "description": "Hatalmas kínokat kellett átélnie.",
-          "image": "https://cdn.origo.hu/2026/04/0WnTE-fPtBzxR8TCLSjqQbLPsaLzRJyNPSYHirgzZrw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRkNTViMTQ4M2M5ODQ4MjI5MmEzZWI2YmJiMmRjMmU4.webp",
-          "category": "sportoló",
+          "published": "2026-04-26T17:40:08+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1831,15 +1840,6 @@
           "title": "Holttestet találtak a focistadion mosdójában – több kérdés is felvetődik",
           "url": "https://www.origo.hu/nagyvilag/2026/04/holttest-schalke-stadion-rendorsegi-vizsgalat",
           "published": "2026-04-26T16:06:17+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Tömegek menekültek, miután lövések dördültek az egyetem mellett",
-          "url": "https://www.origo.hu/nagyvilag/2026/04/lovoldozes-amerikai-egyetem-fegyver",
-          "published": "2026-04-26T15:43:53+00:00",
           "description": null,
           "image": null,
           "category": "Nagyvilág",
