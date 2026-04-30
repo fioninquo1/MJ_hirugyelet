@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-04-30T04:45:48.754796+00:00",
+  "scraped_at": "2026-04-30T04:50:25.430598+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Megugrott az olaj ára az ázsiai piacokon",
+          "url": "https://telex.hu/gazdasag/2026/04/30/olajar-emelkedes-irani-haboru-trump",
+          "published": "2026-04-30T04:30:16+00:00",
+          "description": "Azután, hogy híre ment egy új katonai tervnek, amit Trumpnak bemutattak az iráni háborúval kapcsolatban.",
+          "image": "https://assets.telex.hu/images/20260430/1777523331-temp-jdhv0fg5fssk0mjffcl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Az amerikai krokodilok odaszoktak egy atomerőműhöz, és részben ez mentette meg őket a kihalástól",
+          "url": "https://telex.hu/eszkombajn/2026/04/30/egyesult-allamok-florida-krokodil-atomeromu",
+          "published": "2026-04-30T03:07:35+00:00",
+          "description": "A lamantinok is ráfüggtek a kellemesen langyos hűtővízre, aztán pórul is jártak, amikor korszerűsítették a reaktorok hűtőrendszerét.",
+          "image": "https://assets.telex.hu/images/20260427/1777300045-temp-5amvsr0l9b0b9abibbc_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "A mesterséges intelligencia lassan már emberi beavatkozás nélkül ír tudományos cikkeket",
+          "url": "https://telex.hu/defacto/2026/04/30/a-mesterseges-intelligencia-lassan-mar-emberi-beavatkozas-nelkul-ir-tudomanyos-cikkeket",
+          "published": "2026-04-30T03:06:46+00:00",
+          "description": "Közgazdászok MI használtával olyan tanulmányokat hoztak létre, amelyeket alig lehet megkülönböztetni emberek által írt cikkektől.",
+          "image": "https://assets.telex.hu/images/20260427/1777296731-temp-0ff5a116jcmn8llokba_cimlap-normal.jpg",
+          "category": "Defacto",
+          "author": "Danis András"
+        },
+        {
+          "title": "Gőzerővel zajlik az átadás-átvétel az NGM-ben, több leendő miniszter is tárgyal",
+          "url": "https://telex.hu/gazdasag/2026/04/30/ngm-karman-andras-kapitany-istvan-vitezy-david-miniszter",
+          "published": "2026-04-30T03:05:27+00:00",
+          "description": "Kármán Andráshoz, Kapitány Istvánhoz, de akár Vitézy Dávidhoz is juthat feladat a méretes NGM-portfólióból.",
+          "image": "https://assets.telex.hu/images/20260429/1777492891-temp-kbjoi1jdgccgbmjlhcl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Tankok nélküli győzelmi ünnepet tart idén Putyin, ukrán támadástól tart Moszkva",
+          "url": "https://telex.hu/kulfold/2026/04/30/tankok-nelkuli-gyozelmi-unnepet-tart-iden-putyin-ukran-tamadastol-tart-moszkva",
+          "published": "2026-04-30T03:02:01+00:00",
+          "description": "Bár az ünnep kisebb lesz, Robert Fico szlovák miniszterelnök elmegy rá.",
+          "image": "https://assets.telex.hu/images/20260429/1777499815-temp-vufgdgac61h63egonap_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Réka"
+        },
+        {
+          "title": "Hogyan lehet áron alul eladni egy állami megrendelésekkel kitömött céget?",
+          "url": "https://telex.hu/g7/vallalat/2026/04/30/lounge-tv2-aron-alul-magyar-peter-balasy-gyula",
+          "published": "2026-04-30T02:50:02+00:00",
+          "description": "Azt talán túlzás állítani, hogy a Magyar Péter által megnevezett Lounge Event Kft. értéke nulla, de sokkal közelebb van a nullához, mint ahhoz, ami az eddigi nyereségéből adódna.",
+          "image": "https://assets.telex.hu/images/20260427/1777308090-temp-l7k942pqaam77blgddd_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Jandó Zoltán"
+        },
+        {
+          "title": "Kapitány István találkozott a CATL képviselőivel",
+          "url": "https://telex.hu/gazdasag/2026/04/29/kapitany-istvan-talalkozott-catl-kepviseloi-debrece-tarkanyi-zsolt",
+          "published": "2026-04-29T21:08:16+00:00",
+          "description": "A találkozón ott volt Tárkányi Zsolt, a Tisza debreceni országgyűlési képviselőjelöltje, aki korábban egy olyan videót tett közzé, amin egy a cég debreceni akkumulátorgyárában dolgozó nő eltorzított hangon arról számol be, február közepén mérgezést szenvedett a gyárban.",
+          "image": "https://assets.telex.hu/images/20260429/1777496879-temp-4icbhpns0k9u8glijmf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Dévai László"
+        },
+        {
+          "title": "A helyzetek kimaradtak, a büntetők bementek, igazságos döntetlen az Atlético–Arsenal BL-elődöntőn",
+          "url": "https://telex.hu/sport/2026/04/29/atletico-arsenal-bajnokok-ligaja-elodonto",
+          "published": "2026-04-29T21:00:38+00:00",
+          "description": "Gyökeres és Alvarez is nagy erővel értékesítette a tizenegyesét, Griezmann kapufáig jutott.",
+          "image": "https://assets.telex.hu/images/20260429/1777495768-temp-7lo3viutu3dk1eepgba_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Trump és Putyin telefonon egyeztetett egy esetleges ukrajnai tűzszünetről",
+          "url": "https://telex.hu/kulfold/2026/04/29/trump-putyin-telefon-egyeztetes-ukrajnai-tuzszunet",
+          "published": "2026-04-29T20:24:10+00:00",
+          "description": "Azt egyelőre nem tudni, hogy Trump és Volodimir Zelenszkij ukrán elnök is egyeztetett volna egy esetleges tűzszünetről.",
+          "image": "https://assets.telex.hu/images/20260429/1777492792-temp-b4fp80s26a0j1oigcob_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Három alapítvánnyal, köztük az MCC-vel is megállapodott a Richter, szeptember 11-ig fizetik az osztalékot",
+          "url": "https://telex.hu/gazdasag/2026/04/29/richter-reszveny-kifizetes-szeptember-11",
+          "published": "2026-04-29T20:24:08+00:00",
+          "description": "A cég korábban jelezte, hogy hajlandóak segíteni az új kormányt azzal, hogy elhalasztják az osztalékfizetést.",
+          "image": "https://assets.telex.hu/images/20260429/1777494180-temp-f3ip9j1bf74q0bfcoej_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Réka"
+        },
+        {
+          "title": "Majdnem elsírta magát a jászberényi önkormányzat fideszes képviselője, amikor arról beszélt, megalázó, hogy Pócs János megint a parlamentben ülhet",
+          "url": "https://telex.hu/belfold/2026/04/29/fideszes-kepviselo-siras-jaszbereny-pocs-janos",
+          "published": "2026-04-29T19:37:33+00:00",
+          "description": "Hajnal-Nagy Gábor, a jászberényi képviselő-testület ülésén arról beszélt, szerinte Pócs János 2019-ben egy biztosan vesztes kampány lefolytatására kényszerítette a helyi fideszeseket.",
+          "image": "https://assets.telex.hu/images/20260429/1777489798-temp-nogfdf9pen9l4gmpbja_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Két kamion ütközött, Szeged felé lezárták az M5-öst",
+          "url": "https://telex.hu/belfold/2026/04/29/ket-kamion-utkozott-szeged-fele-lezartak-az-m5-ost",
+          "published": "2026-04-29T19:08:31+00:00",
+          "description": "Voltak, akik órákat álltak a sztrádán.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Molnár Réka"
+        },
+        {
+          "title": "150 millió forintból a csillárról is lézerezni lehetne egy arénában – kiakadtak a zeneiparban a fideszes előadóknak kiosztott pénzekre",
+          "url": "https://telex.hu/after/2026/04/29/nka-tamogatas-hanko-balazs-penzosztas-pataky-edda-toth-gabi-reakciok",
+          "published": "2026-04-29T19:05:07+00:00",
+          "description": "Szakmai szereplők szerint Hankó Balázs kulturális miniszter NKA-n keresztül kiosztott támogatásaival normál esetben csodát lehetett volna csinálni. A koncertiparban járatos megszólalóink szerint az arénakoncertekre irreális összegeket ítéltek meg.",
+          "image": "https://assets.telex.hu/images/20260429/1777473660-temp-crt4b7clamis7cllogc_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "„Micsoda rossz vesztesek” – a fideszesek EP-frakciója vitát kezdeményezett az „Európai Bizottság beavatkozásáról” a választásokba",
+          "url": "https://telex.hu/kulfold/2026/04/29/eu-europai-parlament-patriotak-europaert-europai-bizottsag-valasztas",
+          "published": "2026-04-29T18:47:56+00:00",
+          "description": "A Fideszből „civilnek mondott aktivistacsoportokra”, forrásbefagyasztásra, egy szokás szerint aktivált rendszerre és lehallgatásra is panaszkodtak.",
+          "image": "https://assets.telex.hu/images/20260429/1777478373-temp-bg85jr906abkbmmemnd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Trump sürgeti Iránt, hogy írjon alá megállapodást, olajcégek vezetőivel tárgyalt a Hormuzi-szoros elhúzódó blokádjáról",
+          "url": "https://telex.hu/kulfold/2026/04/29/donald-trump-irani-haboru-megallapodas-iran-hormuzi-szoros",
+          "published": "2026-04-29T18:40:22+00:00",
+          "description": "A Truth Socialre arról posztolt, hogy nem lesz többet jó fiú.",
+          "image": "https://assets.telex.hu/images/20260429/1777486702-temp-mn9p77lfrghdcnedcbp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Magyar hiányosságokat is felemleget az EP állásfoglalása a 2025-ös jogállamisági helyzetről",
+          "url": "https://telex.hu/kulfold/2026/04/29/eu-europai-parlament-jogallamisag-jelentes",
+          "published": "2026-04-29T18:12:27+00:00",
+          "description": "A szöveg külön kitért arra, hogy az előző években feltárt, mélyen gyökerező hiányosságok közül számos továbbra is fennáll Magyarországon.",
+          "image": "https://assets.telex.hu/images/20260429/1777486203-temp-bidiqakl01rt9ndogal_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Nem csökkennek az olajárak az iráni háború miatt",
+          "url": "https://telex.hu/gazdasag/2026/04/29/olajar-irani-haboru-magas-emelkedes",
+          "published": "2026-04-29T18:04:41+00:00",
+          "description": "Az árrobbanás mögött az áll, hogy Donald Trump fenntartaná az iráni hajók elleni amerikai blokádot, miközben Irán lezárva tartja a Hormuzi-szorost más tankerek előtt.",
+          "image": "https://assets.telex.hu/images/20260429/1777485865-temp-0d2cr5mt2hioclejfao_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Meghatalmazottal is szavazhassanak a babát váró vagy nemrég szült EP-képviselők, hagyta jóvá a testület",
+          "url": "https://telex.hu/kulfold/2026/04/29/eu-europai-parlament-varandos-szavazas",
+          "published": "2026-04-29T17:53:30+00:00",
+          "description": "A reformra szinte egyhangúlag mondtak igent.",
+          "image": "https://assets.telex.hu/images/20260429/1777484885-temp-egvcm45dfs0p2ghkabh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Meghúzta a gyerekek fülét, a fejükre koppintott egy óvodapedagógus Győrben, büntetőeljárást folytat ellene a rendőrség",
+          "url": "https://telex.hu/belfold/2026/04/29/gyerekbantalmazas-gyor-oromhir-ovoda-magyar-punkosdi-egyhaz",
+          "published": "2026-04-29T17:35:32+00:00",
+          "description": "Az érintett óvodapedagógus már felmondott. Az intézményben tartott belső meghallgatáson a gyermekvédelmi felelős az igazgató férje volt, de a fenntartó szerint ez nem releváns az ügy szempontjából.",
+          "image": "https://assets.telex.hu/images/20260429/1777484115-temp-mb9g31h581t6afjjakb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Gondokat lát az Európai Bizottság magyar tagjánál az uniós zárszámadás",
+          "url": "https://telex.hu/kulfold/2026/04/29/eu-europai-parlament-zarszamadas-patriotak-europaert-varhelyi",
+          "published": "2026-04-29T17:08:10+00:00",
+          "description": "Várhelyi Olivérnél „elszámoltathatósági, megbízhatósági és jó igazgatásra vonatkozó normákkal” láttak bajokat. Egy másik, 4,3 millió eurós ügy miatt a fideszesek frakciója is bajba kerülhet.",
+          "image": "https://assets.telex.hu/images/20260429/1777482425-temp-jnlp5ia22ihucghghae_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "25 milliárd dollárba került eddig az iráni háború az Egyesült Államoknak",
+          "url": "https://telex.hu/kulfold/2026/04/29/25-milliard-dollar-irani-haboru-egyesult-allamok",
+          "published": "2026-04-29T17:07:01+00:00",
+          "description": "Azt nem közölték, ebbe az összegbe beleszámolták-e a Közel-Keleten megrongálódott katonai infrastruktúra helyreállításának költségeit.",
+          "image": "https://assets.telex.hu/images/20260429/1777482390-temp-usd0887aqvpv2elggln_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Markó Béla: Az RMDSZ eltávolodott a közösségtől, ki kell nyitni, új szövetséget kell építeni",
+          "url": "https://telex.hu/transtelex/2026/04/29/rmdsz-fidesz-erdely-erdekkepviselet-iranyvaltas-marko-bela",
+          "published": "2026-04-29T17:01:28+00:00",
+          "description": "Az RMDSZ beszűkült, elveszítette korábbi pluralizmusát – figyelmeztetett a párt korábbi elnöke. Szerinte nem elég kisebb korrekció: ki kell nyitni a szervezetet, és egy inkluzívabb, új szövetséget kell építeni.",
+          "image": "https://assets.telex.hu/images/20260429/1777461056-temp-jn53gnu4sah8ainkhop_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tamás Zsófia (Transtelex)"
+        },
+        {
+          "title": "„Az emberek felelőssége, hogy ne történjen egy Fidesz 2”",
+          "url": "https://telex.hu/video/2026/04/29/nemeth-hanna-influenszer-matematikus-kozelet-tiktok",
+          "published": "2026-04-29T16:39:43+00:00",
+          "description": "Németh Hanna matematikus, pókerjátékos, cukrász és a közélettel aktívan foglalkozó influenszer. Célja a kritikus gondolkozás fejlesztése, ne történjen meg újra ugyanaz, mint ami az elmúlt 16 évben volt.",
+          "image": "https://assets.telex.hu/images/20260429/1777464616-temp-nc34n3v761m28mciikm_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Gombos Noémi"
+        },
+        {
+          "title": "Nagyon nehéz helyzetbe kerülhet az MCC, ha nem fizet nekik osztalékot sem a Mol, sem a Richter",
+          "url": "https://telex.hu/gazdasag/2026/04/29/matthias-corvinus-collegium-osztalek-mol-richter-gedeon",
+          "published": "2026-04-29T16:36:54+00:00",
+          "description": "Legnagyobb bevételi forrásaitól eshet el a fideszes káderképző, ha nem kapnak a két cég osztalékaiból. Majdnem 37 milliárd forintra számítanak, de a Mol és a Richter is elhalasztotta a kifizetéseket.",
+          "image": "https://assets.telex.hu/images/20260429/1777478037-temp-4crjfbunm1d13bgpfog_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Geszti Péter nem vágyik pozícióra a közmédiában, de szívesen beszélgetne emberekkel a témáról",
+          "url": "https://telex.hu/belfold/2026/04/29/krug-emilia-szinten-tul-boros-ilona-geszti-peter-piko-andras",
+          "published": "2026-04-29T16:09:58+00:00",
+          "description": "Pikó András józsefvárosi polgármester és egykori újságíró és Boros Ilona, a TASZ jogásza is vendégek voltak Krug Emília új műsorában.",
+          "image": "https://assets.telex.hu/images/20260429/1777478849-temp-579hgusvgart5jpncnh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Klág Dávid"
+        }
+      ]
     },
     {
       "id": "444",
@@ -254,8 +480,26 @@
       "color": "#f26522",
       "status": "ok",
       "error": null,
-      "article_count": 15,
+      "article_count": 17,
       "articles": [
+        {
+          "title": "Lemondott Miskolc fideszes frakcióvezetője és alpolgármestere",
+          "url": "https://index.hu/belfold/2026/04/30/miskolc-alpolgarmester-frakciovezeto-fidesz-lemondas/",
+          "published": "2026-04-30T04:46:00+00:00",
+          "description": "Tóth-Szántai József polgármester közölte a hírt.",
+          "image": "https://kep.index.hu/1/0/6914/69149/691497/69149793_5103547_694fe4232ceed3404f805313d15ebabc_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
+          "title": "A nőknél már megtette, amiről a férfiaknál egyelőre csak álmodozhat az FTC futballcsapata",
+          "url": "https://index.hu/sport/futball/2026/04/30/noi-labdarugas-magyar-kupa-ftc-honved-3-0-donto/",
+          "published": "2026-04-30T04:46:00+00:00",
+          "description": "A Honvéd második nekifutásra is pórul járt a zöld-fehérek ellen.",
+          "image": null,
+          "category": "Futball",
+          "author": null
+        },
         {
           "title": "Lesújtott az MLSZ, szurkolók nélküli meccsen búcsúzik az NB I-től a Diósgyőr",
           "url": "https://index.hu/sport/futball/2026/04/30/dvtk-zart-kapus-rendezes-fegyelmi-hatarozat-mlsz-lesujtott/",
@@ -639,6 +883,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A németek is lassan ráébrednek a válságra: brutális árak sokkolják a vásárlókat",
+          "url": "https://mandiner.hu/kulfold/2026/04/a-nemetek-is-lassan-raebrednek-a-valsagra-brutalis-arak-sokkoljak-a-vasarlokat",
+          "published": "2026-04-30T04:48:44+00:00",
+          "description": "Sok esetben még az eladók is túlzónak tartják az árakat.",
+          "image": "https://cdn.mandiner.hu/2026/04/H_waGtPPIFMbH7aOA2xhK0ma9YMxjxKUxlTDMcORtCU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M1YjZlYzM0OTAwMDQ0Y2I4NzlhMDk1YmJkYjA2M2Yz.jpg",
+          "category": null,
+          "author": null
+        },
+        {
           "title": "Ez történt a választások estéjén, Wellor lerántotta a leplet",
           "url": "https://mandiner.hu/belfold/2026/04/ez-tortent-a-valasztasok-estejen-wellor-lerantotta-a-leplet",
           "published": "2026-04-30T04:08:33+00:00",
@@ -853,15 +1106,6 @@
           "image": "https://cdn.mandiner.hu/2026/04/ItQGOJKv9gycpmC0Z5cm7wlpB8SW0cdcHTBkVlNivYU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE5MDk4MmQwYjFmYzRjNTBhNjY3YzBkZGYyODEyNzRk.jpg",
           "category": null,
           "author": null
-        },
-        {
-          "title": "Eltűnt egy 15 éves lány: segítséget kér a rendőrség",
-          "url": "https://mandiner.hu/belfold/2026/04/eltunt-egy-15-eves-lany-segitseget-ker-a-rendorseg",
-          "published": "2026-04-29T17:39:34+00:00",
-          "description": "Szabó Tamara nagyjából 160 cm magas, átlagos testalkatú, vékony arcú, szőkés-barna hosszú hajú és barna szemű.",
-          "image": "https://cdn.mandiner.hu/2026/01/FwfSzLgxrk5p2Td-s2qswgNC2f9FC5Zw4A2tPsQG3_A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAzMWU3YmNiMjA5ZTQ0YjhiMTNkNTRmYTJiMzdiNzM0.jpg",
-          "category": null,
-          "author": null
         }
       ]
     },
@@ -874,6 +1118,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Elutasították Delhusa Gjon 2,5 milliós keresetét Újbuda polgármestere ellen",
+          "url": "https://24.hu/szorakozas/2026/04/30/delhusa-gjon-kreitler-sas-mate-2-es-felmillios-kereset-elutasitottak/",
+          "published": "2026-04-30T06:42:00+01:00",
+          "description": "Az énekes nem hagyja annyiban a dolgot, újabb keresetet adott be – és a polgármester is áll a folytatás elébe.",
+          "image": "https://s.24.hu/app/uploads/2026/04/central-0877539620-e1777524055995-320x180.jpg",
+          "category": "Szórakozás",
+          "author": "Grósz Petra"
+        },
         {
           "title": "Magyar Péter az EU-s pénzek lehívásáról: Az uniós intézmények vezetői minden támogatást megadnak",
           "url": "https://24.hu/belfold/2026/04/30/magyar-peter-unios-penzek-von-der-leyen-costa-targyalas/",
@@ -1019,13 +1272,13 @@
           "author": "Kerner Zsolt"
         },
         {
-          "title": "Nagyon távol került a Szeged a Final Fourtól",
-          "url": "https://24.hu/sport/2026/04/29/ferfi-kezilabda-bajnokok-ligaja-pick-szeged-magdeburg/",
+          "title": "A nap legfontosabb hírei - 2026.04.29.",
+          "url": "https://24.hu/belfold/2026/04/29/a-nap-legfontosabb-hirei-2026-04-29/",
           "published": "2026-04-29T21:25:00+01:00",
-          "description": "Öt büntető is kimaradt a címvédő elleni negyeddöntő első felvonásán.",
-          "image": "https://s.24.hu/app/uploads/2026/04/d__us20260429020-320x180.jpg",
-          "category": "Sport",
-          "author": "24.hu"
+          "description": "Havi kétszáz pengő fixszel ma az ember könnyen Brüsszel.",
+          "image": "https://s.24.hu/app/uploads/2026/04/683574730_27254509514156805_49212075757910940_n-e1777477027598-320x180.jpg",
+          "category": "Belföld",
+          "author": "Kerner Zsolt"
         },
         {
           "title": "Kikerült a netre, Trumpék milyen menüsorral várták a Fehér Házban Károly királyt és a királynét",
@@ -1089,15 +1342,6 @@
           "image": "https://s.24.hu/app/uploads/2026/04/trump_whitehouse_001-e1777484464130-320x180.jpg",
           "category": "Nagyvilág",
           "author": "Kerner Zsolt"
-        },
-        {
-          "title": "Kirúgott edzőt ritkán búcsúztatnak ekkora rajongással",
-          "url": "https://24.hu/sport/foci/2026/04/29/domenico-tedesco-menesztes-szurkolok-fenerbahce/",
-          "published": "2026-04-29T19:33:00+01:00",
-          "description": "Domenico Tedesco megható pillanatokat élhetett át.",
-          "image": "https://s.24.hu/app/uploads/2026/04/068_aa_29042026_2758788-320x180.jpg",
-          "category": "Foci",
-          "author": "24.hu"
         }
       ]
     },
