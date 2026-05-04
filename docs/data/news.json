@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-04T18:30:42.791851+00:00",
+  "scraped_at": "2026-05-04T18:35:37.589277+00:00",
   "portals": [
     {
       "id": "telex",
@@ -83,10 +83,10 @@
           "author": "Nyilas Gergely"
         },
         {
-          "title": "Tömegbe hajtott egy autó Lipcsében, egy ember meghalt",
+          "title": "Tömegbe hajtott egy autó Lipcsében, ketten meghaltak",
           "url": "https://telex.hu/kulfold/2026/05/04/tomegbe-hajtott-egy-auto-lipcseben-tobben-megserultek",
           "published": "2026-05-04T16:03:00+00:00",
-          "description": "A sétálóutcán végighaladó autóst elfogták, az esetben 22-en megsérültek.",
+          "description": "A sétálóutcán végighaladó autóst elfogták, az esetben sokan megsérültek.",
           "image": "https://assets.telex.hu/images/20260504/1777911007-temp-39bl19i97125fgociek_cimlap-normal.jpg",
           "category": "Külföld",
           "author": "Molnár Zoltán"
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Balásy Gyula önként és ingyen átadja az államnak a médiacégeit",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/04/balasy-gyula-oenkent-es-ingyen-atadja-az-allamnak-a-mediacegeit",
+          "published": "2026-05-04T19:19:26.499279+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Nyílt levélben figyelmeztetnek a bírák: nem lesznek elegek csak a vezetői személycserék",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/04/nyilt-levelben-figyelmeztetnek-a-birak-nem-lesznek-elegek-csak-a-vezetoi-szemelycserek",
+          "published": "2026-05-04T18:38:26.499512+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Iványi Gábor: „Az egész eljárás ellen tiltakozom”",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/04/ivanyi-gabor-az-egesz-eljaras-ellen-tiltakozom",
+          "published": "2026-05-04T16:07:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Arany, Jókai és létösszegzés: ilyen volt az idei középszintű magyarérettségi",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/04/arany-jokai-es-letoesszegzes-ilyen-volt-az-idei-koezepszintu-magyarerettsegi",
+          "published": "2026-05-04T14:39:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Több száz meghatározó dokumentumot kell kiadnia az MNB alapítványának",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/04/toebb-szaz-meghatarozo-dokumentumot-kell-kiadnia-az-mnb-alapitvanyanak",
+          "published": "2026-05-04T14:16:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Különösen száraz április – Ösztönzés a táji vízgazdálkodásra",
+          "url": "https://kontroll.hu/cikk/velemeny/2026/05/04/kueloenoesen-szaraz-aprilis-oesztoenzes-a-taji-vizgazdalkodasra",
+          "published": "2026-05-04T12:49:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Velemeny",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter üzent a tudósoknak az MTA közgyűlésén",
+          "url": "https://kontroll.hu/cikk/tudomany/2026/05/04/magyar-peter-uezent-a-tudosoknak-az-mta-koezgyulesen",
+          "published": "2026-05-04T11:56:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Tudomany",
+          "author": null
+        },
+        {
+          "title": "Kritikus állapotban szállították kórházba New York korábbi polgármesterét",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/05/04/kritikus-allapotban-szallitottak-korhazba-new-york-korabbi-polgarmesteret",
+          "published": "2026-05-04T11:56:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kulfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
@@ -1773,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Magyar munkás halt szörnyet egy osztrák városban",
+          "url": "https://www.origo.hu/kek-hirek/2026/05/munkabaleset-ausztria-ohlsdorf-magyar-aldozat",
+          "published": "2026-05-04T20:31:00+01:00",
+          "description": "Tragédia, ami vele történt.",
+          "image": "https://cdn.origo.hu/2026/05/iEK_Pt2FO5wZgJjGGIPHZd1ou3jkzZ2iMcSDhafoyIY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRjNTI1MGM1YTA5MTQwMGE5ZWIwYmQzNWI3NTQzMWUy.webp",
+          "category": "munkás",
+          "author": null
+        },
         {
           "title": "Veszélyes vegyi anyag szivárgott – kiürítették a salzburgi főpályaudvart",
           "url": "https://www.origo.hu/nagyvilag/2026/05/salzburgi-fopalyaudvar-vegyi-anyag-lezaras",
@@ -1857,10 +1939,10 @@
         {
           "title": "A cukorbetegeknek is jó hír lehet, amit az eperről kiderítettek",
           "url": "https://www.origo.hu/nagyvilag/2026/05/eper-gyumolcs-tapanyag-vitamin-egeszseg",
-          "published": "2026-05-04T19:07:00+01:00",
-          "description": "Tavasszal és nyáron sokan választják ezt a gyümölcsöt.",
-          "image": "https://cdn.origo.hu/2026/05/IKRCt0frW0Ru3ngUKGudQKNdem5M_zcZtSvCJPnAkfE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMjQwZTJmYzNmMjRjZGNiZmE5NDdmZDgzMGFiODU5.webp",
-          "category": "gyümölcs",
+          "published": "2026-05-04T17:07:23+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1987,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Valami nincs rendben a magnéziummal? Fontos dologra figyelmeztetnek a kutatók",
-          "url": "https://www.origo.hu/tudomany/2026/05/magnezium-nem-csodaszer-ezt-kell-tudni-mielott-beveszi",
-          "published": "2026-05-04T14:51:50+00:00",
-          "description": null,
-          "image": null,
-          "category": "Tudomany",
           "author": null
         }
       ]
