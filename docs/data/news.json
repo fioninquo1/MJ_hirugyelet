@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-09T18:15:23.317995+00:00",
+  "scraped_at": "2026-05-09T18:20:39.686316+00:00",
   "portals": [
     {
       "id": "telex",
@@ -471,7 +471,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -484,6 +484,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Hiába várta egy ország Magyar Péter beszédét, de egy nagyon fontos dolog kimaradt",
+          "url": "https://mandiner.hu/belfold/2026/05/hiaba-varta-egy-orszag-magyar-peter-beszedet-de-egy-nagyon-fontos-dolog-kimaradt",
+          "published": "2026-05-09T18:18:42+00:00",
+          "description": "Gulyás Gergely miniszterelnökhöz méltatlannak nevezte a hangnemet, amit Magyar Péter Sulyok Tamással szemben megütött.",
+          "image": "https://cdn.mandiner.hu/2026/05/5JdEEPekEpZdG8VLv1Iseftbm5z4-31x4KOyuu5rrdI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk0YjdlZWMzZTU3NjQ2YTRhYTdjOGMyZWEyYmMyNGM5.jpg",
+          "category": null,
+          "author": null
+        },
         {
           "title": "Erre senki sem számított: Tóth Alex a Bajnokok Ligájában futballozhat",
           "url": "https://mandiner.hu/sport/2026/05/toth-alex-fulham-bournemouth-pl-36",
@@ -697,15 +706,6 @@
           "published": "2026-05-09T10:34:02+00:00",
           "description": "Nagyon kedvező helyzetben veszi át a kormányzást Magyar Péter.",
           "image": "https://cdn.mandiner.hu/2026/04/g8b5J8y29h5cVqfvepdGLqVuJfs0x994x1tWBBEiX2w/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IxOGVlNzM0MzIzMTRmMWE4NWU2NGIyNTk1MzQ2MGFl.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Szoboszlai kapufáig jutott – a Liverpool ellen szakadt meg a Chelsea borzalmas sorozata",
-          "url": "https://mandiner.hu/sport/2026/05/szoboszlai-liverpool-chelsea-pl-36-tudositas",
-          "published": "2026-05-09T10:16:22+00:00",
-          "description": "Még mindig nem biztos BL-résztvevő a Liverpool.",
-          "image": "https://cdn.mandiner.hu/2026/05/L2rPUQ2Kaia592lINLxgE6mi7LnTujFF511zcUSHFN8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NhNDNkYjg0MDg2MzQ1ZjU4MzAzZjkzZGY0YWJlMGRh.jpg",
           "category": null,
           "author": null
         }
