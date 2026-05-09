@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-09T18:35:36.804379+00:00",
+  "scraped_at": "2026-05-09T18:40:31.738749+00:00",
   "portals": [
     {
       "id": "telex",
@@ -471,7 +471,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -1294,6 +1294,24 @@
       "article_count": 8,
       "articles": [
         {
+          "title": "Örömünnep lett a miniszterelnök-váltásból a Kossuth téren",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/09/oeroemuennep-lett-a-miniszterelnoek-valtasbol-a-kossuth-teren",
+          "published": "2026-05-09T17:30:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Lemondott a Győr-Szol vezérigazgatója az 1,7 milliárdos lakáskassza-botrány után",
+          "url": "https://kontroll.hu/cikk/belfold/2026/05/09/lemondott-a-gyor-szol-vezerigazgatoja-az-1-7-milliardos-lakaskassza-botrany-utan",
+          "published": "2026-05-09T15:45:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
           "title": "Magyar Péter: „Nem uralkodni fogok, hanem szolgálni”",
           "url": "https://kontroll.hu/cikk/belfold/2026/05/09/magyar-peter-nem-uralkodni-fogok-hanem-szolgalni",
           "published": "2026-05-09T14:15:00+01:00",
@@ -1330,15 +1348,6 @@
           "author": null
         },
         {
-          "title": "Lemondott a Győr-Szol vezérigazgatója az 1,7 milliárdos lakáskassza-botrány után",
-          "url": "https://kontroll.hu/cikk/belfold/2026/05/09/lemondott-a-gyor-szol-vezerigazgatoja-az-1-7-milliardos-lakaskassza-botrany-utan",
-          "published": "2026-05-09T09:30:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
           "title": "Csak a választások után lépett a magyar elhárítás: orosz kémet zsuppoltak ki Budapestről",
           "url": "https://kontroll.hu/cikk/belfold/2026/05/09/csak-a-valasztasok-utan-lepett-a-magyar-elharitas-orosz-kemet-zsuppoltak-ki-budapestrol",
           "published": "2026-05-09T08:56:00+01:00",
@@ -1351,15 +1360,6 @@
           "title": "Évekre visszamenőleg is vizsgálhatna magyar ügyeket az Európai Ügyészség",
           "url": "https://kontroll.hu/cikk/belfold/2026/05/09/evekre-visszamenoleg-is-vizsgalhatna-magyar-uegyeket-az-europai-uegyeszseg",
           "published": "2026-05-09T07:30:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "ÉLŐ: Magyar Péter miniszterelnöki eskütétele a Parlamentben és ünneplés a Kossuth téren",
-          "url": "https://kontroll.hu/cikk/belfold/2026/05/09/elo-magyar-peter-miniszterelnoeki-eskuetetele-a-parlamentben-es-uenneples-a-kossuth-teren",
-          "published": "2026-05-09T06:45:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
