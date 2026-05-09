@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-09T18:10:37.965950+00:00",
+  "scraped_at": "2026-05-09T18:15:23.317995+00:00",
   "portals": [
     {
       "id": "telex",
@@ -471,7 +471,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -721,6 +721,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Jó bulizást, aztán minden jót kívánunk",
+          "url": "https://24.hu/belfold/2026/05/09/orszaggyules-alakulo-ules-magyar-peter-miniszerelnok-valasztas-esku/#jo-bulizast-aztan-minden-jot-kivanunk",
+          "published": "2026-05-09T20:10:00+01:00",
+          "description": "A Kossuth téren, mint a ‘90-es években, mindenki táncol.",
+          "image": "https://s.24.hu/app/uploads/2026/05/693193273_2207360040070650_1916288380911873640_n-masolat-320x180.jpg",
+          "category": "Belföld",
+          "author": "Orosz R. Zoltán"
+        },
+        {
+          "title": "Éjszaka teljesen lezárják az M7-es autópályát a régi velencei gyalogoshíd bontása miatt",
+          "url": "https://24.hu/belfold/2026/05/09/m7-es-autopalya-teljes-lezaras/",
+          "published": "2026-05-09T20:08:00+01:00",
+          "description": "Vasárnap 7-től indulhat meg a forgalom, de akkor is egy sávon.",
+          "image": "https://s.24.hu/app/uploads/2026/05/628244081_875519705345158_1162350372381241297_n-e1778350064957-320x180.jpg",
+          "category": "Belföld",
+          "author": "Spirk József"
+        },
+        {
           "title": "A megalakulás napja a 24.hu képein",
           "url": "https://24.hu/belfold/2026/05/09/a-megalakulas-napja-a-24-hu-kepein/",
           "published": "2026-05-09T19:50:00+01:00",
@@ -924,24 +942,6 @@
           "published": "2026-05-09T17:39:00+01:00",
           "description": "A miniszterelnök újra köszönetet mondott azért a szeretetért, amit a kampányban kaptak.",
           "image": "https://s.24.hu/app/uploads/2026/05/kossuth-ter-szb_4695-e1778342003668-320x180.jpeg",
-          "category": "Élő",
-          "author": "24.hu"
-        },
-        {
-          "title": "Willi Orbán látványos gólt fejelt, bronzérmes az RB Leipzig",
-          "url": "https://24.hu/sport/foci/2026/05/09/willi-orban-latvanyos-golt-fejelt-bronzermes-az-rb-leipzig/",
-          "published": "2026-05-09T17:35:00+01:00",
-          "description": "Nagyszerű megoldást választott a magyar védő.",
-          "image": "https://s.24.hu/app/uploads/2026/05/gettyimages-2274727903-e1778341206318-320x180.jpg",
-          "category": "Foci",
-          "author": "24.hu"
-        },
-        {
-          "title": "Magyar Péter: Engem is megváltoztattatok",
-          "url": "https://24.hu/belfold/2026/05/09/orszaggyules-alakulo-ules-magyar-peter-miniszerelnok-valasztas-esku/#magyar-peter-engem-is-megvaltoztattatok",
-          "published": "2026-05-09T17:32:00+01:00",
-          "description": "Országjárása során 700 településen járt, számtalan emberrel találkozott, és hálás mindenkinek, aki biztatta, kérdezte, támogatta, „amit tőletek kaptam, tanultam, azt egy életre magammal viszem (...) nemcsak az országot, engem is megváltoztattatok” – mondta a Kossuth téren összegyűlt tömegnek Magy...",
-          "image": "https://s.24.hu/app/uploads/2026/05/magyar-peter-687786467_1635060257774232_92821618254254164_n-1024x683-1-e1778341350833-320x180.jpg",
           "category": "Élő",
           "author": "24.hu"
         }
@@ -1381,7 +1381,7 @@
           "url": "https://www.origo.hu/sport/sport-futball/2026/05/fradi-zte-magyar-kupa-donto-osszefoglalo",
           "published": "2026-05-09T20:06:00+01:00",
           "description": "Sorozatban negyedszer van hosszabbítás a kupadöntőben.",
-          "image": "https://cdn.origo.hu/2026/05/iO6dG98P1lYqwYwwurSyY6H-UZT9sFKdYoqr4zIY43c/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjYTQ0M2UzMDFiNjQyNGE4NzJkNjgxM2M1YmE2N2E0.webp",
+          "image": "https://cdn.origo.hu/2026/05/IOF4OnMg-Wq_aGI_iCtQzKw0aa8HR_va1rG7PO4r--k/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyMmQyMzFlNTBmMTRhMGRhODgxZGM3M2YzZTIwZDgx.webp",
           "category": "Magyar Kupa-döntő",
           "author": null
         },
