@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-09T18:40:31.738749+00:00",
+  "scraped_at": "2026-05-09T18:45:41.863466+00:00",
   "portals": [
     {
       "id": "telex",
@@ -257,6 +257,15 @@
       "article_count": 23,
       "articles": [
         {
+          "title": "A kihagyott büntető is belefért az FTC-nek, a népligetiek bombagóllal gyűrték le ZTE-t a Magyar Kupa döntőjében",
+          "url": "https://index.hu/sport/futball/2026/05/09/mol-magyar-kupa-donto-2025-2026-ferencvaros-zalaegerszeg-helyszini-tudositas/",
+          "published": "2026-05-09T18:39:00+00:00",
+          "description": "Nem járt messze a tizenegyespárbajtól a hősiesen küzdő ZTE.",
+          "image": "https://kep.index.hu/1/0/6931/69310/693100/69310011_5115003_5d9c81d6fe5d61a9b326ac4352a54d28_wm.jpg",
+          "category": "Futball",
+          "author": null
+        },
+        {
           "title": "Meglepő üzenetet küldött az Orbán-kormány a távozása előtt",
           "url": "https://index.hu/belfold/2026/05/09/kormanyzati-tajekoztatasi-kozpont-leiratkozas-email-fidesz-orban-kormany-tisza-part/",
           "published": "2026-05-09T17:37:00+00:00",
@@ -453,15 +462,6 @@
           "image": "https://kep.index.hu/1/0/6930/69304/693044/69304405_5114607_26f2a39873a05ef41317b89ba9d89e3b_wm.jpg",
           "category": "Belföld",
           "author": null
-        },
-        {
-          "title": "Magyar Péter nem kertelt első miniszterelnöki beszédében, várja Sulyok Tamás lemondását",
-          "url": "https://index.hu/belfold/2026/05/09/magyar-peter-miniszterelnok-tisza-part-orszaggyules-parlament-valasztas2026/",
-          "published": "2026-05-09T12:49:00+00:00",
-          "description": "Új kormányfője van Magyarországnak.",
-          "image": "https://kep.index.hu/1/0/6930/69304/693043/69304357_5114603_8dbd9ae2d763318e1d6915eba59adb9b_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -471,7 +471,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -548,11 +548,11 @@
           "author": null
         },
         {
-          "title": "MK-döntő: ami nem ment tizenegyesből, sikerült egy ártalmatlan szituációból – FTC–ZTE 1–0",
+          "title": "MK-döntő: ami nem ment tizenegyesből, sikerült egy ártalmatlan szituációból – kupagyőztes a Ferencváros",
           "url": "https://mandiner.hu/sport/2026/05/ftc-zte-magyar-kupa-donto-puskas-arena",
           "published": "2026-05-09T16:03:04+00:00",
-          "description": "A kupasorozatra nem érvényes az „ötmagyaros szabály”.",
-          "image": "https://cdn.mandiner.hu/2026/05/e7FOQMwL3mela_Oc6Lei9RAkfkwVcd2SHAezYtXIEaI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg2ZjUzNTFjZTA5NTRkYzZhZGVjNGRmNDhiOWJkMWNh.jpg",
+          "description": "Majdnem jöttek a tizenegyesek.",
+          "image": "https://cdn.mandiner.hu/2026/05/7Dqq3MPkjx8GfuoEG4aZ_y9IYDFIMEnKz3Hg_rcpP4k/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U2ZTYyM2I0MDdkZjRhNWE4MmY0MjM4MDI4ZGRjNzFl.jpg",
           "category": null,
           "author": null
         },
@@ -720,6 +720,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Ami a termékismertetőkből sokszor kimarad: ezzel a hat dologgal érdemes tisztában lenni, mielőtt robotporszívót vásárol",
+          "url": "https://24.hu/tech/2026/05/09/robotporszivo-vasarlas-tanacsado-mit-erdemes-tudni/",
+          "published": "2026-05-09T20:41:00+01:00",
+          "description": "Mit várhatunk el egy robotporszívótól? Mire érdemes mindig figyelni? Milyen extra költségeink lehetnek? Mi az, amire csak kevesen gondolnak? Mikor nem érdemes vásárolni? Ezeket a kérdéseket is megválaszoljuk.",
+          "image": "https://s.24.hu/app/uploads/2026/04/robotporszivo-vasarlas-mit-kell-tudni-02-1093267445-e1777549276934-320x180.jpg",
+          "category": "Tech",
+          "author": "Birkás Péter"
+        },
+        {
+          "title": "Kifutópályán gyalogló embert szippantott be egy utasszállító gép motorja",
+          "url": "https://24.hu/kulfold/2026/05/09/denver-baleset-kifutopalya-gyalogos/",
+          "published": "2026-05-09T20:39:00+01:00",
+          "description": "A motor burkolatát vér borította be.",
+          "image": null,
+          "category": "Nagyvilág",
+          "author": "Spirk József"
+        },
         {
           "title": "Életben tartotta bajnoki reményeit a Manchester City",
           "url": "https://24.hu/sport/foci/2026/05/09/premier-league-manchester-city-brentford-bajnoki-versenyfutas/",
@@ -926,24 +944,6 @@
           "image": "https://s.24.hu/app/uploads/2026/05/hegedus-zsolt-690937463_960453853460367_7692086901715955992_n-1024x683-1-e1778345159574-320x180.jpg",
           "category": "Élő",
           "author": "Kerner Zsolt"
-        },
-        {
-          "title": "Presser Gábor a színpadon",
-          "url": "https://24.hu/belfold/2026/05/09/orszaggyules-alakulo-ules-magyar-peter-miniszerelnok-valasztas-esku/#presser-gabor-volt-a-nagy-meglepetes",
-          "published": "2026-05-09T17:49:00+01:00",
-          "description": "Elég sokat célozgattak rá, és a másik lehetőség a leírás alapján Havasi Balázs lett volna, aki azért Pressernél megosztóbb előadó.",
-          "image": "https://s.24.hu/app/uploads/2026/05/presser-gabor-687999280_1497288811947350_6675591855925862950_n-1024x683-1-e1778342730761-320x180.jpg",
-          "category": "Élő",
-          "author": "Kerner Zsolt"
-        },
-        {
-          "title": "Kezd elszivárogni a tömeg",
-          "url": "https://24.hu/belfold/2026/05/09/orszaggyules-alakulo-ules-magyar-peter-miniszerelnok-valasztas-esku/#kezd-elszivarogni-a-tomeg",
-          "published": "2026-05-09T17:49:00+01:00",
-          "description": "Magyar Péter beszéde után kezdetet vette a hivatalos afterparty.",
-          "image": "https://s.24.hu/app/uploads/2026/05/kossuth-ter-szb_4695-e1778342003668-320x180.jpeg",
-          "category": "Élő",
-          "author": "Orosz R. Zoltán"
         }
       ]
     },
@@ -1377,6 +1377,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Jó lesz felkészülni, nagyot változik az időjárásunk",
+          "url": "https://www.origo.hu/itthon/2026/05/idojaras-homerseklet-vasarnap-napos-idoszak",
+          "published": "2026-05-09T20:40:00+01:00",
+          "description": "A nyugodt, kellemes, tavaszvégi hangulat nem tart sokáig.",
+          "image": "https://cdn.origo.hu/2026/05/E3D4uUNOpNYp1mFuAlphuix4ZXvBAkQWUX7E9UWXl2c/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYyM2FhNTFkZDE4MTQzMDE4ZjcwZmU4NWNiNmUzOTlh.webp",
+          "category": "időjárás",
+          "author": null
+        },
+        {
+          "title": "Ön merre fordul zuhanyzás közben? – A bőrgyógyászok szerint ez fontosabb, mint hinné",
+          "url": "https://www.origo.hu/nagyvilag/2026/05/zuhanyzas-merre-alljunk-a-viz-alatt-bor-egeszsege",
+          "published": "2026-05-09T20:35:00+01:00",
+          "description": "Kiderült, mi számít igazán a tökéletes zuhanyzásnál.",
+          "image": "https://cdn.origo.hu/2026/05/zU_2KyET2dwPtqFxkzjIzuRhq82BcTGRK1evxnUxuyE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE3MDVhMWU4ZDE2ZTRjYmVhYTdlYzY1NTE5MDVmYzBi.webp",
+          "category": "zuhanyzás",
+          "author": null
+        },
+        {
           "title": "Nem minden sajt hizlaló bűn – Meglepő, melyiket tartják a legjobbnak!",
           "url": "https://www.origo.hu/nagyvilag/2026/05/sajt-egeszseges-valasztas-cottage-cheese-dieta",
           "published": "2026-05-09T20:21:00+01:00",
@@ -1386,10 +1404,10 @@
           "author": null
         },
         {
-          "title": "Drámai Magyar Kupa-döntőt játszik a Ferencváros és a Zalaegerszeg – ÉLŐ",
+          "title": "Egy 111. percben lőtt bombagól döntött a Fradi és a ZTE kupadöntőjén",
           "url": "https://www.origo.hu/sport/sport-futball/2026/05/fradi-zte-magyar-kupa-donto-osszefoglalo",
           "published": "2026-05-09T20:06:00+01:00",
-          "description": "Sorozatban negyedszer van hosszabbítás a kupadöntőben.",
+          "description": "Sorozatban negyedszer volt hosszabbítás a kupadöntőben.",
           "image": "https://cdn.origo.hu/2026/05/IOF4OnMg-Wq_aGI_iCtQzKw0aa8HR_va1rG7PO4r--k/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyMmQyMzFlNTBmMTRhMGRhODgxZGM3M2YzZTIwZDgx.webp",
           "category": "Magyar Kupa-döntő",
           "author": null
@@ -1451,19 +1469,19 @@
         {
           "title": "Mutatjuk, kinek lehet köze a patkányméreggel dúsított bébiételhez",
           "url": "https://www.origo.hu/kek-hirek/2026/05/patkanymereggel-dusitott-bebietel-gyanusitott",
-          "published": "2026-05-09T19:18:00+01:00",
-          "description": "Nyugodjon meg, már elfogták a rendőrök.",
-          "image": "https://cdn.origo.hu/2026/05/j_-1IqEHpuoIH2DnAzutVaOxlo9PrB508S6C_YhCbFg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdhODNmYmM5Njg5MTQ1ZGY5OTJiNmZjZTY5Nzg5Y2Ix.webp",
-          "category": "patkányméreggel szennyezett",
+          "published": "2026-05-09T17:18:16+00:00",
+          "description": null,
+          "image": null,
+          "category": "Kék hírek",
           "author": null
         },
         {
           "title": "Vége a rémálomnak? Megtalálták a szinte mindenkit fertőző vírus ellenszerét",
           "url": "https://www.origo.hu/tudomany/2026/05/epstein-barr-virus-elleni-uj-antitest-attorest-hozott",
-          "published": "2026-05-09T19:14:00+01:00",
-          "description": "Itt vannak a részletek.",
-          "image": "https://cdn.origo.hu/2026/05/-Cjh4Zp0yOJqwaZZMtG_P4HT_f9l3GLh9EhqASilOSY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U2OTg5ZjMzMmE3MzRkMmZiMmU3YzI2ODY5ZDkxOTMw.webp",
-          "category": "fertőzés",
+          "published": "2026-05-09T17:14:02+00:00",
+          "description": null,
+          "image": null,
+          "category": "Tudomany",
           "author": null
         },
         {
@@ -1581,24 +1599,6 @@
           "description": null,
           "image": null,
           "category": "Kék hírek",
-          "author": null
-        },
-        {
-          "title": "Késsel akarta kivégezni a magyar celebet az őrült rajongója",
-          "url": "https://www.origo.hu/kek-hirek/2026/05/kessel-akarta-kivegezni-a-magyar-celebet",
-          "published": "2026-05-09T15:57:01+00:00",
-          "description": null,
-          "image": null,
-          "category": "Kék hírek",
-          "author": null
-        },
-        {
-          "title": "Gulyás Gergely: A valóságtagadással nehéz nemzeti konszenzust teremteni.",
-          "url": "https://www.origo.hu/belpol/2026/05/gulyas-gergely-magyar-peter-elso-nyilvanos-megszolalasa-sok-tekintetben-komoly-ketseget-ebresztett",
-          "published": "2026-05-09T15:53:03+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
