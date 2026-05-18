@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-18T18:01:10.585256+00:00",
+  "scraped_at": "2026-05-18T18:05:32.356083+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Magyar Péter a nyár második felétől újra országjárásra indulhat",
+          "url": "https://telex.hu/belfold/2026/05/18/magyar-peter-a-nyar-masodik-feletol-ujra-orszagjarasra-indulhat",
+          "published": "2026-05-18T18:01:43+00:00",
+          "description": "A miniszterelnök erről a köztársasági jogkörök bővítésével összefüggésben beszélt.",
+          "image": "https://assets.telex.hu/images/20260518/1779126648-temp-0iup5aksj3pnamfaaim_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
         {
           "title": "17 éves lány zuhant le a negyedik emeletről, a rendőrség büntetőeljárást indított",
           "url": "https://telex.hu/belfold/2026/05/18/szentlorinci-lany-negyedik-emeleti-lakas-buntetoeljaras-rendorseg",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260518/1779104591-temp-phjcc88po2pmcamjhng_cimlap-normal.jpg",
           "category": "Gazdaság",
           "author": "Pupli Anna Sára"
-        },
-        {
-          "title": "XIV. Leó első enciklikája a mesterséges intelligencia felemelkedéséről fog szólni",
-          "url": "https://telex.hu/kulfold/2026/05/18/xiv-leo-papa-mesterseges-intelligencia-enciklika",
-          "published": "2026-05-18T11:56:56+00:00",
-          "description": "A pápa körlevele az ember védelméről fog szólni a mesterséges intelligencia korában.",
-          "image": "https://assets.telex.hu/images/20260518/1779105373-temp-qf4eqou4d5685jbpnha_cimlap-normal.jpg",
-          "category": "Külföld",
-          "author": "Aradi Hanga Zsófia"
         }
       ]
     },
@@ -624,10 +624,236 @@
       "name": "Magyar Nemzet",
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A Fidesz–KDNP elítélte a Petőfi-szobor elleni támadást",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/fidesz-kdnp-kepviselocsoport-strasbourg-petofi-szobor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T18:03:46+00:00",
+          "description": "Felháborítónak és fájdalmasnak látják a támadást a képviselők.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/mmkN4dH2WiGn-iRFHafFgjIC_ZskPOdpffuLudHyw1Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM5NDY0NTE0ZTY4YTQwZmE4OWNhNzEzMDhmMTZkZWU2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter a kormányülés után megerősítette: már júniusban megnyithatják a kaput Ukrajna uniós csatlakozása előtt",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/magyar-peter-a-kormanyules-utan-megerositette-mar-juniusban-megnyithatjak-a-kaput-ukrajna-unios-csatlakozasa-elott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T17:47:18+00:00",
+          "description": "Megkezdődtek az egyeztetések.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/YIqSKYKFVDHJBxO3Yck2u7MzMBhVL5Jx86pYkKWVevA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM0MjQ1MzA0ZDJiNjRkZjNhYWQwNzg0M2FjNzNkOTcw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Meglepő dolog derült ki Messiről, csapattársa a vb előtt leplezte le",
+          "url": "https://magyarnemzet.hu/sport/2026/05/messi-lionel-rodrigo-de-paul-argentin-valogatott-vb?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T17:42:08+00:00",
+          "description": "Továbbra is csak találgatások folynak arról, hogy az argentin zseni ott lesz-e a vb-n.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/qBib71RqoG-2elbRAdaZW8ENHp4DdFY8fpjAsjdVypE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2N2UxM2Q5YWZmZjQ4MTRiNjUzNmQ2NjExOTZmZDRj.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter „Soros-ügynöknek” nevezte, most mégis EP-képviselő lesz a Tisza politikusa",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/tisza-politikus-ep-kepviselo-magyar-peter-soros-ugynok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T17:29:10+00:00",
+          "description": "A miniszterelnök korábban „totál alkalmatlan” politikusnak tartotta Weisz Viktort.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/JVYNcdtYmk7Uvjj9dhzjvu_qSI0H2VgrwGuJnzeuMRE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVkYzNiYzI2ZDk3MjRkMTk5ODYxNTZlYTQzMTI5NWJj.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Az Európai Tanács meghosszabbította a Szíriát érintő szankciókat",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/sziria-szankcio-europai-tanacs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T17:06:08+00:00",
+          "description": "A korábbi rezsimhez köthető személyek és szervezetek a listán maradtak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/5b4HzGSZpc2GdYaHFDTO6ONoleUOMa167xcoooag80c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3ODdjOWM4OTZkMzQ4MTI4YjUxOTY0YjY3MGNhNjEy.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Mount Everest: egyedülálló rekord született a Föld legmagasabb hegycsúcsán",
+          "url": "https://magyarnemzet.hu/tudomany/2026/05/mount-everest-fantasztikus-rekord-szuletett?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T17:04:45+00:00",
+          "description": "Senki sem jutott fel annyiszor a földkerekség legmagasabb pontjára, mint egy serpa hegyi túravezető.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/65dfrGvRJi8zpWwnMEKJdOJRrqsA9NN_Jo8nsGEBLs4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RhNjcxMjkyYzQ1MjQ2NTViMmFlNWYzYjRlMzg3MTI0.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Nincs kegyelem, beleálltak a legendák az elbukott válogatottba",
+          "url": "https://magyarnemzet.hu/sport/2026/05/kezilabda-ferfi-valogatott-bukas-legendak-biralat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T16:46:54+00:00",
+          "description": "A magyar kézilabda válságban van, hiszen így az olimpiai szereplés is messze került.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/Aljz-0rRWtNDm70ki9MgENTnqELeRYbLEiQ9toyh14w/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhkOTkyZTJmZWEyZTQ1M2U4MDZmYjUxMTc3NmU0MjI5.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Elárulta a szakértő, hogy mire lesz elég a csapadékmennyiség, ami a hétvégén csapott le az országra",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/elarulta-a-szakerto-hogy-mire-lesz-eleg-a-csapadekmennyiseg-ami-a-hetvegen-csapott-le-az-orszagra?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T16:44:06+00:00",
+          "description": "A hetekig tartó száraz időszak után végre megérkezett a régóta várt eső.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/hkI4F-EM6N8optcSvNKuWHMtcP3BLkrE1Rx0cG4X9Fg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2ZDI5ZjdiOTNhMjQ2MTRiZjU5NGY3MmY0NTI2YjFj.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Kitálalt a bíróságon Tóth Andi – durva részletek derültek ki a drogbotrányról",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/toth-andi-durva-reszletek-drogbotrany-birosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T16:16:14+00:00",
+          "description": "Az énekesnő több alkalommal használt kábítószert.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/NcRtYiBOgT1uwjnL9-GR4sfSFa9maUB-TmqwsXUbdT8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NjNzk4ZmU2MzBkYjRjMjE4MTY3YjZjMWMyZmY3NjIw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Mégsem utasítják ki az ukrán pénzszállítókat",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/ukran-penzszallito-kiutasitas-visszavon?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T16:06:19+00:00",
+          "description": "A magyar hatóságok még márciusban foglalták le az Ausztria felől Ukrajnába tartó pénzszállító konvojt, amelyben negyvenmillió dollárt, harmincötmillió eurót és kilenc kilogramm aranyat találtak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/OzlKzZkDUvfh-RKodJwmZt3BQE75ryo5Zv-WW_Bw3aU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ5YTllYzJhYjBhMDRiNDdhYmJjNDQxMTY5ZDdhNTNi.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Történelmi lépés az ukrán válogatottnál, Rossi életét honfitársa nehezítheti meg",
+          "url": "https://magyarnemzet.hu/sport/2026/05/ukran-valogatott-andrea-maldera-uj-szovetsegi-kapitany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T16:06:08+00:00",
+          "description": "Szerhij Rebrov áprilisi távozása után egy hónappal megvan az ukrán válogatott új szövetségi kapitánya.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/tE9wNuJTAf82OzBN0tyfmtnOO0owOaLB983CeH-tdeg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FhYmJlMWFkZWM5YzQwMGU4YjYwNDBiZjYyNjU0ODYz.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Ilyen luxusirodába költöznek a tiszás képviselők + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/ilyen-luxusirodaba-koltoznek-a-tiszas-kepviselok-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:52:52+00:00",
+          "description": "Az ország egyik legexkluzívabb irodaházába költöznek be.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/3Fki9WUanew0vfbuwajQLQw_MtdMXG30e2Iwf21L5sw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EyM2VjYTdmMzdhZTQ0ODQ5ZTgzYTJhMjYzOWM3NjIw.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Megoldódhat a rejtély? Előkerültek a Maldív-szigeteken szerencsétlenül járt olasz búvárok holttestei",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/megoldodhat-a-rejtely-elokerultek-a-maldiv-szigeteken-szerencsetlenul-jart-olasz-buvarok-holttestei?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:23:49+00:00",
+          "description": "Már azt is tudni, mikor hozzák fel őket.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/Sb0xAuuyCqw9BguBrUrpNQZBA13elCk1C4vUhppkLZA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE5MmM5ODNlODYwMzQxMWZiY2RjY2E0ZDYxODEwM2Zk.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Irán labdarúgócsapata edzőtáborba vonult, a vb-részvétele még mindig kétséges",
+          "url": "https://magyarnemzet.hu/sport/2026/05/iran-labdarugo-vilagbajnoksag-edzotabor-torokorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:15:07+00:00",
+          "description": "Az iráni nemzeti tizenegy a törökországi Belekben kezdi meg a felkészülést.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/N3cey-21DyAXAIjeU9LQH2Qb_OlMuvt1SnqLD0eCqFU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyMmU0OGI5NWFjMTQyMzA5MzQ4ZjMwNmQ0ODZmYjE4.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Üres a parlament, a Tisza Párt egy hét szünettel indítja a munkát",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/magyar-peter-ures-parlament-orszaghaz-ules-tisza?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:13:24+00:00",
+          "description": "Nem hívott össze ülést a tiszás többség, mert a politikájuk még nem költözött át a közösségi médiából az Országházba.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/bjMlq0gJX8UxxvvUa0vfcOMkd7CHXWjQJXUqz6nd4sE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjMzBjNzBmYmYxMDQ3YzZhY2MzODkzYWZiNTkxMWU1.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Szoboszlai Dominik hazaüzent – Dzsudzsák Balázs és Torghelle Sándor is ellene + videó",
+          "url": "https://magyarnemzet.hu/sport/2026/05/szoboszlai-dzsudzsak-torghelle-liverpool-premier-league?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:12:44+00:00",
+          "description": "Vasárnap zárul a Premier League, Szoboszlai Dominik azonban még jövő vasárnap is pályára lép, mégpedig Budapesten.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/sDSKOSwu3nszpy1h86EBwfWr--CSPuAhIUb7jHJXRJ0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZlMjljMGU2NWJjMzQ4Zjc5Y2FkMjJjYWM0MjgxMGQ2.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Ilyen tényleg nincs!",
+          "url": "https://magyarnemzet.hu/bayer-zsolt-blogja/2026/05/ilyen-tenyleg-nincs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:12:30+00:00",
+          "description": "Feszülten várjuk, hogy Szilágyi alezredes elvtárs mondjon valami okosat…",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/UtD6JgeblPTmSZwNDQb5gtEEtzqVs8tjTvPmfT2A3LA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBjODgyYTE2NzczNTQ4MGI5N2FlYjUwMTFhZTY4NWE3.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Ryan Goslingot kirúgta a Gyűrűk Ura rendezője, kiderült a valódi ok",
+          "url": "https://magyarnemzet.hu/kultura/2026/05/ryan-gosling-gyuruk-ura-hail-mary-kuldetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:03:51+00:00",
+          "description": "Peter Jackson most tiszta vizet öntött a pohárba.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/WLDf3xi63Ws50y3_s84eh5B29ZUSeoqh2VDTRr3Nyjo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UwM2VjNWFlZGVjYjQyMGY4ZjRlMzNkYjE2YzM2OTlj.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Minden eddiginél nagyobb ukrán dróntámadás érte Oroszországot",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/ukran-dron-lecsap-oroszorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T15:00:27+00:00",
+          "description": "Oroszország külügyminisztériuma azzal vádolja Kijevet, hogy civileket vett célba.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/b50_UJRkiJPIH1jER7CXjD7J2g5raBFivpVS2PFGjWo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhY2Y1ZWQ1NzcwNjQwNDRiYzE2YTNkZGJmNzYwZDJi.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Kegyelmi ügy: Magyar Péter Sulyok Tamástól várja a nagy leleplezést + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/veget-ert-a-kormanyules-magyar-peter-sajtotajekoztatot-tart?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T14:55:14+00:00",
+          "description": "A kormány elképesztő vádakkal állt elő a költségvetés kapcsán.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/_RPJZQ9R9z4jmzhLHBjq3tX7H9itnEzDUBt3lYUxO7A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc1NjYwNTFkY2U5ODQ4NDc5MWRlYmU4Zjk0YTJlMjRi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Európa legszegényebb országáról beszélnek Magyar Péterék, de a tények mást mutatnak",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/kemeny-kritikak-magyar-peter-tenyek-ferditese?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T14:50:12+00:00",
+          "description": "A miniszterelnök több esetben is félrevezető vagy pontatlan adatokat használt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/Nxt-Z8tpq4ye1a64hM30gVxPi-ooJ70ORcEOYgIywzA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q0NTcyMDliODU2MDRhMTBhOWY1MWQ5YzMzZWM4OTJi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Labdarúgó-vb: Yamal és López miatt óriási bajban a spanyolok",
+          "url": "https://magyarnemzet.hu/sport/2026/05/spanyolorszag-labdarugo-vilagbajnoksag-serulesek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T14:44:08+00:00",
+          "description": "Két kulcsjátékosuk is sérüléssel bajlódik a hamarosan kezdődő nagy torna előtt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/tcCiKw9dER2uQhuh4aZ09XrCs43PPG5gR_clxhOoj1U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY5NmYwNDg3ODZlNzQ2NTY4ODU5YThjODZjMzk2NDgy.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Megvan, ki esett ki a negyedikről ma délelőtt Szentlőrincen, jó eséllyel gyilkosság történt",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/megvan-ki-esett-ki-a-negyedikrol-ma-delelott-szentlorincen-jo-esellyel-gyilkossag-tortent?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T14:33:56+00:00",
+          "description": "Megszólalt a rendőrség a tragédiáról.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/P0xLv0CJcLV0SB8yilNZnTPHLvqt6XN3LU3YOSYNxD4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBhOTNjNmI1ZDZkMjQwZjQ4NjU5NDE3ZDUzNWExZTA0.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Nem mindenhonnan távoznak a zivatarfelhők, itt a holnapi figyelmeztetés + térkép",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/nem-mindenhonnan-tavoznak-a-zivatarfelhok-itt-a-holnapi-figyelmeztetes-terkep?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T14:26:57+00:00",
+          "description": "Holnapra sem borítékolnak felhőtlen időjárást a meteorológusok.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/28t6yd4yzmDSa-joqHfjdDH2F-e416ezCTG0iablTyk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IyOGVkYTRkZGQ2NjQyODNiY2ZjY2JhYzM3OGE1OTg4.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "A brüsszeli házimédia szerint az új magyar kormány nyithat utat Ukrajnának",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/ukrajna-eu-csatlakozas-magyar-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-18T14:09:35+00:00",
+          "description": "A Politico arról ír, hogy júniusban áttörés jöhet.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/PiyfeMpzurh2ehqDNSgUlfANSLUQzk69QA5QX1NfMEk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMGNjZmU1NmQ0MjRhZmM4ZDdlOTdkZjgyYzU0ZTA2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        }
+      ]
     },
     {
       "id": "mandiner",
@@ -1450,7 +1676,7 @@
         {
           "title": "Trump Iránnak: Ha nem lépnek gyorsan, semmi sem marad belőlük",
           "url": "https://kontroll.hu/cikk/belfold/2026/05/18/trump-irannak-ha-nem-lepnek-gyorsan-semmi-sem-marad-beloluek",
-          "published": "2026-05-18T18:05:56.831408+01:00",
+          "published": "2026-05-18T17:05:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1531,6 +1757,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Elképesztő áttörést értek el a sokakat érintő, rettegett kór ellen a tudósok",
+          "url": "https://www.origo.hu/nagyvilag/2026/05/alzheimer-kor-ellen-tudosok-kutatas-allatkiserlet",
+          "published": "2026-05-18T20:02:00+01:00",
+          "description": "Döbbenetes kísérlet borzolja a kedélyeket.",
+          "image": "https://cdn.origo.hu/2026/05/X7kPSTwdGfgWRH2Vid3niw8fqtycDufVbDtIYUR_xX0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E5ZmNjYjZhODBiMzRmMGU4MDY3MWQ0NzUzNGVjZTQy.webp",
+          "category": "Alzheimer-kór",
+          "author": null
+        },
+        {
           "title": "Hajszálon múlt a katasztrófa az orosz F4-es futamon – videó",
           "url": "https://www.origo.hu/sport/f1/2026/05/biztonsagi-auto-palyara-hajtott-hajmereszto-video",
           "published": "2026-05-18T19:56:00+01:00",
@@ -1603,21 +1838,21 @@
           "author": null
         },
         {
-          "title": "Óriási roham indult egy csodaszerért Amerikában, amely egy sokakat érintő betegségre lehet gyógyír",
-          "url": "https://www.origo.hu/nagyvilag/2026/05/autizmus-csodaszer-amerika-gyogyir-gyerekeknek",
-          "published": "2026-05-18T18:38:00+01:00",
-          "description": "Egyesek azt állítják a készítményről, hogy látványosan javíthatja az autista gyerekek állapotát.",
-          "image": "https://cdn.origo.hu/2026/05/jQrJMCnHskvrir3slpGdQiywGSh2S_ug9WtgM7rB5ew/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNkZWVmNDMyODdiZDRlNTRiYWEzM2EyMGZmNzRjZDcw.webp",
-          "category": "autizmus",
-          "author": null
-        },
-        {
           "title": "Kerékpárosgázolás Zalaegerszegen: kamion ütött el egy biciklist",
           "url": "https://www.origo.hu/kek-hirek/2026/05/kerekparosgazolas-zalaegerszeg-kamion-gazolt-biciklist",
           "published": "2026-05-18T18:37:00+01:00",
           "description": "A kijelölt gyalogos átkelőhelyen sodorta el a nőt.",
           "image": "https://cdn.origo.hu/2026/05/cerEyiyyBw2-cWgEnX_WocVNxLpMvnk4sSvov3iCTA8/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y1ZjMyYzQyMzI0YTRiNjg5YWEyYzc1N2M0Nzk0YmNh.webp",
           "category": "zalaegerszegen",
+          "author": null
+        },
+        {
+          "title": "Óriási roham indult egy csodaszerért Amerikában, amely egy sokakat érintő betegségre lehet gyógyír",
+          "url": "https://www.origo.hu/nagyvilag/2026/05/autizmus-csodaszer-amerika-gyogyir-gyerekeknek",
+          "published": "2026-05-18T16:38:37+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1741,15 +1976,6 @@
           "title": "Fitneszinfluenszer leplezte le a trükköt – ettől lesz sokkal tónusosabb a teste",
           "url": "https://www.origo.hu/nagyvilag/2026/05/fitneszinfluenszer-egyszeru-modszer-jobb-forma",
           "published": "2026-05-18T15:18:18+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Emberfeletti rekord a Mount Everesten: egy serpa mindenkit megdöbbentett",
-          "url": "https://www.origo.hu/nagyvilag/2026/05/serpavezer-32-alkalommal-jutott-fel-halalhegy-csucsara",
-          "published": "2026-05-18T15:14:13+00:00",
           "description": null,
           "image": null,
           "category": "Nagyvilág",
