@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-21T12:15:46.511954+00:00",
+  "scraped_at": "2026-05-21T12:20:28.178109+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "16 nőjogi szervezet levélben kereste meg Magyar Pétert",
+          "url": "https://telex.hu/belfold/2026/05/21/nojogi-szervezetek-javaslatok-magyar-noi-alap-magyar-peter-level",
+          "published": "2026-05-21T12:16:12+00:00",
+          "description": "Ebben azt kérik a miniszterelnöktől, állítson fel a kormány egy nemek közötti egyenlőségért felelős önálló intézményt.",
+          "image": "https://assets.telex.hu/images/20260521/1779365515-temp-ktq6c4oqvqtlfjpbeoh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
         {
           "title": "Erre a piros vasalódeszkára cseréli a házelnöki széket Forsthoffer Ágnes",
           "url": "https://telex.hu/zacc/2026/05/21/erre-a-piros-vasalodeszkara-csereli-a-hazelnoki-szeket-forsthoffer-agnes",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260521/1779355195-temp-fk27fnepcuq2dlcjaca_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Kovács Pál"
-        },
-        {
-          "title": "Magyar Péter és miniszterei megérkeztek Bécsbe, az osztrák kancellárnál kezdik a napot",
-          "url": "https://telex.hu/kulfold/2026/05/21/magyar-peter-becs-christian-stocker-ballhausplatz-osztrak-kancellar-ausztria",
-          "published": "2026-05-21T07:55:34+00:00",
-          "description": "A miniszterelnök Lengyelország után Ausztriában folytatja a külföldi útját, először Christian Stockerrel tárgyal, de később találkozik majd az osztrák államfővel is.",
-          "image": "https://assets.telex.hu/images/20260521/1779349978-temp-nm5oe8qt83k34glbejb_cimlap-normal.jpg",
-          "category": "Külföld",
-          "author": "Szántó-Nagy Bálint"
         }
       ]
     },
@@ -714,10 +714,236 @@
       "name": "Magyar Nemzet",
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Lebukott a korrupt RMDSZ-es polgármester",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/korrupt-polgarmester-rmdsz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T12:13:30+00:00",
+          "description": "Éppen átadták neki a pénzt, amit egy uniós beruházásra kellett volna költeni. Mutatjuk, kiről van szó.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/UTqi9uYtD4-uSMcHNKjIB_GLzZsXLEOEZhtt7BK-52c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ4NjRlMzIwZjZkMTQ1NzA4MzhkMzAxMDY2OWY5MDU0.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Tíz év után felébred álmából Csipkerózsika az Operaházban",
+          "url": "https://magyarnemzet.hu/kultura/2026/05/csipkerozsika-tiz-ev-utan-felebred-almabol-operahaz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T12:13:00+00:00",
+          "description": "Csajkovszkij klasszikusa pazar látványvilággal tér vissza.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/YsdjTgZioS7T31yaVafbkrMH00LBTa0l0Tg9Tex5_MU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBjNjVlOTA4NTliYjRlMDg5NzU0MmIyNzlmZDFmNTlj.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "A zöldség-gyümölcs áfájának kampányígéret szerinti csökkentését várják a nagy hazai szövetkezetben",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/05/paradicsom-szentes-paprika?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T12:10:25+00:00",
+          "description": "A vendégmunkásokkal kapcsolatos elképzelése a Tisza-kormánynak a szentesi szövetkezetet közvetlenül nem érinti, de az agrárium egészét igen.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/G6D_Fv09cP0MfwZP2bx_LwJRSmiCAgr_38nt7XWOubI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzczMmFjNjQ3NjUzMzQwZGRiMjdhNWI2ZDY3NmZkYWY4.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Rétvári Bence: A Tisza Párt alaptörvény-módosítása eltörölné a keresztény kultúra alkotmányos védelmét",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/retvari-bence-a-tisza-part-alaptorveny-modositasa-eltorolne-a-kereszteny-kultura-alkotmanyos-vedelmet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T12:08:36+00:00",
+          "description": "Gyengülne Magyarország migrációval szembeni védelme – hangsúlyozta a politikus.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/YLAhu0bpbMaa1Z3VUyJ_7ZRAIwX9NnApRso7PXj5ps4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U2NDYyMGJjZWJhOTRiODRhYjNhNTEzZjE4OTgzMGFl.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Nem adták ki a nyugtatóját a gyógyszertárban, ököllel ütötte az ajtót a soproni nő + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/nem-adtak-ki-a-nyugtatojat-a-gyogyszertarban-okollel-utotte-az-ajtot-a-soproni-no-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T12:04:04+00:00",
+          "description": "Pókhálósra tört az üveg.",
+          "image": "https://cdn.magyarnemzet.hu/2026/03/Y1n3YAB9pgWcGotfOytZnS2L_JYsHp59vT8z4m5riXw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY1ODZjMzg4M2VmOTQ1ZGNhMmQ2NDljMGYwMTMyMjI3.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Elszabadult a pokol Európában a migránsok miatt + videó",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/migransok-europaban-idosek-mozgasserultek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:49:43+00:00",
+          "description": "Sokkoló felvételek tanúskodnak arról, hogy ma már senki nincs biztonságban a nyugati nagyvárosokban.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/7oWc_IKCzivPcolRJSvq4Rvqd9PrQUrTPg1HbUSpQv4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhiNGM0MmM3Y2IwMzQwOGU5ZjdmOTBmODNhNDNiZDA4.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Révész Attila biztosra ment: házon belül találta meg az utódját",
+          "url": "https://magyarnemzet.hu/sport/2026/05/kisvarda-supka-attila-revesz-attila-edzo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:34:46+00:00",
+          "description": "A Kisvárda sportigazgatója előre jelezte, hogy nem vállalja tovább a munkát a kispadon.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/jGS1gFgrxN5NmVjgVycyVYN4FnoSONNqTHW-ZD_0Mtw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU5MWZhYWYyNjk1NjQxYWVhMmIwYjFjYjRiMGI5ZmU0.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Remeg és hörög a Mercedes új villanyautója, mintha egy V8-as lenne benne",
+          "url": "https://magyarnemzet.hu/auto-motor-2/2026/05/remeg-es-horog-a-mercedes-uj-villanyautoja-mintha-egy-v8-as-lenne-benne?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:33:56+00:00",
+          "description": "Az új négyajtós AMG GT elektromos lett, de nem emiatt, hanem a formaterv miatt zúgolódnak a rajongók.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/JLCZyJWfYU98h-vdRLNg_JB2HpF6_vdyboRUlEIT8Vo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE0NTI5MTU5Mzk0ZDQ4NjU5N2UxMzg5OGM4ZjZhZjk5.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Zelenszkij újratervez: európai segítséggel indítaná újra a megrekedt béketárgyalásokat a kijevi vezetés + videó",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/beketargyalasok-europai-segitseggel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:25:45+00:00",
+          "description": "Az ukrán tisztviselők szerint az erősebb európai részvétel fokozhatja a nyomást Moszkván.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/PiyfeMpzurh2ehqDNSgUlfANSLUQzk69QA5QX1NfMEk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMGNjZmU1NmQ0MjRhZmM4ZDdlOTdkZjgyYzU0ZTA2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Több száz utassal indult el a Boldogasszony zarándokvonat a csíksomlyói búcsúba + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/tboldogasszony-zarandokvonat-a-csiksomlyoi-bucsu-elindult?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:23:00+00:00",
+          "description": "Tizenharmadik alkalommal indult útnak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/DJIpde_IqFsvxL-quGEksqFnXFp3tdwuV59J_mmzWtU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhOTJjZmI3ZTczYjRhYjQ5NTQ2NTAxOTM2M2RiZTZm.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Először repült a kétüléses Szu–57 prototípusa",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/szu-57-ketuleses-probarepules?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:19:05+00:00",
+          "description": "Új szintre léphet az orosz ötödik generációs vadászgép fejlesztése.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/-oWRvqox7pqh0cqZiHe08OuuZMrYo-8EjfBM4VNejGE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiYzJjNmU5MDc5YzRlNmVhOTY5ODA0NWI4ODc1MjZj.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "A hősök előtt tisztelgett a Nemzeti Örökség Intézete",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/a-hosok-elott-tisztelgett-a-nemzeti-orokseg-intezete?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:13:58+00:00",
+          "description": "Ma van a magyar honvédelem napja: 1849-ben ezen a napon foglalta vissza a magyar honvédsereg Buda várát.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/leIgE2VJIu3G_6zyb2IcHZ0sCe65wtG0G8XKP5RJWyc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIwYjBhNGNiZDVmOTQyNTNiMTVlYzVhZGZiNTQ3ZjJk.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Rendkívüli körítés a német vb-kerethirdetésen, Nagelsmann leleplezte a Neuer-ügyet",
+          "url": "https://magyarnemzet.hu/sport/2026/05/julian-nagelsmann-nemet-valogatott-keret-vb-2026-neuer?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:08:52+00:00",
+          "description": "Megvan az utazók hivatalos névsora.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/rvvh8UqrKeKkk-nLEs47EEAQCAnMCjFVTgU7Dlc0wOw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QyMTI3MDAyOWMzMTQ0YzViMDMyNjg0OWQxZjgzZDc0.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Gyanúsnak tűnt a rendőröknek a nagy sürgés-forgás a zuglói társasház környékén, még ők is meglepődtek azon, amit ott találtak",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/gyanusnak-tunt-a-rendoroknek-a-nagy-surges-forgas-a-zugloi-tarsashaz-kornyeken-meg-ok-is-meglepodtek-azon-amit-ott-talaltak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:02:00+00:00",
+          "description": "Gyorsan kinyomozták.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/xnSU4LIOa8pG1oIWgKhXcAMOZ8_EKsyKEzB9TUlGl5o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RhYjk2MDc5MTUyYTRkYzdhMjAxNGRlYWMyMGVkZmVk.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Hatalmas előrelépést értek el a pécsi kutatók az agy betegségeinek kutatásában",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/hatalmas-elorelepest-ertek-el-a-pecsi-kutatok-az-agy-betegsegeinek-kutatasaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:01:17+00:00",
+          "description": "A projekt klinikailag hasznosítható fejlesztési irányokat is megalapozott.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/UhsKBf_AjGMCMMLMKz5dAg0vCQP1cJ8kYGyHjYQpTuM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UyZGU3ZjA4Y2NhZjQ1ZDlhMTY5NDVmNmY5Y2FiZGNm.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Törvénytelenül vizsgálódna a kormány az MTVA-nál",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/kormany-tisza-mtva-kozmedia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T11:00:23+00:00",
+          "description": "Magyar Péterék vagy nem ismerik a médiatörvényt, vagy tudatosan akarják azt megszegni.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/Aj0qWfTfNxjYz_n_iAYwocTO64rdZFHVzk_Onr0s0Rc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZlYzQwYzFlMzIwMjRkN2VhMmI3OWUyMDNkOTJiMGJl.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Oroszország széles körű, nukleáris hadgyakorlattal demonstrálja erejét",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/gyakorlattal-demonstralja-erejet-oroszorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:54:56+00:00",
+          "description": "Putyin serege készen áll.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/-OUzsjQ38Fy6xH6bx3foTElXlRoWZW4Pc6IIQ9XvHLk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RhMmMxZGRhMjc3NTQ0ZDQ4OGRmNTBhNjc3MDg3YjQx.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Közel fél évszázada tudhattak az osztrák hatóságok a burgenlandi azbesztszennyezés veszélyeiről",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/kozel-fel-evszazada-tudhattak-az-osztrak-hatosagok-a-burgenlandi-azbesztszennyezes-veszelyeirol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:43:52+00:00",
+          "description": "A megbetegedések ellenére kiadták az igazolást a kőzet forgalomba hozatalára.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/UOmUKtRNfUB4u9eWkvObVFIqocjdNAhuCrZz9ZyCgd4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgxMzdjNGE4ZGU0ODRkN2RhMDA3NjNjYWZmMWNmYTZi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Riasztani kellett a tűzoltókat: egy rab felgyújtotta a matracot a Gyorskocsi utcai börtönben",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/gyujtogatas-rab-matrac-gyorskocsi-utca-borton?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:29:25+00:00",
+          "description": "Több embert kellett kórházba szállítani.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/b5S7KoeqUYibh1BkhjgoEqGXwE6G7w01LdHKBZ3zTZ4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JmYjVhOTVmNGNhMDQ3NGJhOGYxZGIzZDYwZGRjZDgz.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Ebola-fertőzött beteget kezelnek Berlinben",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/ebola-beteg-berlin?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:28:39+00:00",
+          "description": "Így működik Németország legnagyobb különleges izolációs részlege.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/nflGnWmJaIddXESDC-HQVo6vSp0bS-bfaOgzWE745zQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRmZGUxNTg4MGViNjRjODM5Mzc0M2RkZTk1OTliZDlh.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Miközben az új agrárminiszter félrebeszél, dől az országba az ukrán GMO-s termény",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/05/elelmiszer-bona-szabolcs-ukran-import-gabona?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:27:28+00:00",
+          "description": "A Tisza Párt hibája miatt dől az országba az olcsó és alacsony minőségű ukrán élelmiszer.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/z6gw-GJiTMUshi6zB04pmSHZfJTCTl9C0pqaPzqK_ls/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdhMDg4MzllYmQ1YTQ3NmJiY2JkOTczNGVlMmExNDc0.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Arra készültek az emberek, hogy nyirokmasszázsra mennek, de nem úgy alakult, ahogy tervezték",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/arra-keszultek-az-emberek-hogy-nyirokmasszazsra-mennek-de-nem-ugy-alakult-ahogy-terveztek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:09:14+00:00",
+          "description": "Kiderült a turpisság.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/Zh6ixtykEh-KyV0EazxgdP3AJ3WPpjka7bWohQTWWvI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U1ZDg3MGM1ZGQ2ZDRmMDk4YmE5YmM4NWQ0NTcyYTVl.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Gaudi-Nagy Tamás: Súlyos szövegértési problémája lehet Magyar Péternek",
+          "url": "https://magyarnemzet.hu/belfold/2026/05/gaudi-nagy-tamas-sulyos-szovegertesi-problemaja-lehet-magyar-peternek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:08:08+00:00",
+          "description": "Az ügyvéd tisztázott néhány jogi fogalmat a miniszterelnöknek.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/5K7Vo8qeQMeiTUONxlxuAylgTYnvquWDw565WzysdJA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgzY2YzNTc3NTE2NDQxMWE4YWRmY2JlZTFiYmYxMmY5.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Eljött az utolsó pillanat, ha valaki magasabb kamattal szeretne állampapírt venni",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/05/allampapir-kamatkornyezet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T10:04:00+00:00",
+          "description": "Magyarországon pont a fordítottja történik az állampapírkamattal, mint a hozamokkal az európai nagy piacokon.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/zF7Snq5UFKLRDxAweARWnlGlO0jlXuBUXFHN_p_R3jA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJlNmNjNDAxNGIwYzQ5NGU4YWYwMWMzNjZhZjA0MmIy.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter: Gödöllőn együttes kormányülést tart az osztrák és a magyar kormány",
+          "url": "https://magyarnemzet.hu/kulfold/2026/05/magyar-peter-sajtotajekoztatot-tart-becsben-ausztria?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-05-21T09:48:02+00:00",
+          "description": "Magyar Péter bejelentette, hogy sokkal békésebb és támogatóbb korszakra van szükség az osztrák–magyar kapcsolatokban.",
+          "image": "https://cdn.magyarnemzet.hu/2026/05/eRjtNjg1NHdYPEHseXnwXfJC0oOBeusMOxnSUoKs0BQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdkYzA2YjQ2NGIyMjQ1NWJhMzRkM2YxNjEyNGNmYjY2.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        }
+      ]
     },
     {
       "id": "mandiner",
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Magyar bűnöző került fel az EU Most Wanted listájára",
+          "url": "https://24.hu/belfold/2026/05/21/magyar-bunozo-eu-most-wanted-lista/",
+          "published": "2026-05-21T14:15:00+01:00",
+          "description": "Embercsempészés miatt keresi a férfit a Szegedi Járásbíróság és a Fővárosi Törvényszék.",
+          "image": "https://s.24.hu/app/uploads/2026/05/mohamed-lead-e1779365602902-320x181.jpg",
+          "category": "Belföld",
+          "author": "24.hu"
+        },
+        {
           "title": "Supka Attila visszatér a kisvárdai kispadra",
           "url": "https://24.hu/sport/foci/2026/05/21/magyar-foci-nb1-kisvarda-edzovaltas-supka-attila/",
           "published": "2026-05-21T14:09:00+01:00",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/05/flamingofiokak-e1779354548478-320x180.jpg",
           "category": "Tudomány",
           "author": "24.hu"
-        },
-        {
-          "title": "„Úgy nem lehet építeni, ha nincs minden eltakarítva” – elemzőket kérdeztünk Sulyok Tamás elmozdításáról",
-          "url": "https://24.hu/belfold/2026/05/21/sulyok-tamas-tavozas-magyar-peter-kozvetlen-elnokvalasztas/",
-          "published": "2026-05-21T11:00:00+01:00",
-          "description": "Lattmann Tamást és Schultz Nórát kérdeztük az államfő távozásának jogi, politikai és személyes dimenziójáról, illetve arról: mi jöhet utána?",
-          "image": "https://s.24.hu/app/uploads/2026/05/central-1098107014-1-masolat-320x180.jpg",
-          "category": "Belföld",
-          "author": "Ősze András"
         }
       ]
     },
@@ -1540,7 +1766,7 @@
         {
           "title": "Magyar Péter V4-csúcsot kezdeményez, közben adókról, vasúti együttműködésről és az azbesztügyről is beszélt Bécsben",
           "url": "https://kontroll.hu/cikk/kulfold/2026/05/21/magyar-peter-v4-csucsot-kezdemenyez-koezben-adokrol-vasuti-egyuettmukoedesrol-es-az-azbesztuegyrol-is-beszelt-becsben",
-          "published": "2026-05-21T12:40:33.302573+01:00",
+          "published": "2026-05-21T12:40:28.155202+01:00",
           "description": null,
           "image": null,
           "category": "Kulfold",
