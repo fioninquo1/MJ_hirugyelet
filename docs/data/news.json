@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T00:00:57.339963+00:00",
+  "scraped_at": "2026-06-06T00:05:25.197137+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1708,7 +1708,7 @@
       "url": "https://www.origo.hu/24",
       "color": "#0033a0",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://www.origo.hu/24'",
       "article_count": 0,
       "articles": []
     }
