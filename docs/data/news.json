@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-09T01:30:37.895852+00:00",
+  "scraped_at": "2026-06-09T01:35:24.426164+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1759,83 +1759,10 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "ok",
-      "error": null,
-      "article_count": 8,
-      "articles": [
-        {
-          "title": "Tuzson elismerte a találkozót Biróval, de tagadja, hogy az Integritás Hatóság leállításáról lett volna szó",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/tuzson-elismerte-a-talalkozot-biroval-de-tagadja-hogy-az-integritas-hatosag-leallitasarol-lett-volna-szo",
-          "published": "2026-06-08T19:48:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "A választások előtt több mint 10 milliárdos oktatási szerződéseket kötött a Fidesz-kormány",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/a-valasztasok-elott-toebb-mint-10-milliardos-oktatasi-szerzodeseket-koetoett-a-fidesz-kormany",
-          "published": "2026-06-08T17:54:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Szóváltás az oktatási miniszter és Gulyás Gergely között, amibe az Európai Bizottság jelentése is bekavart",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/szovaltas-az-oktatasi-miniszter-es-gulyas-gergely-koezoett-amibe-az-europai-bizottsag-jelentese-is-bekavart",
-          "published": "2026-06-08T17:08:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Forsthoffer Ágnes szerint a jelenlegi vagyonnyilatkozati rendszer nem alkalmas a vagyoni helyzet feltárására",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/forsthoffer-agnes-szerint-a-jelenlegi-vagyonnyilatkozati-rendszer-nem-alkalmas-a-vagyoni-helyzet-feltarasara",
-          "published": "2026-06-08T15:40:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Magyar Péter: több gyermekvédelmi vezetőt is felmentett a kormány",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/magyar-peter-felszolalasaval-kezdodoett-a-mai-parlamenti-ueles",
-          "published": "2026-06-08T14:15:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Öt feltételt szabtak az orosz-ukrán háború lezárására az európai vezetők",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/06/08/oet-feltetelt-szabtak-az-orosz-ukran-haboru-lezarasara-az-europai-vezetok",
-          "published": "2026-06-08T13:58:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
-        },
-        {
-          "title": "Triplaáron vették Balásytól a nyuszimotorokat, amiket aztán fideszes képviselők osztogattak",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/el-pocsekolt-koezpenz-balasytol-vettek-a-tularazott-nyuszimotorokat-1",
-          "published": "2026-06-08T13:15:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Egy hangfelvétel szerint Radnai Márk bizalmasa Tóth Péterről gyűjtött volna információkat egy mihazánkos politikustól",
-          "url": "https://kontroll.hu/cikk/belfold/2026/06/08/egy-hangfelvetel-alapjan-radnai-mark-bizalmasa-toth-peterrol-gyujtoett-volna-informaciokat-egy-mihazankos-politikustol",
-          "published": "2026-06-08T12:38:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        }
-      ]
+      "status": "error",
+      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "origo",
