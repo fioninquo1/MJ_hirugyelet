@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T15:10:55.858910+00:00",
+  "scraped_at": "2026-06-24T15:15:52.767606+00:00",
   "portals": [
     {
       "id": "telex",
@@ -479,7 +479,7 @@
       "url": "https://index.hu",
       "color": "#f26522",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientConnectorDNSError: Cannot connect to host index.hu:443 ssl:False [Temporary failure in name resolution]",
       "article_count": 0,
       "articles": []
     },
@@ -1302,6 +1302,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Karácsony Gergely: itt az ideje egy budapesti utcazenész-fesziválnak",
+          "url": "https://hvg.hu/kultura/20260624_karacsony-gergely-utcazenesz-feszival",
+          "published": "2026-06-24T15:12:16+00:00",
+          "description": "A verseny közönségdíjasa felléphet a Sziget utolsó napján.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5ff41707-7ead-4fd2-96d2-99e9ad40e4de.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
           "title": "Amy Adams felidézte, hogyan segített megmenteni egy nyakon szúrt férfi életét",
           "url": "https://hvg.hu/kultura/20260624_amy-adams-eletmentes",
           "published": "2026-06-24T15:09:41+00:00",
@@ -1362,7 +1371,7 @@
           "description": "A fólia alatt termett hazai dinnyék már csütörtökön, a szabadföldiek július elejétől jelenhetnek meg a kereskedők pultjain.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/30b9f806-ac02-41b3-bda7-4c7ec21beea9.jpg",
           "category": "Gazdaság",
-          "author": "HVG (szerzo@hvg.hu (MTI))"
+          "author": "MTI (szerzo@hvg.hu (HVG))"
         },
         {
           "title": "Kijelző nélküli, filléres okosszemüveget dobott piacra a Meta",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d5b8894f-1d7e-4da6-8dfd-c51e95210d1f.jpg",
           "category": "Élet+Stílus",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "A monetáris politika istene volt, de kétszer is csúnyán melléfogott Alan Greenspan",
-          "url": "https://hvg.hu/360/20260624_a-monetaris-politika-maestroja-volt-de-ketszer-csunyan-mellefogott-alan-greenspan",
-          "published": "2026-06-24T11:49:39+00:00",
-          "description": "Szinte csodatévő szintre emelte a szürke jegybankelnöki munkát a százévesen elhunyt amerikai Alan Greenspan, akinek hosszú ideig nagyobb hatalma volt a pénzpiacokra, mint bárki másnak. A dicsfényén azonban sokat koptatott a dotcomlufi kipukkanása, és különösen a 2008-as pénzügyi válság.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7ca4ea10-1695-4889-9a28-2d99f9378726.jpg",
-          "category": "hvg360",
-          "author": "ng@hvg.hu (Nagy Gábor)"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Tarr Zoltán szerint valódi társadalmi egyeztetés lesz az új közmédiáról",
           "url": "https://kontroll.hu/cikk/belfold/2026/06/24/tarr-zoltan-szerint-valodi-tarsadalmi-egyeztetes-lesz-az-uj-koezmediarol",
-          "published": "2026-06-24T15:25:42.011416+01:00",
+          "published": "2026-06-24T15:25:44.643971+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
