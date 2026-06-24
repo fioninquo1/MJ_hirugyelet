@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T15:05:51.309536+00:00",
+  "scraped_at": "2026-06-24T15:10:55.858910+00:00",
   "portals": [
     {
       "id": "telex",
@@ -479,7 +479,7 @@
       "url": "https://index.hu",
       "color": "#f26522",
       "status": "error",
-      "error": "ClientConnectorDNSError: Cannot connect to host index.hu:443 ssl:False [Temporary failure in name resolution]",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -729,6 +729,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Hujber Ferenc “kedves” üzenete nekem: „Pofád lapos Hajni!”",
+          "url": "https://mandiner.hu/belfold/2026/06/hujber-ferenc-kedves-uzenete-nekem-pofad-lapos-hajni",
+          "published": "2026-06-24T15:09:42+00:00",
+          "description": "Kedves Ferenc, szívből kívánok önnek jobbulást, a lelki nyugalom nagy ajándék!",
+          "image": "https://cdn.mandiner.hu/2026/06/hwwDmqPZj1rATW4lg2TCICxrMYpUhNur3PB3XMFlai0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk5N2VlMzBjOWViNTRjOWU5YmIzMTFlNjhhYzVlMTg3.jpg",
+          "category": null,
+          "author": null
+        },
+        {
           "title": "Tanács Zoltán: A Mediaworks összeomlása annak a beismerése, hogy ez a cégcsoport soha nem volt piaci alapon életképes",
           "url": "https://mandiner.hu/belfold/2026/06/tanacs-zoltan-a-mediaworks-osszeomlasa-annak-a-beismerese-hogy-ez-a-cegcsoport-soha-nem-volt-piaci-alapon-eletkepes",
           "published": "2026-06-24T15:01:34+00:00",
@@ -941,15 +950,6 @@
           "published": "2026-06-24T07:38:51+00:00",
           "description": "Két órán át országos fennakadás volt a német vasutakon.",
           "image": "https://cdn.mandiner.hu/2026/06/jsGG1khLlWVXVZdScqnFnEmlzharB5LA-dJj6gqJESE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q3YmVkN2NkYTk5NTRmNzk4MWMyMWRkZTdiMzIzYTFl.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Elutasította az ügyészség Havasi Bertalan Magyar Péter elleni feljelentését",
-          "url": "https://mandiner.hu/belfold/2026/06/elutasitotta-az-ugyeszseg-havasi-bertalan-magyar-peter-elleni-feljelenteset",
-          "published": "2026-06-24T07:06:13+00:00",
-          "description": "A volt helyettes államtitkár hivatali visszaélés miatt tett feljelentést Magyar Péter miniszterelnök ellen.",
-          "image": "https://cdn.mandiner.hu/2026/06/eFIWW52vH8j3a5KBOX1vbdBpqYHHR35PwI0NBz0LLO0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY2MTFhMmIyMGU2NDQwZGM4NzNiNTljZGNlMDBjODFl.jpg",
           "category": null,
           "author": null
         }
@@ -1302,6 +1302,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Amy Adams felidézte, hogyan segített megmenteni egy nyakon szúrt férfi életét",
+          "url": "https://hvg.hu/kultura/20260624_amy-adams-eletmentes",
+          "published": "2026-06-24T15:09:41+00:00",
+          "description": "A hatszoros Oscar-jelölt színésznő megőrizte a lélekjelenlétét.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/abcd664a-c33f-4def-bb63-9b686d537b8f.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Mostantól Kínáé a világ legerősebb szuperszámítógépe, lenyomta az összes amerikai gépet",
           "url": "https://hvg.hu/tudomany/20260624_kinai-szuperszamitogep-lineshine-vilag-legerosebb-szamitogepe",
           "published": "2026-06-24T15:03:00+00:00",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7ca4ea10-1695-4889-9a28-2d99f9378726.jpg",
           "category": "hvg360",
           "author": "ng@hvg.hu (Nagy Gábor)"
-        },
-        {
-          "title": "Emléktáblát és emlékpadot kaphat Scherer Péter",
-          "url": "https://hvg.hu/elet/20260624_emlektablat-kaphat-scherer-peter-margit-szigeten",
-          "published": "2026-06-24T11:48:51+00:00",
-          "description": "Fideszes kezdeményezésre állíthatják fel a Margit-szigeten.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/724461d2-a61e-4a35-8812-2ddce173dd94.jpg",
-          "category": "Élet+Stílus",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Tarr Zoltán szerint valódi társadalmi egyeztetés lesz az új közmédiáról",
           "url": "https://kontroll.hu/cikk/belfold/2026/06/24/tarr-zoltan-szerint-valodi-tarsadalmi-egyeztetes-lesz-az-uj-koezmediarol",
-          "published": "2026-06-24T15:25:38.528132+01:00",
+          "published": "2026-06-24T15:25:42.011416+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1621,6 +1621,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Döbbenet: részegen rendőrt akart verni az UFC sztárja – videó",
+          "url": "https://www.origo.hu/sport/sport-egyeni/2026/06/ufc-ketrecharc-dustin-poirier-incidens-rendorseg",
+          "published": "2026-06-24T17:07:00+01:00",
+          "description": "Az alkohol sohasem jó tanácsadó.",
+          "image": "https://cdn.origo.hu/2026/06/pIggp14KsqDdqaUUQRZ041jGDeqo3Z23z-XQl1jdwe4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q0MTkxM2I4MGMzNTRjYmY5ODVjODQ3Zjk1ZTI2NDVh.webp",
+          "category": "Dustin Poirier",
+          "author": null
+        },
+        {
+          "title": "Hajdú Péter kiakadt: Till Tamás gyilkosa vádalkut kötne",
+          "url": "https://www.origo.hu/teve/2026/06/hajdu-peter-till-tamas-gyilkossag-frizbi-vadalku",
+          "published": "2026-06-24T17:00:00+01:00",
+          "description": "Döbbenetes fejlemények Till Tamás meggyilkolásának ügyében.",
+          "image": "https://cdn.origo.hu/2026/06/aH5PGxYFdQ773e2M--TsoTenTzHbtPDEV6T7ZSasZqk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg4NTI3MWRhOTJmYzRlMTNhNDNmZDViYzc3MDQ3MWNm.webp",
+          "category": "Till Tamás",
+          "author": null
+        },
+        {
           "title": "Horrorisztikus baleset történt: 120 métert zuhant a mélybe egy autó",
           "url": "https://www.origo.hu/kek-hirek/2026/06/baleset-auto-lezuhant-hegyseg",
           "published": "2026-06-24T16:55:00+01:00",
@@ -1695,19 +1713,19 @@
         {
           "title": "„Magyar Péter ennyivel nem úszhatja meg” – reagált Havasi Bertalan az ügyészség döntésére",
           "url": "https://www.origo.hu/belpol/2026/06/magyar-peter-havasi-bertalan-visszaeles-ugyeszseg",
-          "published": "2026-06-24T16:10:00+01:00",
-          "description": "A kommunikációs igazgató szerint Magyar Péter hivatali visszaélést követett el.",
-          "image": "https://cdn.origo.hu/2026/06/D7JeYh7BLqHMfgdDPlNqjhp8u-Jc7G4QQVGLvDajlRE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU0MDQyNWMzNDc5ZTRlZGY5NDU5ZGE2MjFmOGJkYjgx.webp",
-          "category": "Havasi Bertalan",
+          "published": "2026-06-24T14:10:37+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
           "title": "Itt a hivatalos bejelentés: ennyibe fog kerülni a GTA6",
           "url": "https://www.origo.hu/techbazis/2026/06/gta-6-jatek-fejlesztes-rockstar-digitalis-letoltokod",
-          "published": "2026-06-24T16:10:00+01:00",
-          "description": "Több fontos részletet is elárultak.",
-          "image": "https://cdn.origo.hu/2026/06/aQF-E2iScVbOkUCguJiFzYokVl5yVPKXC6b5LGaaytM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E1MTEwZTUzYTA1ODRkYjZhNzQzZjYzYWI2Y2M2NTYy.webp",
-          "category": "gta 6",
+          "published": "2026-06-24T14:10:18+00:00",
+          "description": null,
+          "image": null,
+          "category": "Tech",
           "author": null
         },
         {
@@ -1825,24 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "Újabb megszorításra készül a Tisza? Az Otthon Start lehet a következő áldozat",
-          "url": "https://www.origo.hu/gazdasag/2026/06/otthon-start-3-szazalekos-lakashitel-feltetel-ingatlan",
-          "published": "2026-06-24T13:13:29+00:00",
-          "description": null,
-          "image": null,
-          "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "Lebukott a helyi Schumacher: 12 éves sofőrt csíptek nyakon a rendőrök",
-          "url": "https://www.origo.hu/nagyvilag/2026/06/rendor-fiatal-sofor-lebukas",
-          "published": "2026-06-24T13:10:26+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
