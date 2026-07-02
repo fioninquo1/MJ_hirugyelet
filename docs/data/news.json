@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T07:05:43.141080+00:00",
+  "scraped_at": "2026-07-02T07:10:55.723091+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Online kurzusban tanít csapatépítést az egyik leggazdagabb miniszter, Kapitány István",
+          "url": "https://index.hu/belfold/2026/07/02/kapitany-istvan-mesterakademia-online-kurzus-csapatepites-gazdasagi-es-energetikai-miniszterium/",
+          "published": "2026-07-02T07:07:00+00:00",
+          "description": "Az oktatóanyag 5990 és 29 990 forint között érhető el.",
+          "image": "https://kep.index.hu/1/0/7029/70291/702913/70291391_5185823_692c3547a9e4e5dcdc6b80db97d8f20b_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Négy napig bolyongott egy hőgutás férfi, akit végül egy somogyi gabonatáblában találtak meg",
           "url": "https://index.hu/belfold/2026/07/02/hoguta-ferfi-bolyongas-seta-170-kilometer-jakabszallas/",
           "published": "2026-07-02T06:31:00+00:00",
@@ -695,15 +704,6 @@
           "published": "2026-07-02T04:00:00+00:00",
           "description": "A kérdés csak az, hogy miért öntünk pénzt egy feneketlen kútba.",
           "image": "https://kep.index.hu/1/0/7029/70290/702904/70290445_5185739_7a54cbb799d0e20df2e85d165023e7b6_wm.jpg",
-          "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "Nemcsak az árak jobbak, teljesen új játékszabályokat hoznak a kínai autógyártók Európába",
-          "url": "https://index.hu/gazdasag/2026/07/02/auto-autoipar-autogyartas-autopiac-kinai-automarkak-elektromos-autok-kina-europa-jaceoo-omoda/",
-          "published": "2026-07-02T04:00:00+00:00",
-          "description": "Ez a kínai már nem az a kínai.",
-          "image": "https://kep.index.hu/1/0/7028/70283/702834/70283405_5185277_fc071033b80c9a9a9d2d6ab6d9203385_wm.jpg",
           "category": "Gazdaság",
           "author": null
         }
@@ -1528,7 +1528,7 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Bepereltek három nagy RAM-gyártót. A vád: direkt tartják fent a memóriaválságot",
+          "title": "Bepereltek három nagy RAM-gyártót. A vád: direkt tartják fenn a memóriaválságot",
           "url": "https://hvg.hu/tudomany/20260702_globalis-memoriavalsag-ram-processzor-arak-samsung-micron-sk-hynix-per",
           "published": "2026-07-02T07:03:00+00:00",
           "description": "A Samsungot, a Micront és az SK Hynixet is azzal vádolják egy Kaliforniában benyújtott csoportos keresetben, hogy összejátszva tartják magasan a memóriaárakat.",
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://kontroll.hu'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Lehetünk több összeszerelő üzemnél? – Bod Péter Ákos és Major Gábor a magyar gazdaság jövőjéről",
+          "url": "https://kontroll.hu/cikk/gazdasag/2026/07/02/lehetuenk-toebb-oesszeszerelo-uezemnel-bod-peter-akos-es-major-gabor-a-magyar-gazdasag-joevojerol",
+          "published": "2026-07-02T07:39:55.691994+01:00",
+          "description": null,
+          "image": null,
+          "category": "Gazdasag",
+          "author": null
+        },
+        {
+          "title": "Kedvező elnöki rendeletek: dollármilliárdokat keresett Donald Trump kriptóval",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/07/02/kedvezo-elnoeki-rendeletek-dollarmilliardokat-keresett-donald-trump-kriptoval",
+          "published": "2026-07-02T05:35:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kulfold",
+          "author": null
+        },
+        {
+          "title": "Havasi Bertalan új magyarázatot adott Orbán TEK-látogatására az aranykonvoj-ügyben",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/havasi-bertalan-uj-magyarazatot-adott-orban-tek-latogatasara-az-aranykonvoj-uegyben",
+          "published": "2026-07-01T16:44:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Fiala János: Búcsúm a parkolóautomatáktól",
+          "url": "https://kontroll.hu/cikk/velemeny/2026/07/01/fiala-janos-bucsum-a-parkoloautomataktol",
+          "published": "2026-07-01T14:30:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Velemeny",
+          "author": null
+        },
+        {
+          "title": "Ligeti Miklós: „A közvagyon adományozásának a teteje a csillagos ég volt a NER számára.”",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/ligeti-miklos-a-koezvagyon-adomanyozasanak-a-teteje-a-csillagos-eg-volt-a-ner-szamara",
+          "published": "2026-07-01T13:38:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A célkeresztben eredetileg Karácsony volt, állítja a korrupcióval megvádolt óbudai polgármester",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/a-celkeresztben-eredetileg-karacsony-volt-allitja-a-korrupcioval-megvadolt-obudai-polgarmester",
+          "published": "2026-07-01T12:39:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Ma már kikerülünk a hőkupola alól – közelít az enyhet nyújtó hidegfront",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/ma-mar-kikerueluenk-a-hokupola-alol-koezelit-az-enyhet-nyujto-hidegfront",
+          "published": "2026-07-01T12:17:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Mátyás király után az azbeszttartalmú kőzetek is eljutottak Bécsig",
+          "url": "https://kontroll.hu/cikk/kornyezetvedelem/2026/07/01/matyas-kiraly-utan-az-azbeszttartalmu-kozetek-is-eljutottak-becsig",
+          "published": "2026-07-01T11:16:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kornyezetvedelem",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
