@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T05:05:29.397404+00:00",
+  "scraped_at": "2026-07-02T05:10:50.110703+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Akkor most már örökké ez lesz, 40 fokos hőkupolák fenyegetésében fogunk élni?",
+          "url": "https://telex.hu/techtud/2026/07/02/hokupola-hohullam-kanikula-elorejelzes-jovo-modell",
+          "published": "2026-07-02T05:05:28+00:00",
+          "description": "Június végén erős hőhullám érte el Európát, sorra dőltek meg a melegrekordok. De vajon ez egyszeri eset volt, vagy mostantól együtt kell élnünk ezzel, minden nyáron ilyen kibírhatatlan hőség lesz?",
+          "image": "https://assets.telex.hu/images/20260630/1782800988-temp-62crfc1pk7hj8jhinpf_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Világi Máté"
+        },
         {
           "title": "444: a belvárosi fideszes önkormányzat eladott két lakást, amit a vevők aztán sokszoros áron hirdettek",
           "url": "https://telex.hu/belfold/2026/07/02/444-a-belvarosi-fideszes-onkormanyzat-eladott-ket-lakast-amit-a-vevok-aztan-sokszoros-aron-hirdettek",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260629/1782739894-temp-teu22tbm79gm6nfnnff_cimlap-normal.jpg",
           "category": "After",
           "author": "Ács Bori"
-        },
-        {
-          "title": "Szinte az összes dolgozójától megvált a Fidesz-közeli Budapest Műhely",
-          "url": "https://telex.hu/belfold/2026/07/01/fidesz-kozeli-budapest-muhely-dolgozok-tavozott",
-          "published": "2026-07-01T18:44:54+00:00",
-          "description": "Áprilisban még nyolcvanegyen dolgoztak ott, júniusban már csak kilencen.",
-          "image": null,
-          "category": "Belföld",
-          "author": "Németh-Halász Nikolett"
         }
       ]
     },
@@ -1759,10 +1759,83 @@
       "name": "Kontroll.hu",
       "url": "https://kontroll.hu",
       "color": "#22c55e",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://kontroll.hu'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "Havasi Bertalan új magyarázatot adott Orbán TEK-látogatására az aranykonvoj-ügyben",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/havasi-bertalan-uj-magyarazatot-adott-orban-tek-latogatasara-az-aranykonvoj-uegyben",
+          "published": "2026-07-01T16:44:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Fiala János: Búcsúm a parkolóautomatáktól",
+          "url": "https://kontroll.hu/cikk/velemeny/2026/07/01/fiala-janos-bucsum-a-parkoloautomataktol",
+          "published": "2026-07-01T14:30:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Velemeny",
+          "author": null
+        },
+        {
+          "title": "Ligeti Miklós: „A közvagyon adományozásának a teteje a csillagos ég volt a NER számára.”",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/ligeti-miklos-a-koezvagyon-adomanyozasanak-a-teteje-a-csillagos-eg-volt-a-ner-szamara",
+          "published": "2026-07-01T13:38:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A célkeresztben eredetileg Karácsony volt, állítja a korrupcióval megvádolt óbudai polgármester",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/a-celkeresztben-eredetileg-karacsony-volt-allitja-a-korrupcioval-megvadolt-obudai-polgarmester",
+          "published": "2026-07-01T12:39:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Ma már kikerülünk a hőkupola alól – közelít az enyhet nyújtó hidegfront",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/ma-mar-kikerueluenk-a-hokupola-alol-koezelit-az-enyhet-nyujto-hidegfront",
+          "published": "2026-07-01T12:17:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Mátyás király után az azbeszttartalmú kőzetek is eljutottak Bécsig",
+          "url": "https://kontroll.hu/cikk/kornyezetvedelem/2026/07/01/matyas-kiraly-utan-az-azbeszttartalmu-kozetek-is-eljutottak-becsig",
+          "published": "2026-07-01T11:16:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Kornyezetvedelem",
+          "author": null
+        },
+        {
+          "title": "Kialakult a mesterhármas mezőnye: a két Ferrari mellé egy Bentley is beparkolt",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/kialakult-a-mesterharmas-mezonye-a-ket-ferrari-melle-egy-bentley-is-beparkolt-1",
+          "published": "2026-07-01T10:14:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Majdnem negyedmilliárd forintért magángépezett Szijjártó Amerikában",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/01/majdnem-negyedmilliard-forintert-magangepezett-szijjarto-amerikaban",
+          "published": "2026-07-01T09:40:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        }
+      ]
     },
     {
       "id": "origo",
@@ -1814,7 +1887,7 @@
           "url": "https://www.origo.hu/teve/2026/07/pataky-attila-szuletesnap-gardony",
           "published": "2026-07-02T06:30:00+01:00",
           "description": "Pataky Attila őszintén vallott a legnagyobb titkairól.",
-          "image": "https://cdn.origo.hu/2026/07/-Xx-TYtWfUQ4FfsXf01WxKB5nlJPRExMDIf8ul2lMOc/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiNzU1NDBmYzlkMzRkMzM5MjUxZjEyOTMwODg4Nzhl.webp",
+          "image": "https://cdn.origo.hu/2026/07/rU0mZe5DvjrqVTKzz0H7GvtUzX5sDFEKmn591JLYsFE/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA3NDBlYzZkZDJiZjQwOTk5NjI2YTcwYWU0YzdmMWQ4.webp",
           "category": "pataky attila",
           "author": null
         },
