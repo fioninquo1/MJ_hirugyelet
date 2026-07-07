@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T10:31:16.130819+00:00",
+  "scraped_at": "2026-07-07T10:35:33.748552+00:00",
   "portals": [
     {
       "id": "telex",
@@ -23,7 +23,7 @@
           "title": "Közel százezer kiló veszélyes hulladékot rejtettek el Gyömrőn",
           "url": "https://telex.hu/belfold/2026/07/07/gyomro-veszelyes-hulladek-raktar",
           "published": "2026-07-07T10:23:29+00:00",
-          "description": "A város polgármesteri hivatala szerint több mint egy évtizede egy állami tulajdonban lévő épületben tárolják a nagy mennyiségű veszélyes hulladékot.",
+          "description": "A város polgármestere szerint több mint egy évtizede egy állami tulajdonban lévő épületben tárolják a nagy mennyiségű veszélyes hulladékot.",
           "image": null,
           "category": "Belföld",
           "author": "Vida Benjámin"
@@ -77,7 +77,7 @@
           "title": "Teljes a tanácstalanság a fideszes propagandistáknál, miután a párt magukra hagyta őket",
           "url": "https://telex.hu/belfold/2026/07/07/fidesz-influenszer-megafon-bohar-daniel-deri-stefi-huth-gergely-propaganda-substack-jeszenszky-zsolt",
           "published": "2026-07-07T09:10:32+00:00",
-          "description": "A Fidesz a házi médiájának korábbi arcai változatos módszerekkel próbálnak boldogulni az új politikai helyzetben. Bohár Dánielt trükközéssel tartják a Parlamentben, mások áltudományos videókra álltak át, de olyanok is akadnak, akik másolni kezdték a független sajtót, amire éveken át köpködtek.",
+          "description": "A Fidesz házi médiájának korábbi arcai változatos módszerekkel próbálnak boldogulni az új politikai helyzetben. Bohár Dánielt trükközéssel tartják a Parlamentben, mások áltudományos videókra álltak át, de olyanok is akadnak, akik másolni kezdték a független sajtót, amire éveken át köpködtek.",
           "image": "https://assets.telex.hu/images/20260706/1783339490-temp-5g1gi1ipnort3lgejfc_cimlap-normal.jpg",
           "category": "Belföld",
           "author": "Sajó Dávid"
@@ -1186,10 +1186,236 @@
       "name": "24.hu",
       "url": "https://24.hu/hirfolyam/",
       "color": "#888888",
-      "status": "error",
-      "error": "ClientResponseError: 405, message='Not Allowed', url='https://24.hu/hirfolyam/'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Villanyoszlop zuhant egy autóra Egerben, miután a sofőr belehajtott",
+          "url": "https://24.hu/belfold/2026/07/07/eger-villanyoszlop-belehajtott/",
+          "published": "2026-07-07T12:19:00+01:00",
+          "description": "Az érintett útszakaszt teljes szélességében lezárták.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-0803252728-62-320x180.jpg",
+          "category": "Belföld",
+          "author": "Vaskor Máté"
+        },
+        {
+          "title": "Miért cserélte a lyukas stoplist egy másik lyukas cipőre a portugál focista?",
+          "url": "https://24.hu/sport/foci/2026/07/07/foci-vb-2026-pedro-neto-lyukas-stoplis-cipo/",
+          "published": "2026-07-07T12:06:00+01:00",
+          "description": "Jó oka van rá.",
+          "image": "https://s.24.hu/app/uploads/2026/07/gettyimages-2284936349-320x180.jpg",
+          "category": "Foci",
+          "author": "Dajka Balázs"
+        },
+        {
+          "title": "Tévhit, hogy a szép tojás biztonságos: erre kell figyelni",
+          "url": "https://24.hu/tudomany/2026/07/07/tojas-zaptojas-romlott-penesz-torott-hiba-kutatas/",
+          "published": "2026-07-07T12:05:00+01:00",
+          "description": "Az Európai Élelmiszerbiztonsági Hatóság (EFSA) és az Európai Betegségmegelőzési és Járványvédelmi",
+          "image": "https://s.24.hu/app/uploads/2026/07/gettyimages-1456148139-e1783418598142-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Lányi Örs"
+        },
+        {
+          "title": "18 új pszichoaktív szerre figyelmeztet a kormány",
+          "url": "https://24.hu/belfold/2026/07/07/hegedus-zsolt-18-uj-pszichoaktiv-szer-veszely/",
+          "published": "2026-07-07T12:05:00+01:00",
+          "description": "A vegyületek veszélyesebbek a korabbiaknál is.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-1099095034-2-e1782188589461-2048x1150-1-1440x810-1-320x180.jpg",
+          "category": "Belföld",
+          "author": "Farkas György"
+        },
+        {
+          "title": "„Ez az ügy kizárólag a szexualitásról szól” – fogalmazott védőbeszédében Magyar György, az amerikai ápolónő meggyilkolásával vádolt ír férfi ügyvédje",
+          "url": "https://24.hu/belfold/2026/07/07/gyilkossag-amerkai-no-bulinegyed-targyalas-utolso-szo-24extra/",
+          "published": "2026-07-07T11:53:00+01:00",
+          "description": "A mai tárgyaláson megszólalt az áldozat édesanyja, és az utolsó szó jogán a vádlott is.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-1059875948_kiem-320x180.jpg",
+          "category": "Belföld",
+          "author": "Dienes Gábriel"
+        },
+        {
+          "title": "Így halt hősi halált Szondy György",
+          "url": "https://24.hu/tudomany/2026/07/07/szondi-hosi-halal-torok-haboru/",
+          "published": "2026-07-07T11:48:00+01:00",
+          "description": "Kétszer is visszautasította a megadást, csupán tisztes temetést kért az ellenségtől.",
+          "image": "https://s.24.hu/app/uploads/2026/07/74241b45-4af5-493c-800a-131a6ebae4c3-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Bihari Dániel"
+        },
+        {
+          "title": "Weber: Magyar Péter demokratikus felhatalmazást kapott az ország átalakítására",
+          "url": "https://24.hu/kulfold/2026/07/07/alaptorvenymodositas-magyar-peter-manfred-weber-neppart/",
+          "published": "2026-07-07T11:40:00+01:00",
+          "description": "Az Európai Néppárt elnöke szerint a magyar kormányfő demokratikus választáson kapott egyértelmű felhatalmazást a választóktól az ország megváltoztatására, és ennek megfelelően jár el.",
+          "image": "https://s.24.hu/app/uploads/2026/07/2a0978cd-da6d-4af1-807c-0bb5bd6005e6-e1783417144434-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "Zuhanyzás közben törtek rá egy egyedül élő nőre, aki forró vízzel arcon locsolta a betolakodó férfit",
+          "url": "https://24.hu/belfold/2026/07/07/zuhanyzas-ratortek-nore-forro-viz/",
+          "published": "2026-07-07T11:38:00+01:00",
+          "description": "A sértett segítségért kiabált.",
+          "image": "https://s.24.hu/app/uploads/2026/07/gettyimages-2216708519-e1783417074995-320x180.jpg",
+          "category": "Belföld",
+          "author": "Vaskor Máté"
+        },
+        {
+          "title": "A KFT szerint engedély nélkül építettek kampányt a Balatoni nyárra, a Heineken szerint nem történt jogsértés",
+          "url": "https://24.hu/kultura/2026/07/07/kft-heineken-balatoni-nyar/",
+          "published": "2026-07-07T11:24:00+01:00",
+          "description": "A zenekar jogi lépéseket tett az ügyben.",
+          "image": "https://s.24.hu/app/uploads/2026/07/f5999108-2ca9-4117-aa43-166c29be2a25-e1783416195368-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Csontos Kata"
+        },
+        {
+          "title": "Az erős forint fékezi az inflációt, a kamatcsökkentések folytatására számítanak az elemzők",
+          "url": "https://24.hu/fn/gazdasag/2026/07/07/inflacio-csokkenes-junius-elemzok/",
+          "published": "2026-07-07T11:22:00+01:00",
+          "description": "Júniusban 1,7 százalékra lassult az éves infláció Magyarországon, az elemzők szerint ebben elsősorban a forint erősödése és az élelmiszerárak mérséklődése játszott szerepet, miközben a szolgáltatások továbbra is felfelé hajtják az árakat.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-0668528679-e1783416123906-320x180.jpg",
+          "category": "Gazdaság",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "Áttörés jöhet a rákkutatásban: percek alatt széttépheti a rákos sejteket ez az új módszer",
+          "url": "https://24.hu/tudomany/2026/07/07/rakkezeles-kemoterapia-nelkul-kutatas-igeretes-modszer/",
+          "published": "2026-07-07T11:20:00+01:00",
+          "description": "Az úgynevezett molekuláris légkalapács technika, ha embereken is olyan eredményes lesz, mint az egerek esetében, akár a kemoterápiát és a sugárkezelést is kiválthatják hosszú távon.",
+          "image": "https://s.24.hu/app/uploads/2026/07/gettyimages-1124674521-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Lányi Örs"
+        },
+        {
+          "title": "„Azzal a válogatottal estünk ki, amelyről mindenki azt mondta, hogy minden idők legjobb portugál csapata. De miben?” – a távozó kapitányt kritizálta a korábbi válogatott focista",
+          "url": "https://24.hu/sport/foci/2026/07/07/foci-vb-2026-portugalia-kiesett-ricardo-quaresma-kritika/",
+          "published": "2026-07-07T11:11:00+01:00",
+          "description": "Úgy fogalmazott, ezen a tornán minden rosszul sült el portugál szempontból.",
+          "image": "https://s.24.hu/app/uploads/2026/07/075_dorst-portugal260706_npiu7-320x180.jpg",
+          "category": "Foci",
+          "author": "Dajka Balázs"
+        },
+        {
+          "title": "Füssy Angéla: Nagyon úgy tűnik, a hálózat, amit Juhász Péter Pál fölépített, más kézben működik tovább",
+          "url": "https://24.hu/belfold/2026/07/07/fussy-angela-gyermekbantalmazasok-interju-24extra/",
+          "published": "2026-07-07T11:08:00+01:00",
+          "description": "Interjú Füssy Angélával, aki a magyar sajtóban elsőként írt a Szőlő utcai intézet igazgatójának viselt dolgairól. Most az egyik áldozatnak segít, akit – miután a Kontrollnak adott interjúban megnevezte „Zsolti bácsit” – mindkét oldalról támadni kezdtek.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-1113307031_kiem-320x180.jpg",
+          "category": "Belföld",
+          "author": "Balavány György"
+        },
+        {
+          "title": "Szerdán emelkedik a gázolaj ára",
+          "url": "https://24.hu/fn/gazdasag/2026/07/07/gazolaj-aremelkedes-szerda/",
+          "published": "2026-07-07T10:47:00+01:00",
+          "description": "A benzin beszerzési ára változatlan marad.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-1081684822-e1783414016679-320x180.jpg",
+          "category": "Gazdaság",
+          "author": "Vaskor Máté"
+        },
+        {
+          "title": "A TV2-nél rengeteg mérlegelés után arra jutottak, idén nem lesz Dancing with the Stars",
+          "url": "https://24.hu/kultura/2026/07/07/dancing-with-the-stars-2026-tv2/",
+          "published": "2026-07-07T10:46:00+01:00",
+          "description": "A csatorna egy másik show-műsorral készül helyette.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-0947287867-e1783413600824-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Csontos Kata"
+        },
+        {
+          "title": "Amerikai–európai rakétagyártási együttműködést írhatnak alá a NATO-csúcson",
+          "url": "https://24.hu/kulfold/2026/07/07/usa-europa-raketagyartas-nato-csucs-megallapodas-ertesules/",
+          "published": "2026-07-07T10:45:00+01:00",
+          "description": "Az Egyesült Államok Németországgal és több európai országgal tárgyal a Raytheon AIM-120 AMRAAM és a Lockheed Martin Patriot PAC-3 rakétáinak európai gyártásáról.",
+          "image": "https://s.24.hu/app/uploads/2026/07/093_tzg100852m-e1783413850636-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "D. Kovács Ildikó"
+        },
+        {
+          "title": "Ronaldo: reumás derékkal nincs utolsó tánc",
+          "url": "https://24.hu/sport/foci/2026/07/07/podcast-ziccer-foci-vb-2026-ronaldo-portugalia-trump/",
+          "published": "2026-07-07T10:44:00+01:00",
+          "description": "A spanyolok egy unalomba passzolt meccsen, utolsó perces góllal zárták le Cristiano Ronaldo vb-pályafutását, az USA kínos pofonba futott bele a belgák ellen. Vb-kibeszélő Kele Jánossal, Szarka Andrással és Dajka Balázzsal.",
+          "image": "https://s.24.hu/app/uploads/2026/07/ziccer0707-cronaldo-320x180.png",
+          "category": "Podcast",
+          "author": "Kele János"
+        },
+        {
+          "title": "Addig vitatkozott a cseh kormányfő és államfő, míg végül két külön géppel repültek el a NATO-csúcsra",
+          "url": "https://24.hu/kulfold/2026/07/07/csehorszag-nato-csucs/",
+          "published": "2026-07-07T10:17:00+01:00",
+          "description": "Egy óra különbséggel szálltak fel.",
+          "image": "https://s.24.hu/app/uploads/2026/07/000_b8348pv-e1783412197176-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "Vaskor Máté"
+        },
+        {
+          "title": "Leállás jön az Ersténél: utalni és interneten vásárolni sem lehet majd egy ideig",
+          "url": "https://24.hu/tech/2026/07/07/erste-bank-leallas-utalas-internetes-vasarlas/",
+          "published": "2026-07-07T10:17:00+01:00",
+          "description": "Júliusban három leállás is lesz az Ersténél, mutatjuk az időpontokat.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-0756180450-1-e1783412197314-320x180.jpg",
+          "category": "Tech",
+          "author": "Lányi Örs"
+        },
+        {
+          "title": "beck zoli: a porcelán tichy-szobor gyártásba kerül",
+          "url": "https://24.hu/sport/2026/07/07/beck-zoli-tichy-szobor-kimaradt-ziccerek/",
+          "published": "2026-07-07T10:13:00+01:00",
+          "description": "ha brazilok lennénk, most pelé szobrot csinálnánk. mert a pelé is olyan, mint a tichy lajos, az egyetemes labdarúgás szimbóluma. kimaradt ziccerek. beck zoli (30Y) írása.",
+          "image": "https://s.24.hu/app/uploads/2026/07/kimaradt_ziccerek_beck-1-320x180.jpg",
+          "category": "Sport",
+          "author": "Beck Zoltán"
+        },
+        {
+          "title": "37 éves korában meghalt Lauren Bennett, a Party Rock Anthem énekesnője",
+          "url": "https://24.hu/kultura/2026/07/07/meghalt-lauren-bennett-enekesno/",
+          "published": "2026-07-07T10:11:00+01:00",
+          "description": "Halálhírét egykori együttese jelentette be.",
+          "image": "https://s.24.hu/app/uploads/2026/07/000_dv1073573-e1783411744689-320x180.jpg",
+          "category": "Kultúra",
+          "author": "Csontos Kata"
+        },
+        {
+          "title": "Pénzügyi reformcsomagot fogadott el a parlament; átírják az MFB szabályait; megszűnik a fővárosi mentőhitelről szóló törvény",
+          "url": "https://24.hu/belfold/2026/07/07/ugynokaktak-nyilvanossaga-szavazas-parlament-elo-kozvetites/#penzugyi-reformcsomagot-fogadott-el-a-parlament-atirjak-az-mfb-szabalyait-megszunik-a-fovarosi-mentohitelrol-szolo-torveny",
+          "published": "2026-07-07T10:04:00+01:00",
+          "description": "Az Országgyűlés elfogadta az egyes pénzügyi törvények uniós jogharmonizációs módosítását, amely egyszerűsíti a tőzsdei szabályokat, megkönnyíti a kkv-k tőkebevonását és szigorítja a piaci visszaélések szankcionálását.",
+          "image": "https://s.24.hu/app/uploads/2026/07/dbogi20260623040-e1783407371828-320x180.jpg",
+          "category": "Élő",
+          "author": "24.hu"
+        },
+        {
+          "title": "Pedagógusok teljesítményértékelése",
+          "url": "https://24.hu/belfold/2026/07/07/ugynokaktak-nyilvanossaga-szavazas-parlament-elo-kozvetites/#pedagogusok-teljesitmenyertekelese",
+          "published": "2026-07-07T09:59:00+01:00",
+          "description": "Az Országgyűlés elfogadta a TISZA Párt törvényjavaslatát, amely felfüggeszti a pedagógusok kötelező teljesítményértékelését a 2025/2026-os tanévre, illetve az ugyanezen időszakra eső óvodai nevelési évre.",
+          "image": "https://s.24.hu/app/uploads/2026/07/dbogi20260623040-e1783407371828-320x180.jpg",
+          "category": "Élő",
+          "author": "24.hu"
+        },
+        {
+          "title": "Megszavazta a parlament az állambiztonsági múlt feltárásával kapcsolatos törvénymódosítást",
+          "url": "https://24.hu/belfold/2026/07/07/ugynokaktak-nyilvanossaga-szavazas-parlament-elo-kozvetites/#megszavazta-a-parlament-az-allambiztonsagi-mult-feltarasaval-kapcsolatos-torvenymodositast",
+          "published": "2026-07-07T09:56:00+01:00",
+          "description": "Az Országgyűlés elfogadta az állambiztonsági múlt feltárásáról szóló törvény módosítását, amelynek célja a rendszerváltás előtti titkosszolgálati iratok nagyobb nyilvánosságának biztosítása.",
+          "image": "https://s.24.hu/app/uploads/2026/07/gettyimages-143925280-320x180.jpg",
+          "category": "Élő",
+          "author": "24.hu"
+        },
+        {
+          "title": "Robbantottak Damaszkuszban, nem messze onnan, ahol Emmanuel Macron megszáll",
+          "url": "https://24.hu/kulfold/2026/07/07/emmanuel-macron-damaszkusz-robbantas/",
+          "published": "2026-07-07T09:54:00+01:00",
+          "description": "A környező utcákat lezárták, és megerősítették a rendőri jelenlétet.",
+          "image": "https://s.24.hu/app/uploads/2026/07/000_b9fk4te-e1783410721719-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "Vaskor Máté"
+        }
+      ]
     },
     {
       "id": "neokohn",
@@ -1301,6 +1527,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Megérkeztek a Trump-számlák az amerikai babáknak: 1000 dolláros jár fejenként az újszülötteknek",
+          "url": "https://hvg.hu/vilag/20260707_donald-trump-szamlak-ujszulottek-penzugyek-tozsde",
+          "published": "2026-07-07T10:32:29+00:00",
+          "description": "Na, kiből lesz a következő Wall Street farkasa?",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab353951-0a4d-42bd-a277-a2c05be0c666.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Valami, ami régen történt makrogazdasági elemzőkkel: jó prognózisokat közölhetnek 2026-ra",
+          "url": "https://hvg.hu/360/20260707_premium-hirlevelek-cib-macroscope-2026-masodik-felev",
+          "published": "2026-07-07T10:30:00+00:00",
+          "description": "Márciusban, az iráni háború kitörését követően, illetve a magyar országgyűlési választás előtt egy ilyen forgatókönyv még viccnek is gyenge lett volna.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9a5d05b5-423a-4baf-adcb-df5b2e94da48.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Trippon Mariann – CIB Bank)"
+        },
         {
           "title": "Először árulta el a Porsche, mennyi a dogozók fizetése: 40 százalékuk 100 ezer eurónál is többet keres",
           "url": "https://hvg.hu/cegauto/20260707_eloszor-arulta-el-a-porsche-mennyit-keresnek-az-alkalmazottai",
@@ -1507,24 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3bf5ee36-522b-4674-8003-949e57ed3ec6.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "A szurkolók kifütyülik, a FIFA védi, de mit mond a tudomány a hidratációs szünetről?",
-          "url": "https://hvg.hu/tudomany/20260707_foci-vb-2026-hidratacios-szunet-hostressz-tudomany-hutes",
-          "published": "2026-07-07T08:03:00+00:00",
-          "description": "Szinte nincs olyan mérkőzés a 2026-os labdarúgó-világbajnokságon, ahol a szurkolók ne adnának hangot nemtetszésüknek a hidratációs szünetek elrendelésével kapcsolatban. A Sydney-i Egyetem tudósa, Harry Brown szerint jogos a háborgás, de csak részben.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a2f3fb17-0826-4bf0-aef0-a7da60ea978b.jpg",
-          "category": "Tech",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Kényszerleszállást hajtott végre a Ryanair egyik gépe Budapesten",
-          "url": "https://hvg.hu/itthon/20260707_ryanair-utas-rosszullet-kenyszerleszallas-budapest",
-          "published": "2026-07-07T07:58:14+00:00",
-          "description": "Rosszul lett egy utas, leszállás után a sürgősségi ügyeleti szolgálat egyből megkezdte az ellátását.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2c16ea71-f109-44b4-ad01-e39c3a05d3f7.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1766,7 @@
         {
           "title": "Ha bebizonyosodik a vád, halálbüntetést kérhet az ügyészség Charlie Kirk gyilkosára",
           "url": "https://kontroll.hu/cikk/kulfold/2026/07/07/ha-bebizonyosodik-a-vad-halalbuentetest-kerhet-az-uegyeszseg-charlie-kirk-gyilkosara",
-          "published": "2026-07-07T10:59:16.128343+01:00",
+          "published": "2026-07-07T10:58:33.746981+01:00",
           "description": null,
           "image": null,
           "category": "Kulfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "A Sándor-palota nyilvánosságra hozta, Sulyok Tamás milyen érvekkel és kérdésekkel fordult a Velencei Bizottsághoz",
           "url": "https://kontroll.hu/cikk/belfold/2026/07/07/a-sandor-palota-nyilvanossagra-hozta-sulyok-tamas-milyen-ervekkel-es-kerdesekkel-fordult-a-velencei-bizottsaghoz",
-          "published": "2026-07-07T10:58:16.128565+01:00",
+          "published": "2026-07-07T10:58:33.747134+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
