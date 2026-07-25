@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T05:31:15.915680+00:00",
+  "scraped_at": "2026-07-25T05:35:45.124519+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 503, message='Service Unavailable', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -724,236 +724,10 @@
       "name": "Mandiner",
       "url": "https://mandiner.hu",
       "color": "#c46a2f",
-      "status": "ok",
-      "error": null,
-      "article_count": 25,
-      "articles": [
-        {
-          "title": "Pont került az ügy végére: hiába találták meg a „legalkalmasabb” jelöltet, jött Hadházy Ákos, és semmi sem lett az egészből",
-          "url": "https://mandiner.hu/belfold/2026/07/pont-kerult-az-ugy-vegere-hiaba-talaltak-meg-a-legalkalmasabb-jeloltet-jott-hadhazy-akos-es-semmi-sem-lett-az-egeszbol",
-          "published": "2026-07-25T05:27:59+00:00",
-          "description": "„Fontos volt számomra, hogy a legmegalapozottabb döntés szülessen, és megtaláljuk a szakmailag és emberileg is legalkalmasabb jelöltet” – fogalmazott az Országgyűlés elnöke még anno.",
-          "image": "https://cdn.mandiner.hu/2026/07/wKyjJjfHrRvUESLBwnKMsCpnBDXOHjyu-mU5hQW0wPM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RkOGRmN2U4NWY5YjQ5NWNhYWIzNzZiMDAxNDk1ZjU5.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Rajtam kívül egész Magyarországon nem volt barátja: Bercsényi Miklós élete",
-          "url": "https://mandiner.hu/belfold/2026/07/rajtam-kivul-egesz-magyarorszagon-nem-volt-baratja-bercsenyi-miklos-elete",
-          "published": "2026-07-25T05:21:50+00:00",
-          "description": "Bercsényi Miklós hűséges barátja volt II. Rákóczi Ferencnek, a száműzetésbe is követte a nála 15 évvel fiatalabb fejedelmet.",
-          "image": "https://cdn.mandiner.hu/2026/07/hQLC8GZ4l49ary8TT-S37QrUgsZF1HIT8pwwjO1JhnU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZiMTA5NzdjNTA2NzRlOTViMjJiODYwMGU2N2Q4Njky.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Kovács Ákos először beszélt daganatos betegségéről: „Ha nem lettem volna hívő, most hívővé váltam volna” (VIDEÓ)",
-          "url": "https://mandiner.hu/belfold/2026/07/kovacs-akos-eloszor-beszelt-daganatos-betegsegerol-ha-nem-lettem-volna-hivo-most-hivove-valtam-volna-video",
-          "published": "2026-07-25T04:54:11+00:00",
-          "description": "Az énekes kiemelte, nem a saját betegségét szeretné a középpontba állítani, hanem azt a hitbéli megerősödést és kegyelmet, amelyet az út során átélt.",
-          "image": "https://cdn.mandiner.hu/2026/07/08Jij6KfW738kQ0zw_Tn53sr_L9kOszaquNJms4C6A4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk2MjFhYzBiZDUxODQxM2U5ZjAzYWViNjAzOTRjMGU2.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Egyre többen követelik, hogy Amerika forduljon Izrael ellen",
-          "url": "https://mandiner.hu/kulfold/2026/07/egyre-tobben-kovetelik-hogy-amerika-forduljon-izrael-ellen",
-          "published": "2026-07-25T04:34:14+00:00",
-          "description": "Az Izraellel való kapcsolat meglepően fontos szerepet kaphat a 2028-as amerikai elnökválasztási kampányban. Hajdú Tímea elemzése.",
-          "image": "https://cdn.mandiner.hu/2026/07/y5ZBmXEwq2XA6WLRdiQRsVtuuoeO5edk0MxynQleGZw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU5NzQwZWE0NjUwMTQwYTliYWIzYmY0Njg1NTdjNjg0.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "A válogatott kapus hatalmas bakijaival indult a labdarúgó NB I új idénye (VIDEÓ)",
-          "url": "https://mandiner.hu/sport/2026/07/a-valogatott-kapus-hatalmas-bakijaival-indult-a-labdarugo-nb-i-uj-idenye-video",
-          "published": "2026-07-25T04:15:15+00:00",
-          "description": "Nyíregyházi sikerrel vette kezdetét az új szezon.",
-          "image": "https://cdn.mandiner.hu/2026/07/cGFITdZT4W-yIrcxxEqB0AhLKmo1zlQHiML2Jjz9DEk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E2Y2M1MGYzYjJlNDQ4MTRhN2I2YzE4NzVmODIxMjc2.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Az újjáépítés során meg kell hallgatnunk a polgármestereket, mert túlságosan kevéssé figyeltünk oda a szavukra az elmúlt tizenhat évben",
-          "url": "https://mandiner.hu/belfold/2026/07/az-ujjaepites-soran-meg-kell-hallgatnunk-a-polgarmestereket-mert-tulsagosan-kevesse-figyeltunk-oda-a-szavukra-az-elmult-tizenhat-evben",
-          "published": "2026-07-25T03:57:27+00:00",
-          "description": "A helyi közösségek bizalma és támogatása nélkül nem lehet polgári politikát képviselni. Navracsics Tibor írása.",
-          "image": "https://cdn.mandiner.hu/2026/07/-s8XZUHQZziyHZRY5Ro0mz9kXDYwKuyVsDUEg2Ae1VI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4ZmYwY2IwNGU1NTQyNWVhOGFjNTA3NTc4OGIyZTAz.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Durván nekiment Németh Zsoltnak a Vadhajtások szerkesztősége",
-          "url": "https://mandiner.hu/belfold/2026/07/durvan-nekiment-nemeth-zsoltnak-a-vadhajtasok-szerkesztosege",
-          "published": "2026-07-24T21:02:21+00:00",
-          "description": "A fideszes országgyűlési képviselő a 444-nek adott interjút.",
-          "image": "https://cdn.mandiner.hu/2026/07/uAonIxgQNSrQV1NxL7UA4jIHs2HMXBjC8Rl4UEghUBk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY2ZDg3ODBjNmVlODQ2ZmJhMjdiY2VmMzgyOWJmOWEx.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Majka ismét üzent nekem",
-          "url": "https://mandiner.hu/belfold/2026/07/majka-ismet-uzent-nekem",
-          "published": "2026-07-24T18:53:03+00:00",
-          "description": "Azt írja: ő csak egy „t@hó ózdi repper.”",
-          "image": "https://cdn.mandiner.hu/2026/07/Ntlpc2eW_IP4I5mtUw1FHS58DloLio7QiMk8dU_gtqU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3NTU3ZjMwNGU1YTRiMjZiM2Q0MTllOTA1MzU5N2Fl.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Majka Bohár Dánielnek: „Nem érdemled meg, hogy egyedül te fuvolázz. Sz*pjatok le mind…”",
-          "url": "https://mandiner.hu/belfold/2026/07/majka-bohar-danielnek-nem-erdemled-meg-hogy-egyedul-te-fuvolazz-sz-pjatok-le-mind",
-          "published": "2026-07-24T18:31:27+00:00",
-          "description": "„Én csak egy tahó ózdi repper vagyok” – írta az előadó péntek este.",
-          "image": "https://cdn.mandiner.hu/2026/07/z0DCECjXb0iXFSNsV0TtCOWWeBQDZcPsVALarwSf_S0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyOGViOWQxMDNlMTRkZmNhNDg4MDg0ZWI3NWYyNDI4.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Korlátozták az egyszerre tankolható üzemanyag mennyiségét Horvátországban",
-          "url": "https://mandiner.hu/kulfold/2026/07/korlatoztak-az-egyszerre-tankolhato-uzemanyag-mennyiseget-horvatorszagban",
-          "published": "2026-07-24T17:43:09+00:00",
-          "description": "Egyszerre lépett az INA és a Petrol.",
-          "image": "https://cdn.mandiner.hu/2026/07/KW8LauhYxkhWKncSx4jYfJjsZL3VW0FtWFo0z-GBbqE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M0YjUyMDU4MzU5OTQyNDFhYzkyNjVmNDVlZmY1MmNm.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Fontos üzenetet küldött Tusványosról Orbán Viktor",
-          "url": "https://mandiner.hu/kulfold/2026/07/fontos-uzenetet-kuldott-tusvanyosrol-orban-viktor",
-          "published": "2026-07-24T16:42:21+00:00",
-          "description": "A volt miniszterelnök szombaton mond beszédet a fesztiválon.",
-          "image": "https://cdn.mandiner.hu/2026/07/dTHcQEA8vKHZN6QAhfN4dnuCriASIkVQnTwZLYnytmk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiMzI3OTY3YWVlYzRlNmZiNTBiZjU4ZTVkMWM2MGVi.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Drámai áremelkedés a kutakon, ezen a héten szinte minden nap drágult az üzemanyag",
-          "url": "https://mandiner.hu/belfold/2026/07/dramai-aremelkedes-a-kutakon-ezen-a-heten-szinte-minden-nap-dragult-az-uzemanyag",
-          "published": "2026-07-24T16:39:45+00:00",
-          "description": "A védett ár kivezetése óta eltelt időszakban a benzin összesen már 41 forinttal, a gázolaj pedig 42 forinttal drágult.",
-          "image": "https://cdn.mandiner.hu/2026/07/BeX_k664oQ7LD48HsOlvZ1bytiOka53G-p0uEsEuX3c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI2NDk5MzA0YmEwZjRlNjI4N2JjYWZmZjE2MDRlZjVk.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Ezt segítsen valaki értelmezni",
-          "url": "https://mandiner.hu/belfold/2026/07/ezt-segitsen-valaki-ertelmezni",
-          "published": "2026-07-24T16:05:49+00:00",
-          "description": "Nem értem, hogy Hadházy mit nem ért, kétnaponta neveznek ki egy nerest valahova, ami a miniszterelnök személyét tekintve nem csoda.",
-          "image": "https://cdn.mandiner.hu/2026/07/HFXrMcrDCVFADmtihJgkq39YWtNRV6MwozvZvdGiitM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjNWQxNWM4M2RiOTRlMDFiZDRjMDNmYWY3Njk1MzU1.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Közelít a forróság: hosszan tartó hőhullámot vetítenek előre a középtávú előrejelzések",
-          "url": "https://mandiner.hu/belfold/2026/07/kozelit-a-forrosag-hosszan-tarto-hohullamot-vetitenek-elore-a-kozeptavu-elorejelzesek",
-          "published": "2026-07-24T15:33:27+00:00",
-          "description": "Néhány nap múlva ismét tartós hőhullám veszi kezdetét Magyarországon – erre utalnak az Időkép középtávú előrejelzései.",
-          "image": "https://cdn.mandiner.hu/2026/07/7_kloWgShxChT_99fwhkTSGU_pefjoodmaRD-9yBVpE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkyOWYyMzg1NTc3MDQzZjFhMWQzYjUyYjM4YzhhZjVk.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Szomorú vagyok, amiért így ért véget a pályafutásom – Győrfi Pál először nyilatkozott azóta, mióta otthagyta a mentőszolgálatot",
-          "url": "https://mandiner.hu/belfold/2026/07/szomoru-vagyok-amiert-igy-ert-veget-a-palyafutasom-gyorfi-pal-eloszor-nyilatkozott-azota-miota-otthagyta-a-mentoszolgalatot",
-          "published": "2026-07-24T15:19:06+00:00",
-          "description": "Győrfi júniusban búcsúzott el az OMSZ szóvivői posztjától, amelyet közel húsz éven át töltött be, majd júliusban a mentőszolgálattól is elköszönt.",
-          "image": "https://cdn.mandiner.hu/2026/07/orfLKFgm_Zj-SXrqPEVKR-AlBpdogkLi4wS7pF9TDr4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UxZDljZDMzOTA5MzQwNzY4MzY4NmVlMzdkNmVlNmQz.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Reagált az Országgyűlés Hivatala: Forsthoffer, Hadházy és Magyar Péter is előkerül",
-          "url": "https://mandiner.hu/belfold/2026/07/reagalt-az-orszaggyules-hivatala-forsthoffer-hadhazy-es-magyar-peter-is-elokerul",
-          "published": "2026-07-24T14:55:03+00:00",
-          "description": "Divinyit nem nevezték ki főigazgatónak, és megállapodást sem kötöttek vele.",
-          "image": "https://cdn.mandiner.hu/2026/07/mlmRphzHynKssu0v-XSAyyO_C6IcyLm_77-mXCdfM88/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMwYTI3OTFjY2VkMDQyNDI4ZDlmMTNlZWEwZjJjY2Uw.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Határátlépések: női képviselőket kérdeztünk arról, hogyan élik meg Magyar Péter parlamenti viselkedését",
-          "url": "https://mandiner.hu/belfold/2026/07/hataratlepesek-noi-kepviseloket-kerdeztunk-arrol-hogyan-elik-meg-magyar-peter-parlamenti-viselkedeset",
-          "published": "2026-07-24T14:52:19+00:00",
-          "description": "Hogyan élik meg női politikusaink Magyar Péter agresszív viselkedését, az állandó sértegetést? Milyen hatással van a társadalomra a kormányfő személye? Mit lehet tenni, hogy ez a hangnem ne váljon normává a közéletben? Női képviselőket kérdeztünk.",
-          "image": "https://cdn.mandiner.hu/2026/07/-nO8yKeQhD08venTcfH51l91Vet4S-p2fSgCbF3HhCU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EwMjk2NTY0MDQ2NTRlNzZiZGEwZmMyM2JhNDRkYzYy.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Dráma a lengyel jobboldalon: szakad a Jog és Igazságosság",
-          "url": "https://mandiner.hu/kulfold/2026/07/drama-a-lengyel-jobboldalon-szakad-a-jog-es-igazsagossag",
-          "published": "2026-07-24T14:12:32+00:00",
-          "description": "Jarosław Kaczyński, a Jog és Igazságosság vezetője szerint mintegy harminc PiS-képviselő nem volt hajlandó hűségesküt tenni a párt iránt: Morawieckiék mérsékelt csoportja kiszorulhat a jobboldali mozgalomból.",
-          "image": "https://cdn.mandiner.hu/2026/07/aqbIVu_MXv_GfgjH8z1g1y1HVuJvvg-vs29fH79yHqs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MwZTY2MDBhOGZmZTRlYmFiOTdhZjNlYWFmN2M1NTcx.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Semjén Zsolt: A KDNP-nek saját arcokat kell felépítenie, saját programmal",
-          "url": "https://mandiner.hu/belfold/2026/07/semjen-zsolt-a-kdnp-nek-sajat-arcokat-kell-felepitenie-sajat-programmal",
-          "published": "2026-07-24T13:57:17+00:00",
-          "description": "A KDNP önállóbb politikai arculatot építene, saját programokra és új szereplőkre helyezve a hangsúlyt – erről beszélt Semjén Zsolt Tusnádfürdőn.",
-          "image": "https://cdn.mandiner.hu/2026/07/56TLLiAjyD3T3M59s8TQHjnsl9Hh3Drm8ZqWrVzwxn8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJmMzBlNmE2OTM4YjRmZWU5NzRmZDVhYmJmZmEwZDA3.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Tarrolás a kultúrában: kiemelt kulturális intézmények vezetőit váltották le",
-          "url": "https://mandiner.hu/belfold/2026/07/tarrolas-a-kulturaban-kiemelt-kulturalis-intezmenyek-vezetoit-valtottak-le",
-          "published": "2026-07-24T12:52:51+00:00",
-          "description": "Három kiemelt közgyűjteményi intézmény főigazgatóját menesztették a kulturális háttérintézmények átfogó átvilágítását követően.",
-          "image": "https://cdn.mandiner.hu/2026/06/CILwt10rrsfYFMfOgz2EJtRqf1QHFk-ItdMZucgOBts/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlhOTc1YTYyZjNmODRmNDU5NmJjNGRhY2NkOWQ4ZmY0.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Továbbra sem úgy alakulnak a közjogi folyamatok, ahogyan azt az Amnesty International Magyarország szeretné",
-          "url": "https://mandiner.hu/belfold/2026/07/tovabbra-sem-ugy-alakulnak-a-kozjogi-folyamatok-ahogyan-azt-az-amnesty-international-magyarorszag-szeretne",
-          "published": "2026-07-24T12:49:25+00:00",
-          "description": "Újabb kritikát kapott a Tisza-kormány a balliberális szervezettől.",
-          "image": "https://cdn.mandiner.hu/2026/07/vvbualKoSw_Wi4CBGOsVGH7wpHVibPQgSNagKXI9F0I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc0Y2RmMTg3YmVhZDQxYTQ4Mzg1NTBmNDRmODU4MmEx.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Forsthoffer Ágnes nyilvánosan üzent Hadházy Ákosnak",
-          "url": "https://mandiner.hu/belfold/2026/07/forsthoffer-agnes-nyilvanosan-uzent-hadhazy-akosnak",
-          "published": "2026-07-24T12:09:20+00:00",
-          "description": "Egyre kiélezettebb a vita.",
-          "image": "https://cdn.mandiner.hu/2026/07/oG3gLmU36JhU-_4bqoN5kTMihDToYXLJKAE4LwgIG38/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdkYmE3OGIzNmU3ZjQ4YTQ5NWQ3NWM3ZjA2YzY3ZTdh.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Szoboszlai korábbi edzője vezeti mostantól a németeket",
-          "url": "https://mandiner.hu/sport/2026/07/szoboszlai-korabbi-edzoje-vezeti-mostantol-a-nemeteket",
-          "published": "2026-07-24T11:36:50+00:00",
-          "description": "Jürgen Kloppot nevezte ki pénteken a labdarúgó-válogatott szövetségi kapitányának a német szövetség.",
-          "image": "https://cdn.mandiner.hu/2026/07/vem2DBGHlsoPypobna04Z6z2O9SdIA76JfRu6B2dXFA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3MTQxZmNkMDJkOTQ5YjRhMDVjYzU2NzFiZmEwODQz.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "A Tisztítótűz művelet még csak most kezdődött el, de már a Tisza Pártnál tart",
-          "url": "https://mandiner.hu/belfold/2026/07/a-tisztitotuz-muvelet-meg-csak-most-kezdodott-el-de-mar-a-tisza-partnal-tart",
-          "published": "2026-07-24T10:30:28+00:00",
-          "description": "Zavar támadt Magyar Péterék gépezetében.",
-          "image": "https://cdn.mandiner.hu/2026/07/nW269GrCosj0k5Fd9ZdUQ0QqOmw8Nm9HJUI43PR9WnE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzczMTRjZjNhODE2NjQ5MTBiOGY5NzUzOTM0MjUxODhh.jpg",
-          "category": null,
-          "author": null
-        },
-        {
-          "title": "Elesett Budapest: a romló közbiztonságot nem lehet tovább a szőnyeg alá söpörni",
-          "url": "https://mandiner.hu/belfold/2026/07/elesett-budapest-a-romlo-kozbiztonsagot-nem-lehet-tovabb-a-szonyeg-ala-soporni",
-          "published": "2026-07-24T10:08:30+00:00",
-          "description": "A városvezetés és a kormány új intézkedéseket jelentett be, az ellenzéki pártok azonban nem elégedettek. Karácsony az előző kormányt, a Fidesz–KDNP és a Mi Hazánk a liberális polgármestereket okolja a helyzetért.",
-          "image": "https://cdn.mandiner.hu/2026/07/4rOhsXcMtOpAd4xBHYCdY6hWJtbTS9OBoTnoxr_32Og/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNTdhMzhhYTIyYjRmOTI5NDFhNjFkMmY5MDdjYTcz.jpg",
-          "category": null,
-          "author": null
-        }
-      ]
+      "status": "error",
+      "error": "TimeoutError: ",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "24hu",
@@ -969,7 +743,7 @@
           "url": "https://24.hu/kulfold/2026/07/25/erdotuz-franciaorszag-kitelepitesek-hadsereg-mozgositas/",
           "published": "2026-07-25T07:23:00+01:00",
           "description": "A hatóságok teljesen kiürítették a népszerű Cap Ferret-félszigetet, Emmanuel Macron pedig a hadsereg mozgósítását kérte a védekezés megerősítésére.",
-          "image": "https://s.24.hu/app/uploads/2026/07/080_hl_bdelavelle_3236863-320x213.jpg",
+          "image": "https://s.24.hu/app/uploads/2026/07/080_hl_bdelavelle_3236863-e1784957461608-320x180.jpg",
           "category": "Nagyvilág",
           "author": "D. Kovács Ildikó"
         },
@@ -1621,6 +1395,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Csak a ruházat egy vagyon: 122 ezer a kabát, 61 ezer a galléros póló a Hungaroringen",
+          "url": "https://www.origo.hu/sport/f1/2026/07/f1-csapatruha-hungaroring-magyar-nagydij",
+          "published": "2026-07-25T07:30:00+01:00",
+          "description": "Mélyen a zsebébe kell nyúlnia annak, aki hivatalos csapatruhát vásárolna.",
+          "image": "https://cdn.origo.hu/2026/07/_7OdKM5b_qGogGTOyxnuYKct-6NsskjwDG09-vudtsg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViZjFkMGViMTA1OTQ3YjhhMGM3MjExM2M5NGY4YmJh.webp",
+          "category": "magyar nagydíj",
+          "author": null
+        },
+        {
+          "title": "Leállás jön az OTP-nél, órákig akadozhat a bankkártyás fizetés – mutatjuk, mikor",
+          "url": "https://www.origo.hu/gazdasag/2026/07/otp-simpleplay-karbantartas-julius",
+          "published": "2026-07-25T07:25:00+01:00",
+          "description": "Hamarosan szolgálatkiesés várható az egyik legnagyobb hazai pénzintézetnél.",
+          "image": "https://cdn.origo.hu/2026/07/SUAqhGlM0VYr5-GnjFi_TEnQDUiKMW1w_jy6q9G1-mI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA4ZjE2NjAxZDBiNzRmZjBhMTRmNGRkZmFkOWQ0Y2Y2.webp",
+          "category": "leállás",
+          "author": null
+        },
+        {
           "title": "Az iráni hadsereg példátlan fenyegetést küldött a brit királyi családnak",
           "url": "https://www.origo.hu/kulpol/2026/07/iran-fegyveres-eroi-megfenyeget-brit-kiralyi-csalad",
           "published": "2026-07-25T07:15:00+01:00",
@@ -1695,19 +1487,19 @@
         {
           "title": "Erre készüljön szombaton: 30 fok közelébe emelkedik a hőmérséklet",
           "url": "https://www.origo.hu/itthon/2026/07/idojaras-szombat-30-fok-kozelebe-emelkedik-a-homerseklet",
-          "published": "2026-07-25T06:05:00+01:00",
-          "description": "A nyaralók örülni fognak ennek az időjárásnak.",
-          "image": "https://cdn.origo.hu/2026/07/E-JtRlz1eMSZ9Xc9-oyn2Vwn60L2DMPyvpnp3OjNx34/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0YWZiOWFhY2I0NTRiMDM5ZGIxNzE4MWVlZTNkNDAx.webp",
-          "category": "időjárás",
+          "published": "2026-07-25T04:05:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
           "author": null
         },
         {
           "title": "Ez ma már hihetetlen, ilyenek voltak a 80-as évek Magyar Nagydíjai - galéria",
           "url": "https://www.origo.hu/sport/f1/2026/07/magyar-nagydij-forma-1-1986-elso-futam",
-          "published": "2026-07-25T06:00:00+01:00",
-          "description": "Szinte hihetetlen, de sorrendben a 41. F1-es verseny következik a Hungaroringen.",
-          "image": "https://cdn.origo.hu/2026/07/D0JwE_wCBMIHN5Z24NybSzLhstZUtDFTswaiz7CiOdE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E5MDQ3NjUwYjdjMTRkZTFhYzE1NzVmNTkxNzBiOTcx.webp",
-          "category": "magyar nagydíj",
+          "published": "2026-07-25T04:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1825,24 +1617,6 @@
           "description": null,
           "image": null,
           "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "A világ legszebb 5 kék zónája: itt élnek az emberek a legtovább és a legegészségesebben",
-          "url": "https://www.origo.hu/eletmod/2026/07/kek-zona-elettartam-eletmod",
-          "published": "2026-07-24T19:00:02+00:00",
-          "description": null,
-          "image": null,
-          "category": "Eletmod",
-          "author": null
-        },
-        {
-          "title": "Mentés közben történt a baj: hídnak ütközött egy rendőrhajó, többen megsérültek - videó",
-          "url": "https://www.origo.hu/nagyvilag/2026/07/hajo-hidnak-utkozott-baleset-london-video",
-          "published": "2026-07-24T18:55:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
