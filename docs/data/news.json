@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T18:51:00.178111+00:00",
+  "scraped_at": "2026-07-29T18:55:40.060307+00:00",
   "portals": [
     {
       "id": "telex",
@@ -349,7 +349,7 @@
           "title": "Sztrájkbizottságot alakítottak a munkások a szegedi gumigyárban",
           "url": "https://444.hu/2026/07/29/sztrajkbizottsagot-alakitottak-a-munkasok-a-szegedi-gumigyarban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "published": "2026-07-29T14:04:02+00:00",
-          "description": "A szakszervezet magasabb bérfejlesztést követel.",
+          "description": "A szakszervezet bérfejlesztést követel.",
           "image": "https://assets.4cdn.hu/kraken/8N89mj2JQto31z81L6s.jpeg",
           "category": "nettó árbevétel",
           "author": "Czinkóczi Sándor"
@@ -540,7 +540,7 @@
           "title": "Ruff Bálint rendkívüli parlamenti ülést kezdeményezett, több törvénymódosításról dönthet az Országgyűlés",
           "url": "https://index.hu/belfold/2026/07/29/rendkivuli-parlamenti-ules-ruff-balint-miniszterelnokseget-vezeto-miniszter/",
           "published": "2026-07-29T17:41:00+00:00",
-          "description": "Öt előterjesztéssel ül össze jövő héten a parlament.",
+          "description": "Öt előterjesztésről tárgyal jövő héten a parlament.",
           "image": "https://kep.index.hu/1/0/7075/70756/707560/70756013_5218905_5e3e93745a4318a028d0405ec0bc3325_wm.jpg",
           "category": "Belföld",
           "author": null
@@ -1191,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Olyan alacsony a Duna, hogy előbukkant belőle egy autó",
+          "url": "https://24.hu/belfold/2026/07/29/duna-szob-auto-vizbol/",
+          "published": "2026-07-29T20:49:00+01:00",
+          "description": "Szobnál találták meg.",
+          "image": "https://s.24.hu/app/uploads/2026/07/759253881_1461673369318981_6490181395399745774_n-e1785350966894-320x181.jpg",
+          "category": "Belföld",
+          "author": "Kerner Zsolt"
+        },
+        {
           "title": "Zelenszkij és Tusk találkoztak, hogy rendezzék a kapcsolatokat",
           "url": "https://24.hu/kulfold/2026/07/29/zelenszkij-tusk-talalkozo/",
           "published": "2026-07-29T20:28:00+01:00",
@@ -1317,13 +1326,13 @@
           "author": "24.hu"
         },
         {
-          "title": "Olaszországban fogták el a zalai ál-Jézust",
-          "url": "https://24.hu/belfold/2026/07/29/olaszorszagban-fogtak-el-a-zalai-al-jezust/",
-          "published": "2026-07-29T16:25:00+01:00",
-          "description": "A 73 éves férfi milliókat csalt ki a követőitől. Ha kiadják, jöhet az ál-Jézus első hazajövetele.",
-          "image": "https://s.24.hu/app/uploads/2026/07/075_widak-krakowde260721_nppe2-e1785335104539-320x180.jpg",
+          "title": "Friss felmérés: a Fidesz-szavazók fele nem hisz Orbánnak",
+          "url": "https://24.hu/belfold/2026/07/29/orban-viktor-tisza-part-tusvanyos-felmeres/",
+          "published": "2026-07-29T16:06:00+01:00",
+          "description": "A tusványosi beszédről készített felmérést az Europion.",
+          "image": "https://s.24.hu/app/uploads/2026/07/central-1119100518-e1785333928351-320x180.jpg",
           "category": "Belföld",
-          "author": "Kerner Zsolt"
+          "author": "24.hu"
         },
         {
           "title": "Nem azért kapják az állatok jégbe fagyva az ételt, hogy lehűljenek",
@@ -1405,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/07/central-0803252756-2026-07-23t131552-976-3-320x180.jpg",
           "category": "Belföld",
           "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "Elemzés: gyenge pontján találta az orosz gazdaságot az ukrán dróntámadás, már a bankrendszer is megérzi",
-          "url": "https://24.hu/belfold/2026/07/29/haboru-oroszorszag-gazdasag-drontamadas-kreml/",
-          "published": "2026-07-29T14:30:00+01:00",
-          "description": "A Wildberries online kiskereskedő cég raktárai elleni ukrán dróntámadások nagyon fájnak Oroszországnak.",
-          "image": "https://s.24.hu/app/uploads/2026/07/075_ukrinform-russiant260726_nps8h-e1785328212700-320x180.jpg",
-          "category": "Belföld",
-          "author": "24.hu"
         }
       ]
     },
@@ -1422,10 +1422,101 @@
       "name": "Neokohn",
       "url": "https://neokohn.hu",
       "color": "#5ba8d6",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 10,
+      "articles": [
+        {
+          "title": "Lego-klipekkel Trump ellen: az AI-háborút Irán nyeri meg Amerikával szemben",
+          "url": "https://neokohn.hu/2026/07/29/lego-klipekkel-trump-ellen-az-ai-haborut-iran-nyeri-meg-amerikaval-szemben/",
+          "published": "2026-07-29T18:16:22+00:00",
+          "description": "A rezsim hónapok óta posztol AI-generált Trump-ellenes, nemegyszer primitíven antiszemita propaganda-videókat. A Lego-klipekkel Trump ellen: az AI-háborút Irán nyeri meg Amerikával szemben bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/Screenshot-3.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Irán leállt az urándúsítással a Trump által fenyegetett létesítményben",
+          "url": "https://neokohn.hu/2026/07/29/iran-leallt-urandusitas-trump-fenyegetes-atomprogram-pickaxe-hegy-hamenei/",
+          "published": "2026-07-29T17:03:30+00:00",
+          "description": "Izrael szerint Teherán továbbra is tartós fenyegetést jelent, bár a katonai műveletek meggyengítették a rezsimet. A Irán leállt az urándúsítással a Trump által fenyegetett létesítményben bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/000_B8V399E-1.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Legyen-e büntethető, aki közli, hogy neki szimpatikusak a terrorszervezetek?",
+          "url": "https://neokohn.hu/2026/07/29/nemetorszag-buntetes-terrorista-szervezetek-szimpatia-szolasszabadsag-felix-klein/",
+          "published": "2026-07-29T16:02:56+00:00",
+          "description": "A szakember szerint Németországban ismét büntetendővé kell tenni például a Hamász iránti szimpátia kifejezését. A Legyen-e büntethető, aki közli, hogy neki szimpatikusak a terrorszervezetek? bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/000_C39X7AX.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Trump: „a kib*szott sz*rt is kiverjük” Iránból, amiért amerikai bázisokat támadott",
+          "url": "https://neokohn.hu/2026/07/29/trump-iran-amerikai-bazisok-tamadas-szaudi-irak-valaszcsapas-haboru-centcom/",
+          "published": "2026-07-29T15:03:24+00:00",
+          "description": "„Keményen lecsapunk rájuk. Meg fogják kapni a magukét” - nyilatkozta Trump a Fox Newsnak. A Trump: „a kib*szott sz*rt is kiverjük” Iránból, amiért amerikai bázisokat támadott bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/000_C36H772.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "„Ezzel a valósággal kell szembenéznünk, ha nem küzdünk az iszlamizmus ellen”",
+          "url": "https://neokohn.hu/2026/07/29/iszlamizmus-terror-elnyomas-masih-alinejad-politikai-korrektseg-europa-szabadsagjogok/",
+          "published": "2026-07-29T14:01:03+00:00",
+          "description": "A berlini iszlamista merénylet Európa számára riasztó jel és figyelmeztetés kellene, hogy legyen. A „Ezzel a valósággal kell szembenéznünk, ha nem küzdünk az iszlamizmus ellen” bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/043_dpa-pa_260727-99-174457_dpai.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "ADL: évtizedek óta nem volt ennyi antiszemita gyilkosság és erőszak világszerte",
+          "url": "https://neokohn.hu/2026/07/29/antiszemita-eroszak-2025-vilag-zsidosaga-halalos-aldozatok-zsidoellenesseg/",
+          "published": "2026-07-29T13:05:20+00:00",
+          "description": "\"Az antiszemitizmus már nem csupán egy átmeneti hullám; ez az új normális” - közölte az amerikai szervezet. A ADL: évtizedek óta nem volt ennyi antiszemita gyilkosság és erőszak világszerte bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2023/11/sw9awmtvx5g-1024x576.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Bemutatkozik az ACE: ez az olcsó Lockheed Martin rakéta mentheti meg Amerikát és Ukrajnát",
+          "url": "https://neokohn.hu/2026/07/29/ace-olcso-lockheed-martin-raketa-amerika-ukrajna-tech/",
+          "published": "2026-07-29T11:52:06+00:00",
+          "description": "Új rakétával rukkolt elő a hadiipari óriás. A Bemutatkozik az ACE: ez az olcsó Lockheed Martin rakéta mentheti meg Amerikát és Ukrajnát bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/lockheed-e1784723301199-800x430-1.jpeg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Timmermans elszabadult: lenácizta az izraeli kormányt a holland király tanácsadója",
+          "url": "https://neokohn.hu/2026/07/29/timmermans-lenacizta-izraeli-kormany-holland-kiraly/",
+          "published": "2026-07-29T11:07:55+00:00",
+          "description": "A Magyarországon is ismert zöldbaloldali politikus bődületes marhaságokat hordott össze. A Timmermans elszabadult: lenácizta az izraeli kormányt a holland király tanácsadója bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/Hearing_of_Frans_Timmermans_the_Netherlands_-_Executive_Vice_President-Designate_-_European_Green_Deal_48866430157-1024x682.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Magyar-izraeli biztonsági együttműködéséről tárgyalt Pósfai Gábor és Maya Kadosh",
+          "url": "https://neokohn.hu/2026/07/29/magyar-izraeli-biztonsagi-egyuttmukodes-posfai-gabor-maya-kadosh/",
+          "published": "2026-07-29T09:48:13+00:00",
+          "description": "Mutatjuk, miről tárgyalt a nagykövet az új Tisza-kormány belügyminiszterével. A Magyar-izraeli biztonsági együttműködéséről tárgyalt Pósfai Gábor és Maya Kadosh bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/757969698_2574467312986116_1267073925189079566_n.png-e1785316932849-1024x490.jpeg",
+          "category": "Belföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Kína modern légvédelmi rakétákkal fegyverzi fel Iránt  – hadrendbe állnak az új MANPADS-ek",
+          "url": "https://neokohn.hu/2026/07/29/kina-legvedelmi-raketa-fegyver-iran-hadrend-uj-manpads/",
+          "published": "2026-07-29T09:05:09+00:00",
+          "description": "Aggasztó híreket kapott Amerika és Izrael. A Kína modern légvédelmi rakétákkal fegyverzi fel Iránt  – hadrendbe állnak az új MANPADS-ek bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/07/2022_IRGC_army_exercise_in_Aras_region_16-e1785315304608.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        }
+      ]
     },
     {
       "id": "hvg",
@@ -1436,6 +1527,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Egyetlen éjszakára 6,5 millió forintért béreltek szállást Szijjártó Péternek Katarban a foci-vb idején",
+          "url": "https://hvg.hu/itthon/20260729_egy-ejszaka-6-5-millio-forint-berles-szallas-szijjarto-peter-katar-foci-vb",
+          "published": "2026-07-29T18:51:25+00:00",
+          "description": "Szijjártó Péter külgazdasági és külügyminiszterként többször is az adófizetők millióiból szállt meg egy-két éjszakára különböző luxushotelekben.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/026d6119-df4f-4a48-8b00-e0e4f2661e2c.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Csütörtöktől ismét változik az üzemanyagok ára",
           "url": "https://hvg.hu/gazdasag/20260729_csutortok-ismet-valtozas-uzemanyag-nagyker-ar",
@@ -1651,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6e6283f4-d455-4bcb-8e79-fd07c75d4d7c.jpg",
           "category": "Tech",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "„Keményen lecsapunk rájuk. Meg fogják kapni a magukét” – Donald Trump újra megfenyegette Iránt",
-          "url": "https://hvg.hu/vilag/20260729_usa-iran-tamadas-donald-trump",
-          "published": "2026-07-29T13:58:53+00:00",
-          "description": "Az amerikai elnök kemény szavai hatással voltak az olajárakra is.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a55d1a67-9754-4e98-b3f2-3081060aa8be.jpg",
-          "category": "Világ",
-          "author": "HVG (szerzo@hvg.hu (MTI))"
         }
       ]
     },
@@ -1673,9 +1764,18 @@
       "article_count": 8,
       "articles": [
         {
+          "title": "Apadó folyók és kiszáradt patakok – sorra dőlnek meg a negatív rekordok a hazai vizeken",
+          "url": "https://kontroll.hu/cikk/belfold/2026/07/29/apado-folyok-es-kiszaradt-patakok-negativ-vizallasi-rekordok-dolnek-meg-magyarorszagon",
+          "published": "2026-07-29T19:54:39.601382+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
           "title": "Milliárdos szabálytalanságokat tárt fel az ÁSZ az Élelmiszermentő Központnál és a váci fociklubnál",
           "url": "https://kontroll.hu/cikk/belfold/2026/07/29/milliardos-szabalytalansagokat-tart-fel-az-asz-az-elelmiszermento-koezpontnal-es-a-vaci-fociklubnal",
-          "published": "2026-07-29T19:44:45.895237+01:00",
+          "published": "2026-07-29T19:44:39.601623+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1734,15 +1834,6 @@
           "image": null,
           "category": "Belfold",
           "author": null
-        },
-        {
-          "title": "Engedélyt adott Donald Trump Ukrajnának Patriot rakéták gyártására",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/07/29/trump-engedelyt-adott-ukrajnanak-patriot-raketak-gyartasara-zelenszkij-eredmenyesnek-nevezte-a-washingtoni-targyalast",
-          "published": "2026-07-29T10:27:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Kulfold",
-          "author": null
         }
       ]
     },
@@ -1755,6 +1846,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Vérfürdőt rendezhetett egy svájci bárban a magyar férfi – megrázó részletek derültek ki a tárgyaláson",
+          "url": "https://www.origo.hu/nagyvilag/2026/07/magyar-ferfi-keselt-a-svajci-barban",
+          "published": "2026-07-29T20:50:00+01:00",
+          "description": "Azt állította, Michael Schumacherrel is találkozott.",
+          "image": "https://cdn.origo.hu/2026/07/L90eMu8Y8CQZDzUYeohEcQDxQ02IRi3hcRA66xu4PBQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MyY2MwMmI0ODYyMDQzNGY5MTFmYTY2OGMyMTZiNzk1.webp",
+          "category": "tárgyalás",
+          "author": null
+        },
+        {
+          "title": "\"15%-ot adtak a túlélésre\" - könyörgött az orvosoknak, hogy vizsgálják meg rendesen, rákkal diagnosztizálták a családapát",
+          "url": "https://www.origo.hu/nagyvilag/2026/07/rak-melanoma-borrak-elvaltozasr",
+          "published": "2026-07-29T20:45:00+01:00",
+          "description": "Rovarcsípésnek majd cisztának hitték az apa hátán az elváltozást: kiderült, bőrrák.",
+          "image": "https://cdn.origo.hu/2026/07/qHjP0_mJoMzBsfGStmnSZJcbapLBX4YUmD_23f8HLmI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhiMTNhZGRjMzZhZjQ2ZGI4NDNiMTUwOTg0N2E5NjA4.webp",
+          "category": "rák",
+          "author": null
+        },
         {
           "title": "Figyelmeztetés az Adriára készülőknek: vörös riasztást adtak ki a brutális hőhullám miatt",
           "url": "https://www.origo.hu/nagyvilag/2026/07/hohullam-horvatorszag-voros-riasztas-nyaralas",
@@ -1769,7 +1878,7 @@
           "url": "https://www.origo.hu/teve/2026/07/megyeri-csilla-nicola-sarcia-exe",
           "published": "2026-07-29T20:30:00+01:00",
           "description": "Megyeri Csilla már 8 kilót ledobott magáról a terhesség óta.",
-          "image": "https://cdn.origo.hu/2026/07/D8lhho_-asc9f96HCAHiX5YTiJtH_fLOdRJPOXpJ0nw/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IwNTQxNDYyNmEyYTRkM2I4NmY2YTEyNDk4ZGNjNzFj.webp",
+          "image": "https://cdn.origo.hu/2026/07/ZclcVPqiEWM7ykwO71gq6bYM-lBDxj4eqV375mHYkTU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5MGQ5NDFlYzAxODQ2YjA4MTgyMmMzM2ZkMDM5YzVj.webp",
           "category": "Megyeri Csilla",
           "author": null
         },
@@ -1814,7 +1923,7 @@
           "url": "https://www.origo.hu/eletmod/2026/07/erdotuzek-vilag-legpusztitobb-tuzesetek",
           "published": "2026-07-29T20:00:00+01:00",
           "description": "Másodpercek alatt perzseltek fel mindent.",
-          "image": "https://cdn.origo.hu/2026/07/X-qE2s9AmcrGMq_HIXySggFmYKczru9FoBRm94WCasY/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBhMGM5Y2JkNWU0NTQ4ZGU5NDcxMTYyOTUwOGQ3YjRh.webp",
+          "image": "https://cdn.origo.hu/2026/07/pMfz7txipWiayKPwKlYoODohDM3dhPfQ4vuMyi6ntTg/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2MDk4NzJlOTcyMjQ1MmZhODY3YjNiNTE0Y2ZhNDQ0.webp",
           "category": "tűzvész",
           "author": null
         },
@@ -1830,19 +1939,19 @@
         {
           "title": "Eldurvulhat a közel-keleti háború – újabb államok léptek be a harcokba",
           "url": "https://www.origo.hu/kulpol/2026/07/ballisztikus-raketa-kozel-kelet-iran-egyesult-allamok",
-          "published": "2026-07-29T19:40:00+01:00",
-          "description": "Több országra is átterjedtek a harcok.",
-          "image": "https://cdn.origo.hu/2026/07/NjElJXXyVc8rkyxvVbuW5HZeQaATWTp1iCGiwaP5nng/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NhMDU1ZDUzMGExNTQ5Y2NhNjQwM2I0ZDZhODljMzNl.webp",
-          "category": "háború",
+          "published": "2026-07-29T17:40:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Külpolitika",
           "author": null
         },
         {
           "title": "Ha még sokáig nem lesz elég víz a Dunában, teljesen leállhat a paksi erőmű",
           "url": "https://www.origo.hu/belpol/2026/07/paksi-atomeromu-3-blokk-duna-vizszint-hohullam",
-          "published": "2026-07-29T19:37:00+01:00",
-          "description": "Magyar Péter szerint hazánk energiaellátása ez esetben is biztosított.",
-          "image": "https://cdn.origo.hu/2026/07/rVXdlR2XncerT_NEGGq_Ys9HGiUYqXzzW4AX1QAdWTg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MxZjQxMDIxYjcyNzQyYWFhNmNmNTljMmVkNWJkNjAz.webp",
-          "category": "MVM Paksi Atomerőmű Zrt",
+          "published": "2026-07-29T17:37:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1960,24 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Eleged van a kánikulából? Íme 5 hűsítő hazai úti cél, ahol garantált a felüdülés",
-          "url": "https://www.origo.hu/eletmod/2026/07/kanikula-idejen-kirandulasi-tippek",
-          "published": "2026-07-29T16:30:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Eletmod",
-          "author": null
-        },
-        {
-          "title": "Majdnem egy egész család odaveszett a rémisztő tenger vad sodrásában",
-          "url": "https://www.origo.hu/nagyvilag/2026/07/tengerpart-tragedia-csaladi-kirandulas-meghalt",
-          "published": "2026-07-29T16:25:26+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
