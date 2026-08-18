@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T18:55:40.791931+00:00",
+  "scraped_at": "2026-08-18T19:00:57.532319+00:00",
   "portals": [
     {
       "id": "telex",
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
       "article_count": 0,
       "articles": []
     },
@@ -1302,10 +1302,10 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "A nyíregyházi fogsában akasztotta fel magt egy 22 éves férfi, később a kórházban meghalt",
+          "title": "A nyíregyházi fogdában akasztotta fel magát egy 22 éves férfi, később a kórházban meghalt",
           "url": "https://hvg.hu/itthon/20260818_nyiregyhaza-fogda-ongyilkossag-rendorseg",
           "published": "2026-08-18T18:52:00+00:00",
-          "description": "Az elhunyt családja válaszokat követel a rendőrségtől, mivel az állításuk szerint a depresszióval, szorongással, bipoláris zavarral és epilepsziával küzdő férfi gyógyszereit bontatlanul kapták vissza, amiből arra gyanakszanak, hogy azokat nem is adták oda a fogvatartottnak.",
+          "description": "Az elhunyt családja válaszokat követel a rendőrségtől, mivel állításuk szerint a depresszióval, szorongással, bipoláris zavarral és epilepsziával küzdő férfi gyógyszereit bontatlanul kapták vissza, amiből arra gyanakszanak, hogy azokat nem is adták oda a fogvatartottnak.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/53578854-48d7-44fe-b80c-d6f9024475ac.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
