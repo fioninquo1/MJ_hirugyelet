@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T19:00:57.532319+00:00",
+  "scraped_at": "2026-08-18T19:05:43.804708+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "16 év után újra felcsendült a ValóVilág 4 ikonikus zenéje, Nádai Anikó és VV Béci spontán fakadt dalra",
+          "url": "https://index.hu/mindekozben/poszt/2026/08/18/valovilag-4-klikkesedjel-nadai-aniko-racz-bela-young-g/",
+          "published": "2026-08-18T19:02:14+00:00",
+          "description": "",
+          "image": "https://kep.index.hu/1/0/7107/71079/710797/71079743_092a4ea826ccd7f560898478f1c14f9f_wm.jpg",
+          "category": "Mindeközben",
+          "author": null
+        },
+        {
+          "title": "Ne ijedjen meg, ha szerda reggel vadászgépek és helikopterek dübörögnek a feje fölött",
+          "url": "https://index.hu/belfold/2026/08/18/legiparade-augusztus-20-foproba-magyar-honvedseg/",
+          "published": "2026-08-18T19:01:00+00:00",
+          "description": "Gripen vadászgépek, L–39NG Skyfox kiképző repülőgépek, szállítógépek, valamint H145M és H225M helikopterek is megjelenhetnek.",
+          "image": null,
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Napokon belül másodszorra esett össze a pályán a Bayern München futballistája",
           "url": "https://index.hu/sport/futball/2026/08/18/jamal-musiala-osszeeses-felkeszulesi-merkozes-bayern-munchen/",
           "published": "2026-08-18T18:47:00+00:00",
@@ -688,24 +706,6 @@
           "image": "https://kep.index.hu/1/0/7081/70811/708116/70811655_5222935_06a7565d3754bedd9a913c364a6ce935_wm.jpg",
           "category": "Belföld",
           "author": null
-        },
-        {
-          "title": "Óvakodjunk a mirelittől, a készételek depressziót és stroke-ot okozhatnak",
-          "url": "https://index.hu/tudomany/2026/08/18/ultra-feldolgozott-elelmiszer-egeszseg-depresszio-szorongas-demencia/",
-          "published": "2026-08-18T15:27:00+00:00",
-          "description": "És nem csak a hamburger, a csecsemőtápszer is.",
-          "image": "https://kep.index.hu/1/0/7084/70841/708417/70841731_5225107_ea2fe284e83715a806595ca4dda21369_wm.jpg",
-          "category": "Tudomány",
-          "author": null
-        },
-        {
-          "title": "Összetört és kitálalt a válásáról: Guardiola drámai beszédet tartott a Citynél",
-          "url": "https://index.hu/sport/futball/2026/08/18/pep-guardiola-valas-manchester-city-dokumentumfilm-premier-league-tavozas/",
-          "published": "2026-08-18T15:26:00+00:00",
-          "description": "Eddig nem látott felvételek kerültek ki az internetre.",
-          "image": "https://kep.index.hu/1/0/7108/71081/710814/71081473_5242139_a8e17b57cdce25140b9d7e3faf51e8b5_wm.jpg",
-          "category": "Futball",
-          "author": null
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
       "status": "error",
-      "error": "ClientResponseError: 504, message='Gateway Timeout', url='https://magyarnemzet.hu/feed'",
+      "error": "TimeoutError: ",
       "article_count": 0,
       "articles": []
     },
@@ -1621,6 +1621,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Dráma a Bayern Münchennél – Musiala ismét összeesett a pályán",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/08/musiala-bayern-munchen-drama-osszeeses",
+          "published": "2026-08-18T21:03:00+01:00",
+          "description": "A müncheni klubnál tudják, mi történt, de titkolóznak.",
+          "image": "https://cdn.origo.hu/2026/08/rt1l8SluBrgNMxucNbSKlavd1cVxYoqIvy8cylmkTUw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZhNzMxZmQ2ZDZlOTQyZTZhOTFkZGFlOGMwODRlODcz.webp",
+          "category": "FC Bayern München",
+          "author": null
+        },
+        {
+          "title": "Lépfene ütötte fel a fejét Borsodban, a honvédség segítségét is kérték",
+          "url": "https://www.origo.hu/nagyvilag/2026/08/lepfene-borsodban-honvedseg",
+          "published": "2026-08-18T20:59:00+01:00",
+          "description": "Nem szabad felboncolni az elhullott állatokat, erre figyelmeztet a Nébih.",
+          "image": "https://cdn.origo.hu/2026/08/s1y4vN_Mh7k97debS9xIdk_sVO3cEeKZ5FQ6Bxtw97g/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E5ODZjYWRiMjZiZjQyZDc4YTA4NmJkODllN2NhOTg3.webp",
+          "category": "borsodban",
+          "author": null
+        },
+        {
           "title": "Magyar kutatók is részt vettek a felfedezésben, amely megfejtheti az anyag egyik nagy rejtélyét",
           "url": "https://www.origo.hu/tudomany/2026/08/barionszam-anyag-rejtely-magyar-kutatok",
           "published": "2026-08-18T20:47:00+01:00",
@@ -1695,19 +1713,19 @@
         {
           "title": "Autópályán száguldva versenyzett két nő, halálra gázoltak egy 17 éves motorost",
           "url": "https://www.origo.hu/nagyvilag/2026/08/baleset-autopalya-versenyzes-gazolas",
-          "published": "2026-08-18T19:52:00+01:00",
-          "description": "A fiút az ütközés ereje ledobta a motorról, amely végül az egyik kocsi alá szorult, a másik autó pedig felborult, és a tetején állt meg.",
-          "image": "https://cdn.origo.hu/2026/08/CQaPNIFQfWYiPDyv5fl6-a3VqQUv6Uwog1ye1-s8VBg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjYjk3YjVlNTZmNzRhNDg5NThkMmM0MzE4MjlhZTEw.webp",
-          "category": "baleset",
+          "published": "2026-08-18T17:52:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
           "title": "Beszéljünk a szifiliszről! A betegség, amelyet a szégyen tartott életben",
           "url": "https://www.origo.hu/eletmod/2026/08/szifilisz-terjedese-kezelese",
-          "published": "2026-08-18T19:45:00+01:00",
-          "description": "",
-          "image": "https://cdn.origo.hu/2026/08/tnZiT1pUk2WL4BLq8m_BIoWU2IbwNcxNNoQKhhxfOgo/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk0N2Q0NGQxYzFiYzQxNDBhNDg4MjJhYmFlY2Y0NDk1.webp",
-          "category": "szifilisz",
+          "published": "2026-08-18T17:45:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Eletmod",
           "author": null
         },
         {
@@ -1825,24 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Autó",
-          "author": null
-        },
-        {
-          "title": "Szemétfalut építettek Ceuta partján a migránsok, mecsetet is állítottak tejesdobozokból – galéria",
-          "url": "https://www.origo.hu/kulpol/2026/08/ceuta-migransok-szemetfalu-galeria",
-          "published": "2026-08-18T16:28:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Külpolitika",
-          "author": null
-        },
-        {
-          "title": "Robbanás történt egy ösküi házban, lőszereket is találtak",
-          "url": "https://www.origo.hu/kek-hirek/2026/08/osku-robbanas-csaladi-haz",
-          "published": "2026-08-18T16:22:12+00:00",
-          "description": null,
-          "image": null,
-          "category": "Kék hírek",
           "author": null
         }
       ]
