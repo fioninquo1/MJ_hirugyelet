@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-29T06:10:51.751074+00:00",
+  "scraped_at": "2026-08-29T06:15:30.276386+00:00",
   "portals": [
     {
       "id": "telex",
@@ -10,6 +10,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Kísérletek egy egész jó burekhez (ami sosem lesz olyan, mint a Balkánon)",
+          "url": "https://telex.hu/gasztro/2026/08/29/burek-recept-horvat",
+          "published": "2026-08-29T06:11:16+00:00",
+          "description": "Ha másnak is hiányzik a jó burek a hazai péksüteményszcénából, az próbálkozzon otthon, egész jó eredményeket lehet elérni. Bár tény, hogy sok zsír kell hozzá.",
+          "image": "https://assets.telex.hu/images/20260826/1787758385-temp-vljhcjme2mhs8haicdl_cimlap-normal.jpg",
+          "category": "Gasztro",
+          "author": "Ács Bori"
+        },
         {
           "title": "Trump tényleg rátette a kezét Venezuela olajkészleteinek nagy részére egy példátlan megállapodással",
           "url": "https://telex.hu/kulfold/2026/08/29/venezuela-olaj-megallapodas-trump-egyesult-allamok",
@@ -225,15 +234,6 @@
           "image": "https://assets.telex.hu/images/20260827/1787817877-temp-hdmn480dicp2cnhkime_cimlap-normal.jpg",
           "category": "Könyvespolc",
           "author": "Vass Norbert"
-        },
-        {
-          "title": "„A maffia elleni küzdelemre vállalkoztak”– rendőri védelmet kapnak a vagyonvisszaszerzési hivatal vezetői",
-          "url": "https://telex.hu/belfold/2026/08/28/rendori-vedelem-vezetok-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-maffia",
-          "published": "2026-08-28T15:11:20+00:00",
-          "description": "Magyar Péter szerint a legveszélyesebb feladatról van szó.",
-          "image": "https://assets.telex.hu/images/20260828/1787929687-temp-srsc78iecn185pekgmk_cimlap-normal.jpg",
-          "category": "Belföld",
-          "author": "Szántó-Nagy Bálint"
         }
       ]
     },
@@ -721,7 +721,7 @@
         {
           "title": "Az egyetlen nő minden férfit lekörözött Budapesten, semmit nem ért vele",
           "url": "https://magyarnemzet.hu/sport/2026/08/beau-greaves-hungarian-darts-trophy-major-nandor-kadar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-08-29T05:46:43+00:00",
+          "published": "2026-08-29T06:14:06+00:00",
           "description": "Pénteken először nyert két magyar dartsjátékos is egy fordulón belül.",
           "image": "https://cdn.magyarnemzet.hu/2026/08/oqnAwTuojCcrNCtNn16KEYgbr2aTslPG0WBCO5xF-Fg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNmMWQ2ZjYzOGMwMjQ5NjlhODY2NzM3MTRjNDM3MjEz.jpg",
           "category": "sport",
@@ -1528,6 +1528,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A nepáli árvíz után kimentett 97 éves nő úgy nézett ki, mint egy „harcos”, aki győztesen tér vissza a csatából",
+          "url": "https://hvg.hu/elet/20260829_nepal-arviz-katasztrofa-97-eves-no-mentese",
+          "published": "2026-08-29T06:11:39+00:00",
+          "description": "Elképesztő felvételek örökítették meg a mentést.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f0cbbe3f-8dbc-4b2b-9a15-be4c366f9832.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "39 mesterséges édesítőt megvizsgálva derült csak ki, melyik mit okoz a bélben",
           "url": "https://hvg.hu/tudomany/20260829_mesterseges-edesitoszerek-hatasa-a-belmikrobiomra",
           "published": "2026-08-29T06:03:00+00:00",
@@ -1742,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6aed9620-e3b3-468b-b016-6afa26259015.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Jakab Péter bejelentette a visszatérését",
-          "url": "https://hvg.hu/itthon/20260828_jakab-peter-visszater-miskolc-kozgyules",
-          "published": "2026-08-28T15:28:55+00:00",
-          "description": "A miskolci közgyűlés tagja lesz a poltikus.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/97f8a46a-b374-46f3-9269-4d3718b6d861.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1760,7 +1760,7 @@
       "url": "https://kontroll.hu",
       "color": "#22c55e",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
       "article_count": 0,
       "articles": []
     },
