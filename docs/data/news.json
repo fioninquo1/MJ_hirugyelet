@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-09-03T05:20:33.260331+00:00",
+  "scraped_at": "2026-09-03T05:25:33.508286+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 404, message='Not Found', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Folytatódik az adok-kapok: Lavrov bejelentette, bezárják a Goethe Intézet oroszországi kirendeltségeit",
+          "url": "https://telex.hu/kulfold/2026/09/03/szergej-lavrov-goethe-intezet-bezaras-oroszorszag-nemetorszag",
+          "published": "2026-09-03T04:33:03+00:00",
+          "description": "Válaszul arra, hogy Németország bezáratja a Berlinben működő Orosz Ház kulturális központot.",
+          "image": "https://assets.telex.hu/images/20260903/1788409152-temp-f9j3q6719sedbhigbki_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Egy friss bírósági ítélet szerint nem kötelezhetik a Google-t, hogy leválassza online hirdetési üzletágát",
+          "url": "https://telex.hu/techtud/2026/09/03/google-online-hirdetes-uzletag-trosztellenes-jogszabalyok-birosag-dontes",
+          "published": "2026-09-03T04:04:40+00:00",
+          "description": "A Biden-kormányzat 17 állammal együtt még 2023-ban indított pert a Google ellen, mondván, a vállalat visszaélt hirdetési monopóliumával az online hirdetéstechnológiai piacon.",
+          "image": "https://assets.telex.hu/images/20260903/1788406331-temp-s2490ob4sf1ocllgaae_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "A hatvanas években még azt hitték, a Stonehenge az őskor szuperszámítógépe volt",
+          "url": "https://telex.hu/eszkombajn/2026/09/03/stonehenge-oskor-szamitogep-hiedelem",
+          "published": "2026-09-03T03:01:32+00:00",
+          "description": "A számítógépes metafora remekül hangzott abban az időszakban, az elmélet ennek megfelelően évtizedekig nagy hatású volt, mára azonban a régészeti kutatások nagyrészt megcáfolták.",
+          "image": "https://assets.telex.hu/images/20260902/1788349862-temp-gpshampmh2i1bfhnjij_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Itt vannak az ország legfejlettebb települései",
+          "url": "https://telex.hu/gazdasag/2026/09/03/egyensuly-intezet-telepulesindex-leggazdagabb-legszegenyebb-telepules",
+          "published": "2026-09-03T03:01:23+00:00",
+          "description": "Az Egyensúly Intézet Településindexe szerint óriásiak a különbségek a magyar falvak és városok között. Felcsút pár év alatt több tucat helyet ugorva tört az élre, a nagyvárosok között pedig Miskolc tarol.",
+          "image": "https://assets.telex.hu/images/20260902/1788360556-temp-387191mb8bmefegfhak_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Nyélgázzal égettek el 10 milliárdot, aztán jött a nagy állami bukás a motorsportban",
+          "url": "https://telex.hu/g7/vallalat/2026/09/03/motogp-motorsport-versenypalya-balaton-circuit-humda-allami-tamogatas",
+          "published": "2026-09-03T02:50:01+00:00",
+          "description": "Sikertelen kísérletek után a balatonfőkajári pálya adhatott otthont MotoGP-futamoknak, masszív állami részvétellel. Jövőre azonban nem lesz magyar futam, az érintett állami céget pedig felszámolják.",
+          "image": "https://assets.telex.hu/images/20260826/1787733792-temp-s499giclciph3imoeib_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Bucsky Péter"
+        },
+        {
+          "title": "Az NBA történetének legnagyobb bírságát kapta a Clippers Kawhi Leonard hatalmas juttatásai miatt",
+          "url": "https://telex.hu/sport/2026/09/03/egyesult-allamok-nba-kosarlabda-buntetes-birsag-clippers-kawhi-leonard",
+          "published": "2026-09-02T22:08:17+00:00",
+          "description": "Megszegték a fizetési plafont, hogy a játékos több pénzhez juthasson.",
+          "image": "https://assets.telex.hu/images/20260902/1788385804-temp-na534eku6b3d0nablfp_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Válságra készül Hollandia, 86 tonna aranyat visz át Londonba a jegybank",
+          "url": "https://telex.hu/gazdasag/2026/09/02/valsagra-keszul-hollandia-86-tonna-aranyat-helyez-londonba-a-jegybank",
+          "published": "2026-09-02T21:08:44+00:00",
+          "description": "Geopolitikai bizonytalanságra hivatkoznak.",
+          "image": "https://assets.telex.hu/images/20260902/1788383296-temp-oed8t5rv10fg8kjlfbl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Pegasus kémprogrammal figyelhették meg a szerb diáktüntetések szervezőit",
+          "url": "https://telex.hu/kulfold/2026/09/02/pegasus-kemprogrammal-figyelhettek-meg-a-szerb-diaktuntetesek-szervezoit",
+          "published": "2026-09-02T20:24:55+00:00",
+          "description": "Több mint egy tucat diákaktivista és ellenzéki politikus telefonján találták meg valamilyen kémszoftver nyomait, köztük a Magyarországon is bevetett Pegasust.",
+          "image": "https://assets.telex.hu/images/20260902/1788380593-temp-s1jc5fi2cgdt9lfooff_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Sajó Dávid"
+        },
+        {
+          "title": "Egy spanyol jelentés szerint Marokkó szándékosan terelte Ceuta felé az embereket",
+          "url": "https://telex.hu/kulfold/2026/09/02/a-spanyol-hatosagok-szerint-marokko-szandekosan-terelte-ceuta-fele-az-embereket",
+          "published": "2026-09-02T20:09:42+00:00",
+          "description": "Eszerint a bevándorlási hullámmal túl akarták terhelni a határellenőrzést.",
+          "image": "https://assets.telex.hu/images/20260902/1788379631-temp-qqnnmrtn4anqeopknjl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Az oroszok most jelzik a németeknek, hogy beleállnak, nem riadnak vissza a további eszkalációtól",
+          "url": "https://telex.hu/kulfold/2026/09/02/lipcse-repuloter-dron-oroszorszag-felelosseg-nemetorszag-eu-szankciok-orosz-legter",
+          "published": "2026-09-02T20:03:57+00:00",
+          "description": "A németek kimondták, hogy orosz megbízásból kísérelhettek meg egy meghiúsult támadást a lipcsei repülőtéren augusztusban. Németország erős diplomáciai lépésekkel reagált, de az árnyékflottára is lecsaphatnak. Az oroszok beleállnak a konfliktusba, amivel tesztelik, hogy meddig mennek el a németek.",
+          "image": "https://assets.telex.hu/images/20260902/1788358312-temp-fs76v27b1gmi8iggaoc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Több kuflit, kisebb büdzsét akar a közmédiában a magát golyóállónak tartó új testület",
+          "url": "https://telex.hu/after/2026/09/02/fuggetlen-kozmedia-testulet-bayer-judit-budzse-szerkesztes-dezinformacio-gyerekmusorok",
+          "published": "2026-09-02T19:10:46+00:00",
+          "description": "Biztosan lesz befolyásolási kísérlet, de annak ellen kell állni – ezt vallják a Független Közmédia Testület leendő tagjai, akik kevesebb pazarlást, erősebb online jelenlétet, több minőségi gyerek- és ifjúsági műsort és megbízható hírszolgáltatást várnak az új vezetéstől.",
+          "image": "https://assets.telex.hu/images/20260902/1788370155-temp-sn1hgnst4copfbpcdie_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "Donald Tusk szerint szabotázs okozta az EU legnagyobb dróngyártójának lengyel üzemében történt tüzet",
+          "url": "https://telex.hu/kulfold/2026/09/02/donald-tusk-dron-gyar-tuz-gyujtogatas-oroszorszag-szabotazs",
+          "published": "2026-09-02T19:10:37+00:00",
+          "description": "A lengyel miniszterelnök arra is utalt, hogy az akciót Oroszország megbízásából hajthatták végre.",
+          "image": "https://assets.telex.hu/images/20260902/1788375263-temp-97c542furi6f1ddkhig_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Tűzpárbaj alakult ki Ukrajna két fontos titkosszolgálata között Kijevben",
+          "url": "https://telex.hu/kulfold/2026/09/02/ukrajna-kijev-sbu-biztonsagi-szolgalat-katonai-hirszerzes-lovoldozes-serultek",
+          "published": "2026-09-02T18:53:14+00:00",
+          "description": "Többen megsérültek, a lövöldözés háttere még tisztázatlan.",
+          "image": "https://assets.telex.hu/images/20260902/1788374282-temp-glirrqlq71jecnhlnka_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Az amerikai bíróság szerint nem lehet levédetni a reggaeton legalapvetőbb ritmusképletét",
+          "url": "https://telex.hu/after/2026/09/02/az-amerikai-birosag-szerint-nem-lehet-levedetni-a-reggeaton-legalapvetobb-ritmuskepletet",
+          "published": "2026-09-02T18:38:24+00:00",
+          "description": "Két jamaicai producer egy közel 40 évvel ezelőtti dalukra hivatkozva indított pert Bad Bunny-, Pitbull- és Justin Bieber-dalok miatt.",
+          "image": "https://assets.telex.hu/images/20260902/1788374163-temp-spdpbs4hnviq9emcfhh_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Sajó Dávid"
+        },
+        {
+          "title": "Olivia Rodrigo tökéletesen megmutatta, hogyan kell jó célra használni a hírnevet",
+          "url": "https://telex.hu/after/2026/09/02/olivia-rodrigo-daisy-chain-fields-fesztival-csak-noi-fellepokkel-a-bevetel-nojogi-szervezetek-megy",
+          "published": "2026-09-02T18:13:33+00:00",
+          "description": "Az énekes csak női előadókat felvonultató fesztiválján nem kevesebb mint 20 millió dollár gyűlt össze, a teljes összeget női jogokkal foglalkozó szervezeteknek ajánlották fel. A Patent Egyesület reproduktív jogi koordinátora szerint inspiráló lehet a Daisy Chain Fields sikere.",
+          "image": "https://assets.telex.hu/images/20260901/1788259084-temp-32ct0dp5c9vf1eicnme_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "Trump tizedére csökkentette két természetvédelmi terület méretét, a Patagonia bíróságon támadja meg a döntést",
+          "url": "https://telex.hu/kulfold/2026/09/02/patagonia-donald-trump-per-bears-ears-nemzeti-emlekmu",
+          "published": "2026-09-02T18:06:38+00:00",
+          "description": "Az amerikai elnök ezzel már első ciklusában, 2017-ben is megpróbálkozott, de Joe Biden végül visszavonta a döntést.",
+          "image": "https://assets.telex.hu/images/20260902/1788371801-temp-n5332goemefs0mcnbip_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "A háziorvosok kedvence lehet a Huawei új okosórája",
+          "url": "https://telex.hu/techtud/2026/09/02/huawei-watch-6-gt-7-d3-okosora-vernyomasmeres-matepad-pro-12-inch-freebuds-neo-munchen",
+          "published": "2026-09-02T17:47:47+00:00",
+          "description": "Három új okosóramodellt mutatott be a Huawei Münchenben, közülük az egyik a régóta várt vérnyomásmérős D2 továbbfejlesztett változata. A kínai gyártó sok hardveres fejlesztést nem tudott belerakni az eszközökbe, de a dizájn nagyon csinos, és ami még fontosabb: csukló felé fordítható szíjvégek!",
+          "image": "https://assets.telex.hu/images/20260902/1788364139-temp-g1qsuk4qba6s5keipni_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Köszi, RTL, ezt a menüt inkább nem kérem",
+          "url": "https://telex.hu/after/2026/09/02/rtl-most-wanted-a-hajsza-masodik-evad-kritika",
+          "published": "2026-09-02T17:39:25+00:00",
+          "description": "Az RTL-en futó Most Wanted második évada rengeteg túlhasznált influenszert szerepeltet, hatalmas hirdetőtáblát csinált magából, de még így is nézhető tud maradni.",
+          "image": "https://assets.telex.hu/images/20260902/1788352514-temp-5u4ser4659gf1pcpdjm_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "A valaha mért legmelegebb hónap volt itthon az idei augusztus",
+          "url": "https://telex.hu/belfold/2026/09/02/a-valaha-mert-legmelegebb-honap-volt-itthon-az-idei-augusztus",
+          "published": "2026-09-02T17:24:01+00:00",
+          "description": "24,9 Celsius-fok volt az augusztusi középhőmérséklet.",
+          "image": "https://assets.telex.hu/images/20260902/1788369715-temp-ins5pghcsv1h9efcnnn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Brazíliában bevezették a Taylor Swift-törvényt",
+          "url": "https://telex.hu/after/2026/09/02/braziliaban-bevezettek-a-taylor-swift-torvenyt",
+          "published": "2026-09-02T17:22:13+00:00",
+          "description": "Egy három évvel ezelőtti haláleset miatt mostantól minden 1000 fősnél nagyobb rendezvényhelyszínnek biztosítania kell az ingyenes vízhez jutást a nézőknek.",
+          "image": "https://assets.telex.hu/images/20260902/1788369541-temp-4j6fi5jj1bvcfglllma_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Sajó Dávid"
+        },
+        {
+          "title": "Nem zavarta őket az árvíz, derékig érő vízben tartott esküvőt egy pár a Fülöp-szigeteken",
+          "url": "https://telex.hu/kulfold/2026/09/02/fulop-szigetek-eskuvo-arviz",
+          "published": "2026-09-02T16:50:44+00:00",
+          "description": "Azt a tanácsot kapták, hogy várjanak. Nem vártak.",
+          "image": "https://assets.telex.hu/images/20260902/1788367138-temp-opbgmdm16rtu4chhnef_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A CÖF szerint lehet, hogy Magyarország már nem is létezik",
+          "url": "https://telex.hu/zacc/2026/09/02/cof-coka-magyarorszag-lehet-mar-nem-is-letezik",
+          "published": "2026-09-02T16:38:29+00:00",
+          "description": "A Békemenet szervezői szerint vége a régi rendnek, a jogi védelem már nem is létezik.",
+          "image": "https://assets.telex.hu/images/20260902/1788366838-temp-lkcfv8ib0r440ohjkgb_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Kallas: Széleskörűen támogatják az uniós kormányok az orosz vízumok korlátozását",
+          "url": "https://telex.hu/kulfold/2026/09/02/eu-europai-unio-tanacsa-kallas-oroszorszag-vizum",
+          "published": "2026-09-02T16:36:22+00:00",
+          "description": "Antonio Tajani olasz külügyminiszter azt ígérte, ellenőrizni fogják, Olaszországtól kapott turistavízummal jött-e az EU-ba a lipcsei támadáskísérlet egyik, belarusz–orosz gyanúsítottja.",
+          "image": "https://assets.telex.hu/images/20260902/1788366372-temp-df8599paa5fgclkcmfc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Elindult a nyomozás Orbán Viktor közösségi médiás szerződései miatt",
+          "url": "https://telex.hu/belfold/2026/09/02/kaminski-fanny-orban-viktor-facebook-feljelentes-buntetoeljaras",
+          "published": "2026-09-02T16:34:44+00:00",
+          "description": "A volt miniszterelnök sajtótanácsadójaként ismert Kaminski Fanny cégénél több mint 4 milliárd forint landolt. A Nemzeti Nyomozó Iroda hűtlen kezelés miatt indított büntetőeljárást, miután a Miniszterelnökség augusztusban ismeretlen tettes ellen tett feljelentést.",
+          "image": "https://assets.telex.hu/images/20260902/1788344406-temp-b2o2h8dman7f8ombanc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Az új előzetese alapján a filmnél sokkal részletesebben dolgozza fel az első regényt a Harry Potter-sorozat",
+          "url": "https://telex.hu/after/2026/09/02/az-uj-elozetese-alapjan-kifejezett-igeretesnek-nez-ki-a-harry-potter-sorozat",
+          "published": "2026-09-02T16:32:28+00:00",
+          "description": "Karácsonykor érkezik az HBO idei nagy dobása streamingre.",
+          "image": "https://assets.telex.hu/images/20260902/1788366415-temp-2pugs77tpggk0lbnjaa_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Sajó Dávid"
+        }
+      ]
     },
     {
       "id": "444",
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Férfi egyesben nem maradt magyar a US Openen",
+          "url": "https://24.hu/sport/2026/09/03/tenisz-us-open-marozsan-fabian-kiesese/",
+          "published": "2026-09-03T07:19:00+01:00",
+          "description": "Marozsán Fábián elbukta az eső miatt félbeszakadt meccsét.",
+          "image": "https://s.24.hu/app/uploads/2026/09/marozsan-fabian-320x180.jpg",
+          "category": "Sport",
+          "author": "24.hu"
+        },
+        {
           "title": "Sokkal pontosabbá válhat az időjárás-előrejelzés Magyarországon egy új műholdnak köszönhetően",
           "url": "https://24.hu/tech/2026/09/03/magyarorszag-idojaras-elorejelzes-europa-mtg-i2/",
           "published": "2026-09-03T07:01:00+01:00",
@@ -1109,13 +1344,13 @@
           "author": "Kerner Zsolt"
         },
         {
-          "title": "Kigyulladt egy társasház Budapesten, tíz embert, köztük hét gyereket kórházba vittek",
-          "url": "https://24.hu/belfold/2026/09/02/tarsashaz-tuz-budapest-xviii-kerulet-breaking/",
-          "published": "2026-09-02T20:53:00+01:00",
-          "description": "Az épületben található 32 lakásból 43 embernek kellett elhagynia az otthonát.",
-          "image": "https://s.24.hu/app/uploads/2026/09/central-0803252762-9-320x180.jpg",
+          "title": "CÖF-CÖKA: Talán nem túlzás részünkről a megállapítás, hogy Magyarország felszámolás alatt áll. De lehet, hogy már nem is létezik",
+          "url": "https://24.hu/belfold/2026/09/02/cof-evnyito/",
+          "published": "2026-09-02T20:33:00+01:00",
+          "description": "Évadnyitót hirdetett a Békemenetet szervező alapítvány.",
+          "image": "https://s.24.hu/app/uploads/2026/09/central-1084071552-e1788373999999-320x180.jpg",
           "category": "Belföld",
-          "author": "Vaskor Máté"
+          "author": "Kerner Zsolt"
         },
         {
           "title": "Viszlát, és kösz a halakat! – Izland nem kér az EU-tagságból",
@@ -1177,15 +1412,6 @@
           "published": "2026-09-02T18:45:00+01:00",
           "description": "A közbeszerzési eljárás mellőzésével megbízott cég tulajdonosa az Orbán Viktor sajtótanácsadójaként ismert Kaminski Fanny.",
           "image": "https://s.24.hu/app/uploads/2026/09/central-1109949311-e1788367532851-320x180.jpg",
-          "category": "Belföld",
-          "author": "Vaskor Máté"
-        },
-        {
-          "title": "Elutasította az ügyészség az államtitkárok kifizetetlen járandóságai miatt tett feljelentést",
-          "url": "https://24.hu/belfold/2026/09/02/allmatiktarok-kifizetetlen-jarandosagok-feljelentes-elutasitas/",
-          "published": "2026-09-02T18:37:00+01:00",
-          "description": "Egy magyar állampolgár aláírással érkezett be a feljelentés.",
-          "image": "https://s.24.hu/app/uploads/2026/09/central-0858339607-e1788367020867-320x180.jpg",
           "category": "Belföld",
           "author": "Vaskor Máté"
         }
@@ -1301,6 +1527,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "30 millió forint alatt nyit itthon a 680 lóerős triplamotoros új Mercedes-AMG",
+          "url": "https://hvg.hu/cegauto/20260903_30-millio-forint-alatt-nyit-itthon-a-680-loeros-triplamotoros-uj-mercedes-amg-cla-45",
+          "published": "2026-09-03T05:21:00+00:00",
+          "description": "A teljesen elektromos hajtású Mercedes-AMG CLA 45 kétféle karosszériával érhető el.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/674cdd22-8ecc-495c-b472-7bbbb049b30f.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Bezárják a német Goethe Intézet oroszországi kirendeltségeit",
           "url": "https://hvg.hu/vilag/20260903_goethe-intezet-bezaras-oroszorszag-nemetorszag",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/de8498f3-faf6-4b71-9829-58447b9de267.jpg",
           "category": "Világ",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Meghalt Rusznyák József olimpikon birkózó",
-          "url": "https://hvg.hu/sport/20260902_birkozas-halalhir-rusznyak-jozsef",
-          "published": "2026-09-02T16:44:07+00:00",
-          "description": "Rusznyák József az 1968-as mexikói olimpián kötött- és szabadfogásban is szőnyegre lépett.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ef8c07fb-2f8e-4d2b-8c74-9a29c892d8e8.jpg",
-          "category": "Sport",
-          "author": "szerzo@hvg.hu (MTI)"
         }
       ]
     },
