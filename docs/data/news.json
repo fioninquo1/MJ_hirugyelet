@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-09-10T16:05:25.747486+00:00",
+  "scraped_at": "2026-09-10T16:10:36.113354+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 404, message='Not Found', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Donald Tusk bejelentette, hogy elhárítottak egy potenciális veszélyt az egyik lengyel-ukrán határátkelőnél",
+          "url": "https://telex.hu/kulfold/2026/09/10/donald-tusk-v4-csucs-lengyel-ukran-hatar-fenyegetes-elharitas-oroszorszag",
+          "published": "2026-09-10T16:03:37+00:00",
+          "description": "A lengyel miniszterelnök szerint fel kell készülni az Oroszország felől érkező provokációkra.",
+          "image": "https://assets.telex.hu/images/20260910/1789056191-temp-ahma7otfsqm3cfkhgnj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "A kurzusfilmeknél azért több embert érdekel, ha Ember Márk csókolózik valakivel",
+          "url": "https://telex.hu/after/2026/09/10/jakab-juli-kovesi-zsombor-georgita-mate-dezso-telex-szuletesnap-szinhaz-film",
+          "published": "2026-09-10T16:02:28+00:00",
+          "description": "A színház nem lehet az elit hóbortja, az meg jó, hogy a magyar romkomok hatására újra járnak moziba az emberek – a Telex 6. születésnapján Jakab Juli, Kövesi Zsombor és Georgita Máté Dezső színészekkel beszélgettünk a magyar film és színház jövőjéről a kormányváltás után.",
+          "image": "https://assets.telex.hu/images/20260909/1788966316-temp-me43kcdk4cjbcjadfbd_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "Az MNV egykori vezérigazgatóját is meggyanúsították a Volánbuszok túlárazása miatt",
+          "url": "https://telex.hu/gazdasag/2026/09/10/volnanbusz-tularazas-gyanusitas-rendorseg-nyomozas-kihallgatas",
+          "published": "2026-09-10T15:59:42+00:00",
+          "description": "Összesen nyolc korábbi vezetőt gyanúsítottak meg a nyomozók, házkutatásokat is tartottak. A gyanú szerint 2015 és 2018 között a Volánnál körülbelül 10 milliárd forintos kár keletkezett, miután használt autóbuszokat túlárazással szereztek be.",
+          "image": "https://assets.telex.hu/images/20260910/1789055353-temp-6s6bjblcmijj9kmkdml_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Nem a gyorsaságra, hanem a hitelességre kell fókuszálnia az új közmédiának",
+          "url": "https://telex.hu/belfold/2026/09/10/political-calpital-mertek-mediaelemzo-muhely-kozmedia-dezinformacio",
+          "published": "2026-09-10T15:32:23+00:00",
+          "description": "Legalábbis a Political Capital és a Mérték Médiaelemző műhely elemzése szerint.",
+          "image": "https://assets.telex.hu/images/20260910/1789054310-temp-shcir6m0smga4ipicja_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "A börtönőröknek is jár egy nap szabadság a születésnapjukon",
+          "url": "https://telex.hu/belfold/2026/09/10/a-bortonoroknek-is-jar-el-nap-szabadsag-a-szuletesnapjukon-bvop-orszagos-parancsnok-utasitas-belugyminiszterium",
+          "published": "2026-09-10T15:22:18+00:00",
+          "description": "Az országos parancsnok utasítása szeptember 15-én lép hatályba.",
+          "image": "https://assets.telex.hu/images/20260910/1789053623-temp-ea5ukhrlfrgd6npfheg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Eladja a Gránit Bankban lévő részesedésének egy részét a BDPST",
+          "url": "https://telex.hu/gazdasag/2026/09/10/granit-bank-tiborcz-istvan-magnet-bank-reszesedes",
+          "published": "2026-09-10T15:22:05+00:00",
+          "description": "Tiborcz István cégcsoportja még 2021-ben vásárolt részesedést a bankban.",
+          "image": "https://assets.telex.hu/images/20260910/1789053355-temp-au5rmkfbohj8eflkpnd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "2,5 százalékra emelte az alapkamatot az Európai Központi Bank",
+          "url": "https://telex.hu/gazdasag/2026/09/10/kamatemeles-europai-kozponti-bank-szeptember-kamatszint-alapkamat",
+          "published": "2026-09-10T14:35:05+00:00",
+          "description": "A Magyar Nemzeti Bank nemrég minikamatvágási ciklusba kezdett, szeptemberben újragondolják, folytassák-e a kamatcsökkentést.",
+          "image": "https://assets.telex.hu/images/20260910/1789050724-temp-gujoj1d1p1s1agjppki_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Nem vegánnak való vidék",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/09/10/nem-vegannak-valo-videk-markovics-botond-bionautak",
+          "published": "2026-09-10T14:23:03+00:00",
+          "description": "Horrorisztikus jelenetekkel és húscafatokkal tálalva vet fel bioetikai kérdéseket Markovics Botond regénye, fogyasztását húsfóbiásoknak semmiféleképp sem ajánlja kritikusunk. A könyv sztorija azonban olyan erős, hogy nem csak a sci-fi-rajongóknak érdemes belelapozniuk.",
+          "image": "https://assets.telex.hu/images/20260909/1788946122-temp-dmu4rvnge2tf8ehebhf_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Nagy Judit Áfonya"
+        },
+        {
+          "title": "70 kerékpáros sisakból 19 elhasalt az uniós ütéscsillapítási teszteken",
+          "url": "https://telex.hu/szepkilatas/2026/09/10/kerekparos-sisakok-tesztje-sok-hibas-rossz-minoseg",
+          "published": "2026-09-10T14:22:11+00:00",
+          "description": "Még többel egyéb bajok vannak: öt sportsisakot azonnal kivonattak az uniós piacokról, 14-et visszahívattak, nyolcra pedig értékesítési tilalmat mondtak ki.",
+          "image": "https://assets.telex.hu/images/20260910/1789049684-temp-0ekfmdklph686halgdj_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Vitatja a Ryanair, hogy félig kilógott egy utas a gépből, aminek menet közben betört az ablaka",
+          "url": "https://telex.hu/kulfold/2026/09/10/vitatja-a-ryanair-hogy-kilogott-egy-utas-a-gepbol-aminek-betort-az-ablaka",
+          "published": "2026-09-10T14:20:05+00:00",
+          "description": "A légitársaság vezérigazgatója azt mondta, nem akarja kisebbíteni az eset súlyosságát, de megvárná az ügyben folytatott vizsgálat eredményét.",
+          "image": "https://assets.telex.hu/images/20260910/1789049900-temp-jn97hcv74gi7empbgfh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "2001. szeptember 11. legbefogadóbb kanadai városa hallani sem akar az amerikai nagykövetről",
+          "url": "https://telex.hu/kulfold/2026/09/10/gander-kanada-uj-fundland-szeptember-11-pete-hoekstra-amerikai-nagykovet",
+          "published": "2026-09-10T14:06:26+00:00",
+          "description": "A terrortámadások miatt Gander városkájában ragadt anno 6000 légiutas, és a nagylelkű lakosok most fújnak a kereskedelmi háborút indított Amerikára.",
+          "image": "https://assets.telex.hu/images/20260910/1789048919-temp-7buj7hfdi5umdigfekd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Négyéves csúcson a gázár, magyar állami százmilliárdok sorsa múlik a beszerzés időzítésén",
+          "url": "https://telex.hu/g7/kozelet/2026/09/10/foldgaz-futes-mvm-energiavalsag-hormuz-tozsdei-ar-tarolo",
+          "published": "2026-09-10T13:48:32+00:00",
+          "description": "Az iráni háború előtti szint többszörösére drágult a földgáz a tőzsdén, ami jelentősen növeli a fűtési szezonra készülő országok költségeit. Itthon az MVM szerződésein és döntésein múlik sok minden.",
+          "image": "https://assets.telex.hu/images/20260910/1789042260-temp-mfttgu166hk8akimila_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Szabó Milán"
+        },
+        {
+          "title": "Kóka János: Nem omlott össze a magyar egészségügy, ennél rosszabb történt, hozzászoktunk a rossz működéséhez",
+          "url": "https://telex.hu/belfold/2026/09/10/koka-janos-krug-emilia-szinten-tul-interju",
+          "published": "2026-09-10T13:39:00+00:00",
+          "description": "A Doktor24-csoport elnöke szerint közbotrány, ami a prevenció területén megy Magyarországon. A meglévő forrásokat szerinte részben rosszul használják, és bátorságra lenne szükség a miniszter részéről, hogy több pénz kerülhessen az egészségügybe.",
+          "image": "https://assets.telex.hu/images/20260910/1789047068-temp-0vgrrjopso9hefgacmf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Németh-Halász Nikolett"
+        },
+        {
+          "title": "Russian Embassy reacts to news of Latvian-Hungarian energy talks with resentful post",
+          "url": "https://telex.hu/english/2026/09/10/russian-embassy-reacts-to-news-of-latvian-hungarian-energy-talks-with-resentful-post",
+          "published": "2026-09-10T13:33:48+00:00",
+          "description": "They wrote that if the Hungarian government believes it has found a new strategic energy partner in Riga, they can only wish both countries the best of luck in this regard.",
+          "image": "https://assets.telex.hu/images/20260910/1789046253-temp-rf9upsc2mrrc9ekmkeo_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Mégsem fogják elárasztani Szegedet a BYD hulladékát szállító kamionok",
+          "url": "https://telex.hu/gazdasag/2026/09/10/byd-hulladek-szeged-kamionok-hulladekkezeles-botka-laszlo",
+          "published": "2026-09-10T13:17:23+00:00",
+          "description": "Az önkormányzat cégéhez kerül a hulladékkezelés október elsejétől, gyakorlatilag a BYD szomszédjába fogják szállítani a szemetet.",
+          "image": "https://assets.telex.hu/images/20260903/1788455841-temp-n0ajm0cuc57s4mmacjp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Magyar a V4-találkozón: Nincs rendben, hogy napi egymillió eurót fizetünk azért, mert megvédjük az EU közös határait",
+          "url": "https://telex.hu/kulfold/2026/09/10/v4-irorszag-miniszterelnoki-talalkozo-pozsony-magyar-peter-robert-fico-andrej-babis-donald-tusk",
+          "published": "2026-09-10T13:11:26+00:00",
+          "description": "Pozsonyban, az EU soros elnökségét betöltő ír miniszterelnökkel kiegészülve ültek össze a visegrádi négyek kormányfői. A Telex kérdésére a cseh miniszterelnök azt mondta, hogy Magyar Péter „abszurd örökséget” kapott, mert megvédte a határait. A témában kifejtette a véleményét a szlovák és az ír k...",
+          "image": "https://assets.telex.hu/images/20260910/1789048117-temp-lpjs37757lo69hcnhdc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Ryan Reynolds állítólag személyesen hívta fel Karácsonyt egy budapesti forgatás miatt, a főpolgármester máshogy emlékszik",
+          "url": "https://telex.hu/after/2026/09/10/karacsony-gergely-ryan-reynolds-telefonhivas-budapest-mayday-forgatas",
+          "published": "2026-09-10T13:01:13+00:00",
+          "description": "Megkerestük a főpolgármestert, hogy tényleg Reynolds kereste-e azzal, hogy mentse meg a hidegháborús filmje budapesti forgatását.",
+          "image": "https://assets.telex.hu/images/20260910/1789043994-temp-ijapbavk1nbc0cidfpp_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Az Anthropicot otthagyó MI-kutató szerint kollégái arról beszélnek, a következő egy-két évben ők fogják eldönteni az emberiség sorsát",
+          "url": "https://telex.hu/techtud/2026/09/10/anthropic-mesterseges-intelligencia-openai-fejlodes-hugging-face-biztonsag",
+          "published": "2026-09-10T12:41:12+00:00",
+          "description": "Az MI-kutató szerint a fejlesztőcégek nem fordítanak elegendő időt a biztonságos működés kialakítására, ha pedig ezek a rendszerek kicsúsznak az ellenőrzés alól, elpusztíthatják az emberiséget.",
+          "image": "https://assets.telex.hu/images/20260910/1789043741-temp-etsuqgaatp4f1jeiofo_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Tiszás Gurzó Mária: Nem én vagyok Fásy Ádám felesége",
+          "url": "https://telex.hu/zacc/2026/09/10/a-tiszas-gurzo-maria-nem-en-vagyok-fasy-adam-felesege",
+          "published": "2026-09-10T12:38:02+00:00",
+          "description": "A kormánypárti képviselő névrokonával, Fásyné Gurzó Máriával ellentétben nincs letartóztatásban.",
+          "image": "https://assets.telex.hu/images/20260910/1789043516-temp-lkedultdjpn7cmefjlb_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Gajdos László: Nagyon szeretném, ha például szilveszterkor nem lenne tűzijáték",
+          "url": "https://telex.hu/belfold/2026/09/10/gajdos-laszlo-tuzijatek-velemeny-allatvedelem",
+          "published": "2026-09-10T12:24:21+00:00",
+          "description": "Az élő környezetért felelős miniszter nem ígéri, hogy azonnal be tudják tiltani az augusztus 20-i tűzijátékot, de foglalkozni fognak az üggyel.",
+          "image": "https://assets.telex.hu/images/20260910/1789042048-temp-2tgna7pmdsib9ffdamj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Az Erste szerint a 2 százalékot sem éri el az idei infláció, de jövőre jöhet a gyorsulás",
+          "url": "https://telex.hu/gazdasag/2026/09/10/piaci-varakozasok-erste-elemzes-gazdasag-2-szazalek-alatti-inflacio-gdp-novekedes",
+          "published": "2026-09-10T11:56:14+00:00",
+          "description": "A bank elemzői szerint az adminisztratív árkorlátozások mellett az erős forint is lassította az inflációt. A GDP-növekedést idén 1,7 százalékra, jövőre pedig 2,2 százalékra várják.",
+          "image": "https://assets.telex.hu/images/20260910/1789041200-temp-gjqt2jjr8nnpblmbffa_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "VIP-bankkártyával éttermeztek a Szuverenitásvédelmi Hivatal egykori vezetői, egyikük ötvenezret fizetett egy limonádéért",
+          "url": "https://telex.hu/belfold/2026/09/10/szuverenitasvedelmi-hivatal-vezetok-vip-bankkartya-kozpenz",
+          "published": "2026-09-10T11:56:14+00:00",
+          "description": "Lánczi Tamás egy év alatt 32 alkalommal ült be ugyanabba a japán étterembe, az egyik elnökhelyettese olaszországi útikönyveket vett, és még kompozásra is jutott a közpénzből.",
+          "image": "https://assets.telex.hu/images/20260910/1789041297-temp-ugduonjpf6i0baajbab_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Sértődött posztban reagált az orosz nagykövetség a lett–magyar energetikai tárgyalás hírére",
+          "url": "https://telex.hu/belfold/2026/09/10/az-orosz-nagykovetseg-sertodott-posztban-reagalt-a-magyar-lett-energetikai-targyalas-hirere",
+          "published": "2026-09-10T11:55:33+00:00",
+          "description": "Azt írták, ha a magyar kormány „éppen Rigában véli felfedezni új stratégiai energetikai partnerét, úgy kizárólag sok sikert kívánhatunk mindkét államnak ezen a téren.”",
+          "image": "https://assets.telex.hu/images/20260910/1789040356-temp-pg3u37dgobl55jjmnoi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "The old secret of a trip of János Lázár has been revealed",
+          "url": "https://telex.hu/direkt36/2026/09/10/the-old-secret-of-a-trip-of-janos-lazar-has-been-revealed",
+          "published": "2026-09-10T11:50:44+00:00",
+          "description": "Direkt36’s has obtained a document with details of the former government official’s controversial trip to Zurich. According to the file, he met with an influential German businessman to discuss cooperation between the Hungarian government and various multinational companies.",
+          "image": "https://assets.telex.hu/images/20260910/1789040510-temp-82dnv96qe7uodipfnld_cimlap-normal.jpg",
+          "category": "Direkt36",
+          "author": "Pethő András"
+        },
+        {
+          "title": "A Szent János, a Szent Imre és a Péterfy kórháznak sincs kötelező eljárásrendje az öngyilkossági kísérletet túlélők ellátására",
+          "url": "https://telex.hu/belfold/2026/09/10/ongyilkossagi-kiserlet-tulelok-harom-centrumkorhaz-nincs-kotelezo-eljarasrend",
+          "published": "2026-09-10T11:26:17+00:00",
+          "description": "Tavaly a 12–29 évesek között 121 fiatal halt meg öngyilkosságban.",
+          "image": "https://assets.telex.hu/images/20260910/1789039512-temp-dt8idqi6b4jj1ljkajg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A választási kampányban „nagyok voltak az ígéretek” – kemény kritika érkezett Pósfai Gábor bejelentésére",
+          "url": "https://index.hu/gazdasag/2026/09/10/rendvedelmi-szakszervezetek-dolgozok-beremeles-belugyminiszterium-berrendezes/",
+          "published": "2026-09-10T16:07:00+00:00",
+          "description": "A rendvédelmi szakszervezetek több konkrétumot várnak a belügyminisztériumtól.",
+          "image": "https://kep.index.hu/1/0/7150/71502/715029/71502959_5272057_51da8de17f246bab9d2ec8db24a54d1f_wm.jpg",
+          "category": "Gazdaság",
+          "author": null
+        },
+        {
           "title": "Meglepődtek Gombos Edina követői, milyen jól beszél magyarul az Amerikában felnőtt tinédzser lánya",
           "url": "https://index.hu/mindekozben/poszt/2026/09/10/gombos-edina-lanya-miranda-magyar-nyelv-beszed-amerika/",
           "published": "2026-09-10T15:58:24+00:00",
@@ -470,15 +705,6 @@
           "description": "Megszólalt az énekes a Lounge Event Kft. által visszakövetelt összeggel kapcsolatban.",
           "image": "https://kep.index.hu/1/0/6897/68971/689716/68971689_5090731_c70c566b6543d3f2946c929ad231c07d_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Friss bejelentés: óriási változás jön az egyik magyar banknál",
-          "url": "https://index.hu/gazdasag/2026/09/10/bank-bankvezeto-tavozas-granit-bank-tiborcz-istvan/",
-          "published": "2026-09-10T13:13:00+00:00",
-          "description": "Az adásvétel törzsrészvényeket és szavazatelsőbbségi részvényeket egyaránt érint.",
-          "image": "https://kep.index.hu/1/0/7150/71500/715001/71500117_5271855_a40ad6b184e5797a7913a6a51201a237_wm.jpg",
-          "category": "Gazdaság",
           "author": null
         }
       ]
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Balhé a vb-negyeddöntős válogatottnál: nem hajlandó a kapitánnyal együtt dolgozni a támadó",
+          "url": "https://24.hu/sport/foci/2026/09/10/svajci-valogatott-murat-yakin-noah-okafor/",
+          "published": "2026-09-10T18:07:00+01:00",
+          "description": "Noah Okafor elvesztette a bizalmát Murat Yakinban, a szövetség sok sikert kívánt neki a klubcsapatában. A játékos a vébén mindössze 19 percet játszott.",
+          "image": "https://s.24.hu/app/uploads/2026/09/murat-yakin-noah-okafor-320x180.jpg",
+          "category": "Foci",
+          "author": "Futó Csaba"
+        },
+        {
           "title": "Életfogytiglanit kapott az apa, aki halálra verte saját kislányát",
           "url": "https://24.hu/belfold/2026/09/10/eletfogytiglan-apa-halalra-vert-lany/",
           "published": "2026-09-10T17:53:00+01:00",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/09/magyar-peter-v4-e1789043888906-320x180.jpg",
           "category": "Élő",
           "author": "Ürmös Dániel"
-        },
-        {
-          "title": "Magyar Péter: Erős Európa nem létezhet erős V4-ek nélkül",
-          "url": "https://24.hu/kulfold/2026/09/10/sajtotajekoztato-a-pozsonyi-v4-csucson/#magyar-peter-eros-europa-nem-letezhet-eros-v4-ek-nelkul",
-          "published": "2026-09-10T15:36:00+01:00",
-          "description": "Különleges érzés megkapni azt a lehetőséget, hogy magyar miniszterelnökként magyarul szólhatok itt, a pozsonyi várban",
-          "image": "https://s.24.hu/app/uploads/2026/09/magyar-peter-v4-e1789043888906-320x180.jpg",
-          "category": "Élő",
-          "author": "Ürmös Dániel"
         }
       ]
     },
@@ -1301,6 +1527,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Radnai a Mandiner-ügyről:  Mint amikor végre kidobtad a romlott kaját, aztán valaki visszateszi a hűtőbe",
+          "url": "https://hvg.hu/elet/20260910_radnai-mark-mandiner-oldal-lekapcsolas-visszaallitas-archivum-reakcio",
+          "published": "2026-09-10T16:06:45+00:00",
+          "description": "A Működő és Emberséges Magyarországért felelős kormánybiztos is elmondta véleményét.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2f4605f2-2aa1-4272-a0d2-dce366e0672a.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Mint a filmekben: egy magyar férfi hónapokig készült a bécsi ékszerrablásra, de nem igazán ment flottul az akció",
+          "url": "https://hvg.hu/vilag/20260910_honap-keszules-becs-uzlet-kirablas-magyar-ferfi-akcio",
+          "published": "2026-09-10T16:04:07+00:00",
+          "description": "Például egy szálloda takarítójától lopott belépőkártyát, amellyel több szobába is behatolt, ahonnan a rabláshoz szükségesnek vélt kellékeket vitt el:",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/741af776-ee37-42df-a174-69830f3e2009.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Tudja, mi az a bolygófedés? Idén csak egyszer csodálhatja meg, ráadásul pont a napokban",
           "url": "https://hvg.hu/tudomany/20260910_bolygofedes-venusz-vekony-holdsarlo-csillagaszat-megfigyeles",
@@ -1507,24 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/358dd58e-d9f9-41ab-8a5d-8378780890d0.jpg",
           "category": "Élet+Stílus",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Három fővárosi kórháznak sincs eljárásrendje az öngyilkossági kísérletet túlélők ellátására",
-          "url": "https://hvg.hu/itthon/20260910_fovarosi-korhazak-eljarasrend-kiserlet-adatigenyles",
-          "published": "2026-09-10T12:59:51+00:00",
-          "description": "A kórházak általában a kezelőorvosokra bízzák a döntést, hogy mi legyen a betegekkel.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9b6a8bdf-cef3-4af4-846e-4e9ce5d93ee1.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "MNB-vizsgálóbizottság: meghallgatásra idézik Kósa Lajost és Bánki Eriket, nem lesz közös szakértő a TI",
-          "url": "https://hvg.hu/gazdasag/20260910_mnb-vizsgalobizottsag-transparancy-international-szakerto-felkeres",
-          "published": "2026-09-10T12:47:37+00:00",
-          "description": "Nem kérte fel közös bizottsági szakértőnek a Transparency International Magyarországot a Magyar Nemzeti Bank működésével kapcsolatos visszaéléseket feltáró országgyűlési vizsgálóbizottság.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/89e5b091-204d-4b68-9f91-f111ef2ff24a.jpg",
-          "category": "Gazdaság",
-          "author": "HVG (szerzo@hvg.hu (MTI))"
         }
       ]
     },
