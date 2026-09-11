@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-11T00:35:39.778287+00:00",
+  "scraped_at": "2026-09-11T00:40:32.492050+00:00",
   "portals": [
     {
       "id": "telex",
@@ -714,20 +714,472 @@
       "name": "Magyar Nemzet",
       "url": "https://magyarnemzet.hu",
       "color": "#ffffff",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Kapuscsere hozott teljes fordulatot Münchenben, újonc állta Orbánék útját",
+          "url": "https://magyarnemzet.hu/sport/2026/09/bl-bayern-bodo-man-united-sabah-baku-como-leipzig-orban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T20:56:14+00:00",
+          "description": "A Manchester United győzelemmel, a Leipzig vereséggel tért vissza a BL-be.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/NtqvSP_d_D0mFL0uXwm0ucBwFny4jaRQ9Xfg-ncyNng/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NmODhhNWFkYmU4MDQzYjE4OGM3NjBhZWNhZDA5OTJk.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "A tragikus sorsú császárné magyarul mondta el élete utolsó szavait",
+          "url": "https://magyarnemzet.hu/tudomany/2026/09/a-tragikus-sorsu-csaszarne-sisi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T19:31:48+00:00",
+          "description": "Nem a magyarok szeretett királynéja, Erzsébet volt a merénylő eredetileg kiszemelt áldozata.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/BdBpXRhj23ob_gQ8X5L1eKFJRhrH8fEtDWNEGWIurUE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NjZjk5MGUwZjNhZjRjZTk5MDEyY2JhOWIyNzNkMmZj.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "A Szeged kiütötte a magyar válogatottból is ismerős edző csapatát",
+          "url": "https://magyarnemzet.hu/sport/2026/09/szeged-kristianstad-ferfi-kezilabda-bl-csoportkor-1-kor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T18:10:44+00:00",
+          "description": "A Tisza-partiak a 35. másodpercben vezetést szereztek a BL-ben, majd vissza sem néztek.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/hGInlZVna2gpN-PzXZLuTo7WHcub0njlaV7aujxvMxg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc2ZmYyNDM3ZDVmOTRhNWJiMGIxZDRkMjQ1ZGExNTlj.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter súlyos vádat fogalmazott meg Lannert Judit férjével szemben",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/magyar-peter-lannert-judit-kekva-ferj-vagyonellenor-vizsgalat-debrecen-egyetem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T17:49:57+00:00",
+          "description": "László Géza Béla az elmúlt öt évben a Debreceni Egyetemet fenntartó közérdekű vagyonkezelő alapítvány vagyonellenőre volt, a tárca hallgat.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/alB3fJnSQkMdw6tohDO1ZU0vOk0dYE8KfEE1C_xU5Cw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNkYjc3N2Y0NTZkMzQ2NmZhYTk0MWE2MWEwODA0MGVh.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Kínai vonalról érkezett Magyar Péter új protokollosa",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/kinai-vonalrol-erkezett-magyar-peter-uj-protokollosa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T17:38:56+00:00",
+          "description": "Kínai nyelvtudással, kínai ösztöndíjakkal és nemzetközi kapcsolatokban szerzett tapasztalattal érkezett Magyar Péter protokollcsapatába Szűcs Dóra.",
+          "image": "https://cdn.magyarnemzet.hu/2026/07/aWP2Uogtamedh9zGI9131b2SEuZgvIIzJTiHprwnvVA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA5MjNjNzQ5MzJiZDRkYzBiZTlkNjViYjY2ODk1YTFm.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "A bicskei gyermekotthon pedofiliáért elítélt igazgatója mosolygott a tiszás vezetésű megújult M1-en",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/pedofil-bicske-gyermekotthon-elitelt-botrany-m1-tisza-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T17:35:51+00:00",
+          "description": "Németh Balázs, a Fidesz országgyűlési képviselője szerint az új, tiszás közmédia vezetőit úgy tűnik nem zavarja, hogy egy elítélt szexuális ragadozó is képernyőre kerülhetett.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/qyHYFf_ummMrDcNxf3VcNLEK3xli3MnzdD4G74pQOUg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzExYTVlMmE3NDY5YzQyOGNhMmI5MGZlNzVlOGVjMzQx.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Tényleg a német autóipar gyarmata Magyarország?",
+          "url": "https://magyarnemzet.hu/velemeny/2026/09/tenyleg-a-nemet-autoipar-gyarmata-magyarorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T17:26:29+00:00",
+          "description": "A számok egészen mást mutatnak.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/7uVmj7x3iAvns-5wbF5qCGWe2K43Z9TwcSLQk5mWhYY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiNzQ4MzY1Njk0MjQ0NDJiNzUwMGY3NDM4NWZkNmM1.jpg",
+          "category": "vélemény",
+          "author": null
+        },
+        {
+          "title": "Orbán Viktorra hivatkozva igazította ki Magyar Pétert a cseh kormányfő Pozsonyban + videó",
+          "url": "https://magyarnemzet.hu/kulfold/2026/09/andrej-babis-orban-viktor-magyar-peter-pozsony-v4?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T16:47:31+00:00",
+          "description": "Magyar Péter más tollával ékeskedett, de a cseh miniszterelnök emlékeztetett: az előző magyar kormányfő tartóztatta fel a migrációt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/04/Kf_Oe5GZwacyeNLBeJpiLTPyOf9BU4oOmZWMVNSL1z4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E1MTU1NWY0MzJjODRkOTliODNkZmEyNjM0ZDQyZTFi.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Tízmilliárdos Volán-ügy: nyolc embert gyanúsítottak meg",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/tizmilliardos-volan-ugy-nyolc-embert-gyanusitottak-meg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T16:46:59+00:00",
+          "description": "Fordulat történt az évek óta húzódó Volánbusz-ügyben, Jellinek Dániel milliárdos üzletembert is kihallgatták a nyomozók.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/PL4FMaDzEvET5OanlP8n2rK0crxz6fBP5OhODNXqLe0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAyODE3YWFjNjUyMDRmOWRhYzU0YWU4NDQ5NGFkYzU0.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Kárpótlásként alkotmánybírói poszttal fizetné ki Magyar Péter Ligeti Miklóst",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/karpotlaskent-alkotmanybiroi-poszttal-fizetne-ki-magyar-peter-ligeti-miklost?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T16:42:33+00:00",
+          "description": "A miniszterelnök megnevezte a Tisza párt öt alkotmánybíró-jelöltjét, köztük van az \"ÁVH\" éléről lemaradt korrupciókutató jogász is.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/Vt4WrZ3iQxgtN5MdmPnsyePI_4KxBsM9sKPvQghkJDI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQzNGY0NWExOTE0ZTQ5NjM4YTk1MDhjNjMyOGVjY2Ez.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Újabb fontos szereplők kerültek a kegyelmi botrány vizsgálatának célkeresztjébe",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/ujabb-fontos-szereplok-kerultek-a-kegyelmi-botrany-vizsgalatanak-celkeresztjebe?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T16:03:28+00:00",
+          "description": "Polt Pétert és Balog Zoltánt is meghallgatná a kegyelmi botrányt vizsgáló bizottság.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/g-eHqU7b1xQXDU_gtbIuUTdJdpO0xbRf7dFtOv_VN80/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ5OGQ4OTQ3NjU0NDQzZWViZDgzMGU3MTRjYmVjMTc1.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Vesztegetéssel gyanúsítják az egyik leggazdagabb magyart",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/vesztegetes-gyanusitas-veres-tibor-wallis-obuda-korrupcio?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T16:01:40+00:00",
+          "description": "A Wallis Csoport alapító elnökét egy III. kerületi beruházást érintően hallgatta ki a Központi Nyomozó Főügyészség.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/t0ba5jRuYJNoWezuRXk2_0I3X8WZT-FGFbL7E1N7RFg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzZDM0MjAzNDAzNTQwZDZhMTY0MmYxZjljZTI1ZDk2.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter nem akar brüsszelezést, de védett árat és vétót sem",
+          "url": "https://magyarnemzet.hu/kulfold/2026/09/magyar-peter-kozep-europa-v4-pozsony?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T15:56:11+00:00",
+          "description": "Magyar Péter szerint „teljesen mindegy, hogy milyen színű kormányok csinálták”, hogy Európa legbiztonságosabb térségében élünk.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/tOaTwEIr8tm8VqzFngzyyYGJFymqxETVcddMLXn5T2g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ4ODZlMjBkY2E2MjQ1YzE5MzI3ZjIwNDQ2YmJmM2Jh.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "„Első osztályú balti gáz a liberális demokrácia illatával” — gúnyosan reagáltak az oroszok Orbán Anita lett tárgyalásaira",
+          "url": "https://magyarnemzet.hu/kulfold/2026/09/orban-anita-lettorszag-orosz-nagykovetseg-energia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T14:46:42+00:00",
+          "description": "Új hangot ütött meg az orosz nagykövetség diplomatái kiutasítása után.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/9K-A4OG2mdtE9bGqec86H_RhtJwm0bz-6ZW7RAUr7cE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FmZTc2M2FhNWE5OTQ3OTU4YzY3MDE0MmIyNWM1MjZm.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Nagy Ervin a saját exbarátnőjét nevezte ki egy fontos pozícióra, aki noÁr felesége volt",
+          "url": "https://magyarnemzet.hu/kultura/2026/09/duda-eva-nagy-ervin-urambatyam-vilag-szakbizottsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T14:23:18+00:00",
+          "description": "A koreográfus Duda Éva egy olyan ideiglenes szakbizottságba került, amelynek munkája az Új Színház és a Madách Színház vezetői pályázatát is érintheti.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/b05Vi30FaECQxwBK39ArchftVi33ZwBeflTg9wInXPc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YyOWMyOGM3MTRkMjRjZjFiOTQ4MmJiZjg3ZjI2NmFj.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Exkluzív interjú – Kötcse után Orbán Viktor a Bayer-show-ban",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/exkluziv-interju-kotcse-utan-orban-viktor-a-bayer-show-ban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T14:06:25+00:00",
+          "description": "Vasárnap este megszólal a volt kormányfő.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/uqyoRvSGwmQJZ5dkzu0xoYBkOZTk9ZJqYun8YCe9ni0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRkYTMyNWE0OTYxMTQyNDVhNjIxZWM2MTdmOWM0MjZi.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Ötezer dollárt ígér Trump minden amerikainak, de feltételekkel",
+          "url": "https://magyarnemzet.hu/kulfold/2026/09/trump-osztalek-republikanus-konvencio-kongresszusi-valasztasok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T13:56:37+00:00",
+          "description": "A dallasi republikánus konvención Trump a demokratákat ostorozta.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/PXct0y_qgYx8YqPBFhRORA0KASkue98PJUdqywloDiE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YwMzJjMDUyZTRlMjQ0NGJiZjMyZjkwNGQ1Y2Q4N2I4.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Egyelőre teljes kudarc az NVVH elnökhelyetteseinek a megválasztása",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/nvvh-elnokhelyettes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T13:28:12+00:00",
+          "description": "Egyre nagyobb az összevisszaság az új ÁVH-t érintő személyügyi döntések körül.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/znHPCceCYb08DlgOBlVJSsy5dNuqnYIg_Nct9GpPwo8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE5MTUzYTc1NmI0MjRkZGI5MTMzYTc2YjM5NjQzYmMx.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Több százmilliós előleget fizettek ki Leslie Mandoki cégének a lefújt koncertre, most visszakérik a pénzt",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/tobb-szazmillios-eloleget-fizettek-ki-leslie-mandoki-cegenek-a-lefujt-koncertre-most-visszakerik-a-penzt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T13:07:05+00:00",
+          "description": "A zenei producer tárgyalna, és azt mondja, nem akar olyan pénzt megtartani, amely mögött nincs teljesítés – ugyanakkor szerinte a koncert előkészítésének költségeiről még egyeztetni kell.",
+          "image": "https://cdn.magyarnemzet.hu/2026/06/dGLiFjeUseQm8pXU1Ck32lnkDuqUIcSClekWAopkPzo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlMzQ4MjEzMGMzMjQ2NjBhOTg4MmVlZGExODc1OGU1.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Váratlan fordulat: egy nagyvárosban elkezdik a kerékpársávok felszámolását",
+          "url": "https://magyarnemzet.hu/auto-motor-2/2026/09/varatlan-fordulat-egy-nagyvarosban-elkezdik-a-kerekparsavok-felszamolasat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T12:01:03+00:00",
+          "description": "Természetesen nem Budapestről van szó. Vajon mi vezetett ahhoz, hogy újra teret nyerjen az autóforgalom?",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/E_DtVCWswMS6YpkqWFPsavVVxJcN_qtfl0O6L_vR2Zw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhZmM3M2I5NjUyZjRmZTA5OGNmYTA0ZTc5NTJjYmI5.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Kijózanító pofon: túl magasak a magyar bérek a pénzügyminiszter szerint",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/09/minimalber-tisza?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T11:37:39+00:00",
+          "description": "Hangzatos ígérete volt a kampányban a Tiszának a minimálbér duplájára emelése, ahogy a családi pótlék megkétszerezésének meglebegtetése is. A jelek szerint most megkezdődött a magyarázkodás időszaka.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/UIKJB8iFoPJqi704zrYbJwt4pp0rqPTDvn6Y2fOaBI0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y0MzU0NDJiODhjZDQ1YmNiMDUxYTkyMmJmYTYzZGNl.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
+        {
+          "title": "Meggondolhatta magát Magyar Péter, visszaállították a Mandiner honlapját",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/magyar-peter-mandiner-honlap?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T11:10:44+00:00",
+          "description": "Egy napig teljesen elérhetetlen volt az egykori polgári lap weboldala.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/abIEJQcr6DrWtisf21bsSA23iCWLZhb1_qGKh-fMDss/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UwNmEyYjJjNGQyODQ5ODFiYWU5ZjM4MTExY2I3ZjE0.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Semmi esély nem volt az újabb magyar kosárlabdacsodára",
+          "url": "https://magyarnemzet.hu/sport/2026/09/kosarlabda-noi-vb-magyarorszag-egyesult-allamok-juhasz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T11:04:07+00:00",
+          "description": "Az Egyesült Államok esélyeshez méltó, lehengerlő kezdést mutatott be a vb-negyeddöntőben.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/U_AEHN7gdbCOWWj-mIjKG4vod726sCQiMZjuxIlqrr4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI0NWJlYmQzMzlhOTQzMmFhZjYwNjJmNGQzYTQxMjZl.jpg",
+          "category": "sport",
+          "author": null
+        },
+        {
+          "title": "Folytatódik az abszolút filmszínház, jövő héten ismét ülésezik az Országgyűlés",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/orszaggyules-parlament-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T11:02:09+00:00",
+          "description": "Magyar Péter kétszer is felszólal napirend előtt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/4no9zcbCJ4o4XvzxkTgSJj2EfePWixuG2VNEaLeAeF0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllMWJjNDcwOThiYzRhZmFiNjcyYmE2YTI2YWFjY2Y4.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Fidesz: a Tisza megint hazudott, idén nem számíthatnak béremelésre a rendőrök",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/fidesz-a-tisza-megint-hazudott-iden-nem-szamithatnak-beremelesre-a-rendorok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-10T10:57:46+00:00",
+          "description": "Pedig a kampányban Magyar Péterék még megígérték.",
+          "image": "https://cdn.magyarnemzet.hu/2026/08/ewi2JJy_Nh4AKfANREopItEIJcVGm5KYmqSqs9hcJ9c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q5ODJlYzk2ZGVkZTQxM2I5NTBlMThlYTkxZGY0Nzhl.jpg",
+          "category": "belföld",
+          "author": null
+        }
+      ]
     },
     {
       "id": "mandiner",
       "name": "Mandiner",
       "url": "https://mandiner.hu",
       "color": "#c46a2f",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A pénzügyminiszter utasítására kirúgták a Mandiner vezérigazgatóját, főszerkesztőjét",
+          "url": "https://mandiner.hu/belfold/2026/09/a-penzugyminiszter-utasitasara-kirugtak-a-mandiner-vezerigazgatojat-foszerkesztojet",
+          "published": "2026-09-04T13:08:38+00:00",
+          "description": "A Mandiner tulajdonosa az MCC augusztus 31-i megszűnése után a Pénzügyminisztérium lett.",
+          "image": null,
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "A Tisza-kormány képviselőjével tart tanévnyitót ezekben a percekben is tucatnyi olyan szélsőséges, destruktív szervezet, mint amilyen az Amnesty International, a Labrisz vagy a Háttér Társaság",
+          "url": "https://mandiner.hu/belfold/2026/09/a-tisza-kormany-kepviselojevel-tart-tanevnyitot-ezekben-a-percekben-is-tucatnyi-olyan-szelsoseges-destruktiv-szervezet-mint-amilyen-az-amnesty-international-a-labrisz-vagy-a-hatter-tarsasag",
+          "published": "2026-09-04T12:07:29+00:00",
+          "description": "„Maga a rendezvény – ha minden igaz – megszegi, az pedig egészen biztos, hogy teljesen semmibe veszi a jelenleg is hatályban lévő, 2021-ben elfogadott gyermekvédelmi („propaganda”) törvényt, amelyet egy 2022-es – a baloldal által megpuccsolt – népszavazáson 3 millió 800 ezren támogattak érvényes ...",
+          "image": "https://cdn.mandiner.hu/2026/09/WTcqVcOTwvCIy8BzmXPqDkJSfJwQU5F9-3IooZSf-Ck/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZlZGNmZjhiZjBkMzQwYzViOTlkOGI5NjcyYTVhMGM2.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "A kormány nemet mondott a MOHU készpénzmentes palackvisszaváltására",
+          "url": "https://mandiner.hu/belfold/2026/09/a-kormany-nemet-mondott-a-mohu-keszpenzmentes-palackvisszavaltasara",
+          "published": "2026-09-04T11:54:35+00:00",
+          "description": "A minisztérium szerint a készpénzes visszatérítés fenntartása alapvető, a palackgyűjtés okozta gondokat pedig más módon kezelnék.",
+          "image": "https://cdn.mandiner.hu/2026/09/hihDyazpzn2Tk6-Lyqy7aQWK3OppAvr4z8hAtV-E0EQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ2MWUzOTc1ODg2YzRkYTg4NTY4YmJmNGFkYmM3ZGVk.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "A KDNP petíciót indít az oktatási miniszter leváltásáért",
+          "url": "https://mandiner.hu/belfold/2026/09/a-kdnp-peticiot-indit-az-oktatasi-miniszter-levaltasaert",
+          "published": "2026-09-04T11:54:28+00:00",
+          "description": "Állj ki Te is a tanárod mellett! mottóval petíciót indított a Kereszténydemokrata Néppárt (KDNP), amelyben Lannert Judit oktatási miniszter távozását követelik a pedagógusokat sértő kijelentései miatt – hangzott el a párt pénteki online sajtótájékoztatóján.",
+          "image": "https://cdn.mandiner.hu/2026/09/3ibsrSL1n-eHjJEeDm9CQtVacZ9CkW1nmgSMhzlcvQw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FkNjFiNWZlNTM1NDRjZTA4YjUxMzVmYjBkYTYxOWQ3.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Kedves tiszások! Ne legyetek tiszásabbak Magyar Péternél!",
+          "url": "https://mandiner.hu/belfold/2026/09/kedves-tiszasok-ne-legyetek-tiszasabbak-magyar-peternel",
+          "published": "2026-09-04T11:43:27+00:00",
+          "description": "A szociális dolgozó, aki két helyen dolgozva nettó 500-at visz haza, hogy ebből fizesse a 200 ezres lakbért, és nevelje egyedül a két gyerekét, nem gonoszságból kér, hanem kétségbeesésből, és azért, mert ő azt várta az Orbán-rendszer leváltásától, hogy nem kell nyomorognia.",
+          "image": "https://cdn.mandiner.hu/2026/09/XV7o9rBtnPLTWceU4-2dn9rOujpfDHcS67ghhKHEwPI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMTU1Njg4ZDkxNDQ0OGFiYzU0ODk4MzY0YWE5NjM4.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Lannert Judit: Visszatér az Erasmus a magyar egyetemekre",
+          "url": "https://mandiner.hu/belfold/2026/09/lannert-judit-visszater-az-erasmus-a-magyar-egyetemekre",
+          "published": "2026-09-04T11:19:33+00:00",
+          "description": "Az Európai Unió Tanácsa 2022-ben hozott döntést arról, hogy a modellváltó, vagyis a közérdekű vagyonkezelő alapítványok fenntartásába adott felsőoktatási intézmények összeférhetetlenségi és átláthatósági problémák miatt nem köthetnek új Erasmus-szerződéseket.",
+          "image": "https://cdn.mandiner.hu/2026/06/yWIEV6cufY7o87N5zNipHnkCkbOwrvm5CdzjXhuLfKs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk5MjI1Yzk0ZmUwNTQxNzRiNTI5MDU4MmMyYjkyN2Y1.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Kizuhant a mentőszékház hetedik emeletéről egy dolgozó",
+          "url": "https://mandiner.hu/belfold/2026/09/kizuhant-a-mentoszekhaz-hetedik-emeleterol-egy-dolgozo",
+          "published": "2026-09-04T10:37:25+00:00",
+          "description": "Meghalt az a dolgozó, aki csütörtökön Budapesten kizuhant a mentőszékház hetedik emeletéről – értesült az ATV.",
+          "image": "https://cdn.mandiner.hu/2026/09/yyksdwvhyl2qIMiPUVD6HOY8dTFZ_O0AFe7KIMRH9EY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IwM2FhZTRlODhiNDRjM2E5NWQ4NDcxNDk1NzFmNmUx.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Reagált a Bizottság Magyar Péternek a napi egymillió eurós migrációs bírság ügyében – egyelőre nem sok minden történt",
+          "url": "https://mandiner.hu/kulfold/2026/09/reagalt-a-bizottsag-magyar-peternek-a-napi-egymillio-euros-migracios-birsag-ugyeben-egyelore-nem-sok-minden-tortent",
+          "published": "2026-09-04T10:11:58+00:00",
+          "description": "„Amit a bizottság részéről teszünk és tehetünk, az az, hogy szorosan és nagyon konstruktívan egyeztetünk a magyar hatóságokkal az ügyben” – fogalmazott a bizottsági szóvivő.",
+          "image": "https://cdn.mandiner.hu/2026/09/dcC6kBx6syBCro4_tVu1SgFnwUWA_rKPfEFXRGgnjdI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyYWE3MTJhYmI1MDQ4MjU4NDM0YjE0YmQzZWJjYTNl.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Annyian értették félre a tiszás kampányszlogent, hogy egyenlevélben kellett egyértelművé tenni: nem osztogatnak mindenkinek 800 ezer forint uniós pénzt",
+          "url": "https://mandiner.hu/belfold/2026/09/annyian-ertettek-felre-a-tiszas-kampanyszlogent-hogy-egyenlevelben-kellett-eyertelmuve-tenni-nem-osztogatnak-mindenkinek-800-ezer-forint-unios-penzt",
+          "published": "2026-09-04T09:37:13+00:00",
+          "description": "A párt egyik automatikus válaszlevele szerint az összeg nem közvetlenül az állampolgároknak járó pénz, hanem a blokkolt uniós források egy főre vetített értéke.",
+          "image": "https://cdn.mandiner.hu/2026/09/XmTyL_pwz-iRVq8JlwEUbRdENEYhbvpD60EXg52FeWg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EwYjU3MzY2NGM5ODQ5ZDk5N2I0ZGI5YjJiZDg5YWIw.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Értesülés: Balhé lett az M5 közvetítéséből, mert Magyar Péter megharagudott – néhány nappal később kirúgták a csatorna igazgatóját",
+          "url": "https://mandiner.hu/belfold/2026/09/ertesules-balhe-lett-az-m5-kozvetitesebol-mert-magyar-peter-megharagudott-nehany-nappal-kesobb-kirugtak-a-csatorna-igazgatojat",
+          "published": "2026-09-04T09:12:50+00:00",
+          "description": "Balhé lett Magyar Péter mohácsi beszédének közvetítséből, a miniszterelnöknek ugyanis meggyőződése, hogy az M5 stábja szándékosan vágott be olyan kameraképeket a mohácsi beszédéről, amelyeken látszottak az üres széksorok – állítja Németh Balázs a közmédiánál dolgozó forrásaira hivatkozva.",
+          "image": "https://cdn.mandiner.hu/2026/09/vZX6KmMsJ653lMlc9wfS8GUSUBQXSjHcl1sTPftYtIQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1NzlhMTRkNmEzNTQyYWU5ZTc3ZWQ1ODU5ZTM1YjRh.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "A környezetvédelmi minisztérium nem árulja el, hogy melyik helyettes államtitkárnak mi a feladatköre",
+          "url": "https://mandiner.hu/belfold/2026/09/a-kornyezetvedelmi-miniszterium-nem-arulja-el-hogy-melyik-helyettes-allamtitkarnak-mi-a-feladatkore",
+          "published": "2026-09-04T08:19:38+00:00",
+          "description": "Sőt, szerintük nincs is meghatározva, hogy mi a dolguk.",
+          "image": "https://cdn.mandiner.hu/2026/04/n63KZyJveY-vAno0bNSM-VeB5BQkxgkxekovpSvl2oo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FjMjM5MWI5MmRlNTQ0OTE4MDIzNzc5MjU1OWZkNjg1.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "A PDSZ sem ért egyet Lannert Judit minden oktatási elképzelésével",
+          "url": "https://mandiner.hu/belfold/2026/09/a-pdsz-sem-ert-egyet-lannert-judit-minden-oktatasi-elkepzelesevel",
+          "published": "2026-09-04T07:59:24+00:00",
+          "description": "A PDSZ elnöke arra is reagált, hogy Lannert Judit „nem önállóan gondolkodó embereknek” nevezte a tanárokat.",
+          "image": "https://cdn.mandiner.hu/2026/09/VWKVNcvzPjeqaz0BEOhGm1lWjKMdBZDMSjcTw_NSGo4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiYTllYWIzMjdiNjQxOThiNzExODIyZWRjNGY2MTll.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Megépül a mohácsi Duna-híd, de lenyesték a beruházás egy jelentős részét",
+          "url": "https://mandiner.hu/belfold/2026/09/megepul-a-mohacsi-duna-hid-de-lenyestek-a-beruhazas-egy-jelentos-reszet",
+          "published": "2026-09-04T06:46:07+00:00",
+          "description": "A közlekedési miniszter szerint a híd megépítése nem maradhat el, a szerintük indokolatlanul túlméretezett útszakasz terveit azonban elvetik.",
+          "image": "https://cdn.mandiner.hu/2026/09/go2JwjAFX6cXG8TSxF1Vyh1nl2R1vHXPoMVwBsmn-1o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZhMDJlN2RiZDk4ODRhMWM5ZTBkNmViODNmMTBiNDNj.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Veled vagyunk, István!",
+          "url": "https://mandiner.hu/belfold/2026/09/veled-vagyunk-istvan",
+          "published": "2026-09-04T06:29:26+00:00",
+          "description": "Szeretetország. Az, persze.",
+          "image": "https://cdn.mandiner.hu/2026/09/vZX6KmMsJ653lMlc9wfS8GUSUBQXSjHcl1sTPftYtIQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1NzlhMTRkNmEzNTQyYWU5ZTc3ZWQ1ODU5ZTM1YjRh.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Valaki segítsen, mert nem állnak össze a számok...",
+          "url": "https://mandiner.hu/belfold/2026/09/valaki-segitsen-mert-nem-allnak-ossze-a-szamok",
+          "published": "2026-09-04T05:55:19+00:00",
+          "description": "Miért nincsen meg a fedezete annak, hogy a rendőrök akár csak 5 százalékos béremelést kapjanak?",
+          "image": "https://cdn.mandiner.hu/2026/09/NDdNS1ckVTONUVAJaohW6EHYXsfxlEp9L52pgjCXZRo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY2MjY0MjU5YmZiOTQ1MGZhYmQ5Nzk2YWYxYjQ4NjAx.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "A segített öngyilkosságról fogadott el törvényt az olaszországi Veneto tartomány",
+          "url": "https://mandiner.hu/kulfold/2026/09/a-segitett-ongyilkossagrol-fogadott-el-torvenyt-az-olaszorszagi-veneto-tartomany",
+          "published": "2026-09-04T05:03:04+00:00",
+          "description": "A támogatott öngyilkosságról fogadott el jogszabályt Olaszország Veneto tartománya – jelentette a La Repubblica című olasz lap csütörtökön.",
+          "image": "https://cdn.mandiner.hu/2026/09/-ayzRVBy5Xg8XtDvam65M3IPY4Tqrv6PeX4qI8XcrdM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0Njc2NjUyZWRkODQxOGNiMDBiOTA1OWMxZjc0Y2Q1.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Pénteken megnyílik az út az új magyar szélerőművek előtt",
+          "url": "https://mandiner.hu/belfold/2026/09/penteken-megnyilik-az-ut-az-uj-magyar-szeleromuvek-elott",
+          "published": "2026-09-04T04:39:29+00:00",
+          "description": "Szeptember 4-én indul a pályázat az új és bővített szélerőművi kapacitásokra, az első eredményekre december közepéig kell várni.",
+          "image": "https://cdn.mandiner.hu/2026/09/3v-cIPiZt0fYzLmxmOl3dwLXzjw3GJyGgxNJDdSZyDk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiOTM4ZTJkNjA4YTQ2YmM5YjA3NTI4NjY5NWIzMzll.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Szoboszlai új szerepkört kaphat a Liverpoolban, Iraola nyíltan beszélt a terveiről",
+          "url": "https://mandiner.hu/sport/2026/09/szoboszlai-uj-szerepkort-kaphat-a-liverpoolban-iraola-nyiltan-beszelt-a-terveirol",
+          "published": "2026-09-03T19:58:01+00:00",
+          "description": "A magyar válogatott csapatkapitánya sokoldalúságával fontos szerepet tölthet be a Liverpoolban, akár a védelem jobb oldalán is.",
+          "image": "https://cdn.mandiner.hu/2026/09/Uefmb6PxGRzvOLe-Lehp7RMDY9B_rFFqThhwOB6DHAA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAzNDEyY2IxOTYxNTRlNGM5YjY3MmQxMTljY2EwOTEy.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Megszólalt Matolcsy György: „Állok elébe az összes vizsgálatnak”",
+          "url": "https://mandiner.hu/belfold/2026/09/megszolalt-matolcsy-gyorgy-allok-elebe-az-osszes-vizsgalatnak",
+          "published": "2026-09-03T19:22:37+00:00",
+          "description": "A volt jegybankelnök szerint az MNB alapítványaiba került vagyon közpénz maradt, ezért szerinte indokolt annak teljes körű ellenőrzése.",
+          "image": "https://cdn.mandiner.hu/2026/09/hljg4195cFTyfAnk09c44fCbi0rMDtwy578HD3h3R9Y/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI4N2U0MzVhZDYxZDQxZmM5NTc5NzYzZGUzMzY1MWQ0.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Miért fontos szeptember 5.? Add tovább!",
+          "url": "https://mandiner.hu/belfold/2026/09/miert-fontos-szeptember-5-add-tovabb",
+          "published": "2026-09-03T18:56:35+00:00",
+          "description": "Egészen addig él az ország egy jelentős része bántalmazó kapcsolatban a kormány kommunikációjával, amíg ezt hagyjuk.",
+          "image": "https://cdn.mandiner.hu/2026/09/yk_8gX3MkcO4jgpuZRNiGu5b5EqX4Q2nvovAhUVnRaY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU2MWU3ZjE3YTZjNjQ4NGE5MmFlMTQyYTA2NDg0NTI3.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Teljesen természetes, hogy egy ilyen műsor a Tisza és csahosai jelentette szellemi nívón nem maradhat a közmédiában",
+          "url": "https://mandiner.hu/belfold/2026/09/teljesen-termeszetes-hogy-egy-ilyen-musor-a-tisza-es-csahosai-jelentette-szellemi-nivon-nem-maradhat-a-kozmediaban",
+          "published": "2026-09-03T18:33:54+00:00",
+          "description": "Lassan 8 éve indult az M5-ön az Ez itt a kérdés…, aminek nem csak az első adását vezethettem, de sokáig tán én csináltam a legtöbbet.",
+          "image": "https://cdn.mandiner.hu/2026/09/spLw5fq4Bnx-P8u_05KMummBMJr_KSrRSBYASysihno/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRhMjViYzQ4ZTc2ZDRjOWE5ZTljNGJkYTJmOWRmOWE1.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Azonnali hatállyal levették a képernyőről az M5 egyik legnépszerűbb műsorát",
+          "url": "https://mandiner.hu/belfold/2026/09/azonnali-hatallyal-levettek-a-kepernyorol-az-m5-egyik-legnepszerubb-musorat",
+          "published": "2026-09-03T17:54:14+00:00",
+          "description": "Jogi eljárás is indul.",
+          "image": "https://cdn.mandiner.hu/2026/09/wCBvokC2wVs0JTl6J6nHkW908M30a_z0XVwrzs1J4_M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhlYWU3MzI5ZTk4MzRkN2JhODE1NTA4OWQ1Yzc1ZGMw.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Aki érti, miért kell három kormányszóvivő, szóljon",
+          "url": "https://mandiner.hu/belfold/2026/09/aki-erti-miert-kell-harom-kormanyszovivo-szoljon",
+          "published": "2026-09-03T16:51:44+00:00",
+          "description": "Én a mai kormányszóvivői tájékoztató után sem kapizsgálom.",
+          "image": "https://cdn.mandiner.hu/2026/09/IN0Exjt9qsCR8olGVDCy3aClyJx8FFDqUkWYMhkPJOE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ExZjUwZGQxOTJkZjQyOTViMjRkYTM5ZmNlNDg1NDg4.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Itt vannak Magyar Péter bejelentései: újra kötelező lehet a MOK-tagság az orvosoknak, radikálisan átalakítanák a koncessziós rendszert",
+          "url": "https://mandiner.hu/belfold/2026/09/ujra-kotelezo-lehet-a-mok-tagsag-az-orvosoknak-radikalisan-atalakitanak-a-koncesszios-rendszert",
+          "published": "2026-09-03T16:49:11+00:00",
+          "description": "A kormányfő az egészségügy, a hulladékgazdálkodás és a gyermekvédelem területén is jelentős változásokat jelentett be.",
+          "image": "https://cdn.mandiner.hu/2026/09/agO9buaMU-UmYhmdeepdTjlxFDDhS5aY1-jkrPlrisU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JkMGE1N2FkNmU5MzQ2ZWM4NDMzZjc5MjM1ZjFlZGNl.jpg",
+          "category": null,
+          "author": null
+        },
+        {
+          "title": "Osváth Zsolt: Mindenki szégyellje magát a Zsolti bácsi-ügy politikai felhasználása miatt (VIDEÓ)",
+          "url": "https://mandiner.hu/belfold/2026/09/osvath-zsolt-mindenki-szegyellje-magat-a-zsolti-bacsi-ugy-politikai-felhasznalasa-miatt-video",
+          "published": "2026-09-03T16:08:48+00:00",
+          "description": "„A DK-tól a TISZA-ig és a jószándékú influenszerekig, aktivistáig tényleg szégyellje magát mindenki és menjen a picsába.”",
+          "image": "https://cdn.mandiner.hu/2026/09/rj2WMs88iP-Mq5dmB8NTI0SreWfp63FWupwMLyDioTs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdmODIxMjBiOWE2MzQyYjA5MDFmYzc2Y2YxMjE4N2M3.jpg",
+          "category": null,
+          "author": null
+        }
+      ]
     },
     {
       "id": "24hu",
@@ -1390,10 +1842,236 @@
       "name": "Origo",
       "url": "https://www.origo.hu/24",
       "color": "#0033a0",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A Bayern München olyat tett a BL-ben, amire eddig csak a Real Madrid volt képes",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/09/bayern-munchen-bodo-glimt-bajnokok-ligaja-eredmenyek",
+          "published": null,
+          "description": "A Manchester United gálameccsel tért vissza, Willi Orbán csapata nagy verést kapott a BL-újonctól.",
+          "image": "https://cdn.origo.hu/2026/09/Yyfw3ZhtZgfzm9lSVYWXJTqeToH5UNILFFIBWpqm9Hg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NmYTQxOWY3ZmQ1MDRhYWVhYmY5YmEyNDIyM2ZhOTRi.webp",
+          "category": "Bajnokok Ligája",
+          "author": null
+        },
+        {
+          "title": "Villám csapott a nyugdíjasba, másodperceken belül bekövetkezett a tragédia",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/villam-halal-tragedia-nyugdijas",
+          "published": null,
+          "description": "Tragikus hirtelenséggel halt meg egy közkedvelt középiskolai edző, mindössze három héttel azután, hogy nyugdíjba vonult.",
+          "image": "https://cdn.origo.hu/2026/09/iiiZDvSaOZhahGHWVmxcfcAUGP6RXoWhkWSBxFGdal0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QyZTI5Nzk1ZGViZTQ3NzQ4NzgxNWE5MjNjY2ViY2Yz.webp",
+          "category": "villám",
+          "author": null
+        },
+        {
+          "title": "Meztelen felsőtesttel táncolt egy száguldó kamion platóján – videón a hajmeresztő mutatvány",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/kamion-meztelen-george-washington-hid-video",
+          "published": null,
+          "description": "Ugrált és táncolt, miközben az elhaladó autósoknak énekelt.",
+          "image": "https://cdn.origo.hu/2026/09/SDEBQpcSSEV4ZQDJEQuwMe0QN2JtylPpqDPt4cig9dE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzZmQwOTdkNzI3MzQ1MDFiYjVmM2E1YjViOWJhM2I3.webp",
+          "category": "New York",
+          "author": null
+        },
+        {
+          "title": "Magyar Péter szerint tíz magyar diplomatát küldhet haza Oroszország",
+          "url": "https://www.origo.hu/belpol/2026/09/magyar-peter-szerint-tiz-magyar-diplomatat-kuldhet-haza-oroszorszag",
+          "published": null,
+          "description": "Hivatalos értesítésről egyelőre nincs tudomása.",
+          "image": "https://cdn.origo.hu/2026/09/S6zucLvIQsuLTbR2cvAJGWcknuVJSCtrhuk3FBwkOQk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVkZjM0YmExNDNlOTRiZWE5OTQ5ZGI4MzUwYzg5NGZk.webp",
+          "category": "Magyar Péter",
+          "author": null
+        },
+        {
+          "title": "Lilla-forrás: különleges természeti kincs rejtőzik a dunaalmási templom mellett",
+          "url": "https://www.origo.hu/itthon/2026/09/lilla-forras-dunaalmas-viz",
+          "published": null,
+          "description": "Kristálytiszta, langyos víz tör a felszínre a Gerecse lábánál, a Lilla-forrásból, amelynek különleges eredetéről és geológiai értékeiről azonban kevesen tudnak.",
+          "image": "https://cdn.origo.hu/2026/09/Hs9MktHIFPucvKbu6Iv5KLclPLwn-pNU3X7kNzfMzsQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk1YWE1NTMyYzNmYzQ5MDQ4N2U0YzcwM2FjZWRkNDAx.webp",
+          "category": "forrás",
+          "author": null
+        },
+        {
+          "title": "Bedrogozta feleségét, majd átengedte más férfiaknak a kegyetlen férj",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/szexualis-bantalmazas-ausztria-vad",
+          "published": null,
+          "description": "Brutális történet.",
+          "image": "https://cdn.origo.hu/2026/09/1b2ZASDfyDQwaagFj3JEpbrdjCNNWcK4G_i3ZPudc0g/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JhNjg1ZGY5ZGJiNzQ4ZDZiNjJmNzBjZTgzZTI0YjA5.webp",
+          "category": "feleség",
+          "author": null
+        },
+        {
+          "title": "Házasság első látásra: erre a fordulat nem sokan számítottak, a kikosarazás után Ján és Juci összeköltözött",
+          "url": "https://www.origo.hu/teve/2026/09/hazassag-elso-latasra-jan-es-juci-osszekoltozott",
+          "published": null,
+          "description": "Még Juci szüleinek is elújságolták a hírt.",
+          "image": "https://cdn.origo.hu/2026/09/UOgXgPSrViUADFZK78tTW7mVsuf5VUjqVhGB6XUzk3A/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y1ZGM2ZWQ3ZGNmYTQ4MjhhMzcxM2Y4ZGY5ZDQ3Yzg1.webp",
+          "category": "szerelem",
+          "author": null
+        },
+        {
+          "title": "Lelőtték a népszerű német banda énekesét",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/lelottek-nepszeru-nemet-banda-enekeset",
+          "published": null,
+          "description": "Fegyveresek támadtak rá a bárban.",
+          "image": "https://cdn.origo.hu/2026/09/O5g7TQzJic3vAv2IFChxQCF1c5PBXwqppLjj97Mfeu4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VjNmY5M2UxNTY4OTQ1OWNiNzA4YWEwZDcyYzdhMWIw.webp",
+          "category": "fegyveres",
+          "author": null
+        },
+        {
+          "title": "Azt hittük, ilyen csak filmekben létezik: F1-es autó száguldott a metróalagútban",
+          "url": "https://www.origo.hu/sport/f1/2026/09/f1-red-bull-madridi-metro",
+          "published": null,
+          "description": "Korábban még soha nem hajtott Forma–1-es autó vasúti síneken.",
+          "image": "https://cdn.origo.hu/2026/09/hIlUp0NiA9ppm4wWbVD4PjnzIGPEBwxlhUDxseEdTKI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY2MGNiYWEzMDM5MTRiNWQ5NjI3OWI3N2I0N2MyOGU5.webp",
+          "category": "Forma-1 Spanyol Nagydíj",
+          "author": null
+        },
+        {
+          "title": "Nem az öregedés miatt csökken a tesztoszteronszint? Rájöhettek a rejtett okra",
+          "url": "https://www.origo.hu/tudomany/2026/09/zsigeri-zsir-tesztoszteronszint-oregedes-ferfiak",
+          "published": null,
+          "description": "Úgy tűnik, nem az életkor határozza meg elsősorban a tesztoszteronszintet.",
+          "image": "https://cdn.origo.hu/2026/09/HYBs7UqB3SbRc6FOVJgmbh2OXEAVvtN-OsvCHRzggPY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMzYzRkMDkwYzM5MjQyNTdiZDcwZTExZjNhYWRhNDUw.webp",
+          "category": "tesztoszteron",
+          "author": null
+        },
+        {
+          "title": "Felborult egy turistákat szállító busz Svájcban, többen meghaltak, sokan megsérültek",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/busz-felborult-svajcban-tobben-meghaltak-sokan-megserultek",
+          "published": "2026-09-10T19:14:22+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
+          "author": null
+        },
+        {
+          "title": "Egy éve gyilkolták meg Charlie Kirköt",
+          "url": "https://www.origo.hu/kulpol/2026/09/charlie-kirk-merenylet-usa-trump",
+          "published": "2026-09-10T19:05:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Külpolitika",
+          "author": null
+        },
+        {
+          "title": "A köztévében egy kívánságműsor ismétlésében tűnt fel a bicskei gyerekotthon pedofíliáért elítélt egykori igazgatója",
+          "url": "https://www.origo.hu/belpol/2026/09/m1-botrany-pedofil-vasarhelyi-janos-archiv-musor",
+          "published": "2026-09-10T19:02:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
+          "author": null
+        },
+        {
+          "title": "Merészebb megjelenésre váltott a Suzuki",
+          "url": "https://www.origo.hu/auto/2026/09/suzuki-mereszebb-megjelenesre-valtott",
+          "published": "2026-09-10T19:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Autó",
+          "author": null
+        },
+        {
+          "title": "Tíz évig ott volt egy bomba a nagypapa házában, fogalma sem volt róla – az AI mentette meg",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/bomba-robbanas-ai-tuzszereszek",
+          "published": "2026-09-10T18:55:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
+          "author": null
+        },
+        {
+          "title": "„A legrosszabb alakítás, amit valaha láttam!” – Ízekre szedik a Netflix szépfiúját a kommentelők",
+          "url": "https://www.origo.hu/filmklub/2026/09/netflix-uriemberek-michele-morrone",
+          "published": "2026-09-10T18:45:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Filmklub",
+          "author": null
+        },
+        {
+          "title": "Négy embert megkéseltek egy KFC-ben, mindent beborított a vér – fotók",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/keseles-kfc-eletveszely-tamadas",
+          "published": "2026-09-10T18:42:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
+          "author": null
+        },
+        {
+          "title": "Az AS Romát a kapufa mentette meg az isztambuli pokolban",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/09/bajnokok-ligaja-fenerbahce-roma-eredmenyek",
+          "published": "2026-09-10T18:40:10+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
+          "author": null
+        },
+        {
+          "title": "A Barcelona sztárja kegyetlenül lealázta az ellenfelet, bocsánatot kellett kérnie",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/09/barcelona-rodri-valencia-megalazas",
+          "published": "2026-09-10T18:35:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
+          "author": null
+        },
+        {
+          "title": "„Tudom, hol hibáztam” – Megtörte a csendet a Viszkis, kiderült az igazság a válásáról",
+          "url": "https://www.origo.hu/teve/2026/09/ambrus-attila-valas-igazsag",
+          "published": "2026-09-10T18:30:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "TV",
+          "author": null
+        },
+        {
+          "title": "Madár repült a vezetékhez, megolvadt a mozdony teteje a Déli pályaudvaron - fotók",
+          "url": "https://www.origo.hu/itthon/2026/09/madar-repult-vezetekhez-megolvadt-mozdony-teteje-deli-palyaudvar-fotok",
+          "published": "2026-09-10T18:22:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
+          "author": null
+        },
+        {
+          "title": "A '80-as évek meghódították a közösségi médiát: a sztárok is beszálltak a trendbe",
+          "url": "https://www.origo.hu/teve/2026/09/liptai-claudia-tilla-80-as-evek-trend-retro-ai",
+          "published": "2026-09-10T18:15:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "TV",
+          "author": null
+        },
+        {
+          "title": "Megkezdték a levonulást a védmű építkezéséről",
+          "url": "https://www.origo.hu/belpol/2026/09/pkas",
+          "published": "2026-09-10T18:10:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
+          "author": null
+        },
+        {
+          "title": "Hatalmas botrány a Volánnál: 10 milliárdos kárt okozhattak a túlárazott buszbeszerzésekkel, nyolc embert meggyanúsítottak",
+          "url": "https://www.origo.hu/belpol/2026/09/volan-botrany-10-milliard-buszbeszerzesek-gyanusitott",
+          "published": "2026-09-10T18:05:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
+          "author": null
+        },
+        {
+          "title": "Ledobta a textilt Gabriela Spanic: 52 évesen olyan a teste, mint egy húszévesé!",
+          "url": "https://www.origo.hu/teve/2026/09/gabriela-spanic-bikinis-kep",
+          "published": "2026-09-10T18:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "TV",
+          "author": null
+        }
+      ]
     }
   ]
 }
