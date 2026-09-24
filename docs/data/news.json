@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T08:25:48.568496+00:00",
+  "scraped_at": "2026-09-24T08:30:47.801678+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Elszabadult az OpenAI mesterséges intelligenciája, érzékeny adatok közé hatolt be",
+          "url": "https://index.hu/kulfold/2026/09/24/anthony-albanese-openai-medicare-ausztralia/",
+          "published": "2026-09-24T08:27:00+00:00",
+          "description": "Ausztrál egészségügyi rendszerbe jutott be.",
+          "image": "https://kep.index.hu/1/0/7169/71693/716939/71693995_5285565_6d89dc29dfa4373213d32bead4cf9e53_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
           "title": "Lehetünk-e függetlenek önmagunktól?",
           "url": "https://index.hu/velemeny/2026/09/24/kozugyek-fuggetlenseg-biralat-ujsagiras/",
           "published": "2026-09-24T08:23:00+00:00",
@@ -697,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/6928/69282/692827/69282785_5112987_4378be3de0a691626927d1ec60e11957_wm.jpg",
           "category": "Belföld",
           "author": null
-        },
-        {
-          "title": "Orbán Balázs bejelentette, mivel kezdi európai parlamenti munkáját",
-          "url": "https://index.hu/belfold/2026/09/24/orban-balazs-europai-parlament-level-kozvelemeny-kutatas-kutatas-gender-brusszel/",
-          "published": "2026-09-24T04:22:00+00:00",
-          "description": "Három ügyben indítana vizsgálatot.",
-          "image": "https://kep.index.hu/1/0/6996/69963/699631/69963161_5161973_2ef941c17afd751473a64a548deea84c_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -718,6 +718,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Rés a pajzson: A tiszások sem értenek egyet Magyar Péter hisztijével ebben a konkrét ügyben",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/magyar-peter-mentelmi-jog-felmeres-europion-tiszas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-09-24T08:28:28+00:00",
+          "description": "A miniszterelnök még a sajátjait sem tudta meggyőzni a magyarázkodásával.",
+          "image": "https://cdn.magyarnemzet.hu/2026/09/LyonjbxGFJKIZBDBfaPvCrplAxh2g7S4BsuBfeRMzpw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFjOTE3MGM1Nzg0ZDRmZjA4NjcyZjk4YjM5Mzc3OWZj.jpg",
+          "category": "belföld",
+          "author": null
+        },
         {
           "title": "Ruff Bálint szerint máris demokrácia van Magyarországon, üzent a fanyalgó ellenzéki politikusoknak",
           "url": "https://magyarnemzet.hu/belfold/2026/09/ruff-balint-szerint-maris-demokracia-van-magyarorszagon-uzent-a-fanyalgo-ellenzeki-politikusoknak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
@@ -932,15 +941,6 @@
           "description": "Az új elnök útja a brüsszeli szerepléstől az ellenzéki kabineten át vezetett a magyar médiahatóság élére.",
           "image": "https://cdn.magyarnemzet.hu/2026/09/E2VnNYFF9_aD6IabUgr6aG4sw65mipDuZTczpx8X2y8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFiYzE3ZDRmYmYxOTQyMWFhNDE2Y2E5NWQ5OTFmZjY1.jpg",
           "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "Megelőzte a magyar vállalatot, így az osztrák építőipari óriáscég újíthatja fel a K-hidat",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/09/megelozte-a-magyar-vallalatot-igy-az-osztrak-epitoipari-oriasceg-ujithatja-fel-a-k-hidat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-09-23T17:28:45+00:00",
-          "description": "A pályázók esetében nem csak az árat nézte a Budapest Közút.",
-          "image": "https://cdn.magyarnemzet.hu/2026/06/EokgpLfXHv1MqyC8anxMGdrXJozAsDLKyiLbKzm2tT8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1YzJlOGI4OWQxZjQzMTZiMzM3NzI0OGY1ZWMxYjdj.jpg",
-          "category": "gazdaság",
           "author": null
         }
       ]
@@ -1187,7 +1187,7 @@
       "url": "https://24.hu/hirfolyam/",
       "color": "#888888",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 504, message='Gateway Time-out', url='https://24.hu/hirfolyam/'",
       "article_count": 0,
       "articles": []
     },
@@ -1301,6 +1301,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Egyetlen NER-es közalapítvány sem kérte a bíróságon, hogy más formában működhessen tovább",
+          "url": "https://hvg.hu/kkv/20260924_kekva-megszunes-ner-fovarosi-torvenyszek",
+          "published": "2026-09-24T08:25:09+00:00",
+          "description": "Jogutód nélkül szűnik meg többek közt az MCC, a Batthyány Lajos Alapítvány, az Áder János-féle Kék Bolygó, és a Lázár Jánoshoz tartozó Jövő Nemzedék Földje is.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7a6ab2d7-0ee2-4600-a1bb-a0438228db7d.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Rámértek az iPhone 18 Pro Max tárhelyére, elkeserítő lett az eredmény",
           "url": "https://hvg.hu/tudomany/20260924_apple-iphone-18-pro-max-tarhely-irasi-sebesseg",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1212ad6c-a28d-4b60-8417-c894fc650f29.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (Somfai Dávid)"
-        },
-        {
-          "title": "Benzinmotort szerel villanyautóiba a Toyota",
-          "url": "https://hvg.hu/cegauto/20260924_benzinmotort-szerel-villanyautoiba-a-toyota",
-          "published": "2026-09-24T04:41:00+00:00",
-          "description": "Láthatáron a Toyota hatótávnövelő funkciós vadonatúj elektromos modelljei.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bee07662-b4c9-4119-b497-752ab5339775.jpg",
-          "category": "Autó",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1537,15 +1537,6 @@
       "error": null,
       "article_count": 8,
       "articles": [
-        {
-          "title": "Ment a luxizás a Várban – milliárdokat költöttek kanapéra, tálalóasztalra a BM-nek szánt épületben",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/24/ment-a-luxizas-a-varban-milliardokat-koeltoettek-kanapera-talaloasztalra-a-bm-nek-szant-epueletben",
-          "published": "2026-09-24T09:00:34.661015+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
         {
           "title": "Hallerné Nagy Anikó: „Magyar Péter nem öncélúan hangos, hanem fel akar valamit hangosítani”",
           "url": "https://kontroll.hu/cikk/interju/2026/09/24/hallerne-nagy-aniko-magyar-peter-nem-oenceluan-hangos-hanem-fel-akar-valamit-hangositani",
@@ -1608,6 +1599,15 @@
           "image": null,
           "category": "Kultura",
           "author": null
+        },
+        {
+          "title": "Házkutatást tartottak az Alapjogokért Központ háttércégénél, a Fidesz szerint politikai támadás zajlik",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/23/hazkutatast-tartottak-az-alapjogokert-koezpont-hattercegenel-a-fidesz-szerint-politikai-tamadas-zajlik-1",
+          "published": "2026-09-23T17:12:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
         }
       ]
     },
@@ -1620,6 +1620,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Jacht, magánrepülő, luxusautók – Várkonyi Andrea most mindent elmondott",
+          "url": "https://www.origo.hu/teve/2026/09/varkonyi-andrea-hazassag-luxus-ner-feleseg-kritikak",
+          "published": "2026-09-24T10:25:00+01:00",
+          "description": "A kényes kérdéseket sem kerülte meg.",
+          "image": "https://cdn.origo.hu/2026/09/DmmflioiMYwS9KkrUMtl9hV88y5v4PbcMJU0R7wH6zU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjYjhiNDg5YjUyODRiOWNhNDQ2OWM5Njc4NjdmYzRm.webp",
+          "category": "Várkonyi Andrea",
+          "author": null
+        },
         {
           "title": "Magyar kutatók szén-dioxidból gyártanának üzemanyagot",
           "url": "https://www.origo.hu/gazdasag/2026/09/uzemanyag-szen-dioxidbol-magyar-kutatok-szte",
@@ -1704,10 +1713,10 @@
         {
           "title": "„Szabadon igazolható vagyok” – kiakadt az F1-es pilóta az Azeri Nagydíj előtt",
           "url": "https://www.origo.hu/sport/f1/2026/09/f1-esteban-ocon-haas",
-          "published": "2026-09-24T09:00:00+01:00",
-          "description": "Pályafutása egyetlen győzelmét a Hungaroringen aratta.",
-          "image": "https://cdn.origo.hu/2026/09/jn1NOz7u1zDSruZLLNJI8VWbyeXvhbMs8hv_AGXYuwo/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJkZjAzMzZlNDc0MzRlYzg4MmM2OGYzOGVkNmU4NjBl.webp",
-          "category": "Forma-1 Azeri Nagydíj",
+          "published": "2026-09-24T07:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1834,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Shane Tusup és felesége meglepő vallomást tett: a kislányukról van szó",
-          "url": "https://www.origo.hu/sport/sport-egyeni/2026/09/shane-tusup-feleseg-kislany-szuletesnap-fotok",
-          "published": "2026-09-24T04:35:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
           "author": null
         }
       ]
