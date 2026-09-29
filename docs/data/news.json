@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-09-29T09:40:38.175262+00:00",
+  "scraped_at": "2026-09-29T09:45:36.963750+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Deutschék Hankó miatt is levelet küldtek az európai parlamenti képviselőknek",
+          "url": "https://telex.hu/kulfold/2026/09/29/eu-europai-parlament-deutsch-gal-level-hanko",
+          "published": "2026-09-29T09:44:51+00:00",
+          "description": "„Az önkényuralmi rendszer által indított koncepciós eljárások nyilvánvaló célja az ellenzék teljes felszámolása” – írta a Gál Kinga és Deutsch Tamás nevében kiadott levél.",
+          "image": "https://assets.telex.hu/images/20260929/1790674534-temp-dt4o2tlcl0f50ncckfd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Sződligeten fogtak el egy három éve rejtőzködő férfit, aki a top 50-es körözési listán is szerepelt",
+          "url": "https://telex.hu/belfold/2026/09/29/nni-elfogas-top-50-es-korozesi-lista-bujkalas-szodliget",
+          "published": "2026-09-29T09:40:50+00:00",
+          "description": "A 32 éves férfi bűnlajstromán garázdaság, testi sértés, hamis vád, ittas járművezetés és közokirat-hamisítás is szerepelt.",
+          "image": "https://assets.telex.hu/images/20260929/1790674732-temp-2m7tr40s69m7acdonhh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Megjelent az Egyke előzetese, amiben Pogány Induló hátborzongató kamaszt alakít",
+          "url": "https://telex.hu/after/2026/09/29/egyke-elozetes-szasz-julia-ifj-vidnyanszky-attila-pogany-indulo",
+          "published": "2026-09-29T09:26:52+00:00",
+          "description": "Megérkezett Szentgyörgyi Bálint Egyke című filmjének az előzetese, amit januártól láthat a közönség a mozikban.",
+          "image": "https://assets.telex.hu/images/20260929/1790673967-temp-b1anfg0d48ba1pgjpim_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "A magyar energiarendszer problémái: rezsicsökkentés, ész nélküli napelemboom, ipari áramár",
+          "url": "https://telex.hu/g7/adat/2026/09/29/magyar-energiarendszer-problemai-g7-paradigma",
+          "published": "2026-09-29T09:12:14+00:00",
+          "description": "Komoly versenyhátrány a teljes hazai nemzetgazdaságnak, hogy drágán kapják az energiát az ipari fogyasztók. Ez a téma többször is előkerült a múlt héten rendezett G7 Paradigma konferencián.",
+          "image": "https://assets.telex.hu/images/20260929/1790672788-temp-1d3nusfdmu2l9incfja_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Jandó Zoltán"
+        },
+        {
+          "title": "Bencsik András szerint eljött az igazmondás ideje",
+          "url": "https://telex.hu/belfold/2026/09/29/bencsik-andras-nezopont-valasztas-vereseg-fidesz-igazmondas",
+          "published": "2026-09-29T09:10:00+00:00",
+          "description": "A Demokrata főszerkesztője Mráz Ágoston Sámuel beismerésére reagálva azt írta, „a sumákolásnak, a mellébeszélésnek, a féligazságoknak lejárt az idejük”.",
+          "image": "https://assets.telex.hu/images/20260929/1790672916-temp-8q60cbhg200e5jpfdfm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Értesítés nélkül megváltoztatták a K&H több ügyfelének PIN-kódját, a bank szerint külső szolgáltatójuknál merült fel hiba",
+          "url": "https://telex.hu/gazdasag/2026/09/29/kh-bank-pin-kod-valtoztatas-hiba-fennakadas",
+          "published": "2026-09-29T09:09:04+00:00",
+          "description": "Egyelőre a bankkártyás fizetésnél és az ATM-eken keresztül indított készpénzfelvételeknél is fennakadásokkal kell számolni.",
+          "image": "https://assets.telex.hu/images/20260929/1790671571-temp-cobd3cvvlk46bindacg_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Lakást vennél? A várakozásnak is megvan az ára",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/09/29/lakast-vennel-a-varakozasnak-is-megvan-az-ara-1",
+          "published": "2026-09-29T08:55:01+00:00",
+          "description": "Lakásvásárlásnál könnyű arról ábrándozni, hogy néhány hónap múlva talán jobb lesz a kínálat, kedvezőbbek lesznek az árak vagy olcsóbb lesz a banki finanszírozás.",
+          "image": "https://assets.telex.hu/images/20260925/1790288379-temp-hso0ajvj2mvh1djkjin_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Elindult a vizsgálat az Operettszínházban, Tarr Zoltán ideiglenesen felmentette Kiss-B. Atillát",
+          "url": "https://telex.hu/karakter/kultura/2026/09/29/operettszinhaz-vizsgalat-felmentes-kiss-b-atilla",
+          "published": "2026-09-29T08:36:15+00:00",
+          "description": "Az intézmény szakmai és etikai belső vizsgálatának idejére mentesítette a munkavégzés alól a miniszter az Operett főigazgatóját.",
+          "image": "https://assets.telex.hu/images/20260929/1790670926-temp-0rtmm3jklijv5lgkgmb_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Közleményt adott ki az ügyészség Hankó Balázs őrizetbe vételéről",
+          "url": "https://telex.hu/belfold/2026/09/29/hanko-balazs-hutlen-kezeles-buncselekmenye-orizetbe-vetel-nka",
+          "published": "2026-09-29T08:23:33+00:00",
+          "description": "Hankó az őrizetbe vétel és a gyanúsítás ellen panaszt jelentett be. Kiderült, az ügyben mást is őrizetbe vettek és kihallgattak.",
+          "image": "https://assets.telex.hu/images/20260929/1790670068-temp-kab2edgpmp8t4nendbo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Felfüggesztett börtönre ítélték a vállalkozót, aki 369 millióval rövidítette meg a költségvetést, és a korábbi külügyminisztériumot is bepalizta",
+          "url": "https://telex.hu/belfold/2026/09/29/bortonbuntetes-vallalkozo-koltsegvetesi-csalas-afacsalas-kulugyminiszteriumot",
+          "published": "2026-09-29T08:05:20+00:00",
+          "description": "A tatai fuvarozó cég ügyvezetője hamis adatokkal nyert vissza nem térítendő támogatást, és az áfával is trükközött.",
+          "image": "https://assets.telex.hu/images/20260929/1790669072-temp-581uph33ng9g8mgocil_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "„Egy sikítozó kékharisnyával nem fog a rendőrfőkapitány interjút készíteni” – ezt a választ kapta a HVG újságírója a rendőröktől",
+          "url": "https://telex.hu/belfold/2026/09/29/rendorseg-belso-level-hvg-ujsagiroja-sikitozo-kekharisnya-interju",
+          "published": "2026-09-29T08:00:15+00:00",
+          "description": "Interjút akart készíteni a budapesti rendőrfőkapitánnyal, többszöri próbálkozás után pedig érkezett a félrement email.",
+          "image": "https://assets.telex.hu/images/20260929/1790668268-temp-61aj6kdth4v5eekpeak_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Halasztás: november 4-én hozzák nyilvánosságra az ügynökaktákat",
+          "url": "https://telex.hu/belfold/2026/09/29/ugynokaktak-nyilvanossagra-hozas-torveny-november-4",
+          "published": "2026-09-29T07:46:05+00:00",
+          "description": "Korábban az szerepelt a törvényben, már az október 23-i forradalom évfordulója előtt nyilvánosságra hozzák az első adagot.",
+          "image": "https://assets.telex.hu/images/20260929/1790668064-temp-7aorcri7a2os6ajpdfh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Republikon: Kevesebb a politikai tartalom, több a független szakértő a köztévé híradójában a tavalyihoz képest",
+          "url": "https://telex.hu/belfold/2026/09/29/republikon-kutatas-kozmedia-hirado-2025-2026",
+          "published": "2026-09-29T07:43:40+00:00",
+          "description": "A friss elemzésben a szeptember 15. és 21. közötti időszak adásait hasonlították össze az előző év ugyanezen időszakában sugárzott adásokkal.",
+          "image": "https://assets.telex.hu/images/20260929/1790665028-temp-irh3tdmq9h970jjnila_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Reggel kell a kabát, de délután a pulcsi is sok? A következő napokban marad a nagy hőingás",
+          "url": "https://telex.hu/belfold/2026/09/29/idojaras-osz-hoingas-20-25-fok-idokep-elorejelzes",
+          "published": "2026-09-29T07:02:13+00:00",
+          "description": "A kora reggeli órákban 10 fok alatt marad a hőmérséklet, de napközben 22–26 fok is lehet.",
+          "image": "https://assets.telex.hu/images/20260929/1790665145-temp-fva12p25mjrr2aapokn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "A Mentelmi Bizottság tiszás elnöke nem támogatja Magyar kezdeményezését a képviselők mentelmi jogának eltörléséről",
+          "url": "https://telex.hu/belfold/2026/09/29/sasi-nagy-edit-mentelmi-bizottsag-mentelmi-jog-magyar-peter-javaslat",
+          "published": "2026-09-29T06:41:35+00:00",
+          "description": "Sasi-Nagy Edit szerint van létjogosultsága a javaslatnak, de most még koholt ügyekben ellenük használhatnák fel a módosítást.",
+          "image": "https://assets.telex.hu/images/20260929/1790663808-temp-e2utud6dr8c63ickmii_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Minisorozatot indított az ügyészség a büntetőeljárások gyorsaságáról",
+          "url": "https://telex.hu/belfold/2026/09/29/ugyeszseg-negy-reszes-minisorozat-buntetoeljarasok-gyorsitas",
+          "published": "2026-09-29T06:06:10+00:00",
+          "description": "Az utóbbi időben meglehetősen sok kritika érte az ügyészséget a hosszan elhúzódó büntetőeljárások miatt.",
+          "image": "https://assets.telex.hu/images/20260929/1790661002-temp-sjeo86k9tricboekpfe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Nem kell a gyerekemnek a buszmegállóban néznie az iskola mellett a háborús uszítást. Ez megfizethetetlen.",
+          "url": "https://telex.hu/techtud/2026/09/29/tanacs-zoltan-tudomanyos-technologiai-miniszter-interju-atvilagitasok-hun-ren-4ig-urkutatas-horizon-mesterseges-intelligencia",
+          "published": "2026-09-29T05:59:41+00:00",
+          "description": "A tudományos és technológiai miniszter szerint a NER letarolta a teljes magyar gazdaságot, kiszemelt érdemi háttér és szakmai tapasztalat nélküli cégeket, és ész nélkül teletömte őket állami pénzzel. A 4iG űrszerződését az autópálya-koncesszióhoz hasonlítaná, a HUN-REN működésébe pedig egyáltalán...",
+          "image": "https://assets.telex.hu/images/20260928/1790591663-temp-49hhbbbmfcc79gcmelj_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Orbán-era cultural minister detained over corruption charges",
+          "url": "https://telex.hu/english/2026/09/29/hanko",
+          "published": "2026-09-29T05:50:14+00:00",
+          "description": "Balázs Hankó is suspected of having allocated public funds-a total of more than 47,6 million euros- for purposes other than those specified by law. Some funds ended up in the hands of Fidesz-affiliated circles, and some were used to fund campaign events.",
+          "image": "https://assets.telex.hu/images/20260929/1790660855-temp-2vpi0ku0qqpn2blokih_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Horváth Kávai Andrea"
+        },
+        {
+          "title": "Rubio szerint nyilvánvaló, hogy külföldi szereplő áll az angliai légibázisnál tervezett terrorcselekmény mögött",
+          "url": "https://telex.hu/kulfold/2026/09/29/marco-rubio-egyesult-kiralysag-legibazis-raf-tervezett-tamadas-kulfoldi-erok",
+          "published": "2026-09-29T05:46:56+00:00",
+          "description": "Az amerikai külügyminiszter azt mondta, hogy nagyon súlyos helyzet is kialakulhatott volna.",
+          "image": "https://assets.telex.hu/images/20260929/1790660346-temp-27acf3dsml2e1bpmbef_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Megszületett Palvin Barbara gyereke",
+          "url": "https://telex.hu/after/2026/09/29/megszuletett-palvin-barbara-gyereke",
+          "published": "2026-09-29T04:58:57+00:00",
+          "description": "A magyar modell és férje, Dylan Sprouse az Instagramon egy közös képet is megosztott hármukról.",
+          "image": "https://assets.telex.hu/images/20260929/1790657086-temp-7o22mlks5r1mfnnmfnh_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Zelenszkij szerint Észak-Korea további tízezer katonát küldhet Oroszországba",
+          "url": "https://telex.hu/kulfold/2026/09/29/volodimir-zelenszkij-eszak-koreai-katonak-oroszoroszag-ukrajna-haboru",
+          "published": "2026-09-29T04:25:48+00:00",
+          "description": "Az ukrán elnök szerint jelenleg is nyolcezer észak-koreai katona tartózkodik orosz területen.",
+          "image": "https://assets.telex.hu/images/20260929/1790655721-temp-7d1fq8jdbutpampadmp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Az OpenAI biztonsági kockázatok miatt elhalasztotta az új modelljének a bevezetését",
+          "url": "https://telex.hu/techtud/2026/09/29/openai-mesterseges-intelligencia-uj-rendszer-halasztas-biztonsagi-okok",
+          "published": "2026-09-29T03:49:27+00:00",
+          "description": "A ChatGPT fejlesztője szerint az új mesterségesintelligencia-modelljük nem felelt meg a saját szabványaiknak sem.",
+          "image": "https://assets.telex.hu/images/20260929/1790653350-temp-roq48u4qtk6o2jeebjn_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Bizonytalan a Szegedi Kortárs Balett pénzügyi helyzete, de így is 54 előadásra és két új bemutatóra készülnek",
+          "url": "https://telex.hu/belfold/2026/09/29/szegedi-kortars-balett-finanszirozas-allami-onkormanyzati-tamogatas-evad",
+          "published": "2026-09-29T03:01:45+00:00",
+          "description": "A Szegedi Kortárs Balett új évadát úgy tervezi, hogy több fontos állami támogatásról még nincs döntés.",
+          "image": "https://assets.telex.hu/images/20260925/1790340587-temp-52e37l2p3qlr2jbhgcl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Farkas Anna"
+        },
+        {
+          "title": "Ha az ízletes paradicsom egészségesebb is, akkor a finom piros gumicukor is az?",
+          "url": "https://telex.hu/eszkombajn/2026/09/29/a-finom-alapanyagnak-jobbak-a-beltartalmi-ertekei-is",
+          "published": "2026-09-29T03:01:23+00:00",
+          "description": "A természetes élelmiszerek íz-, illat- és színjegyei utalhatnak arra, hogy sok vitamin és ásványi anyag van bennük. De akkor miért ízlik úgy a csipsz és a gumicukor is, ha azok egyáltalán nem egészségesek?",
+          "image": "https://assets.telex.hu/images/20260928/1790585998-temp-du0482co9blb7imboam_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Ács Bori"
+        },
+        {
+          "title": "Osztalékot vettek fel, pedig robogtak a csőd felé, most feljelentés született az egyiptomi vasútszerződés ügyében",
+          "url": "https://telex.hu/gazdasag/2026/09/29/dunakeszi-egyiptomi-vasutszerzodes-vitezy-david-kbm",
+          "published": "2026-09-29T02:59:26+00:00",
+          "description": "Az új vezetésű állami felszámoló vizsgálata szerint a tulajdonosok akkor vettek ki több tízmillió euró osztalékot, amikor már tudhatták, hogy a cégek nehéz helyzetben vannak.",
+          "image": "https://assets.telex.hu/images/20260928/1790611647-temp-70fsnmk454h5akmhfid_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Súlyos mellékattintás a rendőrségnél, sikítozó kékharisnyának nevezték a nők zaklatásáról érdeklődő újságírót",
+          "url": "https://index.hu/belfold/2026/09/29/rendorseg-brfk-ujsagiro-interju-nok-utcai-zaklatas/",
+          "published": "2026-09-29T09:43:00+00:00",
+          "description": "Rossz helyen landolt a belső levél.",
+          "image": "https://kep.index.hu/1/0/4990/49901/499018/49901831_3804241_05c61d385c41cbd30c65b7f20aab84ee_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "A Házasság első látásra Tücsije teljesen kiborult férje megjegyzésétől: „Még kétszer beszólsz, és fel is rúglak!”",
           "url": "https://index.hu/mindekozben/poszt/2026/09/29/a-hazassag-elso-latasra-tucsije-teljesen-kiborult-ferje-megjegyzesetol-meg-ketszer-beszolsz-es-fel-is-ruglak/",
           "published": "2026-09-29T09:33:23+00:00",
@@ -470,15 +705,6 @@
           "description": "Jelentős változásokat mért a Republikon Intézet.",
           "image": "https://kep.index.hu/1/0/7121/71210/712103/71210381_5251429_601fe5ebccdd8cca10a192c66b05d5bb_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Kiara Lord nem hisz a közös jóban, ám az Ázsia Expresszben valaki kivételt élvezhetett",
-          "url": "https://index.hu/fomo/2026/09/29/tv2-sajtoesemeny-azsia-expressz-kisertes-kiara-lord-papp-ferenc-sipos-tamas-irigy-honaljmirigy/",
-          "published": "2026-09-29T07:31:00+00:00",
-          "description": "Indul az újabb kaland.",
-          "image": "https://kep.index.hu/1/0/7179/71795/717955/71795587_5292837_79f896b66224dc43f76beb8bcbf2638f_wm.jpg",
-          "category": "Fomo",
           "author": null
         }
       ]
