@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-09-30T13:50:38.657313+00:00",
+  "scraped_at": "2026-09-30T13:55:29.642052+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Ingyen lehet hallgatni Kemény Lili nagy port kavart regényének hangoskönyvét, amit a szerző maga olvas fel",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/09/30/kemeny-lili-nem-ingyenes-hangoskonyv",
+          "published": "2026-09-30T13:45:51+00:00",
+          "description": "Belvárosi lakásában olvasta fel a Nem című regényt. Húsz óra lett a vége.",
+          "image": "https://assets.telex.hu/images/20260930/1790774990-temp-fi9c2c4vekt52fdedmm_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "Kontroll: Seszták Miklóst átszállították a Nagy Ignác utcai büntetés-végrehajtási intézetbe",
+          "url": "https://telex.hu/belfold/2026/09/30/atszallitottak-nagy-ignac-utcai-buntetes-vegrehajtasi-intezet-sesztak-miklos",
+          "published": "2026-09-30T13:35:15+00:00",
+          "description": "A korábban többször emlegetett vezetőszáras jelenet elmaradt, a volt minisztert ugyanis a járművel közvetlenül az épületbe vitték.",
+          "image": "https://assets.telex.hu/images/20260930/1790775239-temp-cq3ehfpdcuap6inmkfa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Uniós szinten is sokan dohányoznak itthon, az adóemelés hozzájárulhat a csökkenéshez",
+          "url": "https://telex.hu/g7/adat/2026/09/30/dohanyozas-adoemeles-arak-leszokas-feketepiac",
+          "published": "2026-09-30T13:03:03+00:00",
+          "description": "A WHO 2025-ös becslése szerint tavaly 35 százalék volt Magyarországon a dohányosok aránya, ami a hetedik legnagyobb az Európai Unió tagállamainak mezőnyében.",
+          "image": "https://assets.telex.hu/images/20260930/1790769134-temp-6v5g4bmn0987dhlmhnd_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Stubnya Bence"
+        },
+        {
+          "title": "Két perc alatt több mint ötezer métert süllyedt a Flydubai repülőgépe, miután késsel támadhatott a kapitányra a másodpilóta",
+          "url": "https://telex.hu/kulfold/2026/09/30/flydubai-repulogep-sullyedes-izrael-szaud-arabia-pilota-keseles",
+          "published": "2026-09-30T12:56:17+00:00",
+          "description": "A gép kényszerleszállást hajtott végre. Izraeli lapok felvetették a terrortámadás lehetőségét.",
+          "image": "https://assets.telex.hu/images/20260930/1790772590-temp-igvbhjp13u009djbabo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Elbukott a parlamenti szavazáson a harmadik román kormányfőjelölt is",
+          "url": "https://telex.hu/transtelex/2026/09/30/kormanyvalsag-romania-szavazas-parlament-siegfried-muresan",
+          "published": "2026-09-30T12:53:18+00:00",
+          "description": "Az RMDSZ által is támogatott liberális Siegfried Mureșan alig tudott meggyőzni valakit az őt eleve támogató három párt törvényhozóin kívül.",
+          "image": "https://assets.telex.hu/images/20260930/1790770838-temp-bhdaipesl25f2lpagni_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Zsizsmann Erika (Transtelex)"
+        },
+        {
+          "title": "Magyar euró: hiába hitetjük el mindenkivel, hogy le tudjuk futni a maratont, attól még edzeni kell",
+          "url": "https://telex.hu/gazdasag/2026/09/30/euro-mnb-kurali-zoltan-oszko-jarai-bod-peter-konvergencia",
+          "published": "2026-09-30T12:46:09+00:00",
+          "description": "Kurali Zoltán, az MNB alelnöke több fórumon is a magyar euró hitelességéről beszélt. A piac úgy véli, hogy az euró bevezetése nagyon sokat dobna a magyar befektetések értékén.",
+          "image": "https://assets.telex.hu/images/20260930/1790771218-temp-2c88c0ebhrb9fapbjnd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Fotósok jelentek meg Harry herceg gyerekeinek iskolájánál, a hercegi pár kiakadt",
+          "url": "https://telex.hu/kulfold/2026/09/30/harry-herceg-meghan-gyerekek-iskola-fotosok",
+          "published": "2026-09-30T12:31:09+00:00",
+          "description": "A két fotós a gyerekek iskolája körül sétálgatott, és az udvarra bekukucskálva próbálta lefotózni a gyerekeket.",
+          "image": "https://assets.telex.hu/images/20260930/1790771218-temp-htqn5kqf42i92edfhpl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Magyar egy posztban felvetette, hogy az ÁSZ hallgat a Fidesz tiltott pártfinanszírozásáról, az ÁSZ szerint viszont nem Magyar Facebook-utasításai szerint dolgoznak",
+          "url": "https://telex.hu/belfold/2026/09/30/allami-szamvevoszek-leghatarozottabban-visszautasitjak-hanko-balazs-tiltott-partfinanszirozas-fidesz",
+          "published": "2026-09-30T12:27:22+00:00",
+          "description": "A Windisch László-vezette Állami Számvevőszék a közleményében azt is írta, hogy a vizsgálatuk kiterjed az NKA-ügy támogatásaira is.",
+          "image": "https://assets.telex.hu/images/20260930/1790770572-temp-mothn3upg7cv0opfklf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "„Letérköveztek mindent, munka meg nincs” – Várda keserű, Seszták hatalma polipként telepedett rá a városra",
+          "url": "https://telex.hu/belfold/2026/09/30/sesztak-miklos-ugye-kisvarda-tornyospalca-nyirtass-riport",
+          "published": "2026-09-30T12:12:44+00:00",
+          "description": "„Ő volt itt a nagyúr, minden az ő kezében volt, csak az lehetett főnök, csak azt nevezték ki, akit ő jóváhagyott” – mondta egy helyi a Telexnek Kisvárdán Seszták Miklósról. Elrendelték a rétközi választókerületét leuraló KDNP-s politikus letartóztatását, a mostani tiszás képviselő szerint a körny...",
+          "image": "https://assets.telex.hu/images/20260930/1790763740-temp-6sq3c0mmoc297pkbbca_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Reagált Lőrincz Viktória vádjaira a hűtlen kezeléssel gyanúsított veszprémi cég",
+          "url": "https://telex.hu/belfold/2026/09/30/veszprem-balaton-2023-zrt-hutlen-kezeles-hivatali-visszaeles-vad-reakcio",
+          "published": "2026-09-30T12:02:36+00:00",
+          "description": "A miniszter kedden tett feljelentést, mert a cég úgy kapott állami támogatást, hogy egy államtitkár volt az egyik vezetője. A cég szerint átlátható módon költötték el a forrásokat.",
+          "image": "https://assets.telex.hu/images/20260930/1790769323-temp-1ho8gk7nsi0edjoiimp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Hegedűs Zsolt reagált arra, hogy Baka András visszaküldte a kötelező orvosi kamarai tagságról szóló törvényt",
+          "url": "https://telex.hu/belfold/2026/09/30/hegedus-zsolt-baka-andras-visszakuldes-torvenytervezet-reakcio",
+          "published": "2026-09-30T11:38:57+00:00",
+          "description": "Az egészségügyi miniszter azt írta, az államfő észrevételeit érdemben mérlegelik.",
+          "image": "https://assets.telex.hu/images/20260930/1790768277-temp-bo7ml6b4f0fbdhcjjgn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A Belügyminisztérium felhívta a HVG újságíróját, hogy bocsánatot kérjenek a kékharisnyázás miatt",
+          "url": "https://telex.hu/belfold/2026/09/30/belugyminiszterium-bocsanatot-kert-kekharisnya-hvg-ujsagiroja",
+          "published": "2026-09-30T11:33:14+00:00",
+          "description": "A Belügyminisztérium már korábban behívatta a BRFK szóvivőjét, és a rendőrségnél belső vizsgálatot rendeltek el az ügyben.",
+          "image": "https://assets.telex.hu/images/20260930/1790767923-temp-0j8mqa9m5v3q9fgonca_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Court orders arrest of former Orbán-era minister",
+          "url": "https://telex.hu/english/2026/09/30/court-orders-arrest-of-former-orban-era-minister",
+          "published": "2026-09-30T10:53:38+00:00",
+          "description": "The KDNP-delegated MP and former minister of national development is suspected of accepting bribes while in office. The court has ordered a thirty-day detention, which Seszták and his attorney have appealed.",
+          "image": "https://assets.telex.hu/images/20260930/1790765471-temp-2ip9ervjjae9didiphp_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Baka András visszadobta a kötelező orvosi kamarai tagságot visszaállító törvénytervezetet",
+          "url": "https://telex.hu/belfold/2026/09/30/baka-andras-kotelezo-orvosi-kamarai-tagsagot-visszaallito-torvenytervezet-visszakuldes-megfontolas",
+          "published": "2026-09-30T10:45:08+00:00",
+          "description": "A céljával egyetért, a kamarai tisztségviselők választásának törvényi korlátozásával viszont nem, ezért megfontolásra visszaküldte az Országgyűlésnek.",
+          "image": "https://assets.telex.hu/images/20260930/1790765065-temp-rjmful15jpt8dcngbna_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Balesetben meghalt a Recirquel Társulat egyik tagja",
+          "url": "https://telex.hu/karakter/kultura/2026/09/30/kozuti-balesetben-meghalt-nagy-ferenc-recirquel-tarsulat-tagja",
+          "published": "2026-09-30T10:36:36+00:00",
+          "description": "Nagy Ferenc cirkuszművész a Recirquel Walk My World című produkciójának is a szereplője volt.",
+          "image": "https://assets.telex.hu/images/20260930/1790764330-temp-nu3575etquh6fpplibc_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "A legfelsőbb bíróság ismét rábólintott, hogy a Trump-kormány harmadik országokba deportálhasson bevándorlókat",
+          "url": "https://telex.hu/kulfold/2026/09/30/amerikai-legfelsobb-birosag-trump-kormany-migransok-deportalasi-program",
+          "published": "2026-09-30T10:21:31+00:00",
+          "description": "A peres eljárás még nem zárult le véglegesen, de a mostani határozattal ideiglenesen folytatódhatnak a kitoloncolások.",
+          "image": "https://assets.telex.hu/images/20260930/1790747705-temp-17355ktg4lgvdiabadd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Elrendelte a bíróság Seszták Miklós letartóztatását",
+          "url": "https://telex.hu/belfold/2026/09/30/sesztak-miklo-letartoztatas-volanbusz-ugy-nvvh-torvenyszek",
+          "published": "2026-09-30T10:05:14+00:00",
+          "description": "A KDNP országgyűlési képviselőjét, volt nemzeti fejlesztési minisztert hivatali vesztegetés elfogadásával gyanúsítják. A bíróság 30 napra rendelte el a letartóztatását, a végzés ellen Seszták és védője fellebbezett.",
+          "image": "https://assets.telex.hu/images/20260930/1790757926-temp-rea7l2lcnq4c1kcnnep_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Indítványozta az ügyészség Hankó Balázs letartóztatását",
+          "url": "https://telex.hu/belfold/2026/09/30/hanlo-balazs-elozetes-letartoztatas-ugyeszseg-dontes-nka",
+          "published": "2026-09-30T10:03:46+00:00",
+          "description": "A letartóztatás elrendeléséről a Kecskeméti Járásbíróság nyomozási bírája október 1-jén dönt.",
+          "image": "https://assets.telex.hu/images/20260930/1790756124-temp-mrimvu0ef1j2dobcpjk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Garancsi István lemondott a Magyar Természetjáró Szövetség éléről",
+          "url": "https://telex.hu/belfold/2026/09/30/garancsi-istvan-magyar-termeszetjaro-szovetseg-elnokseg-lemondas",
+          "published": "2026-09-30T10:00:46+00:00",
+          "description": "Vele együtt az MTSZ teljes elnöksége visszaadta mandátumát.",
+          "image": "https://assets.telex.hu/images/20260930/1790761834-temp-tppdt5avetk91jmpkkh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "1991-ben gyilkolták meg az idős paloznaki plébánost, az ügyben most 35 év után emelt vádat a főügyészség",
+          "url": "https://telex.hu/belfold/2026/09/30/35-evvel-ezelotti-emberoles-vademeles-paloznaki-plebanos-fougyeszseg",
+          "published": "2026-09-30T09:59:20+00:00",
+          "description": "A paloznaki plébános ügye sokáig a legrégibb felderítetlen magyarországi emberölések közé tartozott.",
+          "image": "https://assets.telex.hu/images/20260930/1790762019-temp-sigirk4qk2h14ljlegl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "185 milliárd forintból, részben uniós támogatásból fejleszti a villamosenergia-hálózatot az MVM",
+          "url": "https://telex.hu/gazdasag/2026/09/30/mvm-csoport-185-milliard-forint-fejlesztes-villamosenergia-halozat",
+          "published": "2026-09-30T09:51:32+00:00",
+          "description": "A fejlesztés jelentős mértékben javítja majd a hálózat rugalmasságát és befogadóképességét.",
+          "image": "https://assets.telex.hu/images/20260930/1790761849-temp-keu1vctr8067cijdjbj_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Letartóztatták a férfit, aki a legnagyobb aszály idején gyújtogatott Szeged külterületén, aztán az elfogásáig még ötvenszer megyeszerte",
+          "url": "https://telex.hu/belfold/2026/09/30/szarazsag-aszaly-szeged-csongrad-csanad-megye-gyujtogatas-tuz-letartoztatas",
+          "published": "2026-09-30T09:41:20+00:00",
+          "description": "A sorozatos gyújtogató letartóztatását egy hónapra rendelte el a bíróság.",
+          "image": "https://assets.telex.hu/images/20260930/1790761136-temp-klks477vi3gv9pimaij_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Mostantól nem kell külön fizetniük a készpénzfelvételért a revolutosoknak az Erste automatáinál",
+          "url": "https://telex.hu/gazdasag/2026/09/30/erste-bank-atm-revolut-kartya-keszpenzfelvetel-dij-megszuntetes",
+          "published": "2026-09-30T09:19:34+00:00",
+          "description": "Más fintechek (például a Wise vagy az N26) ügyfeleinek viszont továbbra is fizetniük kell majd.",
+          "image": "https://assets.telex.hu/images/20260930/1790759894-temp-8g7e6lucqmpqcidpdaj_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Arte: Datacentres in Europe – The hidden cost of digital progress?",
+          "url": "https://telex.hu/english/2026/09/30/arte-ai-data-center-protest-eu",
+          "published": "2026-09-30T09:18:14+00:00",
+          "description": "As AI development supercharges its expansion, the EU aims to at least triple its data centre capacity by the end of the decade.",
+          "image": "https://assets.telex.hu/images/20260930/1790759460-temp-o67d86mbkg6j3ndlnoc_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "Lakásában lőtték agyon Ilijan Filipovot, Bulgária legrégebbi fociklubjának tulajdonosát",
+          "url": "https://telex.hu/kulfold/2026/09/30/lakasaban-lottek-agyon-ilijan-filipovot-bulgaria-legregebbi-fociklubjanak-tulajdonosat",
+          "published": "2026-09-30T09:18:06+00:00",
+          "description": "A gyilkosság hajnali 1 óra körül történt a Bulgária középső részén fekvő Plovdivban, a bolgár üzletember ottani lakásában.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1538,75 +1764,75 @@
       "article_count": 8,
       "articles": [
         {
-          "title": "Hankó Balázs szerint vele együtt a magyar kultúrát akarják börtönbe zárni",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/29/hanko-balazs-szerint-vele-egyuett-a-magyar-kulturat-akarjak-boertoenbe-zarni",
-          "published": "2026-09-29T19:31:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Politico: A britek többsége közeledne az EU-hoz, Farage szavazóit is beleértve",
-          "url": "https://kontroll.hu/cikk/kulfold/2026/09/29/politico-a-britek-toebbsege-koezeledne-az-eu-hoz-farage-szavazoit-is-beleertve",
-          "published": "2026-09-29T18:38:00+01:00",
+          "title": "Több mint 200 év után újra kivégeznek egy női bűnözőt Tennessee-ben",
+          "url": "https://kontroll.hu/cikk/kulfold/2026/09/30/toebb-mint-200-ev-utan-ujra-kivegeznek-egy-noi-bunoezot-tennessee-ben",
+          "published": "2026-09-30T14:01:29.640150+01:00",
           "description": null,
           "image": null,
           "category": "Kulfold",
           "author": null
         },
         {
-          "title": "Legfőbb Ügyészség: Fürcht Pál megalapozatlan elméletei veszélyeztethetik az aranykonvoj-ügy nyomozását",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/29/uegyeszseg-fuercht-pal-megalapozatlan-elmeletei-veszelyeztethetik-az-aranykonvoj-uegy-nyomozasat",
-          "published": "2026-09-29T16:40:00+01:00",
+          "title": "Seszták letartóztatásban, miközben milliárdos vagyonosodása is reflektorfénybe került",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/30/sesztak-letartoztatasban-mikoezben-milliardos-vagyonosodasa-is-reflektorfenybe-keruelt-1",
+          "published": "2026-09-30T12:16:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
           "author": null
         },
         {
-          "title": "Rogán Hankóék helyzetéről: Magyar Péter politikai utasítást adott a bűnüldöző szerveknek",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/29/rogan-hankoek-helyzeterol-magyar-peter-politikai-utasitast-adott-a-bunueldoezo-szerveknek",
-          "published": "2026-09-29T16:00:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "„Egy sikítozó kékharisnyával nem fog interjút készíteni” – így írtak a HVG újságírójáról, Martini Noémiről a rendőrségnél",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/29/egy-sikitozo-kekharisnyaval-nem-fog-interjut-kesziteni-igy-irtak-a-hvg-ujsagirojarol-martini-noemirol-a-rendorsegnel",
-          "published": "2026-09-29T15:08:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Egy közel kétmilliárdos, túlárazott szerződés miatt tett feljelentést Lőrincz Viktória",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/29/egy-koezel-ketmilliardos-tularazott-szerzodes-miatt-tett-feljelentest-lorincz-viktoria",
-          "published": "2026-09-29T14:58:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Aranykonvoj-ügy: Többször cáfolt hazugsággal védi a Fidesz Orbánt a meggyanúsítástól",
-          "url": "https://kontroll.hu/cikk/belfold/2026/09/29/aranykonvoj-uegy-toebbszoer-cafolt-hazugsaggal-vedi-a-fidesz-orbant-a-meggyanusitastol",
-          "published": "2026-09-29T13:02:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Dunakeszi Járműjavító – még akkor is fizették az osztalékokat, amikor már rég tudott volt a csődközeli helyzet",
-          "url": "https://kontroll.hu/cikk/gazdasag-tech/2026/09/29/dunakeszi-jarmujavito-meg-akkor-is-fizettek-az-osztalekokat-amikor-mar-reg-tudott-volt-a-csodkoezeli-helyzet",
-          "published": "2026-09-29T12:34:00+01:00",
+          "title": "Egyre több az olyan szereplő a Forbes gazdaglistáján, akit megégethet a tisztítótűz",
+          "url": "https://kontroll.hu/cikk/gazdasag-tech/2026/09/30/egyre-toebb-az-olyan-szereplo-a-forbes-gazdaglistajan-akit-megegethet-a-tisztitotuz",
+          "published": "2026-09-30T11:38:00+01:00",
           "description": null,
           "image": null,
           "category": null,
+          "author": null
+        },
+        {
+          "title": "Mészáros Lőrinc zebraimádata Botswanáig röpítette őket a feleségével",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/30/meszaros-lorinc-zebraimadata-botswanaig-roepitette-oket-a-felesegevel",
+          "published": "2026-09-30T11:30:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Brutális összegre hízott a Mészárosékhoz köthető autópálya-koncesszió",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/30/brutalis-oesszegre-hizott-a-meszarosekhoz-koetheto-autopalya-koncesszio",
+          "published": "2026-09-30T10:40:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Mit együnk, mit igyunk futás előtt?",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/30/mit-egyuenk-mit-igyunk-futas-elott",
+          "published": "2026-09-30T10:04:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "51 éve zuhant a tengerbe a magyar TU-154-es, máig nem tudni hogy miért",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/30/51-eve-zuhant-a-tengerbe-a-magyar-tu-154-es-maig-nem-tudni-hogy-miert",
+          "published": "2026-09-30T09:28:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "Most aztán tényleg szorul a hurok Hankó körül: választókerületekre szabhatták az NKA milliárdjait",
+          "url": "https://kontroll.hu/cikk/belfold/2026/09/30/most-aztan-tenyleg-szorul-a-hurok-hanko-koeruel-valasztokerueletekre-szabhattak-az-nka-milliardjait-1",
+          "published": "2026-09-30T09:09:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
           "author": null
         }
       ]
@@ -1620,6 +1846,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Bíróság elé áll Arnold Schwarzenegger, súlyos ügy miatt kell felelnie",
+          "url": "https://www.origo.hu/nagyvilag/2026/09/schwarzenegger-birosag-ugy-karterites",
+          "published": "2026-09-30T15:50:00+01:00",
+          "description": "Nagy bajban van.",
+          "image": "https://cdn.origo.hu/2026/09/bJAKFvA2Mk1Cer50b-HvN9v5q_GDPOEEhjXfHOU6nMA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZmYTM3MDc3NzlkNzQyNDE4ZGIzOWE3YzZlNzc0NmZj.webp",
+          "category": "arnold schwarzenegger",
+          "author": null
+        },
+        {
+          "title": "Kiszivárgott Trump terve, Moszkva azonnal válaszolt!",
+          "url": "https://www.origo.hu/kulpol/2026/09/oroszorszag-politikai-foglyok-szankciok",
+          "published": "2026-09-30T15:50:00+01:00",
+          "description": "Komoly vitákat válthat ki, ha az amerikai elnök megállapodik Putyinnal.",
+          "image": "https://cdn.origo.hu/2026/09/Ikh42itntsAreKi8KLWV0bQYWrWFSnFwNPd6INKVLeg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RhMjhmMjg2ZWVjMTRmZGE5OGNmNTFmMGVkZjk4ODkz.webp",
+          "category": "donald trump",
+          "author": null
+        },
         {
           "title": "Nagy változás jön az MVM-nél: több mint 230 ezer fogyasztót érinthet",
           "url": "https://www.origo.hu/gazdasag/2026/09/mvm-aram-fogyaszto",
@@ -1695,19 +1939,19 @@
         {
           "title": "Szívszorító búcsúbeszéd hangzott el Deák Bill Gyula temetésén",
           "url": "https://www.origo.hu/sport/sport-futball/2026/09/deak-bill-gyula-temetes-kubatov-gabor-bucsubeszed",
-          "published": "2026-09-30T14:55:00+01:00",
-          "description": "Deák Bill Gyulától az Új Köztemetőben vettek végső búcsút.",
-          "image": "https://cdn.origo.hu/2026/09/ODZLrtZk-PpndasK_rK-K4OCOI_atfUdzzM5OG_YtzU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMwZTZkN2Y4ZjQ2NjRmZTg4YjBiNWRiZGRmYWQxMDAw.webp",
-          "category": "Deák Bill Gyula",
+          "published": "2026-09-30T12:55:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
           "title": "Sokan örülnek majd a NAV bejelentésének – érdemes résen lenni!",
           "url": "https://www.origo.hu/gazdasag/2026/09/nav-arveres-aukcio",
-          "published": "2026-09-30T14:50:00+01:00",
-          "description": "Akár fél áron is elvihetők ezek a termékek.",
-          "image": "https://cdn.origo.hu/2026/09/vYKYoWoPd9vgiq_ZcR0QXyU52CIeDmPxaP35wzTor20/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlmM2FlODIzYzFmNTQzYWQ4NjM3Y2Y4Y2ExNDc4ZmYw.webp",
-          "category": "nav",
+          "published": "2026-09-30T12:50:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Gazdaság",
           "author": null
         },
         {
@@ -1825,24 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "17 órára kizárta kilencéves gyermekét egy anya – hiába dörömbölt a kislány",
-          "url": "https://www.origo.hu/nagyvilag/2026/09/gyermekelhanyagolas-kislany-kizarva-ittas-anya-17-ora",
-          "published": "2026-09-30T11:22:30+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Brutális gyilkosság: megölte párját, majd kiugrott az negyedikről",
-          "url": "https://www.origo.hu/nagyvilag/2026/09/kiugrott-romania-varos",
-          "published": "2026-09-30T11:15:46+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
