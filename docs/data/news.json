@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T16:35:45.190019+00:00",
+  "scraped_at": "2026-10-01T16:40:40.523618+00:00",
   "portals": [
     {
       "id": "telex",
@@ -257,6 +257,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Kármán András bejelentést tett: januártól 120 ezer forintra emelkedik a nyugdíjminimum",
+          "url": "https://index.hu/gazdasag/2026/10/01/karman-andras-miniszter-idosek-nyugdij-tisza-kormany/",
+          "published": "2026-10-01T16:36:00+00:00",
+          "description": "A változások több mint 700 ezer embert érintenek.",
+          "image": "https://kep.index.hu/1/0/7185/71856/718561/71856155_5297049_20446af84b3b98e13ea14252a594b651_wm.jpg",
+          "category": "Gazdaság",
+          "author": null
+        },
+        {
           "title": "A Fidesz szerint az „új ÁVH” mindent megtehet, az Alkotmánybírósághoz fordultak",
           "url": "https://index.hu/belfold/2026/10/01/fidesz-frakcio-nvvh-avh-onkeny-boka-janos-alkotmanybirosag/",
           "published": "2026-10-01T16:19:00+00:00",
@@ -470,15 +479,6 @@
           "description": "2,5 milliárd forintot takaríthatnak meg egy intézkedéssel.",
           "image": "https://kep.index.hu/1/0/7043/70436/704361/70436147_5196371_48a7b598c7d0ff694354f1fd97e5e743_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Megszólalt férje kizárásáról a Házasság első látásra Lívije",
-          "url": "https://index.hu/mindekozben/poszt/2026/10/01/hazassag-elso-latasra-roli-kizaras-felesege-livi-reakcio/",
-          "published": "2026-10-01T12:58:01+00:00",
-          "description": "",
-          "image": "https://kep.index.hu/1/0/7184/71846/718469/71846959_f352e6e2ea5222610930e69a9cbe60f7_wm.jpg",
-          "category": "Mindeközben",
           "author": null
         }
       ]
@@ -1196,10 +1196,101 @@
       "name": "Neokohn",
       "url": "https://neokohn.hu",
       "color": "#5ba8d6",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 10,
+      "articles": [
+        {
+          "title": "WSJ: Iráni fegyverek és kínai technológiák segítik a jemeni húszi terroristákat",
+          "url": "https://neokohn.hu/2026/10/01/wsj-irani-fegyverek-kinai-technologiak-jemeni-huszi-terroristak-segitseg-voros-tenger/",
+          "published": "2026-10-01T16:00:41+00:00",
+          "description": "A változás annak tudható be, hogy a hagyományos iráni csempészútvonalak egyre nagyobb zavarokkal szembesülnek. A WSJ: Iráni fegyverek és kínai technológiák segítik a jemeni húszi terroristákat bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/000_C7VL7NQ.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Quentin Tarantino ismét apa lesz – harmadik gyermekét várja a rendező izraeli felesége",
+          "url": "https://neokohn.hu/2026/10/01/quentin-tarantino-apa-lesz-harmadik-gyermek-rendezo-izraeli-feleseg/",
+          "published": "2026-10-01T15:00:53+00:00",
+          "description": "Négy évvel lányuk születése után újabb gyermek érkezik a Tarantino családba. A Quentin Tarantino ismét apa lesz – harmadik gyermekét várja a rendező izraeli felesége bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-312-1024x538.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Támadás a flydubai-járaton: Ben-Gvir a késelő pilóta Izraelnek való kiadatását követeli",
+          "url": "https://neokohn.hu/2026/10/01/tamadas-flydubai-ben-gvir-keselo-masodpilota-kiadatas-izrael-oman-emirsegek/",
+          "published": "2026-10-01T13:54:12+00:00",
+          "description": "A radikális jobboldali miniszter sürgette az igazságügyi minisztériumot és a diplomáciai tisztviselőket, hogy azonnal cselekedjenek. A Támadás a flydubai-járaton: Ben-Gvir a késelő pilóta Izraelnek való kiadatását követeli bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/000_C9U62HX.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Az IDF részletesen is cáfolta a NAZA dokumentumfilm hazugságait a gázai „népirtásról”",
+          "url": "https://neokohn.hu/2026/10/01/idf-reszletes-cafolat-naza-dokumentumfilm-hazugsag-nepirtas-civil-halottak/",
+          "published": "2026-10-01T13:05:50+00:00",
+          "description": "Az IDF csütörtökön adta ki első átfogó és részletes válaszát. A Az IDF részletesen is cáfolta a NAZA dokumentumfilm hazugságait a gázai „népirtásról” bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/000_82GN4RW.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Az iráni terrorrezsim azt kéri az amerikaiaktól, hogy szavazzanak a demokratákra",
+          "url": "https://neokohn.hu/2026/10/01/iran-irgc-level-amerikaiak-felidos-valasztasok-demokratak-izrael-trump-haboru/",
+          "published": "2026-10-01T11:49:59+00:00",
+          "description": "Az IRGC az amerikai választókhoz intézett felhívását egy fenyegetéshez is kötötte. A Az iráni terrorrezsim azt kéri az amerikaiaktól, hogy szavazzanak a demokratákra bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/068_AA_29092026_2972241.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Felszállt a Vengeance: először repült kötelékben Amerika új harci repülőgépe",
+          "url": "https://neokohn.hu/2026/10/01/felszallt-a-vengeance-eloszor-repult-kotelekben-amerika-uj-harci-repulogepe/",
+          "published": "2026-10-01T11:04:22+00:00",
+          "description": "Nemrég jelentették be, hogy több száz darabot fognak gyártani az FQ-42-es harci repülőgépből. A Felszállt a Vengeance: először repült kötelékben Amerika új harci repülőgépe bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/Fq-42-vengeance-finds-new-home-1024x538.jpg",
+          "category": "Háború",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Anglia képtelen kitoloncolni a magát menekültnek kiadó gázai Hamász-terroristát",
+          "url": "https://neokohn.hu/2026/10/01/anglia-keptelen-kitoloncolni-menekult-gazai-hamasz-terrorista/",
+          "published": "2026-10-01T09:56:42+00:00",
+          "description": "Bemutatjuk Abu Wadei, egy brit adófizetők pénzén élősködő, hamászos gázai migráns történetét. A Anglia képtelen kitoloncolni a magát menekültnek kiadó gázai Hamász-terroristát bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-309-2-1024x538.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Új helyszínen tartják meg a Fauda sztárjának budapesti közönségtalálkozóját",
+          "url": "https://neokohn.hu/2026/10/01/uj-helyszi-fauda-sztar-budapesti-kozonsegtalalkozo/",
+          "published": "2026-10-01T09:11:06+00:00",
+          "description": "A hatalmas érdeklődésre való tekintettel nagyobb helyszínen tartják meg Lior Raz rendezvényét. Részletek a cikkben. A Új helyszínen tartják meg a Fauda sztárjának budapesti közönségtalálkozóját bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/825336900_122116218375473637_5957870329447577293_n-1024x536.jpg",
+          "category": "Belföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "„Abban a pillanatban nem gondolkodsz” – megszólalt az eltérített Flydubai-járat hős orvosa",
+          "url": "https://neokohn.hu/2026/10/01/megszolalt-az-elteritett-flydubai-jarat-hos-orvosa/",
+          "published": "2026-10-01T07:53:55+00:00",
+          "description": "Új részleteket árult el az eltérített gép megmentésében részt vevő izraeli fogorvos. A „Abban a pillanatban nem gondolkodsz” – megszólalt az eltérített Flydubai-járat hős orvosa bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-313-1024x538.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Irán állhat a gépeltérítés mögött? Izrael is beszáll a késelő pilóta kihallgatásába",
+          "url": "https://neokohn.hu/2026/10/01/iran-gepelterites-izrael-beszall-keselo-pilota-kihallgatas/",
+          "published": "2026-10-01T06:46:41+00:00",
+          "description": "Benjamin Netanjahu izraeli miniszterelnök új részleteket osztott meg a támadás kapcsán. A Irán állhat a gépeltérítés mögött? Izrael is beszáll a késelő pilóta kihallgatásába bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-311-1024x538.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        }
+      ]
     },
     {
       "id": "hvg",
@@ -1449,7 +1540,7 @@
         {
           "title": "Letartóztatták Hankó Balázst, nem sokkal később volt államtitkárát is",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/01/letartoztattak-hanko-balazst-nem-sokkal-kesobb-volt-allamtitkarat-is",
-          "published": "2026-10-01T17:18:30.813522+01:00",
+          "published": "2026-10-01T17:17:39.918612+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1530,6 +1621,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Íme, ezek a legmegbízhatóbb autók: a te kocsid rajta van?",
+          "url": "https://www.origo.hu/auto/2026/10/suzuki-hibatlan-teljesitmeny-megbizhatosagi-lista-eleje",
+          "published": "2026-10-01T18:30:00+01:00",
+          "description": "Megdicsérték a Suzukit, mert ingyen javították a felmerült hibákat.",
+          "image": "https://cdn.origo.hu/2026/10/wrXJhLtQ3BglnehKcn5_JGSd6FpXiyyAo8XzxYtd1As/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EwODA4YTk1NDcyMjRiYzQ4ZmE4NGEzNTFlOTBiNTE4.webp",
+          "category": "suzuki",
+          "author": null
+        },
+        {
           "title": "Felismered ezeket a retró tárgyakat? Tudod, mire használták őket? Kvízünkből kiderül",
           "url": "https://www.origo.hu/eletmod/2026/10/retro-targyak-kviz",
           "published": "2026-10-01T18:22:00+01:00",
@@ -1599,15 +1699,6 @@
           "description": "Az alábbi jelek árulkodóak!",
           "image": "https://cdn.origo.hu/2026/10/8QOPj1o_-s6HGbcmtREsgwVoaBH_H5EZInVdvd8_bNc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ1YjI0YmM0MTllZjQwNzdhZDQzOTc0OTU5ZmYxOGI3.webp",
           "category": "okos emberek",
-          "author": null
-        },
-        {
-          "title": "Ilyen szép arcát mutatja Ljubljana ősszel",
-          "url": "https://www.origo.hu/galeria/ilyen-szep-arcat-mutatja-ljubljana-osszel",
-          "published": "2026-10-01T17:15:00+01:00",
-          "description": "",
-          "image": "https://cdn.origo.hu/2026/10/CJ7DZ4DWkIOkj8d_ge4VXjVF47v_p1tm6LVjbFiYveA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzYzE2YzgyZDQyMjQ3ODBiMjZjZmEwN2ZhN2JiNzE2.webp",
-          "category": "Galeria",
           "author": null
         },
         {
