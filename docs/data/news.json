@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-01T12:50:37.356767+00:00",
+  "scraped_at": "2026-10-01T12:55:47.444445+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "„Az ügyészség nem engedte, hogy nyilatkozzak, ennyit a szólásszabadságról” – kiabálta a tárgyalásról távozó Hankó Balázs",
+          "url": "https://telex.hu/belfold/2026/10/01/hanko-ugyeszseg-nem-engedte-nyilatkozzak-ennyit-szolasszabadsagrol",
+          "published": "2026-10-01T12:38:35+00:00",
+          "description": "Az ügyészség szerint ezt nem tiltották meg az azóta letartóztatott miniszternek, akinek a nyilatkozattételt előzetesen kérvényeznie kellett volna, ezt azonban nem tette.",
+          "image": "https://assets.telex.hu/images/20261001/1790858618-temp-t1m78j1gl80e0ijigpa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Forsthoffer megdöbbent: Nem zárták le a Kossuth teret, mégis jelent meg olyan hír, amelynek címe ezt sugallja",
+          "url": "https://telex.hu/belfold/2026/10/01/kossuth-ter-keszenleti-rendorseg-orszaggyulesi-orseg-vedelmi-feladatok-atvetele",
+          "published": "2026-10-01T12:34:09+00:00",
+          "description": "A házelnök szerint a rendőrségi közlemény után született cikket hergelő ellenzéki posztok és felháborodott kommentek követték, pedig a téren a civilek és a gyülekezési jog szempontjából semmi sem változott. A rendőrség is kiadott egy tisztázó közleményt.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Kiderült, mikor kezdik felújítani a Hajógyári-sziget rozsdagyász hídját",
+          "url": "https://telex.hu/belfold/2026/10/01/felujitas-hajogyari-sziget-k-hid",
+          "published": "2026-10-01T12:23:21+00:00",
+          "description": "Több helyük lesz az autóknak, változatlan a gyalogosoknak.",
+          "image": "https://assets.telex.hu/images/20261001/1790857669-temp-akeb7g0kq6vk2ollkko_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Bánki Erik: Kezdem úgy érezni magam, mint A tanú című filmben. Már előre meg van írva a végső határozat",
+          "url": "https://telex.hu/gazdasag/2026/10/01/mnb-vizsgalobizottsag-parlament-kosa-lajos-banki-erik-meghallgatas",
+          "published": "2026-10-01T12:14:11+00:00",
+          "description": "Bánki Erik és Kósa Lajos egykori fideszes országgyűlési képviselő visszatértek a parlamentbe, az MNB működésével kapcsolatos visszaéléseit feltáró vizsgálóbizottság kérdezi őket.",
+          "image": "https://assets.telex.hu/images/20261001/1790856623-temp-83ue6g8e75fbaohcdce_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Letartóztatták Hankó Balázst",
+          "url": "https://telex.hu/belfold/2026/10/01/hanko-balazs-letartoztatas-kecskemet-nka-botrany",
+          "published": "2026-10-01T12:03:35+00:00",
+          "description": "Hétfő délelőtt a ceglédi büntetés-végrehajtási intézetből szállították a kecskeméti bíróságra Hankó Balázst. Közel négyórás ülés után a bíróság egy hónapra elrendelte a volt miniszter letartóztatását, amiért több száz olyan támogatás kiosztásában vett részt, amely a valóságban vagy a Fidesz kampá...",
+          "image": "https://assets.telex.hu/images/20261001/1790842729-temp-0vlp5eccgod3fginham_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Meghalt a Boszniai Szerb Köztársaság háborús bűnösként elítélt egykori elnöke",
+          "url": "https://telex.hu/kulfold/2026/10/01/meghalt-a-boszniai-szerb-koztarsasag-haborus-bunoskent-elitelt-egykori-elnoke-biljana-plavsic",
+          "published": "2026-10-01T11:47:06+00:00",
+          "description": "Biljana Plavšićot 11 évre ítélte el a hágai Nemzetközi Törvényszék.",
+          "image": "https://assets.telex.hu/images/20261001/1790855629-temp-6qkc0o04vg77anoamlh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Parkolási einstandot, háttéralkukat és a Fideszt idéző hatalomgyakorlást emlegetnek a kerületi polgármesterek",
+          "url": "https://telex.hu/belfold/2026/10/01/keruleti-polgarmesterek-posztjai-parkolasi-einstand-fideszes-hatalomgyakorlas",
+          "published": "2026-10-01T11:43:06+00:00",
+          "description": "A kerületektől elvont parkolási pénzek terve miatt sorra teszik közzé zúgolódó bejegyzéseiket a vezetők, és azt írták, nagyot csalódtak Karácsony Gergelyben.",
+          "image": "https://assets.telex.hu/images/20261001/1790854209-temp-9pamvql5u74ibabpdej_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Megszünteti az évekig botrányosan működő doktori iskoláját a Pécsi Tudományegyetem",
+          "url": "https://telex.hu/belfold/2026/10/01/filozofusbotrany-pte-kancellaria-kekva",
+          "published": "2026-10-01T11:30:46+00:00",
+          "description": "A filozófia doktori iskolában fideszes politikusok kaptak furcsa körülmények között diplomát, de a belső jelzéseknek évekig nem volt eredménye. A kancellári rendszertől jövőre búcsúzhatnak.",
+          "image": "https://assets.telex.hu/images/20261001/1790847838-temp-d0scfs03099c0iadcha_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Gűth Ervin"
+        },
+        {
+          "title": "Drón csapódott Kijev legmagasabb hídjába egy emberekkel teli metrószerelvény közelében",
+          "url": "https://telex.hu/kulfold/2026/10/01/dron-csapodott-kijev-legmagasabb-hidjaba",
+          "published": "2026-10-01T11:27:35+00:00",
+          "description": "A Dnyeperen átívelő déli hídon az autós forgalom mellett metró is jár, a támadás pillanatában is volt fent egy szerelvény.",
+          "image": "https://assets.telex.hu/images/20261001/1790854261-temp-c3unpsg14bii3pjpehg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Egyre nehezebb eljutni Közel-Keletre, a Flydubai incidens még ront is a helyzeten",
+          "url": "https://telex.hu/kulfold/2026/10/01/dubaj-flydubai-legitarsasagok-felfuggesztes-jaratok",
+          "published": "2026-10-01T11:20:15+00:00",
+          "description": "A nemzetközi légitársaságok továbbra is óvatosak.",
+          "image": "https://assets.telex.hu/images/20261001/1790853108-temp-g4p0am23dsnd7knenii_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Továbbléptették az ezermilliárdokba kerülő autópálya-koncesszió miatti uniós eljárást",
+          "url": "https://telex.hu/gazdasag/2026/10/01/eu-europai-bizottsag-kotelezettsegszegesi-eljarasok-oktober",
+          "published": "2026-10-01T11:10:50+00:00",
+          "description": "Egy másik kötelezettségszegési eljárás már perig jutott a csütörtöki döntések szerint. Egy olyan ügyben is eljárás indult, amely miatt lassan egy hónapja várjuk hiába a NAV válaszát.",
+          "image": "https://assets.telex.hu/images/20240429/1714401583-temp-OGlcce_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Hatalmas füstfelhő gomolyog, tűz ütött ki a Medikémia szegedi telephelyén",
+          "url": "https://telex.hu/belfold/2026/10/01/medikemia-szeged-tuz-katasztrofavedelem",
+          "published": "2026-10-01T11:00:28+00:00",
+          "description": "Benzin- és alkoholszármazékok égnek.",
+          "image": "https://assets.telex.hu/images/20261001/1790853910-temp-dau9j7cd302haknmgef_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Russian Foreign Ministry announces expulsion of Hungarian diplomats",
+          "url": "https://telex.hu/english/2026/10/01/russian-foreign-ministry-announces-expulsion-of-hungarian-diplomats",
+          "published": "2026-10-01T10:59:17+00:00",
+          "description": "The countermeasures taken in response to the expulsion of ten Russian diplomats from Hungary on espionage charges were announced to Hungary's temporary Chargé d'Affaires during a meeting at the Russian Foreign Ministry on Thursday morning.",
+          "image": "https://assets.telex.hu/images/20261001/1790851929-temp-aigj4s223rd29mahdih_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Beküldte a kormány az akár közel 3700 milliárd forintot érő uniós kifizetési kérelmét",
+          "url": "https://telex.hu/gazdasag/2026/10/01/eu-helyreallitasi-alap-kifizetesi-kerelem",
+          "published": "2026-10-01T10:56:26+00:00",
+          "description": "A helyreállítási alapból december végéig fizetnek. Az előfeltételek túlnyomó részénél hivatalosan is jól áll a kormány, de további több mint száz intézkedésen múlik, pontosan mennyi pénz jön.",
+          "image": "https://assets.telex.hu/images/20251209/1765299620-temp-irb78tfm0grp3DjbJPo_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Két milliárdos balatoni projekt miatt tett feljelentést Kapitány István minisztériuma",
+          "url": "https://telex.hu/gazdasag/2026/10/01/gazdasagi-es-energetikai-miniszterium-koltsegvetesi-csalas-balatoni-projekt-feljelentes",
+          "published": "2026-10-01T10:47:18+00:00",
+          "description": "A Beloiannisz hajó és a fonyódi sportszálló felújításának gyanús ügyeiben.",
+          "image": "https://assets.telex.hu/images/20261001/1790847574-temp-chn2175bi5bfalnooin_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "A magyar kormány tudomásul veszi az orosz döntést a magyar diplomaták kiutasításáról",
+          "url": "https://telex.hu/kulfold/2026/10/01/kulugyminiszterium-tudomasul-veszi-oroszorszag-magyar-diplomatak-kiutasitasa",
+          "published": "2026-10-01T10:32:55+00:00",
+          "description": "A külügy szerint az oroszországi magyar missziók működése továbbra is biztosított, Magyarország diplomáciai jelenléte pedig fennmarad Oroszországban.",
+          "image": "https://assets.telex.hu/images/20261001/1790851208-temp-o601hn9q81btebkdmne_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Női közösséget alapítottak a Tisza női képviselői",
+          "url": "https://telex.hu/belfold/2026/10/01/tisza-noi-muhely-noi-kozosseg-bujdoso-andrea",
+          "published": "2026-10-01T10:24:25+00:00",
+          "description": "A Tisza Női Műhely néven alakult fórum megalapítását Bujdosó Andrea jelentette be.",
+          "image": "https://assets.telex.hu/images/20261001/1790848416-temp-kourcc8v3eq8dgfmabm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Vitézy: A főváros gyakorlatilag csődbe ment",
+          "url": "https://telex.hu/belfold/2026/10/01/vitezy-david-budapest-fovarosi-kozfejlesztesek-tanacsa-keruletek-parkolas",
+          "published": "2026-10-01T10:12:42+00:00",
+          "description": "A közlekedési és beruházási miniszter ezzel indokolta, miért kell gyorsan dönteni a kerületi parkolási pénzekről.",
+          "image": "https://assets.telex.hu/images/20261001/1790850633-temp-meq1jr4onc9icjmkkko_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Magyar diplomaták kiutasítását jelentette be az orosz külügyminisztérium",
+          "url": "https://telex.hu/belfold/2026/10/01/magyarorszag-oroszorszag-magyar-orosz-kapcsolatok-kiutasitasok-orosz-valasz-orban-anita",
+          "published": "2026-10-01T10:04:38+00:00",
+          "description": "Magyarország ideiglenes ügyvivőjét csütörtök délelőtt hívták be az orosz külügyminisztériumba, hogy közöljék vele a kémkedés miatt kiutasított orosz diplomaták miatti válaszlépéseket.",
+          "image": "https://assets.telex.hu/images/20260924/1790250008-temp-gjaes9b0lp4rddeclai_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Baranyi Krisztina Karácsonynak: Annyira kell ez a tízmilliárd forint, hogy elárulod érte a kerületeket?",
+          "url": "https://telex.hu/belfold/2026/10/01/karacsony-gergely-polgarmesterek-parkolas-atalakitasa-korrupcio",
+          "published": "2026-10-01T09:55:59+00:00",
+          "description": "Budapesti polgármesterek vonták kérdőre a főpolgármestert a parkolás tervezett átalakítása miatt.",
+          "image": "https://assets.telex.hu/images/20261001/1790851200-temp-ue20vumt70vu7opcoaj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Elővigyázatosságból átmenetileg bezárják az óbudai kosárakadémia sportcsarnokát",
+          "url": "https://telex.hu/belfold/2026/10/01/kaszasduloi-sportcsarnok-bezaras-obuda-onkormanyzat",
+          "published": "2026-10-01T09:40:45+00:00",
+          "description": "Műszaki problémák merültek fel, meg kell vizsgálni az épület statikai állapotát.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "A belvárosi polgármesterek szerint a főváros arra készül, hogy a csőd elkerülése érdekében elveszi a kerületektől a parkolási bevételeket",
+          "url": "https://telex.hu/belfold/2026/10/01/fovarosi-parkolasi-penzek-fovarosi-kozfejlesztesek-tanacsa",
+          "published": "2026-10-01T09:18:07+00:00",
+          "description": "Karácsony Gergely olyan megállapodást készül kötni a kormánnyal, ami a fővárosi kerületektől a fővárosi önkormányzathoz irányítaná a parkolási bevételeket. A belvárosi polgármesterek szerint velük nem egyeztettek.",
+          "image": "https://assets.telex.hu/images/20261001/1790846628-temp-bmlor1cg0jd34ddmpnc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Medián: A politikából kivonuló Gulyás Gergely a legnépszerűbb ellenzéki politikus",
+          "url": "https://telex.hu/belfold/2026/10/01/median-ellenzeki-politikusok-nepszeruseg",
+          "published": "2026-10-01T09:12:40+00:00",
+          "description": "A Fidesz volt frakcióvezetője Toroczkai Lászlót és Orbán Viktort előzte meg.",
+          "image": "https://assets.telex.hu/images/20261001/1790854516-temp-9anj1sg2uvfkfgdcabe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Forbes: Összeomlottak a Mol tárgyalásai a szerb kőolajvállalat megvásárlásáról",
+          "url": "https://telex.hu/gazdasag/2026/10/01/forbes-szerbia-mol-nis-megvasarlas-targyalas-megakadas",
+          "published": "2026-10-01T09:05:22+00:00",
+          "description": "Ugyan szerdán újabb haladékot kapott a szankciók alól az amerikaiaktól az orosz többségi tulajdonban lévő NIS, a lap szerint tudatosan halogatják a megegyezést az oroszok.",
+          "image": null,
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Ők a legesélyesebbek idén az irodalmi Nobel-díjra az egyik legnagyobb brit fogadóiroda szerint",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/01/irodalmi-nobel-dij-can-xue-murakami-haruki-ladbrokes",
+          "published": "2026-10-01T08:46:12+00:00",
+          "description": "Krasznahorkai győzelme tavaly ilyenkor 6 az 1-hez volt a Ladbrokes szerint. A Svéd Akadémia jövő csütörtökön nevezi meg a győztest.",
+          "image": "https://assets.telex.hu/images/20261001/1790843911-temp-7dmt8a862h40aondjoe_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Rácz Attila"
+        }
+      ]
     },
     {
       "id": "444",
@@ -20,6 +246,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Nem vagy egyedi, nem vagy egyedül",
+          "url": "https://444.hu/2026/10/01/nem-vagy-egyedi-nem-vagy-egyedul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-10-01T12:50:20+00:00",
+          "description": "Agydanatos betegeknek és hozzátartozóiknak szervezett betegedukációs napot a Semmelweis Egyetem. A beszédem arról szólt, miért éri meg erről beszélni, még akkor is, ha nehéz.",
+          "image": "https://assets.4cdn.hu/kraken/8OjkXrDuher1CuAGs.jpeg",
+          "category": "rákkezelés",
+          "author": "Urfi Péter"
+        },
         {
           "title": "96 évesen meghalt a Bosznia-hercegovinai Szerb Köztársaság volt elnöke",
           "url": "https://444.hu/2026/10/01/96-evesen-meghalt-a-bosznia-hercegovinai-szerb-koztarsasag-volt-elnoke?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -235,15 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8OjDUhOfiKt3OmDws.webp",
           "category": "tennessee",
           "author": "Mohos Máté"
-        },
-        {
-          "title": "Egy AI-ágens most egy kanadai és egy amerikai kormányzati oldalt akart feltörni",
-          "url": "https://444.hu/2026/10/01/egy-ai-agens-most-egy-kanadai-es-egy-amerikai-kormanyzati-oldalt-akart-feltorni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-10-01T04:40:05+00:00",
-          "description": "Nem ez az első eset az elmúlt időszakban.",
-          "image": "https://assets.4cdn.hu/kraken/7VcQ6ZHLpGR21X811Is.jpeg",
-          "category": "Transluce",
-          "author": "Takács Lili"
         }
       ]
     },
@@ -256,6 +482,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Bíróság elé állítja Magyarországot az Európai Bizottság az uniós jog megsértése miatt",
+          "url": "https://index.hu/kulfold/2026/10/01/europai-birosag-magyarorszag-europai-bizottsag-mol-valasztottbirosag/",
+          "published": "2026-10-01T12:52:00+00:00",
+          "description": "A Mol lépései miatt felelhet az állam.",
+          "image": "https://kep.index.hu/1/0/7184/71848/718489/71848981_5296551_2937cfe99c6844f0541652983163502a_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
         {
           "title": "Saját közönsége előtt intett búcsút a tenisznek a korábbi Grand Slam-finalista",
           "url": "https://index.hu/sport/tenisz/2026/10/01/atp-500-tokio-kei-nishikori-bucsuja-carlos-alcaraz-gyozelme/",
@@ -470,15 +705,6 @@
           "description": "Öt éven keresztül segítette számos sportoló fejlődését.",
           "image": "https://kep.index.hu/1/0/7184/71844/718441/71844135_5296209_f75a1f3a4d9e6dc1dcc2dcf55d29d12c_wm.jpg",
           "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Hajtóvadászatot indítanak Sebestyén Balázsék ellen, rájuk fog vadászni egész Európa",
-          "url": "https://index.hu/mindekozben/poszt/2026/10/01/a-visszavago-kapj-el-ha-tudsz-sebestyen-balazs-most-wanted-menekules-hajtovadaszat/",
-          "published": "2026-10-01T08:50:58+00:00",
-          "description": "",
-          "image": "https://kep.index.hu/1/0/7184/71843/718437/71843705_429d11fab021a110cb7d17e10f786785_wm.jpg",
-          "category": "Mindeközben",
           "author": null
         }
       ]
@@ -1196,101 +1422,10 @@
       "name": "Neokohn",
       "url": "https://neokohn.hu",
       "color": "#5ba8d6",
-      "status": "ok",
-      "error": null,
-      "article_count": 10,
-      "articles": [
-        {
-          "title": "Az iráni terrorrezsim azt kéri az ameriakaiktól, hogy szavazzanak a demokratákra",
-          "url": "https://neokohn.hu/2026/10/01/iran-irgc-level-amerikaiak-felidos-valasztasok-demokratak-izrael-trump-haboru/",
-          "published": "2026-10-01T11:49:59+00:00",
-          "description": "Az IRGC az amerikai választókhoz intézett felhívását egy fenyegetéshez is kötötte. A Az iráni terrorrezsim azt kéri az ameriakaiktól, hogy szavazzanak a demokratákra bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/068_AA_29092026_2972241.jpg",
-          "category": "Háború",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Felszállt a Vengeance: először repült kötelékben Amerika új harci repülőgépe",
-          "url": "https://neokohn.hu/2026/10/01/felszallt-a-vengeance-eloszor-repult-kotelekben-amerika-uj-harci-repulogepe/",
-          "published": "2026-10-01T11:04:22+00:00",
-          "description": "Nemrég jelentették be, hogy több száz darabot fognak gyártani az FQ-42-es harci repülőgépből. A Felszállt a Vengeance: először repült kötelékben Amerika új harci repülőgépe bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/Fq-42-vengeance-finds-new-home-1024x538.jpg",
-          "category": "Háború",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Anglia képtelen kitoloncolni a magát menekültnek kiadó gázai Hamász-terroristát",
-          "url": "https://neokohn.hu/2026/10/01/anglia-keptelen-kitoloncolni-menekult-gazai-hamasz-terrorista/",
-          "published": "2026-10-01T09:56:42+00:00",
-          "description": "Bemutatjuk Abu Wadei, egy brit adófizetők pénzén élősködő, hamászos gázai migráns történetét. A Anglia képtelen kitoloncolni a magát menekültnek kiadó gázai Hamász-terroristát bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-309-2-1024x538.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Új helyszínen tartják meg a Fauda sztárjának budapesti közönségtalálkozóját",
-          "url": "https://neokohn.hu/2026/10/01/uj-helyszi-fauda-sztar-budapesti-kozonsegtalalkozo/",
-          "published": "2026-10-01T09:11:06+00:00",
-          "description": "A hatalmas érdeklődésre való tekintettel nagyobb helyszínen tartják meg Lior Raz rendezvényét. Részletek a cikkben. A Új helyszínen tartják meg a Fauda sztárjának budapesti közönségtalálkozóját bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/825336900_122116218375473637_5957870329447577293_n-1024x536.jpg",
-          "category": "Belföld",
-          "author": "Neokohn"
-        },
-        {
-          "title": "„Abban a pillanatban nem gondolkodsz” – megszólalt az eltérített Flydubai-járat hős orvosa",
-          "url": "https://neokohn.hu/2026/10/01/megszolalt-az-elteritett-flydubai-jarat-hos-orvosa/",
-          "published": "2026-10-01T07:53:55+00:00",
-          "description": "Új részleteket árult el az eltérített gép megmentésében részt vevő izraeli fogorvos. A „Abban a pillanatban nem gondolkodsz” – megszólalt az eltérített Flydubai-járat hős orvosa bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-313-1024x538.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Irán állhat a gépeltérítés mögött? Izrael is beszáll a késelő pilóta kihallgatásába",
-          "url": "https://neokohn.hu/2026/10/01/iran-gepelterites-izrael-beszall-keselo-pilota-kihallgatas/",
-          "published": "2026-10-01T06:46:41+00:00",
-          "description": "Benjamin Netanjahu izraeli miniszterelnök új részleteket osztott meg a támadás kapcsán. A Irán állhat a gépeltérítés mögött? Izrael is beszáll a késelő pilóta kihallgatásába bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-311-1024x538.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Ez a hős indiai pilóta mentette meg az eltérített flydubai gép utasait",
-          "url": "https://neokohn.hu/2026/10/01/ez-a-hos-indiai-pilota-mentette-meg-az-elteritett-flydubai-gep-utasait/",
-          "published": "2026-10-01T06:05:31+00:00",
-          "description": "Utolsó erejét megfeszítve hajtott végre elképesztő hőstettet a megkéselt pilóta. A Ez a hős indiai pilóta mentette meg az eltérített flydubai gép utasait bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/Untitled-Project-309-1024x538.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Az ENSZ antiszemitizmus-mentesítését várják a zsidó közösségek az új főtitkártól",
-          "url": "https://neokohn.hu/2026/10/01/ensz-antiszemitizmus-zsido-kozosseg-uj-fotitkar-guterres-albanese-unrwa-vilagszervezet/",
-          "published": "2026-10-01T04:13:01+00:00",
-          "description": "Guterres utódjának kiválasztása „döntő pillanat\" lehet az ENSZ és az antiszemitizmus elleni küzdelem számára. A Az ENSZ antiszemitizmus-mentesítését várják a zsidó közösségek az új főtitkártól bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/09/000_C8ZC7PR.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Megható videó: együtt énekelt egy száműzött iráni és izraeli énekesnő",
-          "url": "https://neokohn.hu/2026/09/30/meghato-video-egyutt-enekelt-egy-szamuzott-irani-es-izraeli-enekesno/",
-          "published": "2026-09-30T18:07:48+00:00",
-          "description": "Az eredeti dal héber, angol és francia nyelvű, a közös fellépés során azonban perzsa nyelvű sorokkal is kiegészítették. A Megható videó: együtt énekelt egy száműzött iráni és izraeli énekesnő bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/09/Untitled-Project-308-1024x538.jpg",
-          "category": "Kultúra",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Akadémikusok és jogi szakértők ezrei utasítják vissza az izraeli „népirtás” vádját",
-          "url": "https://neokohn.hu/2026/09/30/szakertok-elutasitas-izrael-nepirtas-gazai-ovezet-vervad-propaganda-haboru-alaairas/",
-          "published": "2026-09-30T17:14:15+00:00",
-          "description": "Az aláírók hangsúlyozzák, hogy lehet vitatkozni a gázai háborúról, de a genocídium vádja hazugság. A Akadémikusok és jogi szakértők ezrei utasítják vissza az izraeli „népirtás” vádját bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/09/068_AA_24092026_2965453.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        }
-      ]
+      "status": "error",
+      "error": "TimeoutError: ",
+      "article_count": 0,
+      "articles": []
     },
     {
       "id": "hvg",
@@ -1711,6 +1846,15 @@
           "author": null
         },
         {
+          "title": "Döglött állatot talált az üvegben, visszahívást jelentett be a gyártó",
+          "url": "https://www.origo.hu/nagyvilag/2026/10/kiseger-pepperoni-uveg",
+          "published": "2026-10-01T12:50:30+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
+          "author": null
+        },
+        {
           "title": "Tűzoltóautóval ütközött egy Boeing a  repülőtéren – videó",
           "url": "https://www.origo.hu/nagyvilag/2026/10/baleset-nemetorszag-tuzolto",
           "published": "2026-10-01T11:50:26+00:00",
@@ -1729,7 +1873,7 @@
           "author": null
         },
         {
-          "title": "Hatalmas tűz tombol Szegeden: kilométerekről látszik a fekete füst, robbanást is hallottak – videó",
+          "title": "Hatalmas tűz tombolt Szegeden: kilométerekről látszik a fekete füst, robbanást is hallottak – videó",
           "url": "https://www.origo.hu/kek-hirek/2026/10/tuz-szegeden-kilometerekrol-latszik-a-fekete-fust-medikemia-zrt",
           "published": "2026-10-01T11:33:35+00:00",
           "description": null,
@@ -1834,15 +1978,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "„Csalódás vagy, elárulod a kerületeket!” – hat polgármester ment neki Karácsony Gergelynek a parkolási bevételek miatt",
-          "url": "https://www.origo.hu/belpol/2026/10/parkolasi-bevetelek-karacsony-gergely-polgarmesterek",
-          "published": "2026-10-01T10:10:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
