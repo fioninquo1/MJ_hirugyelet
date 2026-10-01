@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-01T08:15:35.706426+00:00",
+  "scraped_at": "2026-10-01T08:20:36.064562+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Kijöttek a friss számok arról, hogy mekkora hiánnyal adta át az államkasszát az Orbán-kormány",
+          "url": "https://telex.hu/gazdasag/2026/10/01/koltsegvetesi-hiany-2026-elso-felev-orban-kormany-allamhaztartas",
+          "published": "2026-10-01T08:12:47+00:00",
+          "description": "Az első félév végére már több mint 2,8 ezer milliárd forint hiányzott a költségvetésből.",
+          "image": "https://assets.telex.hu/images/20261001/1790842294-temp-2r0pcs49ph7b2kemofi_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Hajdu János helyettese lett a rendőrségbe beolvadó TEK vezetője",
+          "url": "https://telex.hu/belfold/2026/10/01/hajdu-janos-helyettese-lett-a-rendorsegbe-beolvado-tek-vezetoje-kovacs-andras",
+          "published": "2026-10-01T08:07:18+00:00",
+          "description": "Kovács András régi TEK-es, 2010-ben került a Terrorelhárítási Központhoz ügyeletvezetőként.",
+          "image": "https://assets.telex.hu/images/20261001/1790841752-temp-2hkfdr1r5tlabmdbemg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Nagyon jól érezte magát a Fradinál, de megváltoztak a klub lehetőségei, magyarázta távozását a Ferencváros edzője",
+          "url": "https://telex.hu/sport/2026/10/01/robbie-keane-ferencvaros-tul-sok-minden-tortent-klubnal",
+          "published": "2026-10-01T08:00:54+00:00",
+          "description": "Robbie Keane szerint a csapat élén eltöltött három év alatt mentálisan is elfáradt, ezért azóta Spanyolországba költözött.",
+          "image": "https://assets.telex.hu/images/20261001/1790840964-temp-bavnc62a5tkeapojmcp_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "MCC-s pénzek nélkül, fapados verzióban tolja tovább az RMDSZ az Erdélyi Politikai Iskolát",
+          "url": "https://telex.hu/transtelex/2026/10/01/erdelyi-politikai-iskola-rmdsz-mcc",
+          "published": "2026-10-01T08:00:27+00:00",
+          "description": "Nincs többé budapesti tanulmányút, az erdélyi hétvégék utazási csekkjét már a résztvevők fizetik ki, és a politikai pártkeltető jellegét pedig igyekeznek „közéleti képzéssé” tompítani.",
+          "image": "https://assets.telex.hu/images/20260925/1790327789-temp-7mracnqe7vst3emnoad_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tamás Zsófia (Transtelex)"
+        },
+        {
+          "title": "Ezeket a filmeket lehet megnézni az idei BIFF-en",
+          "url": "https://telex.hu/after/2026/10/01/biff-budapest-nemzetkozi-filmfesztival-filmek-bejelentes",
+          "published": "2026-10-01T08:00:03+00:00",
+          "description": "Teljes a lista, kiderült a zsűri is.",
+          "image": "https://assets.telex.hu/images/20261001/1790836613-temp-h6n3i9bfoa2maafpokp_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Klág Dávid"
+        },
+        {
+          "title": "Orbán öccse ráírt egy Ausztriában élő magyar üzletemberre, hogy el tudnának-e fogni egy újabb ukrán szállítmányt",
+          "url": "https://telex.hu/belfold/2026/10/01/orban-aron-aranykonvoj-ugy-ausztria",
+          "published": "2026-10-01T07:58:26+00:00",
+          "description": "Egy üzenetváltás szerint Orbán Áron azt állította, hogy részletes információi vannak a szállítmányról.",
+          "image": "https://assets.telex.hu/images/20261001/1790841357-temp-9uqg4btg5o7c0mclehk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Abortuszellenes felvonuláson fotózkodott a meccsre tartó Orbán Viktor Belfastban",
+          "url": "https://telex.hu/kulfold/2026/10/01/orban-viktor-belfast-precious-life-abortuszellenes-felvonulas",
+          "published": "2026-10-01T07:35:10+00:00",
+          "description": "A Precious Life szervezet szerint Orbán azért látogatott el a rendezvényre, hogy kifejezze támogatását, Havasi Bertalan szerint a meccsre menet találkozott velük.",
+          "image": "https://assets.telex.hu/images/20261001/1790839512-temp-0b599vvk25v18bnkbam_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Sokan szörnyetegnek tartják, mások áldozatnak – az ügy, ami megrázta Amerikát",
+          "url": "https://telex.hu/video/2026/10/01/lindsay-clancy-birosag-targyalas-ugy-usa-vezeto-musor",
+          "published": "2026-10-01T07:31:35+00:00",
+          "description": "A három gyerekét megölő Lindsay Clancy tárgyalásán az volt a kérdés, beszámítható volt-e, amikor gyilkolt. Miután az esküdtek nem tudtak dönteni, nem látni az Egyesült Államokban egyre nagyobb indulatokat kiváltó ügy végét. A Vezető legújabb adásában Rédli Balázs kérdezi Bozsó Ágnest a felmerülő ...",
+          "image": "https://assets.telex.hu/images/20260930/1790784855-temp-qk7or601aom63kabapd_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Rédli Balázs"
+        },
+        {
+          "title": "Rengeteget költöttünk a közút fejlesztésére, az úthálózat minősége mégsem javult sokat az elmúlt 13 évben",
+          "url": "https://telex.hu/gazdasag/2026/10/01/gki-autopalya-uthalozat-beruhazasok-felujitas-autopalya",
+          "published": "2026-10-01T07:19:19+00:00",
+          "description": "A GKI elemzése szerint 1400 kilométernyi új út épült, de a magyar utak több mint 40 százaléka rossz minőségű.",
+          "image": "https://assets.telex.hu/images/20261001/1790838602-temp-6jpnfcqhj36e6gglbna_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Kihelyezett ülést tart a kormány hétvégén Erdőbényén",
+          "url": "https://telex.hu/belfold/2026/10/01/kormanyules-tisza-erdobenye-magyar-peter",
+          "published": "2026-10-01T07:10:33+00:00",
+          "description": "Magyar Péter szerint a kormányülés fő témái többek közt a gazdaság, a költségvetés és a klímahelyzet kérdései lesznek.",
+          "image": "https://assets.telex.hu/images/20261001/1790838444-temp-pfiphoh0ml7o6ehnffh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Tarr Zoltán szerint érzik a türelmetlenséget, de ők nem politikai és érzelmi, hanem szakmai alapon döntenek a kultúra megújításáról",
+          "url": "https://telex.hu/belfold/2026/10/01/tarr-zoltan-kossuth-radio-okovacs-vidnyanszky-kiss-b",
+          "published": "2026-10-01T06:42:43+00:00",
+          "description": "A minisztert a Kossuth rádióban kérdezték a Hankó-ügyről, valamint Ókovács Szilveszter és Vidnyánszky Attila igazgató mandátumáról.",
+          "image": "https://assets.telex.hu/images/20261001/1790836415-temp-4i11776p338h5ffdbpc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Munkacsoportot állított fel Vitézy minisztériuma a ferihegyi reptér éjszakai zajterhelése miatt",
+          "url": "https://telex.hu/belfold/2026/10/01/ferihegy-repulogepek-zaj-wizzair-vitezy-david",
+          "published": "2026-10-01T05:40:58+00:00",
+          "description": "Kivételes esetekre hivatkozva a megengedettnél több gép száll fel és landol a ferihegyi reptéren a mélyalvási időszakban.",
+          "image": "https://assets.telex.hu/images/20261001/1790833226-temp-to5ek6rmbt7r4mgldhf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Mától vége a vármegyéknek és főispánoknak",
+          "url": "https://telex.hu/belfold/2026/10/01/megszunik-varmegye-ujra-megye-foispan-kormanymegbizott",
+          "published": "2026-10-01T05:28:47+00:00",
+          "description": "Október 1-jétől újra a korábbi megye név a hivatalos megnevezés, és már kormánymegbízottak végzik a munkát.",
+          "image": "https://assets.telex.hu/images/20261001/1790832880-temp-dr7f0q41g8sm3ggjfim_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Indul a könyvfesztivál, találkozzunk a kitelepült Telex Shopban!",
+          "url": "https://telex.hu/kozlemeny/2026/10/01/indul-a-konyvfesztival-talalkozzunk-a-kitelepult-telex-shopban",
+          "published": "2026-10-01T05:14:46+00:00",
+          "description": "Csütörtöktől vasárnapig nagy kedvezményekkel várunk mindenkit a Hungexpo C épületének 66-os standjánál.",
+          "image": "https://assets.telex.hu/images/20250611/1749637512-temp-FOAMmF_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Telex"
+        },
+        {
+          "title": "Deutsch Tamás: Az egyik egy pöcsmutogató bumfordi barom, Mága Zoltán pedig egy nemzetközi hírű művész",
+          "url": "https://telex.hu/belfold/2026/10/01/deutsch-tamas-fidesz-ep-kepviselo-hanko-balazs-nka-ugy-brusszel",
+          "published": "2026-10-01T04:53:32+00:00",
+          "description": "A Fidesz alapítója arra számít, hogy „a tiszás hajtóvadászat” folytatódni fog, az NKA-ügy pedig szerinte csak hergelés. Úgy gondolja, hogy a pártjával szemben megfogalmazott hazugságok legkésőbb április 12-én este összeomlottak, a Fidesz a 2029-es EP-választáson pedig ismét nyerhet.",
+          "image": "https://assets.telex.hu/images/20260930/1790770159-temp-ua4kehi0bt277cklplf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Christa Pike szíve még vert, miután a kivégzésén beadtak neki két halálos injekciót",
+          "url": "https://telex.hu/kulfold/2026/10/01/christa-pike-kivegzes-tennessee",
+          "published": "2026-10-01T04:43:54+00:00",
+          "description": "A halálra ítélt 50 éves nőt kórházba szállították, ahol életmentő beavatkozást hajtottak végre rajta.",
+          "image": "https://assets.telex.hu/images/20261001/1790832381-temp-v77vntd58pu86jdlhhh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Netanjahu szerint egy 9/11-hez hasonló katasztrófát sikerült megakadályozni a Flydubai-gép kapitányának",
+          "url": "https://telex.hu/kulfold/2026/10/01/flydubai-terrotamadas-izrael-benjamin-netanjahu",
+          "published": "2026-10-01T03:51:52+00:00",
+          "description": "Az izraeli miniszterelnök azt mondta a gépeltérítési kísérletről, hogy ezúttal a jók nyertek.",
+          "image": "https://assets.telex.hu/images/20261001/1790826459-temp-f80estqghbjf9ebhjjk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "A visszapillantó tükröt egy autóversenyző találta fel, és akkorát nyert vele, hogy rögtön be is tiltották",
+          "url": "https://telex.hu/eszkombajn/2026/10/01/a-visszapillanto-tukrot-egy-autoversenyzo-talalta-fel-es-akkorat-nyert-vele-hogy-rogton-be-is-tiltottak",
+          "published": "2026-10-01T03:02:45+00:00",
+          "description": "Évtizedekkel később árulta csak el, hogy a rázkódás miatt semmit nem látott a tükörben, de így az autója sokkal könnyebb volt, mert nem kellett másodpilótának ülni mellette.",
+          "image": "https://assets.telex.hu/images/20260929/1790688049-temp-7dfp3s4s8gmu2knfkfe_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Hanula Zsolt"
+        },
+        {
+          "title": "Hiába dolgozik mindenki, mégsem működik a munkapiac",
+          "url": "https://telex.hu/nevertek/2026/10/01/munkaalapu-tarsadalom-vege-mukodo-munkapiac-kezdete",
+          "published": "2026-10-01T03:02:00+00:00",
+          "description": "A munkaalapú társadalom teljesen kimerítette tartalékait, ezért az új kormánynak inkább minőségre és rugalmasságra épülő munkapiacot kellene létrehoznia.",
+          "image": "https://assets.telex.hu/images/20260930/1790779390-temp-n2jufvmp8osaflbgida_cimlap-normal.jpg",
+          "category": "Névérték",
+          "author": "Menyhért Bálint"
+        },
+        {
+          "title": "Egyiptomi vasútbiznisz: a tárgyalások folytatódnak, de több adófizetői pénz már nem mehet erre a kapcsolatra",
+          "url": "https://telex.hu/gazdasag/2026/10/01/egyiptomi-vasut-dunakeszi-vitezy-david-kozlekedesi-es-beruhazasi-miniszterium",
+          "published": "2026-10-01T03:00:44+00:00",
+          "description": "Magyarország mentené a menthetőt: a cél az, hogy Egyiptom fizessen a már leszállított kocsikért, a magyar partner pedig befejezhesse a félkész kocsikat. Utána viszont hamar vége szakadhat az egyiptomi vasúti kapcsolatnak.",
+          "image": "https://assets.telex.hu/images/20260930/1790781655-temp-f09cm6gm00303pfpjaf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Indonéz börtöntisztviselőket függesztettek fel, mert luxuslakásokat alakítottak ki raboknak egy indonéz börtönben",
+          "url": "https://telex.hu/kulfold/2026/10/01/indonez-bortontisztviselo-felfuggeszt-luxuslakasok-rabok",
+          "published": "2026-10-01T03:00:01+00:00",
+          "description": "A lakrészekben légkondicionálók, nagyképernyős tévék, kanapék és étkezők is voltak, a komplexumban pedig egy edzőtermet és egy golfszimulátort is építettek.",
+          "image": "https://assets.telex.hu/images/20260930/1790800934-temp-iddro2sj8m4v3honapo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Kis Kínát építettünk Magyarországon, de mást kell kitalálnunk, mert ők mindenben olcsóbbak",
+          "url": "https://telex.hu/g7/vallalat/2026/10/01/vallalati-tamogatasok-export-gazdasagszerkezet-mgyosz-szendroi-gabor-interju",
+          "published": "2026-10-01T02:50:02+00:00",
+          "description": "Magyarországon beleszerettünk a betonba, az exportkapacitások egy része nincs kihasználva, már csak ezért is érdemes lenne átalakítani a támogatáspolitikát – mondja Szendrői Gábor, az MGYOSZ alelnöke.",
+          "image": "https://assets.telex.hu/images/20260930/1790767746-temp-a3u2gqbpor7u5lkelln_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Váczi István"
+        },
+        {
+          "title": "Október elsejétől a Terrorelhárítási Központ beolvad a rendőrség szervezetébe",
+          "url": "https://telex.hu/belfold/2026/09/30/terrorelharitasi-kozpont-tek-orszaggyulesi-orseg-beolvadas-rendorseg-nemzeti-nyomozo-iroda-nni",
+          "published": "2026-09-30T21:56:05+00:00",
+          "description": "Megszűnik az Országgyűlési Őrség. A Magyar Közlönyben megjelent rendelet szerint a cél a párhuzamosságok megszüntetése és a költséghatékonyabb működés.",
+          "image": "https://assets.telex.hu/images/20260930/1790805309-temp-i0bsnmenaqsfccjoldm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "Újabb ciklusra nevezték ki a Testnevelési Egyetem rektorát",
+          "url": "https://telex.hu/belfold/2026/09/30/ujabb-ciklusra-neveztek-ki-a-testnevelesi-egyetem-rektorat",
+          "published": "2026-09-30T21:43:04+00:00",
+          "description": "Sterbenz Tamás 2021 óta vezeti az egyetemet.",
+          "image": "https://assets.telex.hu/images/20260930/1790804154-temp-ueju9e0gbigu5dlkaim_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A javítóintézetek visszakerülnek a gyermekvédelmi rendszerbe, megjelent a határozat a Közlönyben",
+          "url": "https://telex.hu/belfold/2026/09/30/a-javitointezetek-visszakerulnek-a-gyermekvedelmi-rendszerbe",
+          "published": "2026-09-30T21:14:52+00:00",
+          "description": "A javítóintézetek vezetőjét a jövőben igazgatónak és nem parancsnoknak nevezik. Részletesen szabályozzák a testi kényszer alkalmazását.",
+          "image": "https://assets.telex.hu/images/20260723/1784783811-temp-vug4ivoa5r46bcfnicn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        }
+      ]
     },
     {
       "id": "444",
@@ -306,7 +532,7 @@
           "url": "https://index.hu/belfold/2026/10/01/hanko-balazs-kecskemeti-jarasbirosag-letartoztatas-nka-botrany/",
           "published": "2026-10-01T07:36:00+00:00",
           "description": "A helyszínről, a Kecskeméti Járásbíróságról tudósítunk.",
-          "image": "https://kep.index.hu/1/0/6955/69551/695514/69551471_5132369_9d78eaaff64804391e50ad7f16d8b310_wm.jpg",
+          "image": "https://kep.index.hu/1/0/7184/71843/718435/71843505_5296165_c804e6fd12ad40355bee7dfd60b65b7a_wm.jpg",
           "category": "Belföld",
           "author": null
         },
@@ -492,6 +718,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Kétszer is megkapta a halálos injekciót, de csak horkolt tőlük",
+          "url": "https://magyarnemzet.hu/kulfold/2026/10/egyesult-allamok-kivegzes-halalraitelt-amerikai?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-10-01T08:14:53+00:00",
+          "description": "Kórházban ápolják Tennessee-ben a halálra ítélt amerikai nőt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/10/os7x-Gwajdy7Zd-Zr-sP-2jDXyfuVoHtQe0NLkT2EKE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RiYjA0MDc0NzhjNjQ4ZGNhNmNmNWU5MDQ1NjBhMDYx.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
         {
           "title": "Letarolta az országot a Tisza-kormány árnyékhivatala, a Nemzeti Vécéőrség",
           "url": "https://magyarnemzet.hu/poszt-trauma/2026/10/tisza-kormany-arnyekhivatala-nemzeti-veceorseg-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
@@ -706,15 +941,6 @@
           "description": "A világbajnok szerint Jürgen Klopp azért sincs jó helyzetben, mert a keretében alig van klasszis futballista.",
           "image": "https://cdn.magyarnemzet.hu/2026/09/KJh_E_HpFcDs9irykPbgQ6JzuXVNcbKkMS-2jL5-vCs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE3OTNkODkxMjU5YjRmMjNiOGZiZjhiYTdjNDFmOGU0.jpg",
           "category": "sport",
-          "author": null
-        },
-        {
-          "title": "Egyéves csecsemőt küldtek a halálba",
-          "url": "https://magyarnemzet.hu/kulfold/2026/09/egyeves-csecsemot-kuldtek-a-halalba?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-09-30T15:42:11+00:00",
-          "description": "Az orvos ellen nem fognak eljárást indítani.",
-          "image": "https://cdn.magyarnemzet.hu/2026/09/ck6emFdqYa2Mkszk-ilafA2c94I3BQEgFLIxJSBmkfQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY4OGQ4YmQ1OGYyMTQ0MGZhMThjY2Y0NTE1YTE0YjUx.jpg",
-          "category": "alapértelmezett",
           "author": null
         }
       ]
@@ -1324,7 +1550,7 @@
           "url": "https://hvg.hu/itthon/20261001_hanko-balazs-kecskemeti-jarasbirosag-foto-ebx",
           "published": "2026-10-01T08:00:58+00:00",
           "description": "A döntést csütörtökön hozzák meg.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9689d917-4818-4c02-88b9-92eb8b9727d3.jpg",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e840b17f-8df4-4bad-94a3-658c7f736872.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
         },
