@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-02T07:40:37.832358+00:00",
+  "scraped_at": "2026-10-02T07:45:32.149211+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Nagy Márton volt gazdasági miniszter Svájcba költözött, nyár óta egy zürichi banknak dolgozik",
+          "url": "https://telex.hu/gazdasag/2026/10/02/nagy-marton-svajc-zurich-koltozes-orban-kormany",
+          "published": "2026-10-02T07:36:38+00:00",
+          "description": "Kerestük Nagy Mártont, hogy erősítse meg az információt, de nem kommentálta azt.",
+          "image": "https://assets.telex.hu/images/20261002/1790926282-temp-5jg7ff9elk2hebmehmh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Kezdeményezték Szijjártó Péter meghallgatását a Nemzetbiztonsági Bizottság előtt",
+          "url": "https://telex.hu/belfold/2026/10/02/szijjarto-peter-nemzetbiztonsagi-bizottsag-meghallgatas-1",
+          "published": "2026-10-02T07:35:07+00:00",
+          "description": "A volt külügyminisztert a kínai BYD-nál vállalt pozíciója miatt hívják be.",
+          "image": "https://assets.telex.hu/images/20260915/1789476569-temp-ee9rqqb1h03n2kldcpo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Tovább apadhat a Duna Budapestnél, –8 centire is csökkenhet a vízállás",
+          "url": "https://telex.hu/belfold/2026/10/02/duna-vizallas-apadas-negativ-rekord-orszagos-vizugyi-foigazgatosag",
+          "published": "2026-10-02T07:00:35+00:00",
+          "description": "Akár –8 centiméterre is apadhat a folyó a vízügy előrejelzése szerint.",
+          "image": "https://assets.telex.hu/images/20260909/1788957580-temp-5ggi050jeo2bbidponi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Megnyílt a Budapesti Nemzetközi Könyvfesztivál a Hungexpón",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/02/megnyilt-budapesti-nemzetkozi-konyvfesztival-hungexpo",
+          "published": "2026-10-02T06:52:45+00:00",
+          "description": "Vasárnapig kétszáz program és négyszáz dedikálás várja az olvasókat.",
+          "image": "https://assets.telex.hu/images/20261002/1790922728-temp-5e3fs7jukqlmakpjoci_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "410 milliót kapott brüsszelezésre az Alapjogokért Központ, majdnem a felét kifizették maguknak a vezetők",
+          "url": "https://telex.hu/belfold/2026/10/02/alapjogokert-kozpont-tamogatas-brusszel-fizetes-feljelentes-koltsegvetesi-csalas-es-hutlen-kezeles",
+          "published": "2026-10-02T06:44:15+00:00",
+          "description": "A Miniszterelnökség feljelentést tett költségvetési csalás és hűtlen kezelés gyanúja miatt.",
+          "image": "https://assets.telex.hu/images/20261002/1790923053-temp-ujhbe1v5674hafinlia_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Orbán Anita: Az ukrán parlament elé kerül a nemzeti kisebbségek oktatási jogait érintő törvényjavaslat",
+          "url": "https://telex.hu/kulfold/2026/10/02/orban-anita-magyar-peter-ukrajna-magyarorszag-nemzeti-kisebbsegi-jogok-oktatas",
+          "published": "2026-10-02T06:40:42+00:00",
+          "description": "Magyar Péter is posztolt róla, a miniszterelnök szerint ez megerősíti a magyar anyanyelvi oktatás és az oktatási intézményhálózat jogi garanciáit.",
+          "image": "https://assets.telex.hu/images/20261002/1790923086-temp-72rb7orgjk756pbipij_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Ilyen vetítések nincsenek máshol, csak Budapesten",
+          "url": "https://telex.hu/after/tamogatott-tartalom/2026/10/02/ilyen-vetitesek-nincsenek-mashol-csak-budapesten-magyar-zene-haza",
+          "published": "2026-10-02T06:37:25+00:00",
+          "description": "Magyarországon egyedülálló, de a világon is sok szempontból unikális a Magyar Zene Házában található Hangdóm, ahol nemsokára a negyvenedik premiert tartják.",
+          "image": "https://assets.telex.hu/images/20260930/1790787260-temp-2jdagoca05gsaghnoco_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "A katolikus főegyházmegye elítélte Osztie Zoltán atya szavait, aki a tiszásokat erkölcsileg romlott társaságnak nevezte",
+          "url": "https://telex.hu/belfold/2026/10/02/osztie-zoltan-esztergom-budapesti-foegyhazmegye",
+          "published": "2026-10-02T06:20:40+00:00",
+          "description": "Az egyház sajnálattal és megütközéssel fogadta az Orbán-szimpatizáns pap prédikációját.",
+          "image": "https://assets.telex.hu/images/20261001/1790884648-temp-k9evl09p2supeakcije_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A Századvég már egy hónappal a választás előtt brutális számokat közölt a háttérben Orbánnal és Rogánnal",
+          "url": "https://telex.hu/belfold/2026/10/02/szazadveg-kozvelemeny-kutatas-orban-kormany-orban-viktor-valasztas-marcius",
+          "published": "2026-10-02T06:13:27+00:00",
+          "description": "Az 500 milliós kutatásban az állt, hogy a nemzeti szégyen egyik építőköve a kormányzati politika.",
+          "image": "https://assets.telex.hu/images/20261002/1790920554-temp-dkkgnem6uubg4jegjma_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Magyar Péter felkerült a Time magazin legbefolyásosabb feltörekvő tehetségeinek listájára",
+          "url": "https://telex.hu/kulfold/2026/10/02/magyar-peter-time-magazin-legbefolyasosabb-feltorekvo-tehetsegek-lista",
+          "published": "2026-10-02T05:48:21+00:00",
+          "description": "A TIME100 Next idei listáján a magyar miniszterelnök Rob Jetten holland miniszterelnökkel és a Donald Trump amerikai félidős választási stratégiáját irányító James Blairrel szerepel együtt a vezetők kategóriában.",
+          "image": "https://assets.telex.hu/images/20261002/1790918800-temp-4skfrufbgacb4dnpmem_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "21 Kutatóközpont: Többen szavaznának a Tiszára, mint áprilisban, de kevesebben, mint májusban",
+          "url": "https://telex.hu/belfold/2026/10/02/21-kutatokozpont-tisza-part-tamogatottsag-kozvelemeny-kutatas",
+          "published": "2026-10-02T05:37:38+00:00",
+          "description": "Május óta 9 százalékpontot esett a kormánypárt támogatottsága.",
+          "image": "https://assets.telex.hu/images/20261002/1790919216-temp-buigai2ic1ebbjokobo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Sírás, veszekedés, felszabadulás: a közmédia átállásának belső története",
+          "url": "https://telex.hu/direkt36/2026/10/02/siras-veszekedes-felszabadulas-a-kozmedia-atallasanak-belso-tortenete",
+          "published": "2026-10-02T05:22:12+00:00",
+          "description": "A parlamenti választás utáni napokban egymásnak estek a közmédia egyes munkatársai. Bár sokan felszabadulásként élték meg a változást, kénytelenek voltak szembenézni a kérdéssel: miért maradtak ott, ha zavarta őket a propagandaszerű működés. Volt, akit megriasztott a szabadsággal járó felelősség....",
+          "image": "https://assets.telex.hu/images/20261001/1790854567-temp-vcq58agn2ekcdjlgcko_cimlap-normal.jpg",
+          "category": "Direkt36",
+          "author": "Janecskó Kata"
+        },
+        {
+          "title": "610 millió forintnyi NKA-pénz jutott négy dunántúli megye fideszes szervezeteinek",
+          "url": "https://telex.hu/belfold/2026/10/02/hanko-balazs-fidesz-nka-tamogatasok-dunantul-szervezetek-610-millio",
+          "published": "2026-10-02T05:15:59+00:00",
+          "description": "A 24.hu Somogy, Tolna, Baranya és Zala megyék számait összesítette.",
+          "image": "https://assets.telex.hu/images/20261002/1790918115-temp-piq59if7me7s2lncmif_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Leváltották a rendőrség két kommunikációs munkatársát a HVG-nek küldött kékharisnyás levél miatt",
+          "url": "https://telex.hu/belfold/2026/10/02/orfk-belso-level-kommunikacio-belso-vizsgalat-levaltas-hvg",
+          "published": "2026-10-02T04:52:08+00:00",
+          "description": "Lezárult a belső vizsgálat, a rendőrség elfogadhatatlannak tartja az újságíróval folytatott kommunikációt.",
+          "image": "https://assets.telex.hu/images/20261002/1790917122-temp-dencl5a1tbqo3dpfokk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Több mint egy percet javítottak a mentők, de még mindig 25 perc fölött érnek ki a legsúlyosabb esetek többségéhez",
+          "url": "https://telex.hu/belfold/2026/10/02/mentok-kierkezesi-ido-orszagos-mentoszolgalat",
+          "published": "2026-10-02T04:19:11+00:00",
+          "description": "Az esetek száma csökkent, de messze még a 15 perces célszám.",
+          "image": "https://assets.telex.hu/images/20261002/1790912715-temp-igs5kkrdminrfgfhpha_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Ezekért érdemes moziba menni október 2-től 9-ig",
+          "url": "https://telex.hu/karakter/kultura/2026/10/02/ezekert-erdemes-moziba-menni-oktober-2-tol-9-ig",
+          "published": "2026-10-02T03:24:01+00:00",
+          "description": "Itt a következő hét napra szóló Telex Diszpó.",
+          "image": "https://assets.telex.hu/images/20260929/1790672303-temp-2v1nrhfgka0kckknimh_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Klág Dávid"
+        },
+        {
+          "title": "A genetika fejlődését másfél évtizeden át hátráltatta az Excel, ami több száz kutatás eredményeit rontotta el",
+          "url": "https://telex.hu/eszkombajn/2026/10/02/a-genetika-fejlodeset-masfel-evtizeden-at-hatraltatta-az-excel-ami-tobb-szaz-kutatas-eredmenyeit-rontotta-el",
+          "published": "2026-10-02T03:15:39+00:00",
+          "description": "Végül a tudomány hátrált meg, és átneveztek egy csomó gént, hogy a szoftver ne nézze dátumnak a kódneveket, hibákat csempészve ezzel az adatbázisokba.",
+          "image": "https://assets.telex.hu/images/20261001/1790861982-temp-lsa2n8s493ks0lehbml_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Hanula Zsolt"
+        },
+        {
+          "title": "Pont úgy kritizálják most a vagyonadó bevezetését, mint száz éve a személyi jövedelemadóét",
+          "url": "https://telex.hu/g7/penz/2026/10/02/vagyonado-interju-gabriel-zucman-vagyon-milliardos-egyenlotlenseg-ado",
+          "published": "2026-10-02T02:50:01+00:00",
+          "description": "Könnyebb sikeres vagyonadót bevezetni, ha kevesebb emberre vonatkozik, de vannak érvek az itthon tervezett egymilliárdos határ mellett is – mondta a G7-nek adott interjúban Gabriel Zucman, a téma egyik legismertebb nemzetközi kutatója.",
+          "image": "https://assets.telex.hu/images/20261001/1790839437-temp-71esejqud96dbbaacbp_cimlap-normal.jpg",
+          "category": "Pénz",
+          "author": "Stubnya Bence"
+        },
+        {
+          "title": "Letartóztattak egy brit–iráni kettős állampolgárt a Fairford légibázisnál történt incidens miatt",
+          "url": "https://telex.hu/kulfold/2026/10/02/brit-irani-kettos-allampolgart-tartoztattak-le-a-fairford-legibazisnal-tortent-incidens-miatt",
+          "published": "2026-10-02T02:45:00+00:00",
+          "description": "A brit terrorellenes rendőrség minden lehetséges irányt vizsgál, egy külföldi állam esetleges érintettségét is.",
+          "image": "https://assets.telex.hu/images/20261001/1790891322-temp-1vgciijb05699nobmfo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Von der Leyen hisz abban, hogy Montenegró 2028-ban az EU 28. tagállamává válhat",
+          "url": "https://telex.hu/kulfold/2026/10/01/montenegro-2028-ban-az-europai-unio-28-tagallamava-valhat",
+          "published": "2026-10-01T21:17:42+00:00",
+          "description": "Az Európai Bizottság elnöke szerint az uniós csatlakozási folyamat lezárásához politikai stabilitásra és széleskörű pártközi támogatásra van szükség.",
+          "image": "https://assets.telex.hu/images/20261001/1790889448-temp-r9j597ibk4kddfmcedk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Karácsony: Sok jogos elem van a haragjukban, csak nem tudnak érvelni a mostani rendszer mellett",
+          "url": "https://telex.hu/belfold/2026/10/01/karacsony-vitezy-egyenes-beszed",
+          "published": "2026-10-01T20:44:51+00:00",
+          "description": "A politikai szándék az, hogy a kerületektől a fővároshoz kerül a parkolás üzemeltetése és ezzel a parkolásból befolyó pénzek is, bár Karácsony szerint van olyan kerület, amelynek ez veszteséget termel.",
+          "image": "https://assets.telex.hu/images/20261001/1790886934-temp-qkf77c086so52gpahoj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Bocsánatkérést vár Magyar Péter a paptól, aki azt mondta, a tiszások egy olyan erkölcsileg romlott társaságra szavaztak, amelyik elpusztítja az országot",
+          "url": "https://telex.hu/belfold/2026/10/01/magyar-peter-azonnali-elhatarolodast-var-a-katolikus-egyhaztol-osztie-zoltan-plebanos-szavai-miatt",
+          "published": "2026-10-01T20:18:20+00:00",
+          "description": "A miniszterelnök azonnali elhatárolódást vár a katolikus egyháztól az Orbánért rendszeresen miséző Osztie Zoltán szavai miatt.",
+          "image": "https://assets.telex.hu/images/20261001/1790884648-temp-k9evl09p2supeakcije_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "2028-tól uniós tűzoltó légiflottát akarnak EP-képviselők",
+          "url": "https://telex.hu/kulfold/2026/10/01/eu-europai-parlament-resceu-tuzoltas-katasztrofavedelem",
+          "published": "2026-10-01T19:50:16+00:00",
+          "description": "Az eredetileg javasoltnál jóval többet költenének polgári védelemre az EU költségvetéséből az idei kiugró hőség és erdőtüzek után.",
+          "image": "https://assets.telex.hu/images/20261001/1790884142-temp-cvjcd2ppgagc0mbdafj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Már az előzmények miatt óriási figyelem kísérte a kivégzést, amit aztán két méreginjekcióval sem sikerült végrehajtani",
+          "url": "https://telex.hu/kulfold/2026/10/01/christa-pike-sikertelen-kivegzes-tennessee-injekcio",
+          "published": "2026-10-01T19:40:00+00:00",
+          "description": "A 18 éves korában egy 1995-ös gyilkosság miatt halálra ítélt Christa Pike ügyét az elmúlt napokban az egész világ megismerte. A félresikerült tennesseei kivégzése után kórházba került, még nem tudni, milyen állapotban van. Miközben az ENSZ emberi jogi biztosa is megszólalt, a kormányzó vizsgálato...",
+          "image": "https://assets.telex.hu/images/20261001/1790879178-temp-fvse68ib61t9ahdenec_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Olyan uniós misszióval nézetne rá Hankóékra a Fidesz, amelyet szerintük tavaly „Brüsszel Péter” hívott „hazánk lejáratására”",
+          "url": "https://telex.hu/kulfold/2026/10/01/ep-libe-latogatas-laszlo-andras-hanko-balazs-sesztak-miklos-bus-balazs",
+          "published": "2026-10-01T19:06:20+00:00",
+          "description": "Októberben újra EP-misszió jön Magyarországra. Most a Fidesz frakciója is jelölt bele képviselőt, miután tavaly nem tette meg, és az akkori kormány támadásról beszélt.",
+          "image": "https://assets.telex.hu/images/20261001/1790879864-temp-qsbohk4fu8na4ggfoje_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        }
+      ]
     },
     {
       "id": "444",
@@ -25,7 +251,7 @@
           "url": "https://444.hu/2026/10/02/magyar-peter-lett-a-time-magazinnal-a-legbefolyasosabb-feltorekvok-egyike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "published": "2026-10-02T07:30:42+00:00",
           "description": "A lap a Tisza áprilisi győzelmét a brexit utáni idők legegyértelműbb Európa-párti kiállásának nevezte. A Time 100 Next listán ott van az Obsessiont író-rendezője és az a futballista is, aki miatt Trump személyesen avatkozott bele a futball-vb-be.",
-          "image": "https://assets.4cdn.hu/kraken/8NToRXZhYG6UOmKas.jpeg",
+          "image": "https://assets.4cdn.hu/kraken/8OUEiAAvpgEfmOWHs.jpeg",
           "category": "Folarin Balogun",
           "author": "Haász János"
         },
@@ -278,7 +504,7 @@
           "title": "Havasi Bertalan: Magyar Péter még egyszer kirúgott",
           "url": "https://index.hu/belfold/2026/10/02/havasi-bertalan-fidesz-magyar-peter-kirugas/",
           "published": "2026-10-02T07:18:00+00:00",
-          "description": "Szerinte az intézkedés „gyenge trükk” és „szánalmas próbálkozás”",
+          "description": "Szerinte az intézkedés „gyenge trükk” és „szánalmas próbálkozás”.",
           "image": "https://kep.index.hu/1/0/7155/71556/715561/71556163_5275873_b2bafd7b7485db434a38c70d9ccb2db4_wm.jpg",
           "category": "Belföld",
           "author": null
@@ -965,6 +1191,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Hétfőn a Nemzetbiztonsági Bizottság meghallgatja Szijjártó Pétert",
+          "url": "https://24.hu/belfold/2026/10/02/nemzetbiztonsagi-bizottsag-meghallgatja-szijjarto-petert/",
+          "published": "2026-10-02T09:44:00+01:00",
+          "description": "„Egy volt külügyminiszter nem üres kézzel távozik” – a bizottság szeretné tudni, „mit vitt magával” Szijjártó Péter.",
+          "image": "https://s.24.hu/app/uploads/2026/10/szijjarto-peter-e1790925835157-320x180.jpg",
+          "category": "Belföld",
+          "author": "Ürmös Dániel"
+        },
+        {
+          "title": "Egészséges élelmiszerekben is ott lehet ez a bélgyulladást fokozó vegyület",
+          "url": "https://24.hu/tudomany/2026/10/02/ibd-crohn-betegseg-egeszseges-elelmiszer-zoldseg/",
+          "published": "2026-10-02T09:43:00+01:00",
+          "description": "Egy friss kutatás szerint rengeteg növényben is ott lehet egy rejtett vegyület, ami tovább ronthatja a gyulladásos bélbetegséggel küzdők állapotát.",
+          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-1310438467-e1790926962632-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Lányi Örs"
+        },
+        {
           "title": "Halle Berry bajban: gyermekbántalmazással vádolja volt férje, távoltartási végzést is előírtak",
           "url": "https://24.hu/elet-stilus/2026/10/02/halle-berry-gyermekbantalmazas-tavoltartasi-vegzes/",
           "published": "2026-10-02T09:35:00+01:00",
@@ -1082,15 +1326,6 @@
           "author": "Vaskor Máté"
         },
         {
-          "title": "Kiváló kirándulóidővel köszönt be a hétvége",
-          "url": "https://24.hu/belfold/2026/10/02/idojaras-felhotlen-napsutes/",
-          "published": "2026-10-02T07:09:00+01:00",
-          "description": "Bearanyozza az időjárás október második napját.",
-          "image": "https://s.24.hu/app/uploads/2026/10/osz-e1790917439945-320x180.jpg",
-          "category": "Belföld",
-          "author": "Ürmös Dániel"
-        },
-        {
           "title": "Kvíz: felismered a focistákat jellegzetes frizurájukról?",
           "url": "https://24.hu/sport/foci/2026/10/02/kviz-focistak-jellegzetes-frizuraval/",
           "published": "2026-10-02T07:00:00+01:00",
@@ -1098,6 +1333,15 @@
           "image": "https://s.24.hu/app/uploads/2026/09/gettyimages-1232698507-320x180.jpg",
           "category": "Foci",
           "author": "24.hu"
+        },
+        {
+          "title": "Már márciusban jelezte a Századvég: a magyarok fele nemzeti szégyennek tartotta a kormány politikáját",
+          "url": "https://24.hu/belfold/2026/10/02/szazadveg-kutatas-nemzeti-szegyen-breaking/",
+          "published": "2026-10-02T06:57:00+01:00",
+          "description": "Orbán Viktor ennek ellenére azt sugallta, őt is meglepte a választási vereség.",
+          "image": "https://s.24.hu/app/uploads/2026/10/eredmenyvaro-fidesz-e1790916720378-320x180.jpg",
+          "category": "Belföld",
+          "author": "Ürmös Dániel"
         },
         {
           "title": "Tízmilliós bírságot szórt ki a NAV egy egyetemi rendezvény után",
@@ -1170,24 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-2175957221-e1790885765869-320x180.jpg",
           "category": "Otthon",
           "author": "24.hu"
-        },
-        {
-          "title": "A világ egyik legkisebb cápáját fedezték fel az óceán mélyén",
-          "url": "https://24.hu/tudomany/2026/10/02/egyik-legkisebb-capafaj-felfedezese/",
-          "published": "2026-10-02T05:10:00+01:00",
-          "description": "Az újonnan leírt faj egyetlen ismert példánya mindössze 21,5 centiméter hosszú, vagyis könnyen elfér egy felnőtt ember tenyerében.",
-          "image": "https://s.24.hu/app/uploads/2026/10/lampascapa2-e1790860738518-320x180.jpg",
-          "category": "Tudomány",
-          "author": "Stéger Dávid"
-        },
-        {
-          "title": "-8 centire apadhat a Duna hétvégére",
-          "url": "https://24.hu/tudomany/2026/10/02/duna-apad-aszaly-eso-rekord/",
-          "published": "2026-10-02T04:10:00+01:00",
-          "description": "Csütörtökön 200 éves negatív rekordot döntött meg a Duna vízállása, és van még lejjebb.",
-          "image": "https://s.24.hu/app/uploads/2026/10/d_mtz20260909008-e1790860357157-320x181.jpg",
-          "category": "Tudomány",
-          "author": "Bihari Dániel"
         }
       ]
     },
@@ -1538,24 +1764,6 @@
       "article_count": 8,
       "articles": [
         {
-          "title": "Ellenzékben már az Európai Parlamenthez fordul a Fidesz a Tisza-kormány miatt",
-          "url": "https://kontroll.hu/cikk/belfold/2026/10/02/ellenzekben-mar-az-europai-parlamenthez-fordul-a-fidesz-a-tisza-kormany-miatt",
-          "published": "2026-10-02T08:16:37.830162+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "Elhatárolódott az Esztergom–Budapesti Főegyházmegye  a magát politikusnak képzelő fideszes plébánostól",
-          "url": "https://kontroll.hu/cikk/belfold/2026/10/02/elhatarolodott-az-esztergom-budapesti-foegyhazmegye-a-magat-politikusnak-kepzelo-fideszes-plebanostol",
-          "published": "2026-10-02T08:14:37.830377+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
           "title": "Kósa Lajos és Bánki Erik szerint nem volt értelme a meghallgatásuknak az MNB-ügyben",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/01/kosa-lajos-es-banki-erik-szerint-nem-volt-ertelme-a-meghallgatasuknak-az-mnb-uegyben",
           "published": "2026-10-01T17:52:00+01:00",
@@ -1604,6 +1812,24 @@
           "title": "Mit együnk és igyunk futás előtt? Dietetikus ad tanácsot",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/01/mit-egyuenk-es-igyunk-futas-elott-dietetikus-ad-tanacsot",
           "published": "2026-10-01T12:30:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
+          "title": "A SOTE bekerült a világ 250 legjobb egyeteme közé",
+          "url": "https://kontroll.hu/cikk/tudomany/2026/10/01/a-sote-bekeruelt-a-vilag-250-legjobb-egyeteme-koeze",
+          "published": "2026-10-01T11:24:00+01:00",
+          "description": null,
+          "image": null,
+          "category": "Tudomany",
+          "author": null
+        },
+        {
+          "title": "Deutsch Tamás a Rendszerbontó Nagykoncertre mutogatva mentegette Hankót",
+          "url": "https://kontroll.hu/cikk/belfold/2026/10/01/deutsch-tamas-a-nemzetkoezi-hiru-maga-zoltan-muveszi-oenmegvalositasra-kapott-penzt",
+          "published": "2026-10-01T11:09:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
