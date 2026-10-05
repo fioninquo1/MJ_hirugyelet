@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T10:45:52.898979+00:00",
+  "scraped_at": "2026-10-05T10:50:39.740108+00:00",
   "portals": [
     {
       "id": "telex",
@@ -483,6 +483,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A kapunak háttal állva lőtt álomgólt az NB III-as futballista",
+          "url": "https://index.hu/sport/futball/2026/10/05/annus-arpad-szolnok-gyula-bombagol-harmadosztaly-magyarorszag/",
+          "published": "2026-10-05T10:49:00+00:00",
+          "description": "Kegyetlenül eltalálta a labdát.",
+          "image": "https://kep.index.hu/1/0/7191/71919/719193/71919381_5301513_53e9a3c782bb3652803854a4f705012e_wm.gif",
+          "category": "Futball",
+          "author": null
+        },
+        {
+          "title": "„Megdöglötök!” – Tömeggyilkossággal fenyegette a nyomozókat egy tatabányai férfi",
+          "url": "https://index.hu/belfold/2026/10/05/terror-rendor-tatabanya-rendorseg-terrorcselekmeny-terrorizmus-fenyegetes/",
+          "published": "2026-10-05T10:48:00+00:00",
+          "description": "Videón az elfogás.",
+          "image": "https://kep.index.hu/1/0/7050/70502/705022/70502231_5200935_cd92359a91f981911162163dd7ba95d1_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Kórházba került Karácsony Gergely",
           "url": "https://index.hu/belfold/2026/10/05/karacsony-gergely-baleset-korhaz-kezeles/",
           "published": "2026-10-05T10:37:00+00:00",
@@ -687,24 +705,6 @@
           "description": "A lap szerint már a héten feloldhatja a vétót az ukrán EU-tárgyalásoknál.",
           "image": "https://kep.index.hu/1/0/7191/71916/719169/71916973_5301345_0b52a235a310bf97fb0ad93e9f5c4c08_wm.jpg",
           "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Kínos baki miatt vonta vissza éles kirohanását Cristiano Ronaldo felesége",
-          "url": "https://index.hu/sport/futball/2026/10/05/cristiano-ronaldo-georgina-rodriguez-jorge-jesus-kritika-instagram/",
-          "published": "2026-10-05T07:50:00+00:00",
-          "description": "Felsült a modell.",
-          "image": "https://kep.index.hu/1/0/7191/71916/719167/71916729_5301329_c976adb7379d2daba26d6eab0a551fc3_wm.jpg",
-          "category": "Futball",
-          "author": null
-        },
-        {
-          "title": "Hadházy Ákos: Egy tiszás országgyűlési képviselő is jól járhatott a paksi földek százszoros túlárazásával",
-          "url": "https://index.hu/gazdasag/2026/10/05/hadhazy-akos-tisza-part-paks-tularazas-foldvasarlas/",
-          "published": "2026-10-05T07:41:00+00:00",
-          "description": "Sárosi József szerint minden törvényesen zajlott.",
-          "image": "https://kep.index.hu/1/0/6562/65622/656221/65622103_4844791_4babcba2272c27dd84683a7711558956_wm.jpg",
-          "category": "Gazdaság",
           "author": null
         }
       ]
@@ -1534,7 +1534,7 @@
       "url": "https://kontroll.hu",
       "color": "#22c55e",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 502, message='Bad Gateway', url='https://kontroll.hu'",
       "article_count": 0,
       "articles": []
     },
