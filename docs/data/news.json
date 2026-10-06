@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T01:10:38.645648+00:00",
+  "scraped_at": "2026-10-06T01:15:48.097917+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1135,10 +1135,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Orbán Viktor nagy zsákkal ment Nagyszombatra, három videót is posztolt az ukrán–magyar meccsről",
+          "url": "https://hvg.hu/elet/20261005_orban-viktor-video-nagyszombat-magyar-valogatott-foci-ukrajna",
+          "published": "2026-10-05T21:56:26+00:00",
+          "description": "„Van hely a csomagtartóban” – mondta még a meccs előtt Orbán.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e693a202-631e-4dbd-bc57-097e9beed109.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Windisch László késése miatt nem sikerült elmozdítani az Integritás Hatóság hűtlen kezeléssel is megvádolt elnökét",
+          "url": "https://hvg.hu/itthon/20261005_windisch-laszlo-keses-elmozditas-integritas-hatosag-hutlen-kezeles-vad-elnok",
+          "published": "2026-10-05T20:27:23+00:00",
+          "description": "Windisch László számvevőszéki elnök egészen a vádemelésig várt a Biró Ferenc Pál elmozdítását kérő keresete beadásával. Egy bő évvel kifutott az időből.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ebf6f16c-ee93-4877-9097-343aad586906.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Nincs harag: összeállt a magyar és az ukrán válogatott egy közös képre a múltkori balhé után",
+          "url": "https://hvg.hu/sport/20261005_magyar-ukran-valogatott-kozos-kep",
+          "published": "2026-10-05T19:28:38+00:00",
+          "description": "A himnuszoknál azonban szólt a fütty.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c2def1e3-e52c-4e87-b66c-102567491eea.jpg",
+          "category": "Sport",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Bemutatta foglalkoztatáspolitikáért felelős államtitkárát Kátai-Németh Vilmos",
+          "url": "https://hvg.hu/itthon/20261005_bemutat-foglalkoztataspolitika-allamtitkar-katai-nemeth-vilmos-dudas-katalin",
+          "published": "2026-10-05T19:17:07+00:00",
+          "description": "Dudás Katalin szerint az, hogy a foglalkoztatás a szociális és családügyi tárcához tartozik, azt mutatja, hogy a munkaügyet nem kizárólag versenyképességi kérdésnek tekintik.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bbb5ede7-815f-47fe-b63d-7ad511772c2c.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Rekordlátogatottságú idény után téli működésre kapcsol a Budapest Park",
+          "url": "https://hvg.hu/kultura/20261005_rekordlatogatottsagu-ideny-utan-teli-mukodesre-kapcsol-a-budapest-park",
+          "published": "2026-10-05T18:59:33+00:00",
+          "description": "Tizenötödik szezonját zárta vasárnap hajnalban a Budapest Park, amely idén több mint 695 ezer látogatót fogadott, ezzel pedig új rekordot állított fel.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/68bf070a-877e-4fa9-a3e9-a42f9e245925.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Elképesztő végjáték után győzött a magyar válogatott Ukrajna ellen",
+          "url": "https://hvg.hu/sport/20261005_magyar-labdarugo-valogatott-ukrajna-nemzetek-ligaja-osszefoglalo-percrol-percre-ebx",
+          "published": "2026-10-05T18:41:00+00:00",
+          "description": "Tóth Milán és Csinger Márk góljával lett meg a győzelem Nagyszombatban, fontos három pontot szerzett Ukrajna ellen a magyar válogatott.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5b9c1d4b-0605-46af-a64b-ad94afea7df7.jpg",
+          "category": "Sport",
+          "author": "b.balizs@hvg.hu (Balizs Benedek)"
+        },
+        {
+          "title": "Izrael készen állt, hogy lelője az eltérített utasszállító gépet",
+          "url": "https://hvg.hu/vilag/20261005_izrael-kesz-all-lelo-elterites-utasszallito-gep",
+          "published": "2026-10-05T18:38:44+00:00",
+          "description": "Izraelnek kész protokollja van, a 2001. szeptember 11-i terrortámadáshoz hasonló esetekre. Ez alapján a miniszterelnök elrendelheti egy 150 utast szállító gép lelövését is.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/485aecbb-def5-49a4-89fe-eaa2a265b420.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Összeveszett a férjével, így egyedül vágott neki a Pilisnek egy idős nő, ahol eltévedt",
+          "url": "https://hvg.hu/elet/20261005_pilis-idos-no-eltevedt-mentes",
+          "published": "2026-10-05T18:36:48+00:00",
+          "description": "A nő énekléssel próbált segíteni, hogy könnyebben megtalálják.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/617dddc4-b1e6-45bb-a38d-7b12004bc017.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Kitől veszi el az AI a munkáját ma - és holnap?",
+          "url": "https://hvg.hu/gazdasag/20261005_munka-foglalkoztatasi-piac-ai-mesterseges-intelligencia-toborzas-fehergallerosok",
+          "published": "2026-10-05T18:18:45+00:00",
+          "description": "A magyar munkaerőpiac évekig a több tízezer programozó hiányától volt hangos, manapság viszont az informatikusok egyre gyakrabban harcolni kénytelenek a meglévő székeikért. Előre menekülnek: új tudással, komplexebb gyakorlati tapasztalattal, és egyre fokozódó AI-használattal. A programozóknál is ...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/76432429-1853-4cc8-aa05-f986a0984c45.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Magyar Péter odakommentelt az interjút kérő norvég újságírónak: Nem hiszem, hogy ez hamarosan bekövetkezne",
+          "url": "https://hvg.hu/itthon/20261005_magyar-peter-norveg-ujsagiro-interju",
+          "published": "2026-10-05T18:09:27+00:00",
+          "description": "A miniszterelnök szerint az újságíró hazudott a cikkében.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4c638092-e194-4c78-977d-5620a473ca2f.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Trump az AI-tól kért tanácsot, hogy a venezuelaiak örülnének-e az elnökük elfogásának",
+          "url": "https://hvg.hu/tudomany/20261005_donald-trump-elon-musk-grok-beszelgetes-venezuela-nicolas-maduro-elfogasa",
+          "published": "2026-10-05T18:03:00+00:00",
+          "description": "Titokban találkozott Elon Muskkal Donald Trump még tavaly decemberben. Ennek során az amerikai elnök hosszasan diskurált a milliárdos chatbotjával magáról, valamint arról, hogy mit szólna a venezuelai nép az elnökük elleni akcióhoz.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5a5cde8c-4ae8-4f74-a2cb-64a1baca658d.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "281 millió forint támogatást kapott egyetlen munkahely megtartására egy Fidesz-közeli cég",
+          "url": "https://hvg.hu/kkv/20261005_281-millio-forint-tamogatas-egy-munkahely-megtartas-fidesz-ceg",
+          "published": "2026-10-05T18:01:44+00:00",
+          "description": "Más cég több mint kétezer munkahely megőrzését vállalta a Covid-járvány idején ugyanennyiért, mint a Komonczi Zsolthoz köthető Cafe Mistral.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/407b49b8-9342-4c4a-b72a-b99f61a04544.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Videón, ahogy egy nő letöri egy húszmilliós BMW tükrét Debrecenben",
+          "url": "https://hvg.hu/cegauto/20261005_video-bmw-tukor-debrecen",
+          "published": "2026-10-05T17:59:06+00:00",
+          "description": "Egy másik autónak is nekiesett az elkövető.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/13fc6d57-61ca-4553-9f0b-f9ed98c7dd4c.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Mi köze a macskáknak a boldogsághoz? Úgy tűnik, nagyon is sok",
+          "url": "https://hvg.hu/tudomany/20261005_macska-boldogsag-felmeres-toxoplasma-gondii",
+          "published": "2026-10-05T17:33:00+00:00",
+          "description": "Egy nemzetközi kutatócsoport 93 ország adatait vizsgálta meg, hogy kiderüljön, a több macska nagyobb boldogságot jelent-e az ott élők számára.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/24f9d33a-a053-4cb1-bf38-4bd85146c8b7.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Az orosz támadások célja kibírhatatlanná tenni a közelítő telet az ukránoknak",
+          "url": "https://hvg.hu/360/20261005_hvg-oroszukran-dronhaboru-keleti-ellentamadas-szankcios-problemak-hosszu-hideg-tel-kozelit",
+          "published": "2026-10-05T17:30:00+00:00",
+          "description": "A bő négy éve tartó orosz agresszió kezdete óta a legnehezebb hónapok elé néz Ukrajna. Folytatódnak az energiahálózat elleni orosz dróntámadások, kevés a légvédelmi rakéta, és Moszkva úgy véli, van esélye megtörni az ukrán társadalom ellenállását.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d22d2bec-20cb-4a8a-bff0-75081d14b883.jpg",
+          "category": "hvg360",
+          "author": "a.nemeth@hvg.hu (Németh András)"
+        },
+        {
+          "title": "Az egyik friss Nobel-díjas kutató még korainak tartja az eredményükért megítélt díjat",
+          "url": "https://hvg.hu/tudomany/20261005_friss-nobel-dij-kutato-korai-tart-eredmeny-dij",
+          "published": "2026-10-05T17:17:31+00:00",
+          "description": "Georg Nagelt meglepte, milyen hamar elismerték az optogenetikai eljárást, amely egyelőre még csak egy páciensen segített.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/40571387-8537-480b-bf12-1fd643aca2dd.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Windisch László az államfőhöz fordult, mert Magyar Pétertől félti a Számvevőszék függetlenségét",
+          "url": "https://hvg.hu/gazdasag/20261005_windisch-laszlo-baka-andras-magyar-peter-allami-szamvevoszek",
+          "published": "2026-10-05T17:09:01+00:00",
+          "description": "Az ÁSZ elnöke szerint a jogállamiságot súlyosan sértő jelenség, hogy Magyar rendszeresen a közösségi oldalakon próbál rájuk nyomást gyakorolni.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ebf6f16c-ee93-4877-9097-343aad586906.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Belenyúl a Google a Chrome működésébe, és ezzel mindenki csak jó jár",
+          "url": "https://hvg.hu/tudomany/20261005_google-chrome-jelszokezelo-uj-funkcio-biztonsag",
+          "published": "2026-10-05T17:03:00+00:00",
+          "description": "Macerásabb, de biztonságosabb lesz az androidos Chrome böngészőben a jelszavak automatikus kitöltése.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/52ea4039-2cc4-4c12-9ad8-bdcf91acc80c.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Lánczi Tamás már saját kirakatperére készül",
+          "url": "https://hvg.hu/itthon/20261005_lanczi-tamas-kirakatper-szuverenitasvedelmi-hivatal",
+          "published": "2026-10-05T16:31:16+00:00",
+          "description": "Az egykori Szuverenitásvédelmi Hivatal elnöke egytől egyik rágalomnak tartja a velük szemben megfogalmazott vádakat, és abban bízik, talán maradtak még becsületes ügyészek és bírók.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4deef500-b53d-47d1-8de5-f8dfccc7308e.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A norvég közmédia pontosított, mégsem volt egyeztetett interjú-időpontjuk Magyar Péterrel",
+          "url": "https://hvg.hu/itthon/20261005_norveg-kozmedia-magyar-peter-interju-komment",
+          "published": "2026-10-05T16:18:29+00:00",
+          "description": "A norvég közmédia megírta a saját verzióját a Magyar Péter-interjúról, majd bejelentkeztek a kormányfőnél kommentben.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/007655e0-c6c0-4ceb-b5eb-c0673d3ab056.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "30 perc alatt betanítható az otthoni munkavégzésre ez az új „filléres” robot – videó",
+          "url": "https://hvg.hu/tudomany/20261005_flourish-robots-humanoid-robot-otthoni-munkavegzes",
+          "published": "2026-10-05T16:03:00+00:00",
+          "description": "A Flourish Robots úgy tervezte meg a cég első, piacra szánt otthoni robotját, hogy az ne komplex legyen, hanem hasznos. Emiatt jóval olcsóbb, mint a humanoid társai.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/829c18b2-2942-4b92-a5d6-65b785bf69e9.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Benyújtották igényeiket a Tisza-kormánynak a legnagyobb magyar városok",
+          "url": "https://hvg.hu/gazdasag/20261005_cser-palkovics-megyei-jogu-varosok-kormany-videkfejlesztesi-miniszterium-lorincz",
+          "published": "2026-10-05T15:50:01+00:00",
+          "description": "A szövetség hét témában fogalmazott meg javaslatokat a kormány számára.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/24b968b7-417d-4f1e-8fa1-13d186d77ad3.jpg",
+          "category": "Gazdaság",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Letaszították az Avatart, újra a Bosszúállók: Végjáték a legtöbb bevételt hozó film a világon",
+          "url": "https://hvg.hu/kultura/20261005_bosszuallok-vegjatek-beveteli-lista-avatar-doctor-doom",
+          "published": "2026-10-05T15:47:07+00:00",
+          "description": "A lista korántsem kőbe vésett, 2026 végén újabb nagy dobásra készül a Marvel.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/94a62b1b-1a83-4054-afff-35244d000209.png",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Magyar filmrendező izlandi rövidfilmje hozta lázba a viking korszak rajongóit",
+          "url": "https://hvg.hu/kultura/20261005_magyar-filmrendezo-viking-izland-film-hamrammr",
+          "published": "2026-10-05T15:45:05+00:00",
+          "description": "Néhány nap alatt százezres megtekintést produkált egy magyar rendező filmje, amelyről beszámolt az izlandi közmédia és nyelvezetét az óészaki nemzetközi szinten elismert specialistája is elemezte. Puskás Dániel most a HVG-nek is mesélt a viking sztereotípiáknak szándékoltan ellentartó filmről.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/37638d71-e331-4fb8-90d5-83c24f38267d.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (Lenthár Balázs)"
+        },
+        {
+          "title": "Alig van gazdasági teljesítmény a magyar cégek ötöde mögött",
+          "url": "https://hvg.hu/kkv/20261005_opten-ceg-gazdasagi-teljesitmeny-kockazat",
+          "published": "2026-10-05T15:30:07+00:00",
+          "description": "Csaknem 50 ezer olyan vállalkozás van, aminek magas a kockázati indexe.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2a77fe4e-8deb-43f6-b4cf-23f9a3a27414.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        }
+      ]
     },
     {
       "id": "kontroll",
