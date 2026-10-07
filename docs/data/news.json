@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T18:01:09.997048+00:00",
+  "scraped_at": "2026-10-07T18:05:33.237025+00:00",
   "portals": [
     {
       "id": "telex",
@@ -261,7 +261,7 @@
           "url": "https://index.hu/belfold/2026/10/07/darazs-lenard-elte-rektor-hanko-balazs-orban-balazs-tisza-kormany/",
           "published": "2026-10-07T17:58:00+00:00",
           "description": "Darázs Lénárd állítja, „rendkívül komoly” fenyegetések is elhangzottak.",
-          "image": null,
+          "image": "https://kep.index.hu/1/0/7195/71956/719562/71956253_5304057_0a7000d86bfa572907f7668c4ba319a6_wm.jpg",
           "category": "Belföld",
           "author": null
         },
@@ -1201,6 +1201,15 @@
       "article_count": 10,
       "articles": [
         {
+          "title": "Egy titkos iráni hálózat a TikTokon próbálta meghekkelni az izraeli választásokat",
+          "url": "https://neokohn.hu/2026/10/07/titkos-irani-halozat-tiktok-izraeli-valasztasok-kozossegi-media-befolyasolo-muvelet/",
+          "published": "2026-10-07T18:04:17+00:00",
+          "description": "A választási kampány során már eddig is számos, vitát kiváltó közösségi média-használati eset és dezinformációs vád merült fel. A Egy titkos iráni hálózat a TikTokon próbálta meghekkelni az izraeli választásokat bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/10/tiktok.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
           "title": "Vance szerint Iránnak csökkentenie kell urándúsítását, Teherán máris nemet mondott",
           "url": "https://neokohn.hu/2026/10/07/vance-iran-urandusitas-atomprogram-nuklearis-fenyegetes-atomfegyver-gyartas/",
           "published": "2026-10-07T17:00:55+00:00",
@@ -1280,15 +1289,6 @@
           "image": "https://neokohn.hu/files/2026/10/USAF__PAF_Special_Forces-e1791363766125-1024x524.jpg",
           "category": "Háború",
           "author": "Neokohn"
-        },
-        {
-          "title": "Kiderült, melyik országnak kémkedhetett a német hírszerzés volt vezetője",
-          "url": "https://neokohn.hu/2026/10/07/kiderult-melyik-orszagnak-kemkedhetett-a-nemet-hirszerzes-volt-vezetoje/",
-          "published": "2026-10-07T07:47:00+00:00",
-          "description": "A Der Spiegel megnevezte, melyik országnak dolgozhatott a BND korábbi kémfőnöke. A Kiderült, melyik országnak kémkedhetett a német hírszerzés volt vezetője bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/10/pluteos_board_hanning-e1791277711476.jpg",
-          "category": "Külföld",
-          "author": "Neokohn"
         }
       ]
     },
@@ -1297,10 +1297,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Ön is este a legaktívabb? Akkor jobb, ha tud erről a kockázatról",
+          "url": "https://hvg.hu/tudomany/20261007_bagoly-pacsirta-alvas-tipus-egeszseg",
+          "published": "2026-10-07T18:03:00+00:00",
+          "description": "Finn kutatók szerint a bagolytípusú embereknél nagyobb a veszélye annak, hogy „leszázalékolják”.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d88de7c3-4c5e-4e65-9b99-3649482acd35.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Jegyezze fel a dátumot: október 9-től nagy változások jönnek a Geminiben",
+          "url": "https://hvg.hu/tudomany/20261007_google-gemini-ingyenes-modell-elofizetes-limitek",
+          "published": "2026-10-07T18:03:00+00:00",
+          "description": "A mesterséges intelligencia senkinek sincs ingyen, ezért is döntött úgy a Google, hogy változtat a Gemini elérhetőségén. Ez elsősorban azokat érinti, akik személyes Google-fiókkal, előfizetés nélkül használják az AI-t. A keresőóriás a használati limitek számítását is átalakítja.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6e531fc4-3c0f-47e7-b5f9-244b8047bc78.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Kiderült, hova helyezték át Csécsi Somát a HVG újságírójának küldött kékharisnyázós levél után",
+          "url": "https://hvg.hu/itthon/20261007_kekharisnya-athelyezes-csecsi-soma-brfk",
+          "published": "2026-10-07T17:55:56+00:00",
+          "description": "A volt szóvivő továbbra is alezredesi rendfokozatban dolgozik, kiemelt főelőadóként.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b837371c-ec20-4065-8eac-09a816d9fb07.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Lehetetlen a megbékélés, ha a felejtésre próbáljuk alapozni – beszélgetés Timothy Radcliffe bíborossal",
+          "url": "https://hvg.hu/360/20261007_timothy-radcliffe-biboros-interju",
+          "published": "2026-10-07T17:52:29+00:00",
+          "description": "Ferenc pápa kétszer is őt kérte fel a vatikáni püspöki szinódust megelőző lelkigyakorlat megtartására, idén januárban pedig XIV. Leó kérésére a rendkívüli bíborosi tanácskozás elmélkedéseit tartotta. Timothy Radcliffe bíborossal az ukrán, a délszláv, az izraeli és a magyar helyzet kapcsán a megbé...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e753fc37-2aa4-41d0-9b62-947bfc0a5143.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Görföl Tibor)"
+        },
+        {
+          "title": "Kihallgatta Magyar Pétert a Központi Nyomozó Főügyészség a telefonügy miatt",
+          "url": "https://hvg.hu/itthon/20261007_magyar-peter-kihallgatas-kozponti-nyomozo-fougyeszseg",
+          "published": "2026-10-07T17:50:15+00:00",
+          "description": "A miniszterelnök nem ismerte el a terhére rótt bűncselekményt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/83c6dbf1-f510-4bcf-8086-3a3e67d35763.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "„Pozitív légkör bizalmatlansággal fűszerezve” – így nézett ki belülről a magyar–ukrán viszony az elmúlt hónapokban",
+          "url": "https://hvg.hu/itthon/20261007_magyar-ukran-kapcsolatok-magyar-peter-zelenszkij-orban-anita",
+          "published": "2026-10-07T17:35:08+00:00",
+          "description": "A két ország kapcsolatát nehéz lenne jónak nevezni és ezen az Orbán-kormány leköszönése óta is bonyolítottak a felek, ugyanakkor a helyzet korántsem menthetetlen.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0197be22-f355-49fc-a12f-3d7f1bbe6cbd.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Ha én már használom az AI-t, akkor is tanulhatok itt újat?",
+          "url": "https://hvg.hu/tudomany/20261007_hvg-ai-talks-2026-konferencia-budapesten-temak-eloadok",
+          "published": "2026-10-07T17:33:00+00:00",
+          "description": "Valós, magyarországi céges esettanulmányokat és könnyen adaptálható megoldásokat mutatnak be a HVG AI Talks konferencia idei előadói.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a4eb46aa-fd9a-4b5f-860c-66aab9ad9bed.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Panyi Miklós bocsánatot kért a félresikerült aradi vértanús posztja miatt",
+          "url": "https://hvg.hu/itthon/20261007_panyi-miklos-bocsanatkeres-aradi-vertanuk-tablo-mesterseges-intelligencia-ai",
+          "published": "2026-10-07T17:23:59+00:00",
+          "description": "A Fidesz országgyűlési képviselője ráeresztette az AI-t az aradi vértanúk tablójára, nem kellett volna.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4bfc242e-63f7-449b-b53c-296239ffe8f8.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A vízilabda-szövetség a saját rendszerét dicséri a tao-támogatások visszakövetelése után",
+          "url": "https://hvg.hu/gazdasag/20261007_madaras-norbert-eljaras-bizottsag-tao-tamogatas-vizilabda",
+          "published": "2026-10-07T17:12:53+00:00",
+          "description": "Csak három vízilabda-egyesülettől kérik vissza a támogatást, az MVLSZ szerint azok amúgy is csak harmadvonalbeli klubok.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1e892649-9101-4898-9076-a6f506911c7a.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Bencsik András szerint kétségbeejtő volt a kampányban, hogy a teljes jobboldali média ostoba, sötét, sületlen közhelyekkel dobálózott",
+          "url": "https://hvg.hu/itthon/20261007_bencsik-andras-velkovics-vilmos-demokrata-tamogatas-uzenetek",
+          "published": "2026-10-07T17:09:36+00:00",
+          "description": "A Demokrata publicistája azt is elmondta, szerinte hogyan néz ki az, ha egy újság szuverén.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/88f46e6a-9810-401b-9770-bd9e73c8c020.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Titokban összeírja a Meta mesterséges intelligenciája, kik a barátai és milyen a kapcsolata velük",
+          "url": "https://hvg.hu/tudomany/20261007_meta-muse-mesterseges-intelligencia-felhasznalo-profilozas",
+          "published": "2026-10-07T17:03:00+00:00",
+          "description": "A Meta Muse a háttérben épít profilt a felhasználóról, amely alapján úgy tűnik, igyekszik megérteni az emberi kapcsolatait.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cdb2de67-5f0e-4bf5-89e8-462366b2d2c4.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Skydance-nek hívják az amerikai média hóhérját",
+          "url": "https://hvg.hu/kkv/20261007_skydance-warner-paramount-ellison-trump-media",
+          "published": "2026-10-07T17:02:00+00:00",
+          "description": "Miután az utolsó kétségbeesett panaszt is elutasítottra a bíróság, több ezer szórakoztatóipari dolgozó féltheti a munkahelyét az Egyesült Államokban. Két óriás újonnan aláírt fúziójának kifutása még bizonytalan, de már félnek az ügyfelek, hogy az aránytalan piaci fölény miatt az árak is emelkedne...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b680fae3-c382-41c2-802d-098aa6f148f0.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (Rácz Gergő)"
+        },
+        {
+          "title": "A szemünk előtt porladt szét a saját képmásunk a LAM új tárlatán",
+          "url": "https://hvg.hu/kultura/20261007_light-art-museum-kiallitas-ego",
+          "published": "2026-10-07T17:00:00+00:00",
+          "description": "Elveszhetünk a ködben, megélhetjük a haragunkat, és bekerülhetünk a művészettörténetbe is, feltéve ha az AI is úgy akarja. Ego címmel nyit pénteken a budapesti Light Art Múzeum (LAM) új kiállítása.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f9d89bb-76f1-4c90-83ef-671c0ddf9d61.jpg",
+          "category": "Kult",
+          "author": "i.balla@hvg.hu (Balla István)"
+        },
+        {
+          "title": "Oroszország Vietnámtól próbál repülőgépeket szerezni, mert a szankciók miatt nem tudja üzemeltetni az utasszállítóit",
+          "url": "https://hvg.hu/gazdasag/20261007_oroszorszag-vietnamtol-repulogep-utasszallito-szankciok-uzemeltetni-aeroflot-kerozinhiany",
+          "published": "2026-10-07T16:56:32+00:00",
+          "description": "Nincs elég alkatrész, de a lefoglalt gépek kettős regisztrációja is tiltott. A legnagyobb légitársaságok eszközparkjának 20 százaléka már nem is működőképes.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/decdef5b-ba3e-4886-9743-1f7ac93dd47f.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A Központi Nyomozó Főügyészség szerint jogszerű keretek között figyelték meg Seszták Miklóst",
+          "url": "https://hvg.hu/itthon/20261007_sesztak-miklos-megfigyeles-nyomozo-fougyeszseg",
+          "published": "2026-10-07T16:52:11+00:00",
+          "description": "A volt miniszter ügyvédje azt állította korábban, hogy őt is megfigyelték. Ezt az ügyészség megcáfolta.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/279618da-cab2-48d3-8d2e-adf58935baf2.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Tisztázta magát a rendőrségen, majd ellopott egy biciklit, hogy hazajusson",
+          "url": "https://hvg.hu/itthon/20261007_paszto-bicikli-lopas-kihallgatas-rendorseg",
+          "published": "2026-10-07T16:47:51+00:00",
+          "description": "Egy 25 éves vanyarci férfi kicsit túlságosan megkönnyebbült, hogy nem indult ellene eljárás.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/eff18208-6856-4f90-82af-4c41fc350ca6.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Több medve támadott meg egy gazdát Erdélyben, miközben a tehenét próbálta védeni",
+          "url": "https://hvg.hu/vilag/20261007_csoportos-medvetamadas-erdely-romania-gazda-tehen",
+          "published": "2026-10-07T16:46:30+00:00",
+          "description": "Hasonló, csoportos medvetámadásra még nem volt példa Romániában. A gazda túlélte a támadást, a tehene elpusztult.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/116b8589-03de-4c52-9f21-bc577c78b258.jpg",
+          "category": "Világ",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Álomfunkció a Google-től: bárki csinálhat magának pofás játékokat",
+          "url": "https://hvg.hu/tudomany/20261007_google-mesterseges-intelligencia-jatekok-keszitese-playground",
+          "published": "2026-10-07T16:33:00+00:00",
+          "description": "Bemutatta legújabb mesterségesintelligencia-eszközét a Google, amellyel mindenki megvalósíthatja a játékos elképzeléseit.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a0c83e2d-8c51-4332-b728-6f53520608a8.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Reagált a Hivatásos Labdarúgók Szervezete a sportolók adókönnyítésének eltörlésére",
+          "url": "https://hvg.hu/gazdasag/20261007_hivatasos-labdarugok-szervezete-sportolok-adokonnyites-eltorlese-ekho",
+          "published": "2026-10-07T16:31:57+00:00",
+          "description": "Az ekho módosítása nem okoz nagy változást a hazai labdarúgásban az érdekképviselet szerint.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3ec38ab4-58e1-4e30-99f1-080462910616.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Késelés történt egy lengyelországi iskolában, többen megsebesültek",
+          "url": "https://hvg.hu/vilag/20261007_iskolai-keseles-lengyelorszag-ostroleka",
+          "published": "2026-10-07T16:28:18+00:00",
+          "description": "A feltételezett elkövető tette után távozott az iskolából, a rendőrség a közeli folyóparton találta meg és vette őrizetbe. Indítéka egyelőre ismeretlen.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9a162c66-d638-4d22-a32b-d141a2de733f.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Néhány héten belül lefedhetik az azbesztes utakat Szombathelyen",
+          "url": "https://hvg.hu/itthon/20261007_szombathely-azbeszt-szennyezes-utak-bitumen-lefedes-munkalatok-nemeny-andras-polgarmester",
+          "published": "2026-10-07T16:17:00+00:00",
+          "description": "Megkezdődött a városban az azbesztes zúzalékkal borított területek bitumenes lefedése.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/689e8369-800d-4be4-bd60-5224c1940dd4.jpg",
+          "category": "Itthon",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Életveszélyessé nyilvánították a kincsesbányai általános iskola épületét",
+          "url": "https://hvg.hu/itthon/20261007_eletveszelyesse-nyilvanitott-altalanos-iskola-epulet-kincsesbanya-lannert-judit",
+          "published": "2026-10-07T16:11:53+00:00",
+          "description": "Az iskolát azonnal kiürítették és lezárták. A 124 tanulónak a művelődési házban alakítanak ki ideiglenes tantermeket.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c0b6aa12-e3d7-485c-b6a7-6d02d964e9aa.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A KESMA-tól igazol új sajtófőnököt a Honvédelmi Minisztérium",
+          "url": "https://hvg.hu/itthon/20261007_kesma-sajtofono-honvedelmi-miniszterium-gudovics-eva-retro-radio",
+          "published": "2026-10-07T16:08:53+00:00",
+          "description": "A korábbi sajtófőnökből kabinetfőnököt csináltak.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/318e7f59-beef-4bce-a366-556fe59c17af.jpg",
+          "category": "Itthon",
+          "author": "m.foldes@hvg.hu (Földes Márton)"
+        },
+        {
+          "title": "Reagált a Pénzügyminisztérium az állampapírok adómentessége miatt indított kötelezettségszegési eljárásra",
+          "url": "https://hvg.hu/gazdasag/20261007_penzugyminiszterium-europai-bizottsag-allampapirok-adomentesseg-kotelezettsegszegesi-eljaras",
+          "published": "2026-10-07T16:08:49+00:00",
+          "description": "A tárca válaszában közölte, hogy minden lehetséges megoldást megvizsgálnak.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/123e45d6-07a6-470f-af53-40e3ed33a747.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Ezek szóltak volna, ha nyakunkon a 3. világháború: leszerelték az utolsó hidegháborús műholdakat is",
+          "url": "https://hvg.hu/tudomany/20261007_egyesult-allamok-hideghaborus-muholdak-raketak-figyelese",
+          "published": "2026-10-07T16:03:00+00:00",
+          "description": "Véget ért az az amerikai program, amelynek elsődleges célja a szovjet rakéták gyors észlelése lett volna a hidegháború idején.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/37d187da-ca7e-494b-a2d3-2263f76a2b32.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        }
+      ]
     },
     {
       "id": "kontroll",
@@ -1395,6 +1621,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Egy apró elektromos műszer segíthet megtalálni a földönkívüli élet nyomait",
+          "url": "https://www.origo.hu/tudomany/2026/10/foldonkivuli-elet-nyomai-kutatas-muszer-ai",
+          "published": "2026-10-07T20:00:00+01:00",
+          "description": "Vajon egyedül vagyunk-e a világegyetemben?",
+          "image": "https://cdn.origo.hu/2026/10/-oXD3xPtdT2p8FLrtQWYLzXWQmewYArAazf10DrIoJE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkzNjlhZjY2NTJiZTRmODk5ZmFkOTc5ZmUzZGQ2ZDA3.webp",
+          "category": "mesterséges intelligencia",
+          "author": null
+        },
+        {
           "title": "Házasság első látásra: „A hátam közepére nem kívánom ezt a beszélgetést” – Livi kettesben találkozott Rolival!",
           "url": "https://www.origo.hu/teve/2026/10/hazassag-elso-latasra-livi-roli",
           "published": "2026-10-07T19:55:00+01:00",
@@ -1478,10 +1713,10 @@
         {
           "title": "Életveszélyes gyermeküléseket találtak a törésteszten",
           "url": "https://www.origo.hu/auto/2026/10/gyermekules-eletveszelyeseket-talaltak-a-toresteszten",
-          "published": "2026-10-07T19:00:00+01:00",
-          "description": "Baleset esetén életveszélyben vannak a gyermekek a Britax Römer és az Axkid ülésében.",
-          "image": "https://cdn.origo.hu/2026/10/hCdv3kcoVtqJXCNyUHH6BcKy3k9zY7vdbXkoCCqrYDg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc5ZGU4YTU3NzMyMzRkY2Y4ZDYyYTVjNzBmNTUyNzg1.webp",
-          "category": "adac",
+          "published": "2026-10-07T17:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Autó",
           "author": null
         },
         {
@@ -1608,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Megrázó tragédia történt Magyarországon, mentőhelikopter is érkezett",
-          "url": "https://www.origo.hu/kek-hirek/2026/10/gazolas-mentohelikopter-auto-gyalogos",
-          "published": "2026-10-07T15:10:51+00:00",
-          "description": null,
-          "image": null,
-          "category": "Kék hírek",
           "author": null
         }
       ]
