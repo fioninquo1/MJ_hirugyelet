@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-09T09:10:39.235324+00:00",
+  "scraped_at": "2026-10-09T09:15:36.608198+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Több szervezet is összefideszezte a Magyar Művészeti Akadémiát, ami ígéri, hogy a jövőben is a kormány „elkötelezett partnere” lesz",
+          "url": "https://telex.hu/karakter/kultura/2026/10/09/mma-nyilatkozat-a-jovoben-is-a-kormany-elkotelezett-partnere-lesznek",
+          "published": "2026-10-09T09:14:56+00:00",
+          "description": "Az Orbán-kormány vezető kultúrpolitikai intézete nyilatkozatot adott ki, melyben azt írják, számítanak „mind miniszterelnök úrra, mind kormányának tagjaira”, kulturális életünk valamennyi rangos intézményének megőrzésében és támogatásában. Az aláírók közt van L. Simon László, Eperjes Károly, Tern...",
+          "image": "https://assets.telex.hu/images/20261009/1791536064-temp-f9k9hiha87f79lcemlk_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Liptai Lívia"
+        },
+        {
+          "title": "Azzal vádolnak egy korábbi zalai polgármestert, hogy vacsorázni, kirándulni vitte ismerőseit a falubusszal",
+          "url": "https://telex.hu/gazdasag/2026/10/09/lenti-volt-polgarmester-vademeles",
+          "published": "2026-10-09T09:12:42+00:00",
+          "description": "A vád szerint korábbi polgármester a tévéjét is eladta majdnem kétszeres áron az önkormányzatnak, a tulajdonosként a barátnőjét tüntette fel.",
+          "image": null,
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Navanethem „Navi” Pillay dél-afrikai nemzetközi jogász kapta a Nobel-békedíjat",
+          "url": "https://telex.hu/kulfold/2026/10/09/nobel-bekedij-2026-jeloltek-eselyesek-donald-trump",
+          "published": "2026-10-09T09:07:36+00:00",
+          "description": "Tavaly Trump csinált hatalmas felhajtást a díj körül, amit szerinte idén is megérdemelt volna. Helyette a Nobel-bizottság arra akart emlékeztetni, hogy a jogállamiság az alapja annak a rendszernek, amelyet a béke biztosítása és a konfliktusok erőszakmentes megoldása érdekében létrehoztunk.",
+          "image": "https://assets.telex.hu/images/20261009/1791536955-temp-a9sc6e7tafspbipdimj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Megint kihallgatták Bús Balázst",
+          "url": "https://telex.hu/belfold/2026/10/09/bus-balazs-ujra-kihallgatas",
+          "published": "2026-10-09T08:47:25+00:00",
+          "description": "A bíróság csütörtökön elutasította a védelem szabadlábra helyezési kérelmét.",
+          "image": "https://assets.telex.hu/images/20261009/1791535607-temp-1899tvqam79r1kjaegp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Magyar Péter szerint nem lesz enyhítő körülmény a bíróságon bizonyos vagyonelemek visszaadása",
+          "url": "https://telex.hu/belfold/2026/10/09/magyar-peter-oligarchak-kozvagyon",
+          "published": "2026-10-09T08:31:35+00:00",
+          "description": "Az viszont igen, ha az oligarchák visszaadják a teljes közvagyont, amit elloptak, írta a miniszterelnök.",
+          "image": "https://assets.telex.hu/images/20261005/1791183937-temp-cjht9nrtcaqa0ljncjp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Többszörösére szokott nőni az olimpiai számla, de van, ahol okosabban csinálták",
+          "url": "https://telex.hu/g7/kozelet/2026/10/09/olimpia-2036-nob-budapest-koltsegek",
+          "published": "2026-10-09T08:23:51+00:00",
+          "description": "Budapest is a 2036-os nyári olimpiára pályázó városok között van. Bár sokat emlegetik a rendezés gazdaságélénkítő hatását, a rendezés költségeivel kapcsolatos kép vegyes.",
+          "image": "https://assets.telex.hu/images/20261008/1791476780-temp-p5ki0v23lknbemmbncb_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Szabó Milán"
+        },
+        {
+          "title": "A friss Nobel-díjas ünneplés helyett egy reykjavíki erdőbe ment sétálni, és őrületnek nevezte, hogy őt tüntette ki a Svéd Akadémia",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/09/anne-carson-nobel-dij-jotekonysag",
+          "published": "2026-10-09T08:23:24+00:00",
+          "description": "Anne Carson egy nemzetközi segélyszervezetet támogatna és egy barátjának venne házat az elismeréssel járó pénzből.",
+          "image": "https://assets.telex.hu/images/20261009/1791532738-temp-urd7h16hrbn84cgehdj_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "A Fidesz korábbi érdi polgármesterjelöltje kapta meg Orbán Balázs mandátumát a frakcióban",
+          "url": "https://telex.hu/belfold/2026/10/09/boka-janos-bejelentes",
+          "published": "2026-10-09T08:17:27+00:00",
+          "description": "Kardosné Gyurkó Kata a Nagycsaládosok Országos Egyesületének korábbi elnöke csatlakozik a Fidesz-frakcióhoz.",
+          "image": "https://assets.telex.hu/images/20261009/1791531638-temp-ata5d65mnj028lpcnap_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "A drónháború már a Fekete-tenger biztonságosabbnak hitt részét is elérte, felkészül Románia, Bulgária és Törökország",
+          "url": "https://telex.hu/transtelex/2026/10/09/fekete-tenger-haboru-dron-teherhajo-kereskedelem-romania-bulgaria-torokorszag",
+          "published": "2026-10-09T08:12:10+00:00",
+          "description": "Az ukrán kikötők elleni támadások után egyre több hajó húzódott a Fekete-tenger nyugati része felé, Románia és Bulgária közelébe. Most már ezen az útvonalon is megszaporodtak az incidensek, közben a biztosítók emelik a kockázati besorolást.",
+          "image": "https://assets.telex.hu/images/20261008/1791449571-temp-6o6qv61eerm8akihgdb_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Farkas Kriszta"
+        },
+        {
+          "title": "Korunk Thomas Edisonjának nevezte Trump Elon Muskot, aztán átadott neki egy rangos tudományos elismerést",
+          "url": "https://telex.hu/techtud/2026/10/09/elon-musk-donald-trump-nemzeti-tudomanyos-erem",
+          "published": "2026-10-09T08:09:44+00:00",
+          "description": "A Nemzeti Tudományos Érmet megkapta még Google társalapítója, Szergej Brin, az Nvidia vezérigazgatója, Jensen Huang és az AMD elnök-vezérigazgatója, Lisa Su is.",
+          "image": "https://assets.telex.hu/images/20261009/1791533338-temp-svbr75vtnncs6ipejga_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Úgy béreltek ki százmilliókért egy irodaházat, hogy az, akinek kibérelték, nem akart beköltözni – miért nyomoznak a MÁV költözése miatt?",
+          "url": "https://telex.hu/video/2026/10/09/metropol-irodahaz-mav-lazar-janos",
+          "published": "2026-10-09T08:01:35+00:00",
+          "description": "A MÁV több százmillióért fejlesztette egyik saját irodáját, majd egy bérleménybe költözött, hogy megint több százmillió menjen a fejlesztésére, és még százmilliókat költöttek bérlésre is. Stúdiós beszélgetés a költözés furcsaságairól.",
+          "image": "https://assets.telex.hu/images/20261008/1791467930-temp-doq8gkjjrpea2fmmnle_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Rédli Balázs"
+        },
+        {
+          "title": "A Fradi szerint az ekho szigorítása miatt világklasszis sportolókat veszíthetnek el",
+          "url": "https://telex.hu/gazdasag/2026/10/09/ferencvaros-jatekosok-ekho-valtozas-evi-60-millio",
+          "published": "2026-10-09T08:00:30+00:00",
+          "description": "Átlagosan havi 5 millió forintig a jövődben is alkalmazható lesz az egyszerűsített közteherviselési hozzájárulás.",
+          "image": "https://assets.telex.hu/images/20261009/1791531915-temp-g0823i0p6fkafgajlkd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Bóka János feljelentést tesz Csézi Erzsébet és Schummer Orsolya ellen",
+          "url": "https://telex.hu/belfold/2026/10/09/boka-janos-csezi-erzsebet-feljelentes",
+          "published": "2026-10-09T07:53:16+00:00",
+          "description": "Közokirat-hamisítás miatt jelenti fel őket azért, mert egy szeptemberi ülésen Schummer szavazott Csézi Erzsébet helyett.",
+          "image": "https://assets.telex.hu/images/20261009/1791532248-temp-cilb6hipu25d9ioljfm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Két lett férfit tartóztattak le, amiért betörtek egy brit hírszerzési bázisra",
+          "url": "https://telex.hu/kulfold/2026/10/09/lett-ferfi-letartoztatas-brit-legibazis-raf-molesworth-hirszerzes",
+          "published": "2026-10-09T07:43:25+00:00",
+          "description": "Az esetet egyelőre nem hozzák összefüggésbe a napokban történt másik, hasonló történéssel, amikor öt brit állampolgárt vettek őrizetbe, amiért furgonokkal a RAF Fairford légibázishoz tartottak.",
+          "image": "https://assets.telex.hu/images/20261009/1791531507-temp-7k5h9nupnbq4fghnhnb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "A bicskei eset miatt 2016-ban felajánlotta lemondását az akkori szociális államtitkár, de Balog Zoltán nem fogadta el",
+          "url": "https://telex.hu/belfold/2026/10/09/czibere-karoly-gyermekvedelem-balog-zoltan-lemondas",
+          "published": "2026-10-09T07:27:18+00:00",
+          "description": "Bocsánatot kért mindazoktól, akik az ő államtitkársága alatt estek áldozatául egy bántalmazónak valamelyik intézményben.",
+          "image": "https://assets.telex.hu/images/20261009/1791530807-temp-u2fitkd31vvbfebbndm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Matolcsyék idején elszállt a jegybank vesztesége, most az erős forint tette be az ajtót",
+          "url": "https://telex.hu/gazdasag/2026/10/09/jegybank-hiany-mnb-matolcsy-jelentes-eros-forint-tokehiany",
+          "published": "2026-10-09T07:27:01+00:00",
+          "description": "Már 3200 milliárd forintnál is nagyobb a jegybank tőkehiánya.",
+          "image": "https://assets.telex.hu/images/20261009/1791529791-temp-b90a84ie9o3c1kklkke_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Áramütés veszélye miatt hajszárítókat hív vissza az Aldi",
+          "url": "https://telex.hu/gazdasag/2026/10/09/termekvisszahivas-aldi-hajszarito",
+          "published": "2026-10-09T06:56:59+00:00",
+          "description": "A visszahívott Ambiano hajszárító kábele sérülhet meg.",
+          "image": "https://assets.telex.hu/images/20261009/1791528619-temp-uednv5n7k7gq4bbacha_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Litvánia katonákat vezényel az orosz határra",
+          "url": "https://telex.hu/kulfold/2026/10/09/litvania-mozgositas-kalinyingrad-oroszorszag",
+          "published": "2026-10-09T06:52:22+00:00",
+          "description": "Azt gondolják, hogy sok orosz menekül majd feléjük a lehetséges sorozástól tartva.",
+          "image": "https://assets.telex.hu/images/20261009/1791528706-temp-tkqai24tjk0oebdcmfj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "A Miniszterelnökség szerint még ősszel elindulhat az alkotmányozási folyamat",
+          "url": "https://telex.hu/belfold/2026/10/09/alkotmanyozasi-folyamat-osz-miniszterelnokseg",
+          "published": "2026-10-09T06:45:28+00:00",
+          "description": "Még szeptemberre tervezték, hogy összeálljon az alkotmányozásért felelős grémium, ez azonban nem történt meg. A 444-nek most azt írták: reális az őszi indulás.",
+          "image": "https://assets.telex.hu/images/20261005/1791228903-temp-h4sjdi4pp7c23apjocc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Festési munkát ajánlott az üzletben, közben pedig ellopta az eladó telefonját",
+          "url": "https://telex.hu/belfold/2026/10/09/tolvaj-uzletek-papirlap-takaras",
+          "published": "2026-10-09T06:30:26+00:00",
+          "description": "Trükkös módszerekkel lopkodott az üzletekből egy román állampolgárságú férfi, akit társa sofőrként fuvarozott egyik helyről a másikra.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Négycsíkos ruhák miatt perel az Adidas",
+          "url": "https://telex.hu/gazdasag/2026/10/09/adidas-per-ausztralia-csikok-white-fox-vedjegy",
+          "published": "2026-10-09T06:23:58+00:00",
+          "description": "A háromcsíkos dizájn évtizedek óta védjegyoltalom alatt áll, az Adidas szerint az ausztrál White Fox négycsíkos ruhái megtévesztően hasonlítanak rá.",
+          "image": "https://assets.telex.hu/images/20261009/1791526611-temp-m6f4k23jnen40gfccda_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "A húszik magukra vállalták a rijádi reptér megtámadását, amiben hárman meghaltak",
+          "url": "https://telex.hu/kulfold/2026/10/09/szaud-arabia-huszi-rijad-repter-tamadas",
+          "published": "2026-10-09T05:54:17+00:00",
+          "description": "Meg akarják bénítani a jemeni kormányt támogató Szaúd-Arábia légterét.",
+          "image": "https://assets.telex.hu/images/20261009/1791525181-temp-roq0rojmaksu3lmblak_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Feleslegesen béreltek ki egy irodát, aztán kitalálták, hogy oda költöztetik a MÁV legérzékenyebb részlegeit. Most nyomozás indult az ügyben",
+          "url": "https://telex.hu/belfold/2026/10/09/metropol-ugy-irodahaz-kiberlese-uresen-all-lazar-janos-ekm-mav",
+          "published": "2026-10-09T04:58:53+00:00",
+          "description": "A magyar állam 2024-ben három évre kibérelt egy XIII. kerületi irodaházat, amelybe azonban több mint egy évig nem költözött be senki. Később úgy döntöttek, hogy a MÁV olyan részlegeit költöztetik be, amelyek fogadására az iroda akkor egyáltalán nem volt alkalmas. A Nemzeti Nyomozó Iroda hűtlen ke...",
+          "image": "https://assets.telex.hu/images/20261007/1791356681-temp-in8et331tijp3nmoplb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Mérgező füstköd fedi Malajziát az erdőtüzek miatt",
+          "url": "https://telex.hu/kulfold/2026/10/09/malajzia-erdotuz-fust",
+          "published": "2026-10-09T04:58:24+00:00",
+          "description": "Indonéziában erdőket és tőzeglápokat égetnek, ezért Malajziát és Szingapúrt is ellepi a füst.",
+          "image": "https://assets.telex.hu/images/20261009/1791521635-temp-bki601bn512ncepbmgj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Zelenszkij arra kérte az Egyesült Államokat, hogy adjanak hozzáférést Ukrajnának a Starlinkhez",
+          "url": "https://telex.hu/kulfold/2026/10/09/orosz-ukran-haboru-busz-tamadas-zelenszkij-starlink-usa-witkoff-kushner",
+          "published": "2026-10-09T04:56:14+00:00",
+          "description": "Zelenszkij azután nyilatkozott, hogy Oroszország Kramatorszk városában ukrán buszokat bombázott, a csütörtöki támadásban 35 civil halt meg.",
+          "image": "https://assets.telex.hu/images/20261009/1791521744-temp-nctc0sv38inl7ncaakn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nagy Nikoletta"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Magyar Péter a közmédiának üzent a sajtótájékoztató elején",
+          "url": "https://index.hu/belfold/2026/10/09/kormanyzati-tajekoztato-magyar-peter-vitezy-david-tisza-part-bejelentes/magyar-peter-a-kozmedianak-uzent-a-sajtotajekoztato-elejen/",
+          "published": "2026-10-09T09:13:01+00:00",
+          "description": "",
+          "image": null,
+          "category": "Belföld",
+          "author": null
+        },
+        {
+          "title": "Navi Pillay kapja a 2026-os Nobel-békedíjat",
+          "url": "https://index.hu/kulfold/2026/10/09/navi-pillay-jogasz-del-afrika-nobel-bekedij/",
+          "published": "2026-10-09T09:10:00+00:00",
+          "description": "Korábban az ENSZ emberi jogi főbiztosaként dolgozott.",
+          "image": "https://kep.index.hu/1/0/7197/71974/719749/71974995_5305353_ce0167b4920b300bbaf9ca8edf0020ee_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
           "title": "Kiszámolták, hány idegen civilizáció lehet a galaxisban, a James Webb is talált gyanús jeleket",
           "url": "https://index.hu/tudomany/til/2026/10/09/foldon-kivuli-elet-fockter-zoltan-csillagaszat-ufo-nasa-pentagon-ma-is-tanultam-valamit-podcast/",
           "published": "2026-10-09T09:06:00+00:00",
@@ -462,24 +706,6 @@
           "image": "https://kep.index.hu/1/0/7197/71973/719736/71973627_5305257_a66b8805b5beec02bed58a945073459d_wm.jpg",
           "category": "Gazdaság",
           "author": null
-        },
-        {
-          "title": "Bóka János hamarosan fontos bejelentést tesz",
-          "url": "https://index.hu/belfold/2026/10/09/boka-janos-fidesz-bejelentes/",
-          "published": "2026-10-09T06:55:00+00:00",
-          "description": "A Fidesz frakcióvezetője rejtélyes bejegyzést tett közzé.",
-          "image": "https://kep.index.hu/1/0/7197/71973/719736/71973681_5305261_d3d5bdb45f01d34201f70d65c3f77827_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Döbbenetes jelenetek Solymáron, egy dudálástól elborult a sofőr agya, teherautóval állt bosszút egy nőn",
-          "url": "https://index.hu/belfold/2026/10/09/solymar-amokfutas-kabitoszer-auto-vezetes/",
-          "published": "2026-10-09T06:48:00+00:00",
-          "description": "Nem ez volt az első alkalom, letöltendő börtönbüntetést kérnek rá.",
-          "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -493,7 +719,16 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Élőben közvetítik az amerikai kivégzést",
+          "title": "Magyar Péter és Vitézy Dávid tájékoztatót tart + élő videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-es-vitezy-david-tajekoztatot-tart-elo-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-10-09T09:14:20+00:00",
+          "description": "Az erdőbényei kormányülés óta először szólal meg a miniszterelnök és a közlekedési és beruházási miniszter.",
+          "image": null,
+          "category": "belföld",
+          "author": null
+        },
+        {
+          "title": "Élőben közvetítenek egy kivégzést Amerikában",
           "url": "https://magyarnemzet.hu/kulfold/2026/10/eloben-kozvetitik-az-amerikai-kivegzest?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-10-09T09:00:42+00:00",
           "description": "Hasan őrnagy tizenhét éve végzett a bajtársaival egy texasi bázison. Kivégzését látványosra tervezik.",
@@ -706,15 +941,6 @@
           "description": "A jelenlegi iráni konfliktus esetében egyre kevésbé világos, hogy hol ér véget a háború és hol kezdődik a béke.",
           "image": "https://cdn.magyarnemzet.hu/2026/10/0jd5GE6RVWk0mA66YSLxgP57B52MW5jNy8s_RyF8K_k/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YzOWU3ZjM0MjVmZDQxYTBhYmM2ODVjNzRhMDBkZTVi.jpg",
           "category": "vélemény",
-          "author": null
-        },
-        {
-          "title": "Orbán Viktor az ukránok legyőzéséről posztolt",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/orban-viktor-az-ukranok-legyozeserol-posztolt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-10-08T18:11:08+00:00",
-          "description": "Nagyot küzdött a magyar válogatott hétfőn és a szurkolók is odatették magukat.",
-          "image": "https://cdn.magyarnemzet.hu/2026/10/U22jf-QV_A_A7C-9AkRzEpbPGvFxPiP1cuNcTRTQCU4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlkYzhkZDgzZmIwODQwNTViNTM0ZjM2NDkyZWQ1NmE5.jpg",
-          "category": "belföld",
           "author": null
         }
       ]
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Azzal vádolják Lendvajakabfa volt polgármesterét, hogy falubusszal járt kirándulni  és dupla áron adta el a használt tévéjét az önkormányzatnak",
+          "url": "https://24.hu/belfold/2026/10/09/lendvajakabfa-polgarmester-vademeles/",
+          "published": "2026-10-09T11:12:00+01:00",
+          "description": "Tagadta a bűnösségét az expolgármester.",
+          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-1400704522-e1791537042643-320x180.jpg",
+          "category": "Belföld",
+          "author": "Kolontár Krisztián"
+        },
+        {
           "title": "Magyar Péter és Vitézy Dávid tájékoztat a kormány döntéseiről – élő",
           "url": "https://24.hu/belfold/2026/10/09/kormanyzati-tajekoztato-magyar-peter-vitezy-david/",
           "published": "2026-10-09T10:57:00+01:00",
@@ -1091,13 +1326,13 @@
           "author": "Lányi Örs"
         },
         {
-          "title": "Egymilliárdos áfacsalás az ékszerbizniszben",
-          "url": "https://24.hu/belfold/2026/10/09/ekszerbiznisz-afacsalas-letartoztatas/",
-          "published": "2026-10-09T09:10:00+01:00",
-          "description": "Letartóztattak két budapesti férfit.",
-          "image": "https://s.24.hu/app/uploads/2026/10/lefoglalt-ekszerek-1-e1791529727443-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kolontár Krisztián"
+          "title": "Ha ilyen hajszárítója van, ne használja tovább",
+          "url": "https://24.hu/fn/gazdasag/2026/10/09/ha-ilyen-hajszaritoja-van-ne-hasznalja-tovabb/",
+          "published": "2026-10-09T09:04:00+01:00",
+          "description": "Áramütést okozhat az eszköz. A vételárat a vásárlást igazoló blokk hiányában is visszatérítik.",
+          "image": "https://s.24.hu/app/uploads/2026/10/large_termekvisszahivas_web_1003_1051bb17ee-e1791529316910-320x180.png",
+          "category": "Gazdaság",
+          "author": "Vaskor Máté"
         },
         {
           "title": "Átvilágítják az MMA-t, az akadémia visszautasítja a kritikákat",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/10/000_d2nz3t3-e1791522441196-320x180.jpg",
           "category": "Nagyvilág",
           "author": "Vaskor Máté"
-        },
-        {
-          "title": "Pénteki friss hírek, forgalom, időjárás – Reggeli pakk",
-          "url": "https://24.hu/belfold/2026/10/09/penteki-friss-hirek-forgalom-idojaras-reggeli-pakk-444/",
-          "published": "2026-10-09T06:52:00+01:00",
-          "description": "Kubatov és Deutsch tiltakozik, Ruff az Orbán-rendszer utáni romról beszélt, Várhegyi Attila lett a Fidesz kommunikációs igazgatója.",
-          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-1130004252-320x180.jpg",
-          "category": "Belföld",
-          "author": "24.hu"
         }
       ]
     },
