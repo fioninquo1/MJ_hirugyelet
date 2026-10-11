@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-11T10:15:39.513560+00:00",
+  "scraped_at": "2026-10-11T10:20:35.377894+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Trump szavazóinak fáj a legjobban, amit az elnök tesz a gazdasággal",
+          "url": "https://telex.hu/video/2026/10/11/egyesult-allamok-valasztas-gazdasag-donald-trump-beszelgetes-atrium",
+          "published": "2026-10-11T09:37:31+00:00",
+          "description": "Az Elektor közönség előtti felvételén gazdasági elemzőkkel beszéltük át, milyenek az amerikai gazdaság kilátásai a félidős választások előtt, a mesterséges intelligencia árt vagy használ a választóknak, és hogy mi jöhet össze Trump pénzosztós ígéreteiből.",
+          "image": "https://assets.telex.hu/images/20261010/1791655146-temp-71eo9uh4mbag1gdbgdh_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Balatonkenese nagyon elázott",
+          "url": "https://telex.hu/belfold/2026/10/11/hungaromet-eso-balatonkenese",
+          "published": "2026-10-11T09:30:54+00:00",
+          "description": "A letenyeiek is alaposan kaptak a szombati esőből. Térképen, hogy hol mennyi eső hullott le.",
+          "image": "https://assets.telex.hu/images/20261011/1791713753-temp-sln9dhi5a7to6jplpkk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Nyomozást kaptak a nyakukba a tévétársaságok, amelyek nem voltak hajlandók a Fehér Házból közvetíteni",
+          "url": "https://telex.hu/kulfold/2026/10/11/media-egyesult-allamok-trosztellenes-nyomozas-donald-trump-feher-haz",
+          "published": "2026-10-11T09:20:15+00:00",
+          "description": "Trumpnak vissza kellett engednie a Fehér Házba a kitiltott sajtótermékeket, de látszik, hogy az ügyet még nem hagyja annyiban.",
+          "image": "https://assets.telex.hu/images/20261011/1791710368-temp-net7n1a6vcp89lehjed_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "50 millió forintról dönthetnek a Lidl vásárlói",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/10/11/50-millio-forintrol-donthetnek-a-lidl-vasarloi",
+          "published": "2026-10-11T08:55:01+00:00",
+          "description": "Harminc civil kezdeményezés jutott be a Lidl Magyarország Érték.Lánc Programjának döntőjébe – a szavazatok is számítanak abban, hogyan használják fel a program 50 millió forintos támogatási keretét.",
+          "image": "https://assets.telex.hu/images/20261008/1791469426-temp-j9judcmk5n7ebjnjpmo_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Házakat, hidakat söpört el az újabb áradás Nepálban",
+          "url": "https://telex.hu/kulfold/2026/10/11/hazakat-hidakat-soport-el-az-ujabb-aradas-nepalban",
+          "published": "2026-10-11T08:48:17+00:00",
+          "description": "Felszólították a környéken élőket, hogy hagyják el az otthonaikat.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "John Cena Matchbox pályát csinált Budapestből",
+          "url": "https://telex.hu/after/2026/10/11/streamingajanlo-below-matchbox-oasis",
+          "published": "2026-10-11T08:32:21+00:00",
+          "description": "Az Oasis visszatérését feldolgozó dokumentumfilm, Ben Affleck új rendezése és egy elszigetelt halászfaluról szóló thrillersorozat is szerepel a heti streamingajánlónkban.",
+          "image": "https://assets.telex.hu/images/20261010/1791665084-temp-7hof9q8l7km97bpggpe_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "A Fidesz volt debreceni jelöltje márciusban Tóth Gabival lépett fel egy színpadon, később törölte a közös képüket",
+          "url": "https://telex.hu/belfold/2026/10/11/nka-ugy-toth-gabi-szeles-diana-debrecen-fidesz-kampanyrendezveny-molnar-aron",
+          "published": "2026-10-11T07:57:26+00:00",
+          "description": "A választási kampányhajrában köszöntőbeszédet mondott Széles Diána egy családi napon, majd közös fotót készített az NKA-s pénzből fellépő Tóth Gabival, ám hazugság szerinte azt állítani, hogy ez kampányrendezvény lett volna.",
+          "image": "https://assets.telex.hu/images/20261011/1791705421-temp-0oqt5bs16prb8bpldfl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Négy halálos áldozatot követelt az Isaias hurrikán",
+          "url": "https://telex.hu/kulfold/2026/10/11/isaias-hurrikan-egyesult-allamok-halalos-aldozatok",
+          "published": "2026-10-11T07:31:21+00:00",
+          "description": "Az Egyesült Államok délkeleti részén közel 700 ezer ember maradt áram nélkül, amikor szombaton lecsapott a vihar.",
+          "image": "https://assets.telex.hu/images/20261011/1791703739-temp-kb17t73frslg9eofegj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Putyin sugárhajtású drónokkal törné meg Ukrajnát, a kijevi hidak támadása is ennek része",
+          "url": "https://telex.hu/kulfold/2026/10/11/oroszorszag-sugarhajtasu-dron-kijev-hid-busz-kramatorszk-tamadas-strategia-orosz-ukran-haboru-siklobomba",
+          "published": "2026-10-11T07:15:33+00:00",
+          "description": "Buszok elleni siklóbombákkal és drónok újabb generációjával indult el októberben az oroszok újabb támadási hulláma, amellyel a Kreml a civilek életét nehezíti meg, de áttörést a fronton nem ér el. Nemcsak az jelent új szintet az orosz támadásokban az elmúlt időszakhoz képest, hogy buszokat, vonat...",
+          "image": "https://assets.telex.hu/images/20261006/1791290985-temp-5rrbs8nfrb11cekbkoh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "A ringlispíl ugyanaz, de a régi bunda inkább már csak látványosság a feketetói vásáron",
+          "url": "https://telex.hu/transtelex/2026/10/11/feketeto-akkor-es-most-vasar",
+          "published": "2026-10-11T07:12:28+00:00",
+          "description": "Nemrég találtunk egy közel negyvenéves fotósorozatot a feketetói vásárról, elmentünk megnézni, hogy most milyen lenne.",
+          "image": "https://assets.telex.hu/images/20261009/1791561819-temp-vns3d5qdsoa16oaeimo_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Gál László (Transtelex)"
+        },
+        {
+          "title": "Van, ahol még a nap is kisüt vasárnap",
+          "url": "https://telex.hu/belfold/2026/10/11/idojaras-elorejelzes-borus-ido-eso",
+          "published": "2026-10-11T06:49:10+00:00",
+          "description": "Az ország nagy részén eláll az eső, de a keleti országrészben marad a borús idő.",
+          "image": "https://assets.telex.hu/images/20261011/1791701464-temp-rk3jvrd9gmpt5agacpp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Súlyos támadás érte a szaúdi főváros repterét, 12-en meghaltak, 309-en megsérültek",
+          "url": "https://telex.hu/kulfold/2026/10/11/szaud-arabia-rijad-repter-tamadas-jemen-huszik",
+          "published": "2026-10-11T06:28:19+00:00",
+          "description": "A szaúdi kormány vezette katonai koalíció a szombati támadást háborús bűncselekménynek nevezte, és válaszlépést ígért a jemeni húszi lázadók ellen. Trump pedig gondolkodik, hogy beszálljon a húszik elleni harcba.",
+          "image": "https://assets.telex.hu/images/20261011/1791700032-temp-1ni47s93d2prfmbppho_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Andrej Babiš szerint hatalmas pofon Európának Trump és Putyin megállapodása",
+          "url": "https://telex.hu/kulfold/2026/10/11/andrej-babis-csehorszag-trump-es-putyin-megallapodasa-hatalmas-pofon",
+          "published": "2026-10-11T06:24:12+00:00",
+          "description": "A cseh miniszterelnök európai választ vár az amerikaiak és oroszok dízelmegállapodására.",
+          "image": "https://assets.telex.hu/images/20261011/1791699140-temp-scgne95fms56dnfhnkm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Diplomáciai bravúr kell ahhoz, hogy Magyar Péter zöld is maradjon, és a lengyelekkel se vesszen össze",
+          "url": "https://telex.hu/nevertek/2026/10/11/tisza-kormany-zold-klimapolitika-lengyelorszag-eu-ets",
+          "published": "2026-10-11T05:50:17+00:00",
+          "description": "Továbbra is Európa egyik leginkább szénfüggő gazdasága Lengyelország, így ellentart a zöldítésnek és az emissziókereskedelem szigorításának. Varsó számít ebben Magyarországra, de a V4 felélesztését felülírhatja a hazai zöldpolitika.",
+          "image": "https://assets.telex.hu/images/20261002/1790938134-temp-tpsr1rok6krgfcdfonf_cimlap-normal.jpg",
+          "category": "Névérték",
+          "author": "Kruppa Márton"
+        },
+        {
+          "title": "Roisín O'Donnell: Fészek (részlet)",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/11/roisin-o-donnell-feszek-reszlet",
+          "published": "2026-10-11T05:08:52+00:00",
+          "description": "Olvasson bele az ír Roisín O'Donnell feszültséggel teli, olvasmányos regényébe, amely megrázó képet fest a párkapcsolati erőszakról!",
+          "image": "https://assets.telex.hu/images/20261007/1791366379-temp-6g2q89e12bsp1injpjp_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Úszó könyvtárak, amelyek az irodalom zászlaja alatt hajóznak",
+          "url": "https://telex.hu/eszkombajn/2026/10/11/konyvtarhajo-laosz-svedorszag-norvegia-epos",
+          "published": "2026-10-11T05:01:04+00:00",
+          "description": "Laoszban és Skandináviában sok helyen ma is vízi járműveknek köszönhetően jutnak olvasnivalóhoz azok, akik eldugott, nehezen megközelíthető településeken élnek.",
+          "image": "https://assets.telex.hu/images/20261009/1791552718-temp-ju27ds8eg5vg1hmkphe_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "A túrázók rovására terjeszkedik a hadsereg, a lőgyakorlatok miatt bakonyi útvonalakat szüntettek meg",
+          "url": "https://telex.hu/szepkilatas/2026/10/11/bakony-katonai-terulet-megszuntetett-turautvonalak",
+          "published": "2026-10-11T05:00:43+00:00",
+          "description": "Összesen 70 kilométernyi turistautat szüntettek meg vagy helyeztek át az elmúlt néhány hónapban a hadsereg fokozódó lőtéri tevékenysége miatt. Az áthelyezett túrautak felfestése még tart, az életveszélyesnek minősített katonai területek határait azonban sokszor nagyítóval kell keresniük a túrázók...",
+          "image": "https://assets.telex.hu/images/20261008/1791458409-temp-agof6d2js4j7eldegel_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Ruszin-Szendi Romulusz szerint katonákkal írattak róla jelentéseket",
+          "url": "https://telex.hu/belfold/2026/10/11/ruszin-szendi-romulusz-magyar-honvedseg-elemzesek",
+          "published": "2026-10-11T04:40:02+00:00",
+          "description": "A miniszter várja, hogy jelentkezzen az ezt elrendelő „szánalmas, kicsinyes, hazafiatlan, bajtársiatlan, gyáva, politikailag manipulált ember”.",
+          "image": "https://assets.telex.hu/images/20261010/1791667825-temp-tledm1p6mg5l2pllhbb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Miért sikeresebbek exportban a cseh és a lengyel cégek, mint a magyarok?",
+          "url": "https://telex.hu/g7/vallalat/2026/10/11/export-siker-cseh-lengyel-cegek-magyarok-hozzadott-ertek",
+          "published": "2026-10-11T02:54:01+00:00",
+          "description": "Magyarország a régió legnyitottabb gazdasága, de exportjában kisebb a hazai hozzáadott érték, mint a cseh és a lengyel kivitelben. A különbség a vállalati termelékenységben és méretben is kiütközik.",
+          "image": "https://assets.telex.hu/images/20261009/1791549284-temp-dmgjdrontnviagkjjnc_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Farkas Zsombor"
+        },
+        {
+          "title": "A kezdés után 8 másodperccel kapott hatalmas potyagólt a Bayern",
+          "url": "https://telex.hu/sport/2026/10/10/manuel-neuer-bundesliga-potyagol-augsburg",
+          "published": "2026-10-10T20:31:03+00:00",
+          "description": "Manuel Neuer belerúgta a labdát a letámadó csatárba, akinek ezután csak az üresen álló kapuba kellett passzolnia.",
+          "image": "https://assets.telex.hu/images/20261010/1791664044-temp-9rdiope03js59chcacb_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Visszautasította az Exim exportösztönző magántőkealap kezelője a politikai összefonódásra vonatkozó feltételezéseket",
+          "url": "https://telex.hu/gazdasag/2026/10/10/exim-exportosztonzo-magantokealap-feljelentes-kapitany-istvan",
+          "published": "2026-10-10T20:26:52+00:00",
+          "description": "Kapitány István pénteken közölte, hogy két újabb, összesen 166 milliárdos ügyben tett feljelentést.",
+          "image": null,
+          "category": "Gazdaság",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Elegük lett, hogy az erdőtüzek miatt betegek a gyerekek, ezért inkább elmentek tűzoltónak",
+          "url": "https://telex.hu/kulfold/2026/10/10/erdotuz-indonezia-borneo-tuzoltok",
+          "published": "2026-10-10T20:01:00+00:00",
+          "description": "Az indonéziai Borneó szigetén rendszeresek az erdőtüzek, de az idei év mindent felülmúlt. Egyes falvakban az anyák összefogtak, hogy javítsanak a helyzeten. Mások gondatlanság miatt beperelték az elnököt.",
+          "image": "https://assets.telex.hu/images/20260924/1790243465-temp-62voj5b9bbi11fjnigb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ivándi-Szabó Balázs"
+        },
+        {
+          "title": "58 ezer milliárd forinttal kisebb uniós költségvetést javasoltak az írek, mindkét oldalról nekik estek",
+          "url": "https://telex.hu/gazdasag/2026/10/10/eu-koltsegvetes-mff-2028-2034-europai-unio-tanacsa-ir-elnokseg-sarokszamok",
+          "published": "2026-10-10T19:47:39+00:00",
+          "description": "A németek túl kicsinek, az EP-ből túl nagynak tartották a nyolc százalékos csökkentést a 2028-ban induló hétéves költségvetés tervezetén.",
+          "image": "https://assets.telex.hu/images/20261010/1791661218-temp-tubc0b8inlstbgjjnob_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Tóth Gabi zuglói fellépése miatt bejelentést tesz az ÁSZ-nál a kerület polgármestere",
+          "url": "https://telex.hu/belfold/2026/10/10/toth-gabi-nka-radics-bela-rozsa-andras-zuglo",
+          "published": "2026-10-10T19:32:39+00:00",
+          "description": "Az énekes a fideszes Radics Béla kampányrendezvényén lépett fel, ami Rózsa András szerint felveti a tiltott kampányfinanszírozás gyanúját.",
+          "image": "https://assets.telex.hu/images/20261010/1791660731-temp-jav53up6v913embhgca_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Trump: Eljött az ideje, hogy Ukrajnának új elnöke legyen",
+          "url": "https://telex.hu/kulfold/2026/10/10/trump-eljott-az-ideje-hogy-ukrajnanak-uj-elnoke-legyen",
+          "published": "2026-10-10T19:03:22+00:00",
+          "description": "Az amerikai elnök szerint Zelenszkij sok megállapodást megköthetett volna, de valamiért soha nem tette.",
+          "image": "https://assets.telex.hu/images/20261010/1791658916-temp-328hotnj5knj0anphph_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Holttestet találtak Szegeden, a Zápor-tónál",
+          "url": "https://index.hu/belfold/2026/10/11/holttest-szeged-zapor-to-rendorseg/",
+          "published": "2026-10-11T10:14:00+00:00",
+          "description": "Egyelőre nem tudni, hogy történt-e bűncselekmény.",
+          "image": "https://kep.index.hu/1/0/6629/66295/662950/66295075_4894817_6298bb1165877df416e387e027f1f970_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Merényletet tervezhettek Donald Tusk ellen, rendkívüli ülést hívott össze a lengyel kormány",
           "url": "https://index.hu/kulfold/2026/10/11/donald-tusk-lengyelorszag-vedelmi-miniszter-wladislaw-kosiniak-kamysz-valsagtanacs/",
           "published": "2026-10-11T10:03:00+00:00",
@@ -470,15 +705,6 @@
           "description": "Lionel Messi második gólja a nyolcszoros aranylabdás fénykorát idézte.",
           "image": "https://kep.index.hu/1/0/7199/71995/719952/71995201_5306807_98f539ad1011c23e8650d869d93c68d8_wm.jpg",
           "category": "Futball",
-          "author": null
-        },
-        {
-          "title": "Háborús bűnnek nyilvánították a rijádi támadást, amiben tizenketten meghaltak és több százan megsérültek",
-          "url": "https://index.hu/kulfold/2026/10/11/rijad-repuloter-fegyveres-tamadas-halalos-aldozatok-serultek-szaud-arabia-legikozlekedes-repulo/",
-          "published": "2026-10-11T04:59:00+00:00",
-          "description": "A Szaúd-Arábiát vezető katonai koalíció megtorlást ígért.",
-          "image": "https://kep.index.hu/1/0/7199/71995/719953/71995311_5306815_37e7da65c9517c4fd2f04a5f86d00165_wm.jpg",
-          "category": "Külföld",
           "author": null
         }
       ]
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Szabó Erika a megcsalásról: Manapság a nők úgy gondolkodnak, szültem két gyereket, mit várhatok még az élettől, inkább félrenézek",
+          "url": "https://24.hu/elet-stilus/2026/10/11/szabo-erika-megcsalas-hutlenseg-nok/",
+          "published": "2026-10-11T12:13:00+01:00",
+          "description": "A hűtlenségről azt gondolja, nincsenek szélsőséges válaszok a kérdésre, és amellett, hogy árulásként tekint rá, vannak kapcsolatok, amiket felrázhat.",
+          "image": "https://s.24.hu/app/uploads/2026/10/central-1048914035-e1791713428349-320x180.jpg",
+          "category": "Kikapcs",
+          "author": "Besenyei Balázs"
+        },
+        {
           "title": "Ukrán dróntámadás bénította meg a Yandex szolgáltatásait",
           "url": "https://24.hu/kulfold/2026/10/11/yandex-adatkozpont-ukran-drontamadas/",
           "published": "2026-10-11T11:54:00+01:00",
@@ -1091,13 +1326,13 @@
           "author": "Bödők Gergely"
         },
         {
-          "title": "Tóth Gabi-ügy: a fideszes politikus szerint nem kampányrendezvényre hívták Debrecenbe az énekesnőt, akivel fotózkodott is",
-          "url": "https://24.hu/kultura/2026/10/11/toth-gabi-szeles-diana-debrecen-cafolat/",
-          "published": "2026-10-11T08:30:00+01:00",
-          "description": "Reagált Molnár Áron vádjaira Széles Diána debreceni politikus. A színész szerint kampányrendezvényen vett részt az énekesnő, a fideszes politikus cáfol.",
-          "image": "https://s.24.hu/app/uploads/2026/10/central-1065219182-e1791700005874-320x181.jpg",
-          "category": "Kultúra",
-          "author": "Besenyei Balázs"
+          "title": "Dömsödi Gábort ma újra megválaszthatják Pásztó polgármesterének",
+          "url": "https://24.hu/belfold/2026/10/11/domsodi-gabort-ma-ujra-megvalaszthatjak-paszto-polgarmesterenek/",
+          "published": "2026-10-11T08:13:00+01:00",
+          "description": "Magyarmecskén polgármestert és képviselőket, Pásztón pedig polgármestert választanak vasárnap. A szavazás este hét óráig tart.",
+          "image": "https://s.24.hu/app/uploads/2026/10/central-0413729970-e1791699012170-320x180.jpg",
+          "category": "Belföld",
+          "author": "D. Kovács Ildikó"
         },
         {
           "title": "„Hatalmas pofon Európának” – cseh kritika Trump és Putyin olajalkuja miatt",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/10/svedek-e1791663674692-320x180.jpg",
           "category": "Foci",
           "author": "24.hu"
-        },
-        {
-          "title": "Védett vízinövény új egyedei jelentek meg, de egy idegenhonos hal akár ki is irthatja mindet",
-          "url": "https://sokszinuvidek.24.hu/viragzo-videkunk/2026/10/11/vizilofark-vizinoveny-vedett-noveny-kis-balaton-amur/",
-          "published": "2026-10-11T10:51:00+01:00",
-          "description": "A vízilófark újabb előfordulása vált ismertté a Kis-Balaton területén.",
-          "image": "https://24.hu/app/uploads/sites/11/2026/10/836380914_1107877748308396_7672229478071317278_n-e1791354497143-320x180.jpeg",
-          "category": "Virágzó vidékünk",
-          "author": "Sokszínű Vidék"
         }
       ]
     },
@@ -1314,7 +1540,7 @@
         {
           "title": "Vízkrízis a Balatonnál: Szőlősgyörökön egy mobil vízkezelőt kellett telepíteni",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/11/vizkrizis-a-balatonnal-szolosgyoeroekoen-egy-mobil-vizkezelot-kellett-telepiteni",
-          "published": "2026-10-11T10:34:39.387720+01:00",
+          "published": "2026-10-11T10:35:35.254334+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1394,6 +1620,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Rendkívüli egyeztetés Lengyelországban: Donald Tusk és a védelmi miniszter is merénylet célpontjává válhatott",
+          "url": "https://www.origo.hu/kulpol/2026/10/donald-tusk-elleni-lehetseges-merenylet-rendorseg",
+          "published": "2026-10-11T12:15:00+01:00",
+          "description": "Az elmúlt napokban több erőszakos incidens is megrázta a lengyelországi iskolákat.",
+          "image": "https://cdn.origo.hu/2026/10/Uqvn1mHIuQNCsx9L3xO86B1ffA-2WoTtPYyePiL9rbw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIyNjFhMGVhOGVmYTQzZTc5MGNjNGJmMTJmZDNkMWU4.webp",
+          "category": "merénylet",
+          "author": null
+        },
         {
           "title": "Azt hiszed, jól ismered Magyarországot? Ez a földrajzi kvíz még téged is megizzaszthat",
           "url": "https://www.origo.hu/itthon/2026/10/foldrajz-kviz-magyarorszag-tudasproba",
@@ -1478,10 +1713,10 @@
         {
           "title": "Villanyautóként is elérhető a legnépszerűbb Volkswagen",
           "url": "https://www.origo.hu/auto/2026/10/volkswagen-villanyautokent-is-elerheto-a-legnepszerubb",
-          "published": "2026-10-11T10:30:00+01:00",
-          "description": "Első csomagtartóval bővül a raktér.",
-          "image": "https://cdn.origo.hu/2026/10/RBxpNLo11pOM4etUlXRbgpVYbEqoU7EYGkFKi7gN1Mc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4YTgyMjEwMzFmMTQyNjNhOWUwNGY3NmU3ZDRmNzU5.webp",
-          "category": "volkswagen",
+          "published": "2026-10-11T08:30:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Autó",
           "author": null
         },
         {
@@ -1608,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "A második randin lebénult a háromgyermekes anya – új szerelme reakciója mindent megváltoztatott",
-          "url": "https://www.origo.hu/nagyvilag/2026/10/randin-lebenult-a-haromgyermekes-anya",
-          "published": "2026-10-11T05:45:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
