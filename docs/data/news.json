@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T23:15:35.463611+00:00",
+  "scraped_at": "2026-10-11T23:20:36.171076+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1297,10 +1297,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Orbán Viktor is üzent a letartóztatott apjáért futó Hankó Leventének",
+          "url": "https://hvg.hu/elet/20261011_orban-viktor-is-uzent-a-letartoztatott-apjaert-futo-hanko-leventenek",
+          "published": "2026-10-11T19:58:19+00:00",
+          "description": "„Dad, I run for you”, azaz „apa, érted futok” feliratú pólóban indult a vasárnapi futóversenyen Hankó Levente, a különösen jelentős vagyoni hátrányt okozó, bűnszövetségben elkövetett hűtlen kezelés gyanúja miatt letartóztatott Hankó Balázs fia.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a891796f-4876-4a0f-88d9-98564ed22f9c.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Bekokainozott, begombázott és befüvezett kutyák: soha ennyi drogmérgezést nem tapasztaltak az állatorvosok",
+          "url": "https://hvg.hu/elet/20261011_bekokainozott-begombazott-es-befuvezett-kutyak-soha-ennyi-drogmergezest-nem-tapasztaltak-az-allatorvosok",
+          "published": "2026-10-11T19:30:15+00:00",
+          "description": "Nagy-Britanniában egyre komolyabb gondot okoz, hogy a köztereken és lakásokban hányféleképpen falhatnak fel rekreációs drogokat vagy nikotint tartalmazó anyagokat a háziállatok.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e390e025-7f29-4d7f-b85a-6eedb540b595.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Holttestet találtak egy Szentendrén kigyulladt családi házban",
+          "url": "https://hvg.hu/itthon/20261011_holttestet-talaltak-egy-szentendren-kigyulladt-csaladi-hazban",
+          "published": "2026-10-11T18:58:12+00:00",
+          "description": "A házban jelenleg a rendőrség helyszínel, a gyorsan terjedő tűz keletkezési körülményeit vizsgálják.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1230fc6e-cd62-4fa8-aef4-4baa70dda934.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Magyar Péter: a volt főügyész politikai okokból minősítette át a telefon-ügyet rongálásból lopássá",
+          "url": "https://hvg.hu/itthon/20261011_magyar-peter-a-volt-fougyesz-politikai-okokbol-minositette-at-a-telefon-ugyet-rongalasbol-lopassa",
+          "published": "2026-10-11T18:53:59+00:00",
+          "description": "A miniszterelnök szerint Fürcht Pál, a Fidesz megrendelésére azért próbált bűncselekményt faragni a 2004-es Ötkert-incidensből, hogy ellehetetlenítse Magyar indulását a választásokon.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6f30f1a4-1d2e-4d6e-aee3-160df6ca0e5b.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Tizenöt gyerek és száznál több felnőtt halt meg egy hajótörésben Dzsibuti partjainál",
+          "url": "https://hvg.hu/vilag/20261011_tizenot-gyerek-es-szaznal-tobb-felnott-halt-meg-egy-hajotoresben-dzsibuti-partjainal",
+          "published": "2026-10-11T18:50:48+00:00",
+          "description": "Legfrissebb értesülések szerint legkevesebb 139 ember meghalt és 84-en eltűntek egy hajótörés során Dzsibuti partjainál – jelentette be az ENSZ Nemzetközi Migrációs Szervezete (IOM) vasárnap.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6ef6f48e-d99e-403c-9beb-4499078ed923.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Máris jobban sikerülnek a dolgozatok, ha a diákokat pontlevonással értékelik pontgyűjtés helyett",
+          "url": "https://hvg.hu/tudomany/20261011_dolgozat-pontgyujtes-helyett-pontlevonas-corvinus-kutatas",
+          "published": "2026-10-11T18:03:00+00:00",
+          "description": "A veszteségtől való félelem szárnyakat ad: ha a vizsgázók maximális pontszámmal indulnak és a hibákért kapnak levonást, 8 százalékponttal jobban teljesítenek, mint ha hagyományosan a nulláról gyűjtenének pontokat a jó válaszokért cserébe – derül ki a Budapesti Corvinus Egyetem új kutatásából. A v...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d7446672-ea84-45d6-b5a7-7eaf7e40d2d2.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "„A világ legjobb dinnyéjét önöknél ettem” - interjú az Oscar-díjas Geoffrey Rush-sal",
+          "url": "https://hvg.hu/360/20261011_geoffrey-rush-interju-spielberg-karib-tenger-kalozai-harold-pinter-johnny-depp-oscar",
+          "published": "2026-10-11T18:00:00+00:00",
+          "description": "Milyen volt Johnny Deppel kalózkodni? Mit látott Spielberg golf-autójából a Jurassic Park forgatásán? Mi történt a csontjaival a budapesti fürdőkben? Az Oscar-díjas színésszel a Velencei Filmfesztiválon beszélgettünk.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e04d0b09-cb64-4429-8512-e291e7c10869.jpg",
+          "category": "hvg360",
+          "author": "g.koves@hvg.hu (Köves Gábor)"
+        },
+        {
+          "title": "Testi erővel is véget vethetnének a dán tanárok a konfliktusoknak egy új törvény szerint",
+          "url": "https://hvg.hu/elet/20261011_testi-erovel-is-veget-vethetnenek-a-dan-tanarok-a-konfliktusoknak-egy-uj-torveny-szerint",
+          "published": "2026-10-11T17:52:01+00:00",
+          "description": "Mivel sokan panaszkodtak az osztálytermekben növekvő erőszakra, kidolgoztak egy törvényjavaslatot, amely révén a dán tanárok engedélyt kapnának fizikai erő alkalmazására az osztálytermekben.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6e680d57-2900-4f28-8729-2defd5c82c6b.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Újabb lövedék csapódott be a rijádi nemzetközi repülőtéren",
+          "url": "https://hvg.hu/vilag/20261011_ujabb-lovedek-csapodott-be-a-rijadi-nemzetkozi-repuloteren",
+          "published": "2026-10-11T17:36:20+00:00",
+          "description": "A szombati támadás után vasárnap is újabb lövedék csapódott be a rijádi nemzetközi repülőtéren – közölte a jemeni húszik ellen harcoló, szaúdi vezetésű nemzetközi koalíció katonai szóvivője.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8c20ab1f-a4d8-4a4e-9278-0f4735093310.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Felépülés a gyászból: „Két fiam van, mindketten odaát”",
+          "url": "https://hvg.hu/hvgkonyvek/20261011_felepules-a-gyaszbol-ket-fiam-van-mindketten-odaat",
+          "published": "2026-10-11T17:15:00+00:00",
+          "description": "Liliána két fiát is elveszítette. A Singer Magdolna Felépülés a gyászból című kötetében olvasható vallomásában arról ír, miként tanulta meg, hogy csak akkor lehet elkezdeni a gyászmunkát, ha megvan az elfogadás. Szerkesztett részlet.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d1b58816-c9cf-49a9-98ba-bc63210c0f20.jpg",
+          "category": "HVG Könyvek",
+          "author": "szerzo@hvg.hu (HVG Könyvek  )"
+        },
+        {
+          "title": "Kiderült, hogy Magyarország az egész világon a 20. legjobb helyen áll, ha az AI-használat mértékét nézzük",
+          "url": "https://hvg.hu/tudomany/20261011_generativ-ai-hasznalati-statisztikak-globalis-adatok-magyarorszag-microsoft",
+          "published": "2026-10-11T17:03:00+00:00",
+          "description": "A Microsoft legfrissebb adatai szerint a visegrádi országok közül továbbra is Magyarországon használják a legnagyobb arányban a mesterséges intelligenciát. A globális ranglistát az Egyesült Arab Emírségek vezeti.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/486dba11-8627-44b3-a266-f8166ace2e06.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Kinek éri meg az új kata? – Gazdasági bejárat 5. rész",
+          "url": "https://hvg.hu/gazdasag/20261011_kinek-eri-meg-az-uj-kata-gazdasagi-bejarat-5-resz",
+          "published": "2026-10-11T16:43:46+00:00",
+          "description": "Ha vasárnap, akkor Gazdasági bejárat. Új adással jelentkezik a HVG gazdasági hírösszefoglaló műsora. A kormány a héten fontos adózási kérdésekben döntött, megvannak a részletek a milliárdosok vagyonadójáról és a kata adózás kibővítéséről is. Pitner Gábor vendége Szipszer Tamás, a Taxcorp Hungary ...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a1b14523-dd4a-447d-a65a-f0b4be5894cf.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (Pitner Gábor)"
+        },
+        {
+          "title": "Energiaipari tűzszünetet jelentett be Ukrajna és Oroszország között az amerikai elnök",
+          "url": "https://hvg.hu/vilag/20261011_energiaipari-tuzszunetet-jelentett-be-ukrajna-es-oroszorszag-kozott-az-amerikai-elnok-ebx",
+          "published": "2026-10-11T16:40:56+00:00",
+          "description": "Volodimir Zelenszkij ukrán elnök azt mondta, „az újdonság erejével hatott rá” a tűzszünet híre, de ha Trump és Putyin tényleg tárgyaltak erről, mondják el, mikor is kezdődik a tűzszünet.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5ea7f664-70a6-4942-a256-bd191e799e17.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "„Életem első és utolsó interjúja a Karmelitában” – Magyar Péter a legnagyobb finn napilapnak adott interjút",
+          "url": "https://hvg.hu/itthon/20261011_eletem-elso-es-utolso-interjuja-a-karmelitaban-magyar-peter-a-legnagyobb-finn-napilapnak-adott-interjut",
+          "published": "2026-10-11T16:33:28+00:00",
+          "description": "„Akinek tényleg van leszervezett időpontja, az kap is interjút” – utalt a miniszterelnök egy pár nappal korábbi fiaskóra, amikor a norvég média állította azt, hogy Magyar nem volt hajlandó interjút adni nekik.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7f815add-c94c-4a83-98b3-3fa6f1aaaaff.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Büntetésből celluxszal ragasztotta le egy kislány száját egy óvónő",
+          "url": "https://hvg.hu/elet/20261011_buntetesbol-celluxszal-ragasztotta-le-egy-kislany-szajat-egy-ovono",
+          "published": "2026-10-11T16:23:28+00:00",
+          "description": "Egy mogyoródi óvoda vezetője akarta is megbüntetni a síró gyereket. Bíróság előtt kell felelnie a tettéért.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/92a8f1e0-569b-4443-bf2c-dd520092140c.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Trump a franciáknak: „250 százalékos vámot fogok kivetni az átkozott borotokra és a többi kacatra”",
+          "url": "https://hvg.hu/gazdasag/20261011_trump-a-franciaknak-250-szazalekos-vamot-fogok-kivetni-az-atkozott-borotokra-es-a-tobbi-kacatra",
+          "published": "2026-10-11T15:55:52+00:00",
+          "description": "Az elnök egy kampányrendezvényen közölte: bár az egyik demokrata politikust valójában Abdulnak hívják, ő az elnök, ezért úgy hívja, ahogy akarja, és ő Mohamednek akarja hívni az illetőt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3115aa8e-64a2-40cb-b979-ca691dae3be9.jpg",
+          "category": "Gazdaság",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "„Jó napot, urak, mit adnak ma, golyót, vagy kötelet?” - Az én hetem Péterfy Gergellyel",
+          "url": "https://hvg.hu/360/20261011_az-en-hetem-peterfy-gergely-konyvfesztival",
+          "published": "2026-10-11T15:30:00+00:00",
+          "description": "Az én hetem című sorozatunkban négy író öt megadott kulcsszót felhasználva ír arról, miként élte meg az elmúlt hetet. Péterfy Gergelynek ezek jutottak: Vitézy-vonat, sportérték, szuperellenség, Pötterbing, pestisspekuláció.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f08c08ab-c71a-47e5-add4-02c0d691495c.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Péterfy Gergely)"
+        },
+        {
+          "title": "Nagydíjat nyert az Itt érzem magam otthon: először kapta meg magyar film „a műfaji filmek Oscarját”",
+          "url": "https://hvg.hu/kultura/20261011_nagydij-itt-erzem-magam-otthon-melies-d-or-arany-melies-dij",
+          "published": "2026-10-11T15:17:57+00:00",
+          "description": "Az év legnagyobb magyar meglepetésfilmje olyan műveket utasított maga mögé, mint az Ádám almái rendezőjének legutóbbi komédiája. Magyar film még soha nem kapta meg a Méliès d’Or díjat.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b97ac773-0dbf-44a8-b8a4-d5fb9a1f1f67.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "„Bumfordi barmok”, önkény és esti DJ – itt a DPK Tábor teljes programja",
+          "url": "https://hvg.hu/itthon/20261011_dpk-tabor-programok-fidesz-schmidt-maria-deutsch-tamas-boka-janos-okovacs-szilveszter",
+          "published": "2026-10-11T14:33:24+00:00",
+          "description": "A tábort a jövő hétvégén rendezik meg a lakiteleki Hungarikum Ligetben. Az esemény előadói között szerepel mások mellett Schmidt Mária, Deutsch Tamás, Bóka János és Ókovács Szilveszter is. A DPK Tábor házigazdája az M5 volt csatornaigazgatója lesz, aki azóta már az ÖT.hu munkatársa.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5c325b22-4322-4236-9fe4-7de426607111.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Feltörték a Kifli rendszerét, ügyfelek adataihoz fértek hozzá",
+          "url": "https://hvg.hu/gazdasag/20261011_feltortek-a-kifli-rendszeret-ugyfelek-adataihoz-fertek-hozza",
+          "published": "2026-10-11T14:33:18+00:00",
+          "description": "Az online bevásárló cég az adatvédelmi incidensben érintett felhasználóival közölte: október elején valaki betört a rendszerükbe, és hozzáfért több fontos adathoz.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3746bf04-f73c-40cd-9d44-90645d926a6d.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Feléled-e bennünk az egykori kisdobos, ha meglátunk egy Lenin-szobrot?",
+          "url": "https://hvg.hu/360/20261011_moldova-transznisztria-utazas-chisinau",
+          "published": "2026-10-11T14:30:00+00:00",
+          "description": "Moldova a csernozjom földön termő bor vidéke, ahol egymást váltják az ortodox kolostorok és a szovjet esztétika. Miért érdemes megállni a fővárosban és mire számítsunk, ha átruccannánk a világ egyik legszürreálisabb helyére, amely máig szovjetnek vallja magát.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c108068a-bb39-4494-a94e-3a472c0d0797.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Gyükeri Mercédesz)"
+        },
+        {
+          "title": "Őrült ötlet, de működik: napernyőkkel védenék a korallzátonyokat",
+          "url": "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok",
+          "published": "2026-10-11T14:03:00+00:00",
+          "description": "Időnként érdemes tenni egy próbát az elsőre kissé furcsának tűnő ötletekkel is. Kutatók most napernyőket helyeztek a haldokló korallok fölé, és úgy tűnik, hogy amilyen egyszerű, olyan hatékony is ez a módszer.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d71194e9-328d-4296-a348-bf52743deee7.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "„Micsoda morális csőd néhány liter gázolajért” – keményen bírálják Trumpot európai politikusok",
+          "url": "https://hvg.hu/vilag/20261011_trump-putyin-megallapodas-gazolaj-biralat-babis-nemet-miniszterek-zelenszkij",
+          "published": "2026-10-11T13:44:15+00:00",
+          "description": "Német miniszterek és Andrej Babis cseh kormányfő is bírálta Donald Trump amerikai elnök megállapodását Oroszországgal és Trump kijelentését, miszerint Ukrajnának új elnök kellene.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9ac67dda-318e-47e5-be2d-056614e13ceb.jpg",
+          "category": "Világ",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "„Biztonságot a nőknek és gyerekeknek” – a Terézanyu írójának kezdeményezésére összefogtak a női lapok",
+          "url": "https://hvg.hu/elet/20261011_isztambuli-egyezmeny-noi-lapok-racz-zsuzsa-terezanyu-ratifikalas-osszefogas-kampany",
+          "published": "2026-10-11T13:15:43+00:00",
+          "description": "A leánygyermekek világnapján indítottak kampányt a magyar női lapok: arra kérik a kormányt, hogy ha már áprilisban „történelmi lehetőség” adódott erre, léptessék életbe az isztambuli egyezményt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6b35929d-e697-4f79-8616-ab66f883b537.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "FT: orosz merényletekre figyelmeztetik az európai védelmi vállalatok vezetőit a nyugati titkosszolgálatok",
+          "url": "https://hvg.hu/vilag/20261011_europai-vedelmi-vallalatok-vezetok-merenyletek-figyelmeztetes-europai-titkosszolgalatok",
+          "published": "2026-10-11T13:00:09+00:00",
+          "description": "Az európai hírszerző szolgálatok szerint a hadiipari óriások mellett a kisebb cégek is célponttá válhatnak, különösen a dróngyártók. Napirendre került a vezetők személyvédelmének megerősítése.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fdeca2dd-694b-48a8-a902-563542a02682.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        }
+      ]
     },
     {
       "id": "kontroll",
