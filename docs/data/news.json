@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T10:30:53.568071+00:00",
+  "scraped_at": "2026-10-12T10:35:45.921831+00:00",
   "portals": [
     {
       "id": "telex",
@@ -965,6 +965,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Amerikai színekben indulna Los Angelesben a kétszeres olimpiai bajnok magyar kajakos",
+          "url": "https://24.hu/sport/2026/10/12/fazekas-zur-krisztina-amerikai-szinekben-indulna-los-angeles-2028-kajak-kenu/",
+          "published": "2026-10-12T12:31:00+01:00",
+          "description": "Az olimpiai pálya mindössze 20 percre van otthonától.",
+          "image": "https://s.24.hu/app/uploads/2026/10/000_fd8rp-320x180.jpg",
+          "category": "Sport",
+          "author": "24.hu"
+        },
+        {
           "title": "Felfüggesztették az egzotikus vadakra vadászó tiszás képviselőt",
           "url": "https://24.hu/belfold/2026/10/12/kaprinyak-etikai-bizottsag-felfuggesztes/",
           "published": "2026-10-12T12:26:00+01:00",
@@ -980,7 +989,7 @@
           "description": "Kipróbáltuk, és túlzás nélkül állítjuk, hogy a hetedik generációs ThinkPad T14s Gen 7 a prémium",
           "image": "https://s.24.hu/app/uploads/2026/10/01_thinkpad_t14s_intel_eclipse_black_boardroom-320x180.png",
           "category": "Tech",
-          "author": "Hirdetés"
+          "author": "Szponzorált tartalom"
         },
         {
           "title": "Két éve nem volt ilyen kevés kiadó lakás Magyarországon",
@@ -1001,7 +1010,7 @@
           "author": "Lányi Örs"
         },
         {
-          "title": "Felébredt a GVH: Eljárást indított a Déli Körvasút miatt",
+          "title": "Eljárást indított a GVH a Déli Körvasút miatt",
           "url": "https://24.hu/belfold/2026/10/12/felebredt-a-gvh-eljarast-inditott-a-deli-korvasut-miatt/",
           "published": "2026-10-12T12:06:00+01:00",
           "description": "367 milliárd forint uniós pénzt bukunk a Mészáros-cég kartellezése miatt.",
@@ -1100,6 +1109,15 @@
           "author": "Ács Anna Mária"
         },
         {
+          "title": "Lepusztult raktárban sínylődnek hazánk páratlan régészeti kincsei",
+          "url": "https://24.hu/tudomany/2026/10/12/lepusztult-raktardban-sinylodnek-kincseink/",
+          "published": "2026-10-12T10:39:00+01:00",
+          "description": "Több száz, sőt ezer éves régészeti kincsek kerültek egy betört ablakú, szigeteletlen épületbe négy és fél éve, ahol máig kitettek a rozsdásodásnak, korróziónak.",
+          "image": "https://s.24.hu/app/uploads/2026/10/central-1044739919-e1791793900999-320x180.jpg",
+          "category": "Tudomány",
+          "author": "Stéger Dávid"
+        },
+        {
           "title": "Elutasította Matolcsyék panaszait az ügyészség az Erste-ügyben",
           "url": "https://24.hu/fn/gazdasag/2026/10/12/erste-ugy-matolcsy-panasz-elutasitas-ugyeszseg/",
           "published": "2026-10-12T10:34:00+01:00",
@@ -1170,24 +1188,6 @@
           "image": "https://s.24.hu/app/uploads/2026/10/upscalemedia-transformed-33-e1791790486318-320x180.png",
           "category": "Belföld",
           "author": "Rugli Tamás"
-        },
-        {
-          "title": "Változtatási tilalmat rendeltek el egy Balaton-parti városban",
-          "url": "https://24.hu/otthon/2026/10/12/badacsonytomaj-valtoztatasi-tilalom/",
-          "published": "2026-10-12T09:30:00+01:00",
-          "description": "A cél az, hogy az új szabályok elfogadásáig ne valósulhassanak meg olyan beruházások, amelyek később már csak nehezen lennének megváltoztathatók.",
-          "image": "https://s.24.hu/app/uploads/2026/10/b1e4052b41b4c762a7fcf7dca5e513e3-e1791790181707-320x180.jpg",
-          "category": "Otthon",
-          "author": "24.hu"
-        },
-        {
-          "title": "Lehalt az AfD-t és a MAGA-t támogató orosz bothálózat a Yandex adatközpontjait ért támadások után",
-          "url": "https://24.hu/tech/2026/10/12/yandex-adatkozpont-tamadas-ukrajna-botok-maga-afd/",
-          "published": "2026-10-12T09:30:00+01:00",
-          "description": "Ukrajna napok óta intenzíven támadja az orosz Google, vagyis a Yandex adatközpontjait. Ezt pedig a német és az amerikai szélsőjobb is megérezhette.",
-          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-1060606274-e1791790113483-320x180.jpg",
-          "category": "Tech",
-          "author": "Lányi Örs"
         }
       ]
     },
@@ -1297,10 +1297,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A Tisza-frakció etikai bizottsága elé kerül a vadászó Kaprinyák Tibor ügye",
+          "url": "https://hvg.hu/itthon/20261012_kaprinyak-tibor-vadaszat-tisza-frakcio-etikai-bizottsag-orszaggyules",
+          "published": "2026-10-12T10:30:54+00:00",
+          "description": "A vizsgálat idejéig a képviselő nem lesz tagja az Országgyűlésnek.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3af733f8-6c31-4e93-af0e-7b8283e228cd.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Fideszes múltja miatt cinkelték Pápai Jocit az Álarcos énekesben",
+          "url": "https://hvg.hu/elet/20261012_fideszes-mult-papai-joci-alarcos-enekes",
+          "published": "2026-10-12T10:17:46+00:00",
+          "description": "A NER mögé beálló énekes kényszeredett mosollyal tűrte, ahogy Sebestyén Balázs, Ráskó Eszter és Puskás-Dallos Peti gúnyolódnak azon, hogy a választás előtt még az akkori kormánypárthoz dörgölőzött.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8ce7e4ed-9c2a-4e59-abad-8ca11bfb1fe1.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Emberölés gyanúja miatt indult eljárás a leégett szentendrei ház ügyében",
+          "url": "https://hvg.hu/itthon/20261012_emberoles-gyanuja-eljaras-szentendre-csaladi-haz-tuz-tuzvesz-leegett-holttest",
+          "published": "2026-10-12T10:15:19+00:00",
+          "description": "A rendőrök előállítottak egy 51 éves férfit, aki korábban késsel támadt a 82 éves apjára.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Milyen egyéni döntések állnak a nagy gazdasági változások mögött? Ennek a modelljéért járt a Nobel-díj",
+          "url": "https://hvg.hu/gazdasag/20261012_kozgazdasag-nobel-dij-robert-e-hall-michael-woodford",
+          "published": "2026-10-12T10:09:41+00:00",
+          "description": "Két amerikai közgazdász, Robert E. Hall és Michael Woodford kapta a közgazdasági Nobel-díjat azért, ahogy megmutatták, hogyan alakítják a gazdaságot az egyéni és vállalati döntések.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2be8b114-bb15-4bcd-9bc2-5b65c4d85707.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Eljárást indított a GVH Mészáros Lőrinc V-Hídjával szemben",
+          "url": "https://hvg.hu/kkv/20261012_gazdasagi-versenyhivatal-deli-korvasut-eljaras",
+          "published": "2026-10-12T10:06:22+00:00",
+          "description": "Vitézy Dávid közlekedési és beruházási miniszter pénteken bejelentette, hogy kizárják a céget a Déli körvasút-projekt munkálataiból.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/56805d3d-dc3c-4520-bed7-165060fced64.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Az adatvédelmi hatóság bírálja a Fidesz „ÁVH-figyelőjét”",
+          "url": "https://hvg.hu/itthon/20261012_nemzeti-adatvedelmi-es-informacioszabadsag-hatosag-naih-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-nvvh-listazas",
+          "published": "2026-10-12T09:54:57+00:00",
+          "description": "Szerintük bár az NVVH vezetőinek neve nyilvános, az továbbra is személyes adatnak minősül, a listázásuk pedig aggályos és jogszabályba ütközik.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6d6bd3b7-9f3d-4d0b-aea3-3adda445eee4.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Ezek a gyerekek nem kellenek a magyar társadalomnak – az utolsó percben vagyunk, hogy megoldjuk a kórházban élő kisbabák sorsát",
+          "url": "https://hvg.hu/elet/20261012_korhazban-hagyott-babak-csecsemok-gyerekek-sos-gyermekfalvak-konferencia-krizis-neveloszulok-orokbe-fogadas",
+          "published": "2026-10-12T09:45:00+00:00",
+          "description": "Stabilan nagyjából háromszáz azoknak a babáknak a száma, akik születésük után kénytelenek kórházban tölteni életük első heteit, hónapjait, akár éveit. Milyen csomaggal indulnak el ezek a gyerekek az életben, és hogyan segíthetne ezen a helyzeten egy krízis-nevelőszülői hálózat kialakítása?",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9ec9b479-ed6e-4b85-9942-7f1e994a8e79.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (Nemes Nikolett)"
+        },
+        {
+          "title": "A nehéz orbáni időkben a szabadságot jelképező Sanyi kakast a róla szóló film rendezője mutatja be a New York Timesban",
+          "url": "https://hvg.hu/360/20261012_lapszemle-oroszukran-haboru-trump-putyin-eu-kina",
+          "published": "2026-10-12T09:43:56+00:00",
+          "description": "Az erősödő szélsőjobb gátolja az európai újrafegyverkezést, noha az elengedhetetlen az orosz fenyegetés miatt. A közvélemény rákattant az AI-ra, de közben nem fogja fel a nukleáris veszélyt, hogy Hirosima nem emlékhely, hanem a jövő. Európának van kiútja a geoökonómiai csapdából, működik az új ke...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c55bbe85-0b49-4bb5-8b34-ddfc64527d1c.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (hvg360)"
+        },
+        {
+          "title": "Szemkárosodást okozó temus játékot hívott vissza a fogyasztóvédelem",
+          "url": "https://hvg.hu/kkv/20261012_termekvisszahivas-temu-led-jatek-munkagep-vilagitos-szemkarosodas-nkfh",
+          "published": "2026-10-12T09:41:48+00:00",
+          "description": "A játékba épített LED fényforrás erőssége jelentősen meghaladja az egészségügyi határértéket.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4ceb20ef-4f30-4c66-8215-11ad31794db1.png",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Az ukránok kiütötték az orosz Google-t, mire padlót fogott a fél webet leuraló orosz bothálózat is",
+          "url": "https://hvg.hu/tudomany/20261012_yandex-ukran-drontamadas-adatkozpont-leallas",
+          "published": "2026-10-12T09:36:35+00:00",
+          "description": "Oroszországon kívül is érezhető az ukrán dróntámadások hatása: lényegében teljesen leállt az orosz bottevékenység.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b8cfa3af-8689-430b-83c6-fb6985a23624.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Fél év lesz, mire pótolni tudják a kilőtt Yandex-központok eszközeit",
+          "url": "https://hvg.hu/tudomany/20261012_yandex-kozpont-orosz-ukran-haboru-hardver-dragulas",
+          "published": "2026-10-12T09:36:06+00:00",
+          "description": "Nem lesz olcsó, mivel éppen kilőttek a hardverek árai.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa9ff7d9-549b-461b-9675-e386619e5b6f.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Találtak egy égitestet a Naprendszer „közelében”, úgy változnak a felhői, mint a Földön",
+          "url": "https://hvg.hu/tudomany/20261012_wise-0855-barna-torpe-felhozet-legkori-korforgas",
+          "published": "2026-10-12T09:03:00+00:00",
+          "description": "A WISE 0855 egy barna törpe, légköre pedig hasonlóan működik, mint a Jupiteré.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c4352e03-6382-4d0c-a0c2-f48cf4f82ade.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Az Oscar-díjért versenyez a Tavaszi szél rendezőjének menekültes rövidfilmje",
+          "url": "https://hvg.hu/kultura/20261012_oscar-dij-verseny-tavaszi-szel-rendezo-rovidfilm-topolanszky-tamas-yvan-never-give-up",
+          "published": "2026-10-12T08:59:00+00:00",
+          "description": "Megjelent Topolánszky Tamás Yvan Never Give up! című, a 2015-ös menekültválságból inspirálódott rövidfilmjének előzetese. A filmet nyolcezer nevezés közül választották a tíz legjobb közé egy Los Angeles-i filmfesztiválon.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f3e1b498-a086-40ec-a8ed-eea8c1878680.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Öt mondatban értékelte a Fidesz az elmúlt fél évet",
+          "url": "https://hvg.hu/itthon/20261012_fidesz-fel-ev-ertekeles-orban-viktor-bayer-zsolt-tisza-part-kormanyvaltas",
+          "published": "2026-10-12T08:50:01+00:00",
+          "description": "A korábbi kormánypárt lesújtó véleménnyel van a Tisza-kormányról.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/379f77d4-764b-459b-a0e6-327bbfcf2a2f.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Hét éve lejárt rokkantkártyával parkolt az autós, most véget ért a trükközés",
+          "url": "https://hvg.hu/cegauto/20261012_het-eve-lejart-rokkantkartyaval-parkolt-autos-budapest",
+          "published": "2026-10-12T08:44:51+00:00",
+          "description": "A parolóőrök kivárták, amíg felbukkan az autós.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ee46610a-e645-443a-bfcf-ba33b1040cf1.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Szakálligazításra mentek a pénzügyőrök, három borbély is megbukott a vizsgálaton",
+          "url": "https://hvg.hu/kkv/20261012_szakalligazitas-nav-barber-shop-baranya",
+          "published": "2026-10-12T08:34:08+00:00",
+          "description": "Akadt olyan barber shop, amelynek nem, hogy számlatömbje, adószáma sem volt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e663f6cf-babc-48b6-b3f7-8948e8dea259.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Elutasította az ügyészség Matolcsy György panaszát",
+          "url": "https://hvg.hu/gazdasag/20261012_erste-ugy-ugyeszseg-panasz-gyanusitas-matolcsy-gyorgy",
+          "published": "2026-10-12T08:32:15+00:00",
+          "description": "A vádhatóság szerint a kihallgatott személyek megalapozottan gyanúsíthatók, a kutatásokra és lefoglalásokra is törvényesen került sor.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a3ac363c-5b86-40a5-aa38-eb6775e05a75.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Cukin retró a kicsi és olcsó vadonatúj Citroën Kacsa, Párizsban ismerkedtünk meg vele",
+          "url": "https://hvg.hu/cegauto/20261012_cuki-retro-kicsi-olcso-vadonatuj-citroen-2cv-kacsa-parizsi-autoszalon",
+          "published": "2026-10-12T08:29:26+00:00",
+          "description": "A Párizsi Autószalonon debütált a teljesen új fejlesztésű Citroën 2 CV, mely egy elérhető árú, stílusos megjelenésű kompakt és könnyű villanyautó.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/51722001-cd04-414c-9bad-0bf2c3a7ef66.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (László Ferenc)"
+        },
+        {
+          "title": "Orbán Anita: Az új ukrán törvények garantálni fogják a magyar kisebbség oktatási jogait",
+          "url": "https://hvg.hu/eurologus/20261012_orban-anita-ukrajna-unios-bovites-kulugyminiszterek-tanacsa",
+          "published": "2026-10-12T08:24:24+00:00",
+          "description": "A várakozások szerint még hétfőn elfogadja az ukrán parlament azokat a jogszabályokat, amelyek biztosítják a kárpátaljai magyar kisebbség oktatási jogait – jelentette be Orbán Anita Luxemburgban, az uniós külügyminiszterek tanácskozására érkezve.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/309fc56e-a412-4742-b990-d92cefb92da4.jpg",
+          "category": "EUrologus",
+          "author": "HVG (szerzo@hvg.hu (EUrologus))"
+        },
+        {
+          "title": "A csúsztatás iskolapéldája Zugló szerint Karácsony parkolási matekja",
+          "url": "https://hvg.hu/itthon/20261012_csusztatas-iskolapelda-karacsony-gergely-hiba-kerulet-parkolas-zuglo",
+          "published": "2026-10-12T08:09:46+00:00",
+          "description": "Többek között arra hivatkozva központosítaná Karácsony Gergely a parkolást Budapesten, hogy a kerületek egyáltalán nem költséghatékonyan látják el a feladatukat. Ennek igazolására hozott is adatokat, amelyek azonban több kerületben, különösen Zuglóban, felháborodást keltettek. Utánajártunk, hogy ...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/00fbb021-ecff-4375-be0d-2333a44efc43.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (Somfai Dávid)"
+        },
+        {
+          "title": "Be kell húzni az AI-vészféket – figyelmeztet a Microsoft vezérigazgatója",
+          "url": "https://hvg.hu/tudomany/20261012_microsoft-satya-nadella-mesterseges-intelligencia-szabalyozasa-veszelyek",
+          "published": "2026-10-12T08:03:00+00:00",
+          "description": "Satya Nadella is előállt a maga javaslataival az AI korlátozásával kapcsolatban. A Microsoft vezérigazgatójának szavai alapján alapvető változásokra van szükség.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4d0aa5d1-3e76-44a7-a470-d48f33af312a.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A kórházból posztolt Fucsovics Márton, vége a szezonjának",
+          "url": "https://hvg.hu/sport/20261012_fucsovics-marton-korhaz-teniszezo-vallserules",
+          "published": "2026-10-12T08:02:31+00:00",
+          "description": "Vállsérüléssel küzd a teniszező.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0baa7d09-01b4-4e5f-b41a-c4fa6501971b.jpg",
+          "category": "Sport",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Megvannak a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökhelyettes-jelöltjei",
+          "url": "https://hvg.hu/itthon/20261012_nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-nvvh-unger-anna-tasnady-katalin-elnokhelyettesek-javaslat-igazsagugyi-es-alkotmanyugyi-bizottsag",
+          "published": "2026-10-12T07:55:13+00:00",
+          "description": "Egyelőre csak nyomozati elnökhelyettese van a szervnek, a közpénzügyi, a vádemelésért felelős, illetve a fellebviteli elnökhelyettesek megválasztását korábban elhalasztották.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3bab68f9-9730-4651-8d92-6e6764b7e4a8.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Megvan, kit javasolnak Tóth Máté helyére a Médiatanácsba",
+          "url": "https://hvg.hu/itthon/20261012_mediatanacs-toth-mate-mi-hazank-orszaggyules-bizottsag-radetzky-andras",
+          "published": "2026-10-12T07:51:21+00:00",
+          "description": "Tóth Máté azután mondott le, hogy a Mi Hazánk alelnökévé választották.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab8c255e-ed32-4e5f-a127-d1e30dce8466.jpg",
+          "category": "Itthon",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Az RTL egyik legrégebbi riporterét igazolta le Kapitány István minisztériuma",
+          "url": "https://hvg.hu/gazdasag/20261012_kapitany-istvan-miniszterium-sajtofonok-litauszky-balazs-rtl-riporter",
+          "published": "2026-10-12T07:29:33+00:00",
+          "description": "Litauszky Balázs kérdésére hangzott el az emlékezetes válasz a Kormányinfón a zsírra szállt porról. Most ő lett a Gazdasági és Energetikai Minisztérium új sajtófőnöke.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fa674faa-0d8f-4aa5-88bf-0b00d8cfe58b.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        }
+      ]
     },
     {
       "id": "kontroll",
@@ -1314,7 +1540,7 @@
         {
           "title": "A Fidesz-féle ösztöndíjprogramban végezte a Hamász-vezető terrorista fia a BME-s képzését",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/12/a-fidesz-fele-oesztoendijprogramban-vegezte-a-hamasz-vezeto-terrorista-fia-a-bme-s-kepzeset",
-          "published": "2026-10-12T10:34:53.566184+01:00",
+          "published": "2026-10-12T09:34:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1394,6 +1620,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Paul Walker visszatérhet a Halálos Iramban fináléjában: megszólalt az elhunyt színész testvére",
+          "url": "https://www.origo.hu/filmklub/2026/10/paul-walker-visszaterhet-a-halalos-iramban-finalejaban",
+          "published": "2026-10-12T12:30:00+01:00",
+          "description": "Úgy tűnik Brian valóban visszatér, de ezúttal nem testvéreinek köszönhetően.",
+          "image": "https://cdn.origo.hu/2026/10/fXj7jTrr-jxDvAPICf33lGSJibLclGSzrxJZYggi_TA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZkNzlkYjM0YWNiYjQ3NGZiZTdiMTM1ODIwNjM0OGM5.webp",
+          "category": "halálos iramban",
+          "author": null
+        },
         {
           "title": "20 ezer rendőrrel indult az iskolai nap Lengyelországban a támadások után",
           "url": "https://www.origo.hu/nagyvilag/2026/10/rendor-20-000-iskola-lengyelorszag-tamadasok",
@@ -1478,10 +1713,10 @@
         {
           "title": "Marco Rossi neve is előkerült Liverpoolban Szoboszlai Dominik sérülése miatt",
           "url": "https://www.origo.hu/sport/sport-futball/2026/10/szoboszlai-dominik-serulese-liverpool-marco-rossi",
-          "published": "2026-10-12T11:41:00+01:00",
-          "description": "Hiába igyekeztek óvni a magyar középpályást.",
-          "image": "https://cdn.origo.hu/2026/10/gwY80rZT786KEIv29zrt4E99uEKaknS8j8MP8UhBwlk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQyZmE0MzUzMGMxODQ5MTI5NDc3MzQ1ZTAyZTAzZTZj.webp",
-          "category": "Szoboszlai Dominik",
+          "published": "2026-10-12T09:41:59+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1608,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Egy hatéves kislány rajzáért 51 millió forintnyi összeget fizettek, nem véletlenül",
-          "url": "https://www.origo.hu/nagyvilag/2026/10/rajz-hateves-kislany-alkotasa-pokemon-kartya-arveres",
-          "published": "2026-10-12T08:00:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
