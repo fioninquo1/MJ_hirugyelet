@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T07:45:36.495558+00:00",
+  "scraped_at": "2026-10-12T07:50:40.366353+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1297,10 +1297,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Az RTL egyik legrégebbi riporterét igazolta le Kapitány István minisztériuma",
+          "url": "https://hvg.hu/gazdasag/20261012_kapitany-istvan-miniszterium-sajtofonok-litauszky-balazs-rtl-riporter",
+          "published": "2026-10-12T07:29:33+00:00",
+          "description": "Litauszky Balázs kérdésére hangzott el az emlékezetes válasz a Kormányinfón a zsírra szállt porról. Most ő lett a Gazdasági és Energetikai Minisztérium új sajtófőnöke.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fa674faa-0d8f-4aa5-88bf-0b00d8cfe58b.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Békemenet helyett zászlómenetet szerveznek október 23-án a fideszesek",
+          "url": "https://hvg.hu/itthon/20261012_oktober-23-fidesz-vonulas-bekemenet-zaszlomenet-szilagyi-akos-56-langja-alapitvany",
+          "published": "2026-10-12T07:06:37+00:00",
+          "description": "A bejelentésre a miniszterelnök is reagált.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a599def2-88fd-4663-b636-3c32e4bab8ac.jpg",
+          "category": "Itthon",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Kigyulladt a powerbank a repülőgépen, életbe lépett a vészhelyzeti protokoll",
+          "url": "https://hvg.hu/tudomany/20261012_indigo-legitarsasag-tuz-powerbank",
+          "published": "2026-10-12T07:03:00+00:00",
+          "description": "Valószínűleg felrobbanhatott az a külső akkumulátor, amit az utastér csomagtárolójában helyezett el az IngiGo indiai légitársaság egyik utasa.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a290d187-4e1e-4a03-a639-0a1255db9417.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A világon először látható angol nyelven az Utas és holdvilág",
+          "url": "https://hvg.hu/kultura/20261012_a-vilagon-eloszor-lathato-angol-nyelven-az-utas-es-holdvilag",
+          "published": "2026-10-12T06:56:51+00:00",
+          "description": "Szerb Antal klasszikus regényének angol nyelvű színpadi verzióját Londonban mutatják be a már az Edinburgh Fringe fesztiválon is sikerrel szereplő magyar színész, Ábel Stella rendezésében.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/454a3e13-cc4a-4f81-86e9-22263cc62868.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Már szoftverrel csalnak a horrorkaravánosok, keményen büntetik őket",
+          "url": "https://hvg.hu/cegauto/20261012_mar-szoftverrel-csalnak-a-horrorkaravanosok-kemenyen-buntetik-oket",
+          "published": "2026-10-12T06:52:00+00:00",
+          "description": "Egymilliós a bírság egy meghekkelt AdBlue-rendszerért.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/28cee1fc-627d-4f3e-95e2-942311cc0e6c.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "7 év alatt közel 3,8 milliárdért szerzett be követ Mészáros V-Hídja az Orbán-bányákból",
+          "url": "https://hvg.hu/kkv/20261012_meszaros-lorinc-v-hid-orban-gyozo-banyak-dolomit-kft-rejtett-megbizasok",
+          "published": "2026-10-12T06:43:50+00:00",
+          "description": "Orbán Győző cégei legalább 400 ezer tonna követ adtak el vagy szállítottak a V-Híd beruházásaihoz.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/09be980c-dc53-4b34-b4b4-74a891107af5.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Mentelmi jogának hivatalos kiadása előtt vehette őrizetbe az NVVH Seszták Miklóst",
+          "url": "https://hvg.hu/itthon/20261012_nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-nvvh-sesztak-miklos-orizetbe-vetel-unger-anna-tasnady-katalin",
+          "published": "2026-10-12T06:33:45+00:00",
+          "description": "Ugyan csak egy órával, de ügyvédje elmondása szerint Seszták Miklós már azelőtt őrizetben volt, hogy megjelent volna a Magyar Közlöny a mentelmi jogának kiadásáról.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fd718710-d88a-4343-af40-51dcdb4859c4.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Megválasztották a Balaton sütijét",
+          "url": "https://hvg.hu/elet/20261012_megvalasztottak-a-balaton-sutijet-hevizen-keszitik",
+          "published": "2026-10-12T06:32:43+00:00",
+          "description": "Az áfonyás, málnás ízesítésű, fehér csokis bevonatú Kék Balaton lett a Balaton sütije, amelyet a hévízi Ensana Thermal Hotel cukrásza készített. Mindenmentes kategóriában a szintén hévízi Mozart Cukrászat Balatoni hab fantázianevű édessége végzett az élen.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7eeda7b4-7c1a-417c-8a30-3975342e696a.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Lefagyott a síneken rekedt kisbusz sofőrje, egy másik autós lépett közbe – videó",
+          "url": "https://hvg.hu/cegauto/20261012_lefagyott-a-sineken-rekedt-kisbusz-soforje-egy-masik-autos-lepett-kozbe-video",
+          "published": "2026-10-12T06:23:00+00:00",
+          "description": "Azt mondta neki, mindegy hogyan, csak tűnjön el a sínekről.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/96edb79e-cfd2-4364-8362-0dd025d8d529.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Washington azzal fenyegetőzik, hogy felfüggesztik a hírszerzési információk megosztását Ukrajnával",
+          "url": "https://hvg.hu/vilag/20261012_washington-felfuggesztes-hirszerzesi-informaciok-megosztasaukrajna",
+          "published": "2026-10-12T06:22:36+00:00",
+          "description": "Az orosz energetikai létesítmények elleni támadások beszüntetését „követeli” a Trump-kormány.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5ea7f664-70a6-4942-a256-bd191e799e17.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Aláírásokat hamisít a ChatGPT",
+          "url": "https://hvg.hu/tudomany/20261012_karikaturistak-alairasai-chatgpt-hamisitas",
+          "published": "2026-10-12T06:03:00+00:00",
+          "description": "Remekel a hamisításban az OpenAI mesterséges intelligenciája, a ChatGPT. Többek között egy neves amerikai hetilap karikatúráit is másolta, sőt még az ismert karikaturisták szignóját is „aláhamisította”.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/21c4901e-f7ff-4770-8299-1d8057c19cac.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Terepre hangolva: Magyarországon a vadonatúj Audi A6 allroad",
+          "url": "https://hvg.hu/cegauto/20261012_terepre-hangolva-magyarorszagon-a-vadonatuj-audi-a6-allroad",
+          "published": "2026-10-12T05:59:00+00:00",
+          "description": "Immár hazánkban is kapható az Audi A6 emelt futóműves, terepes hangulatú allroad változata.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7deb9a6a-40f5-4217-862b-dae3c40f7593.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "„Abszurd és zaklató jellegű” – Újabb uniós panaszt nyújtott be a kiskereskedelmi különadó miatt Spar",
+          "url": "https://hvg.hu/kkv/20261012_spar-kiskereskedelmi-kulonado-ujabb-unios-panasz",
+          "published": "2026-10-12T05:54:02+00:00",
+          "description": "A vállalat szerint a Tisza-kormány, az adóteher csökkentését célzó jogszabály-módosítását a nagy áruházláncok gyakorlatilag nem tudják alkalmazni.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0165b970-c562-40a0-83d5-11aa0ba3f539.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Magyar Péter gratulált Dömsödi Gábornak",
+          "url": "https://hvg.hu/itthon/20261012_magyar-peter-domsodi-gabor-gratulacio-paszto-idokozi-valasztas-fidesz",
+          "published": "2026-10-12T05:49:22+00:00",
+          "description": "A miniszerelnök egyben a Fidesznek is odaszúrt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6c90b29a-fcd8-4478-8f87-e55bf78dd183.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Minden nap bezár egy kocsma az Egyesült Királyságban",
+          "url": "https://hvg.hu/gazdasag/20261012_minden-nap-bezar-egy-kocsma-az-egyesult-kiralysagban",
+          "published": "2026-10-12T05:47:19+00:00",
+          "description": "A brit sör- és kocsmaszövetség szerint a költségvetés is meg fogja érezni a vendéglátóhelyek megszűnését.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bbbeaa83-19b1-483c-b2cf-68d147b346f2.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Fürcht Pál reagált arra, hogy Magyar Péter szerint politikai okból minősítette át a telefon-ügyet",
+          "url": "https://hvg.hu/itthon/20261012_furcht-pal-magyar-peter-otkert-telefon-rongalas-lopas-reakcio",
+          "published": "2026-10-12T05:28:14+00:00",
+          "description": "Sokáig rongálás miatt nyomoztak a 2024-ben történt ötkertes esetben, később viszont lopássá minősítették az ügyet.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/59f00f37-3112-4a58-bf76-9b9540a1fd88.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Radka Denemarková, a Frankfurti Könyvvásár díszvendége: „Ki kell állni a populista hatalom ellen, nincs más választás”",
+          "url": "https://hvg.hu/360/20261012_radka-denemarkova-a-frankfurti-konyvvasar-diszvendege-ki-kell-allni-a-populista-hatalom-ellen-nincs-mas-valasztas",
+          "published": "2026-10-12T05:20:00+00:00",
+          "description": "Nagy vihart kavart a frankfurti könyvvásáron mondott megnyitóbeszédével Radka Denemarková a rendezvény díszvendégének számító Csehország képviseletében. A Zeitnek adott interjúban beszél erről.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e396aa0e-99d6-4cab-9a29-a00e173f1603.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (hvg360)"
+        },
+        {
+          "title": "Beszitált, majd a szalagkorlátnak vágódott egy Opel az M1-esen",
+          "url": "https://hvg.hu/cegauto/20261012_beszitalt-majd-a-szalagkorlatnak-vagodott-egy-opel-az-m1-esen",
+          "published": "2026-10-12T05:18:00+00:00",
+          "description": "Nem is zsúfolt, teljesen egyenes szakaszon történt a baleset.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3e03deb3-7c1a-452d-a7bf-82674028dbb4.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A lengyel miniszterelnök nagy vereséget szenvedett Krakkóban",
+          "url": "https://hvg.hu/vilag/20261012_lukasz-gibala-donald-tusk-krakko",
+          "published": "2026-10-12T04:49:47+00:00",
+          "description": "A második legnagyobb lengyel városban kiírt időközi főpolgármester-választást látszólag helyi ügyek miatt kellett kiírni, de a kormánnyal szembeni általános elégedetlenséget is mutatja. A kormánypárti jelölt 61:39 arányban veszített.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8cd7d327-9761-48d6-bdbb-f777ee709203.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (Domány András)"
+        },
+        {
+          "title": "Magyarországon a közel 3 millió forinttal olcsóbb új BMW i3 szedán",
+          "url": "https://hvg.hu/cegauto/20261012_magyarorszagon-a-kozel-3-millio-forinttal-olcsobb-uj-bmw-i3-szedan",
+          "published": "2026-10-12T04:41:00+00:00",
+          "description": "Megkezdődött a szerényebb teljesítményű és kisebb aksis BMW i3 hazai forgalmazása.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4d70e24a-3ca5-4101-b936-f235d9a75f00.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Betiltotta a bíróság a Trumpot népszerűsítő, közpénzből fizetett reklámok sugárzását",
+          "url": "https://hvg.hu/vilag/20261012_birosag-trump-propaganda-reklam-sugarzas-tiltas",
+          "published": "2026-10-12T04:22:28+00:00",
+          "description": "Húszmillió dollárt költöttek a Trump-propagandára.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/53136a38-6954-4c1c-91cb-9ad7bf0ab724.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Több százmilliárd forint nyomában: meddig rejtőzködhetnek Tiborcz, Lázár, Jellinek és társaik?",
+          "url": "https://hvg.hu/360/20261012_hvg-magantokealapok-adathiany-tiborcz-meszaros-transparency-mfb",
+          "published": "2026-10-12T04:00:00+00:00",
+          "description": "Hiába kérték ki a közpénzes magántőkealapok tényleges tulajdonosait, továbbra sem tudjuk, kik a szövevényes konstrukció haszonélvezői. Többek közt Jellinekhez, Lázárhoz, Tiborczhoz, vagy éppen Nagy Mártonhoz köthető sok százmilliárdnyi közpénzhez jutó alapok végső tulajdonosait úgy fedi homály, h...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a2b90c62-8b1b-4a8b-aaf9-f8ee32b294ae.jpg",
+          "category": "hvg360",
+          "author": "a.gyenis@hvg.hu (Gyenis Ágnes)"
+        },
+        {
+          "title": "Halálos áldozata és több sebesültje van a rijádi repülőtér elleni húszi támadásnak",
+          "url": "https://hvg.hu/vilag/20261012_rijadi-repuloter-huszi-tamadas",
+          "published": "2026-10-12T03:57:31+00:00",
+          "description": "A dammámi Fahd Király repülőteret is támadás érte.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2bf5af2c-42d8-4597-9c7e-7eaf19cc3f4d.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Több szenátor is törvényellenesnek tartja Trump gázolaj-megállapodását Putyinnal",
+          "url": "https://hvg.hu/vilag/20261012_torvenyellenes-trump-gazolaj-megallapodas-putyin",
+          "published": "2026-10-12T03:39:13+00:00",
+          "description": "Négy éve törvényt hoztak arról, hogy tilos az orosz energiahordozók importja.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d9731165-4ec5-4efa-aad8-ce2d4dd68f70.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Dömsödi Gábort választották meg polgármesternek Pásztón",
+          "url": "https://hvg.hu/itthon/20261012_domsodi-gabor-polgarmester-paszto",
+          "published": "2026-10-12T03:07:59+00:00",
+          "description": "A szavazatok 47 százalékát szerezte meg.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/93018034-5ce0-4419-9371-1b1a68c2b13f.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (MTI)"
+        }
+      ]
     },
     {
       "id": "kontroll",
@@ -1314,7 +1540,7 @@
         {
           "title": "Megszólalt a Balaton-parti lakópark építtetője: egyeztetni fognak majd a kutatókkal",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/12/megszolalt-a-balaton-parti-lakopark-epittetoje-egyeztetni-fognak-majd-a-kutatokkal",
-          "published": "2026-10-12T08:05:36.494018+01:00",
+          "published": "2026-10-12T08:05:40.364782+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1323,7 +1549,7 @@
         {
           "title": "Jelenlegi és volt Fradi-sportolók fogtak össze a fideszes Kubatov Gáborért",
           "url": "https://kontroll.hu/cikk/sport/2026/10/12/harom-ismert-klubelnoek-is-erintett-lehet-az-uj-oesszeferhetetlensegi-szabalyokban",
-          "published": "2026-10-12T08:05:36.494180+01:00",
+          "published": "2026-10-12T08:05:40.364943+01:00",
           "description": null,
           "image": null,
           "category": "Sport",
@@ -1332,7 +1558,7 @@
         {
           "title": "Fehér foltok a magántőkealapok tényleges tulajdonosainak adatbázisa",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/12/feher-foltok-a-magantokealapok-tenyleges-tulajdonosainak-adatbazisa",
-          "published": "2026-10-12T08:05:36.494226+01:00",
+          "published": "2026-10-12T08:05:40.364987+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
