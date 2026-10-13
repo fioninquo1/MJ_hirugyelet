@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T19:55:30.251428+00:00",
+  "scraped_at": "2026-10-13T20:01:03.425752+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1297,10 +1297,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Orbán Anita: 1600 új névvel bővült az Oroszországgal szembeni uniós szankciós lista",
+          "url": "https://hvg.hu/gazdasag/20261013_orban-anita-europai-unio-szankciok-oroszorszag",
+          "published": "2026-10-13T19:55:00+00:00",
+          "description": "Erről az uniós külügyminiszterek állapodtak meg Luxembourgban.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/309fc56e-a412-4742-b990-d92cefb92da4.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Legalább 40 évet börtönben kell töltenie Duane „Keffe D” Davisnek Tupac Shakur meggyilkolásáért",
+          "url": "https://hvg.hu/kultura/20261013_tupac-shakur-gyilkossag-birosag-itelet-eletfogytiglan",
+          "published": "2026-10-13T19:34:01+00:00",
+          "description": "Az ítélet elhangzását követően Davis ügyvédje bejelentette, hogy fellebbezni fognak a döntés ellen.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2c348d81-61a9-4abe-b7dd-0a14443c2748.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Új elnököt neveztek ki a Magyar Energetikai és Közmű-szabályozási Hivatal élére",
+          "url": "https://hvg.hu/itthon/20261013_magyar-energetikai-es-kozmu-szabalyozasi-hivatal-elnok-kinevezes-losonczy-geza",
+          "published": "2026-10-13T19:13:01+00:00",
+          "description": "Losonczy Géza megbízatása hét évre szól.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/23377987-cd45-4e29-ba32-f98aa3df71c3.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Lemondott Tótth András energetikai államtitkár",
+          "url": "https://hvg.hu/itthon/20261013_lemondas-totth-andras-energetikai-allamtitkar",
+          "published": "2026-10-13T18:46:49+00:00",
+          "description": "Az államtitkár személyes okokkal indokolta döntését.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e21fe2ee-ee3e-40cd-b6fd-ba0f1a5812a4.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Sikeres volt a pápa műtétje",
+          "url": "https://hvg.hu/elet/20261013_vatikan-xiv-leo-papa-tudo-csomo-mutet",
+          "published": "2026-10-13T18:37:00+00:00",
+          "description": "XIV. Leót a tüdejében talált csomó miatt kellett megoperálni.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bbce726e-c9e0-4103-8237-7be09bd3d06b.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Itt az új, golyóálló BMW 7-es, amin kívülről nem is látszik, mire képes",
+          "url": "https://hvg.hu/cegauto/20261013_golyoallo-bmw-7-es-concept-7-protection",
+          "published": "2026-10-13T18:20:00+00:00",
+          "description": "A .44 Magnum sem fog ki rajta.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fdbf6a50-5ef3-4d58-927e-b6e970acc0bc.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Hegedűs Zsolt: Minőségi mutatók alapján kaphatnak plusz pénzt a kórházak",
+          "url": "https://hvg.hu/itthon/20261013_hegedus-zsolt-korhaz-penz-forrasok-takacs-peter-esetmenedzser",
+          "published": "2026-10-13T18:19:05+00:00",
+          "description": "A miniszter szerint a várólista csökkentési program keretében nem csak gyorsan, de jól is kell dolgozniuk az intézményeknek.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cd6eab37-60fe-4a8e-a885-565c2e407b27.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Alig 5000 ember látja a világon, mire képes valójában a mesterséges intelligencia",
+          "url": "https://hvg.hu/tudomany/20261013_andrej-karpathy-mesterseges-intelligencia-fejlodese-tudas-szakadek",
+          "published": "2026-10-13T18:03:00+00:00",
+          "description": "Andrej Karpathy, az OpenAI egyik alapítója szerint óriási a szakadék a felhasználók és a fejlesztők között, és nagyon kevesen használják arra a mesterséges intelligenciát, amire valójában való.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1aa9fcae-4339-4dd5-a48e-fe09fe6e9ccf.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Egy csekély értelmű medvebocs találkozása egy angolul alig tudó fordítóval:  Karinthy Micimackójával kevesen vették fel a versenyt",
+          "url": "https://hvg.hu/360/20261013_hvg-micimacko-100-milne-karinthy-frigyes-forditasok",
+          "published": "2026-10-13T18:00:00+00:00",
+          "description": "Erőteljes nyelvi és kulturális adaptáció nélkül – ahogyan Karinthy Frigyes is tette – egyetlen nyelven sem válhatott a Micimackó „nemzeti klasszikussá”. A száz éve kiadott Milne-mese a fordítások tükrében.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4e08b0e2-4626-4975-9bdb-fb01a1e7a332.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Illényi Balázs)"
+        },
+        {
+          "title": "Fegyveres rablás áldozata lett otthonában Gulácsi Péter",
+          "url": "https://hvg.hu/vilag/20261013_gulacsi-rablotamadas-spanyolorszag",
+          "published": "2026-10-13T17:45:27+00:00",
+          "description": "A támadás folyamán sem Gulácsinak sem a családtagjainak nem esett baja, de az érzelmi megrázkódtatás miatt a focista nem lép pályára kedd este az olasz Napoli elleni Bajnokok Ligája-mérkőzésen.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fd98cb8c-c76f-4b87-b588-fba3c6b84c85.jpg",
+          "category": "Világ",
+          "author": "MTI (szerzo@hvg.hu (HVG))"
+        },
+        {
+          "title": "Lángost ettek, térddel kormányoztak: több ezer sofőr akadt fenn a rendőrségi ellenőrzésen",
+          "url": "https://hvg.hu/cegauto/20261013_langost-ettek-terddel-kormanyoztak-rendorsegi-ellenorzes",
+          "published": "2026-10-13T17:40:00+00:00",
+          "description": "A telefonozó sofőrök többsége nem beszélgetett, hanem közösségi oldalakat böngészett.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d5aa2171-499a-4b6f-ad70-b19f6e020ce0.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Cigányozás miatt büntetett az UEFA, nem lehetnek magyar szurkolók a válogatott következő idegenbeli meccsén",
+          "url": "https://hvg.hu/sport/20261013_labdarugas-mlsz-uefa-nemzetek-ligaja-buntetes-magyar-szurkolok-rasszizmus-gruzia-merkozes",
+          "published": "2026-10-13T17:28:11+00:00",
+          "description": "Az ukránok elleni nagyszombati mérkőzésen történt szurkolói vétségek miatt büntetett az európai szövetség.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ed367850-c13c-4f6a-824a-c35598b330c2.jpg",
+          "category": "Sport",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Egyetlen nap alatt közel tíz százalékot zuhant a Mészáros-érdekeltségbe tartozó Opus részvényeinek értéke",
+          "url": "https://hvg.hu/kkv/20261013_tozsde-opus-reszvenyek-bukas-meszaros-lorinc",
+          "published": "2026-10-13T17:21:30+00:00",
+          "description": "A kedden elszenvedett veszteség egészen pontosan 9,05% volt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/19207401-5923-4705-b08d-e156403b898d.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Megszavazta a parlament a fuvarozók jövedékiadó-könnyítését",
+          "url": "https://hvg.hu/gazdasag/20261013_orszaggyules-fuvarozok-jovedeki-ado-gazolaj-konnyites",
+          "published": "2026-10-13T17:08:23+00:00",
+          "description": "A jogszabályt a gázolajárak emelkedéséből fakadó negatív hatások kompenzálása érdekében hozták meg.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3fb44a5d-3eeb-474c-8847-5f969e4f4965.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "40%-kal növelheti a vetélés kockázatát egy migrén elleni gyógyszer",
+          "url": "https://hvg.hu/tudomany/20261013_migren-gyogyszer-veteles-kockazata-kutatas",
+          "published": "2026-10-13T17:03:00+00:00",
+          "description": "A migrén kezelésében nagy előrelépést hozott egy néhány éve megjelent új gyógyszer, ám egy lehetséges mellékhatását jobb komolyan venni.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/508bed15-a53f-435b-911e-8851b82cc296.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A Fidesz támogatja, hogy Magyar Péter alkohol- és drogtesztet vezetne be a parlamentben",
+          "url": "https://hvg.hu/itthon/20261013_magyar-peter-alkoholteszt-drogteszt-bevezetese-parlament-fidesz-frakcio-reakcio",
+          "published": "2026-10-13T16:39:52+00:00",
+          "description": "Az ellenzéki párt frakciója reméli, hogy a miniszterelnökre is vonatkoznak majd a szabályok.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa2a361a-063e-4200-8ffa-44cb2b96f957.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Gépből kifolyt olaj kapott lángra a Chio győri üzemében",
+          "url": "https://hvg.hu/itthon/20261013_chio-gyor-tuz-uzem-baleset-katasztrofavedelem",
+          "published": "2026-10-13T16:34:06+00:00",
+          "description": "Közel száz dolgozónak kellett elmenekülnie az épületből.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cdc13813-011f-4797-89f6-48a62b30a6eb.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Michael Palin elcsúszott a fürdőszobájában és összetörte magát",
+          "url": "https://hvg.hu/elet/20261013_palin-monty-python-baleset",
+          "published": "2026-10-13T16:18:03+00:00",
+          "description": "A Monty Python sztárjának le kellett mondania a balesete miatt a következő hónapokra leszervezett fellépéseit. „A csonttörések utáni lábadozás hosszú időt vesz igénybe, különösen, ha az ember 83 éves” – mondta.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d479e910-aafc-4c2f-8ca0-14521051294a.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Megszólalt az angliai halálos tigristámadás egyik szemtanúja",
+          "url": "https://hvg.hu/elet/20261013_anglia-tigris-tigristamadas-szemtanu",
+          "published": "2026-10-13T16:10:43+00:00",
+          "description": "Az állatpark közölte, hogy nem altatják el a férfival végző amuri tigrist.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/eca8e3c1-0651-48c5-8344-c63a5080a908.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Tengervízből állít elő ivóvizet az új kínai üzem, 60%-kal kevesebb energia kell hozzá",
+          "url": "https://hvg.hu/tudomany/20261013_tengerviz-sotalanitas-kina-sooldat",
+          "published": "2026-10-13T16:03:00+00:00",
+          "description": "Kínai mérnökök olyan üzemet fejlesztettek ki, ami egyszerre energiahatékony, és kezeli a tengervíz sótalanítása során keletkező, súlyosan mérgező sóoldatot.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1a8e2ecc-c828-4d7e-8c03-a01c10fd0ec4.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Zacskós aszalt sárgabarackokat hívott vissza a Nébih",
+          "url": "https://hvg.hu/kkv/20261013_aszalt-sargabarack-termekvisszahivas",
+          "published": "2026-10-13T15:59:57+00:00",
+          "description": "Fontos a lejárati dátum is.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c4e48a61-9e6e-40ab-8407-48b28f22e7c7.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Alexander Zverev világelsősége kényelmetlen kérdéseket vet fel a tenisz jövőjéről",
+          "url": "https://hvg.hu/360/20261013_alexander-zverev-vilagelsosege-kenyelmetlen-kerdeseket-vet-fel-a-tenisz-jovojerol",
+          "published": "2026-10-13T15:52:32+00:00",
+          "description": "Alexander Zverev hétfőn, Carlos Alcaraz sanghaji kiesése után matematikailag is bebiztosította, hogy a férfi tenisz világranglistájának élén zárja a 2026-os évet. A német két Grand Slam-trófeát nyert, a pályafutása legnagyobb sikerét érte el, a történet mégis keserű szájízt hagy maga után. Két ko...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4b27729f-8ea4-413f-a163-7a0e8fbc4399.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Beáta Nedjalkov)"
+        },
+        {
+          "title": "A Fehér Ház megkérte a fenyegetőzéssel vádolt athéni nagykövetét, hogy mondjon le pozíciójából",
+          "url": "https://hvg.hu/vilag/20261013_kimberly-guilfoyle-athen-feher-haz-lemondas-kerelem",
+          "published": "2026-10-13T15:39:32+00:00",
+          "description": "Kimberly Guilfoyle olyan kijelentéseket tett, miszerint volt köze a tavasszal kialakult román kormányválsághoz is.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e06b940f-45d5-4fa1-b08c-aeadbae5ed89.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A brit elhárítás vezetője szerint sokkal több dolguk van, mint a hidegháború idején",
+          "url": "https://hvg.hu/vilag/20261013_mi5-nagy-britannia-elharitas-ken-mccallum-oroszorszag-iran",
+          "published": "2026-10-13T15:30:45+00:00",
+          "description": "Nem meglepő módon jelenleg Oroszország „az első számú agresszor”.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/52657a48-6955-4148-af5d-08ba87d74718.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Bloomberg-kommentár: Miért mondja Putyin, hogy Oroszországnak vége lehet, ha veszít a háborúban?",
+          "url": "https://hvg.hu/360/20261013_lapszemle-bloomberg-putyin-oroszorszag-ukrajna-haboru-beke",
+          "published": "2026-10-13T15:09:17+00:00",
+          "description": "Az orosz elnök és emberei szemében összemosódik háború és béke, mint ahogy az is, hogy mi Oroszország, és hol végződik. Nagyon lényeges, hogy a Nyugat értse ezt a mentalitást, mert azon múlik, hogy a Kreml milyen békére hajlandó.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/100ac283-147b-40a0-8093-05df6363cbcf.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (hvg360)"
+        }
+      ]
     },
     {
       "id": "kontroll",
@@ -1408,7 +1634,7 @@
           "url": "https://www.origo.hu/eletmod/2026/10/tokrekord-beteg-zsenialis-mozaik-hajozas",
           "published": "2026-10-13T21:30:00+01:00",
           "description": "Nézd meg a tökös ötöst!",
-          "image": "https://cdn.origo.hu/2026/10/dFohlqw8os-GnA6RQ8el1DLkpv_zWK33c2dFihWlo_o/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBkZTNjMTQ0NmRhZDQxZGY4YjlkNGQ0YmQ5N2RjMmM0.webp",
+          "image": "https://cdn.origo.hu/2026/10/ziX6aoqrYrx7fL_sASBposCU18jwuTifWhRmenHM6mo/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I3ZWM2MzdlZDY3MDQ5YWQ4MmNlZjIzOTExMzNjYTlk.webp",
           "category": "óriástök",
           "author": null
         },
