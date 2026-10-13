@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-13T08:10:44.616278+00:00",
+  "scraped_at": "2026-10-13T08:15:39.587563+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Halálos lövöldözés történt a brüsszeli Európai Parlament közelében",
+          "url": "https://telex.hu/kulfold/2026/10/13/belgium-brusszel-lovoldozes-rendor",
+          "published": "2026-10-13T08:06:25+00:00",
+          "description": "Egy másik helyszínen egy rendőrt lőttek fejbe Belgiumban.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Az erdők atyjáról, nem a mesebeli apró legénykéről kapta nevét az év turistaháza",
+          "url": "https://telex.hu/szepkilatas/2026/10/13/ev-turistahaza-soproni-hegyseg-muck-haz",
+          "published": "2026-10-13T08:06:01+00:00",
+          "description": "A soproniak nagyon belehúztak, mert magasan a legtöbb szavazattal nyert a Soproni-hegységben álló Muck turistaház a közönségszavazáson.",
+          "image": "https://assets.telex.hu/images/20261013/1791878690-temp-odidf2orp7hr6dgckbh_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Benkő Tibor korábbi honvédelmi miniszter lett a Budapesti Honvéd Sportegyesület elnöke",
+          "url": "https://telex.hu/sport/2026/10/13/hoved-sportegyesulet-elnok-benko-tibor",
+          "published": "2026-10-13T07:53:18+00:00",
+          "description": "Benkő Tibor 2018. és 2022. között volt honvédelmi miniszter, ő javasolta Ruszin-Szendi Romuluszt vezérkari főnöknek.",
+          "image": "https://assets.telex.hu/images/20261013/1791877752-temp-oqksqlolmd69cbkmobo_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Hiába várjuk az uniós forrásoktól a magyar gazdaság stagnálásának megállítását, a költségvetés azért így is örülhet",
+          "url": "https://telex.hu/gazdasag/2026/10/13/gki-unios-forrasok-gazdasag-teljesitmeny-koltsegvetes-allamadossag",
+          "published": "2026-10-13T07:52:22+00:00",
+          "description": "A GKI elemzése szerint még így is jelentős segítséget nyújthat a Pénzügyminisztériumnak az 5900 milliárd forintnyi összeg az államadósság és a finanszírozási terhek csökkentésében.",
+          "image": "https://assets.telex.hu/images/20261013/1791877797-temp-5tu39ki6p4ba7ibanpe_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "A Proust-fordító Jancsó Júlia rangos francia díjat kapott",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/13/jancso-julia-mufordito-proust-muveszeti-es-irodalmi-rend",
+          "published": "2026-10-13T07:49:54+00:00",
+          "description": "Jancsó Júlia harminc évig dolgozott Az eltűnt idő nyomában első teljes, magyar nyelvű fordításán.",
+          "image": "https://assets.telex.hu/images/20261013/1791877115-temp-nm8sog0pjq6d3hofhbn_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "Világvége: 2026. november 13. – állítja egy 1960-as tanulmány",
+          "url": "https://telex.hu/techtud/2026/10/13/1960-tanulmany-vilagvege-2026-november-13-tulnepesedes",
+          "published": "2026-10-13T07:41:31+00:00",
+          "description": "Több mint hatvan évvel ezelőtt a kutatók még úgy számolták, mostanra annyian leszünk a bolygón, hogy egész egyszerűen nem férünk majd el.",
+          "image": "https://assets.telex.hu/images/20261013/1791877213-temp-us5da7i8ua524nibakd_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Rendszerváltás van, basszus! – élő interjú Karácsony Gergellyel",
+          "url": "https://telex.hu/video/2026/10/13/karacsony-gergely-budapest-fopolgarmester-interju-parkolas",
+          "published": "2026-10-13T07:18:22+00:00",
+          "description": "Nem csitul a főpolgármester és a kerületi polgármesterek közötti balhé. A Telex élő adásában Karácsony Gergelyt a parkolási botrányról, a kormánnyal kötött megállapodásról, várható közlekedési fejlesztésekről és a budapesti olimpiáról kérdezzük.",
+          "image": "https://assets.telex.hu/images/20261012/1791809432-temp-htqf0d959rmeenhkoga_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Fábián Tamás"
+        },
+        {
+          "title": "Letört egy vonat áramszedője Kőbánya felsőn, a szolnoki és a hatvani vonalon is fennakadások vannak",
+          "url": "https://telex.hu/belfold/2026/10/13/mav-vasut-kozlekedes-fennakadas-miskolc-eger-debrecen-bekescsaba",
+          "published": "2026-10-13T07:12:10+00:00",
+          "description": "Késések és pótlóbuszok a Keleti és Rákos között.",
+          "image": "https://assets.telex.hu/images/20261013/1791875355-temp-bahq5ln6v4k00bipnmk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Három hónap visszaesés után kiugró adatokat produkált az építőipar augusztusban",
+          "url": "https://telex.hu/gazdasag/2026/10/13/epitoipar-augusztus-lendulet-2026-augusztus-ksh-teljesitmeny",
+          "published": "2026-10-13T07:00:08+00:00",
+          "description": "Látványosan emelkedett a termelés nyár végén, de egyelőre úgy tűnik, továbbra sem sikerül kimászni az évek óta tartó lejtmenetből.",
+          "image": "https://assets.telex.hu/images/20261013/1791874549-temp-2i7029o5t56q2oaggoi_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Bryan Cranston hosszú posztban búcsúzott a 34 évesen meghalt RJ Mitte-től",
+          "url": "https://telex.hu/after/2026/10/13/rj-mitte-bryan-cranston-anna-gunn-breaking-bad-bucsu",
+          "published": "2026-10-13T06:50:49+00:00",
+          "description": "A Breaking Bad sztárját lesújtotta a váratlan hír, színésztársai sorra búcsúznak a fiatal színésztől.",
+          "image": "https://assets.telex.hu/images/20261013/1791872779-temp-7aev3pdupmhr4jfgfih_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Drónok találtak el két hajót Bulgária közelében, az egyik elsüllyedt",
+          "url": "https://telex.hu/kulfold/2026/10/13/dron-bulgaria-hajo",
+          "published": "2026-10-13T06:43:18+00:00",
+          "description": "A bolgár miniszterelnök szerint az egyik hajóról egy főt, a másikról legalább egy tucatot mentettek ki. Az egyik hajónak ukrán tulajdonosa van.",
+          "image": "https://assets.telex.hu/images/20261013/1791873631-temp-dfd5bk7u4omvalciade_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "2026 év végén már tényleg elindulhat a gyártás a szegedi BYD-ban, állítja a cég egyik vezetője",
+          "url": "https://telex.hu/gazdasag/2026/10/13/szeged-byd-gyartas-autoipar-kinai-auto-autoipar",
+          "published": "2026-10-13T06:27:33+00:00",
+          "description": "A magyarországi mellett több üzem építését fontolgatja a cég, többek között Franciaországban és Spanyolországban terjeszkednének.",
+          "image": "https://assets.telex.hu/images/20260928/1790605468-temp-9q33od387khp3jobfcd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Trump meg van győződve róla, hogy Oroszország és Kína nem támogatják Iránt",
+          "url": "https://telex.hu/kulfold/2026/10/13/egyesult-allamok-trump-iran-tamogatas-kina-oroszorszag",
+          "published": "2026-10-13T05:40:45+00:00",
+          "description": "Szerinte ha így lenne, arról nagyon hamar tudnának.",
+          "image": "https://assets.telex.hu/images/20261013/1791869924-temp-ttv2k074aju39ebnjpe_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Egy ember meghalt és többen megsérültek egy hullámvasút-balesetben az Egyesült Államokban",
+          "url": "https://telex.hu/kulfold/2026/10/13/hullamvasut-baleset-georgia-allam-meghalt",
+          "published": "2026-10-13T05:28:00+00:00",
+          "description": "A baleset körülményei tisztázatlanok.",
+          "image": "https://assets.telex.hu/images/20261013/1791872053-temp-idqshsmuu3ar4nneeel_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Több százmilliárddal vállalt szerepet az Orbán-kormány a Türk Államok Szervezetében",
+          "url": "https://telex.hu/gazdasag/2026/10/13/magyarorszag-koltseg-budapest-iroda-turk-allamok-szervezete-tasz-kipcsak-testverek",
+          "published": "2026-10-13T05:09:01+00:00",
+          "description": "A budapesti iroda fenntartása mellett milliárdok mentek befektetési alapokba is.",
+          "image": "https://assets.telex.hu/images/20261013/1791867835-temp-vv18an5seig08idhpia_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A francia haditengerészet feltartóztatta az orosz árnyékflotta egyik tankerét az Indiai-óceánon",
+          "url": "https://telex.hu/kulfold/2026/10/13/franciaorszag-feltartoztatott-orosz-arnyekflotta-hajo-indiai-ocean-reunion-sziget-emmanuel-macron",
+          "published": "2026-10-13T04:55:28+00:00",
+          "description": "A benini zászló alatt közlekedő DF Peak szerepel az Európai Unió szankciós listáján.",
+          "image": "https://assets.telex.hu/images/20261013/1791867072-temp-3l0ql72p6t936mgbdmn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Magyar Péter először belerúgott Fürcht Pálba, de most már számítana rá",
+          "url": "https://telex.hu/belfold/2026/10/13/furcht-pal-magyar-peter-ugyeszseg-politika-jatszmak-kormanyvaltas",
+          "published": "2026-10-13T04:46:02+00:00",
+          "description": "A Magyar Péter által bírált Fürcht Pál is Polt Péter embere volt, ahogy mindegyik vezető az ügyészségen. A választás után, az aranykonvoj-ügynél vett egy nagyobb fordulatot. Vasárnap a kormányfő nekiesett, hétfőn már úgy beszélt róla, mint egy leendő tanúról, aki sokat tudhat.",
+          "image": "https://assets.telex.hu/images/20261012/1791815545-temp-k9ks1mijr34tcnkhinp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Szakálligazításra ült be a NAV-ellenőr a barber shopba, nyugtát sem kapott",
+          "url": "https://telex.hu/gazdasag/2026/10/13/barber-shop-baranya-ellenorzes-nav",
+          "published": "2026-10-13T04:44:45+00:00",
+          "description": "Baranyai barber shopokban ellenőriztek a NAV-osok.",
+          "image": "https://assets.telex.hu/images/20261013/1791866670-temp-ku5s1kc7blq05aldieh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Az IMF javította a magyar gazdaság növekedési kilátásait, de az inflációs előrejelzésen sokkal nagyobbat változtatott",
+          "url": "https://telex.hu/gazdasag/2026/10/13/az-imf-javitotta-a-magyar-gazdasag-novekedesi-kilatasait",
+          "published": "2026-10-13T04:00:55+00:00",
+          "description": "Az idei magyar inflációs előrejelzést 1,9 százalékra vitte le az áprilisban becsült 3,8 százalékról, a jövő évit pedig 3,5 százalékról 2,8 százalékra változtatta a Nemzetközi Valutaalap. Tavaly 4,4 százalékos inflációt mértek Magyarországon.",
+          "image": "https://assets.telex.hu/images/20261013/1791864270-temp-djv0vamr4viechhlkld_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Ma újra az Országgyűlés elé kerül a törvénytervezet, amit visszadobott Baka András",
+          "url": "https://telex.hu/belfold/2026/10/13/ma-ujra-az-orszaggyules-ele-kerul-a-torvenytervezet-amit-visszadobott-baka-andras",
+          "published": "2026-10-13T03:44:13+00:00",
+          "description": "A kötelező orvosi kamarai tagságról szóló törvényt küldte vissza megfontolásra. A gyermekvédelmi javaslatcsomagról, az NVVH elnökhelyetteseiről és még sok másról is szavazhatnak kedden, nagyüzem lesz.",
+          "image": "https://assets.telex.hu/images/20261013/1791862991-temp-hntb91v6er0qdccilch_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Arte: Is it time for radical changes to Europe's housing market?",
+          "url": "https://telex.hu/english/2026/10/13/arte-housing-crisis-rent-shortage-on-flats-spain-madrid-germany-berlin",
+          "published": "2026-10-13T03:07:33+00:00",
+          "description": "Berlin’s left-wing party Die Linke wants to take housing out of private hands and bring it back under public ownership.",
+          "image": "https://assets.telex.hu/images/20261012/1791812259-temp-curv3m8pu40h2ajdnpb_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "Arte: Berlintől Madridig radikális lépésekkel válaszolnak a lakhatási válságra",
+          "url": "https://telex.hu/kulfold/2026/10/13/arte-lakhatasi-valsag-spanyolorszag-tuntetes-berlin-baloldal-intezkedes",
+          "published": "2026-10-13T03:07:16+00:00",
+          "description": "Berlinben a baloldali Die Linke párt azt szeretné, hogy a lakások ne magántulajdonban, hanem ismét önkormányzati tulajdonban legyenek.",
+          "image": "https://assets.telex.hu/images/20261012/1791812255-temp-nurtv2ccb8rqcfjnfjc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "A Gyűrűk Urát majdnem a Beatles vitte filmre először",
+          "url": "https://telex.hu/eszkombajn/2026/10/13/a-gyuruk-urat-majdnem-a-beatles-vitte-filmre-eloszor",
+          "published": "2026-10-13T03:07:03+00:00",
+          "description": "A tervek szerint Lennon játszotta volna Gollamot, McCartney Frodót, és Stanley Kubrick lett volna a rendező. Tolkiennek viszont nem tetszett az ötlet.",
+          "image": "https://assets.telex.hu/images/20261012/1791801748-temp-rhfme1du97l33polkja_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Hanula Zsolt"
+        },
+        {
+          "title": "Kovács Zoltán feleségének cége 713 milliós közbeszerzést nyert el a választás után, minden más céget kizártak",
+          "url": "https://telex.hu/gazdasag/2026/10/13/kovacs-zoltan-feleseg-ceg-profi-komfort-kozbeszerzes-takaritas-kizart-ajanlattevok",
+          "published": "2026-10-13T03:06:21+00:00",
+          "description": "Öt részből ötöt Szikora Linda cége, a Profi-Komfort Kft. vitt el, amely az Orbán-kormányok alatt több kórházban nyerte el a takarítási feladatokat.",
+          "image": "https://assets.telex.hu/images/20261012/1791816528-temp-m2fivhkq22l9fhijkia_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Lehetne olcsóbban és gyorsabban új lakásokat építeni, de ezt alig használjuk ki",
+          "url": "https://telex.hu/g7/vallalat/2026/10/13/uj-lakas-epites-atepites-iroda-uzem-olcsobb-gyorsabb",
+          "published": "2026-10-13T02:50:02+00:00",
+          "description": "Egykori kisebb irodaházak, üzemek társasházzá alakításával tíz százalékos árcsökkenést lehet elérni, a fejlesztő haszna is megmarad, az építkezés gyors, és sokkal zöldebb, mint a zöldmezős építés.",
+          "image": "https://assets.telex.hu/images/20261012/1791798515-temp-niffvp1b67aj7fifmjl_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Torontáli Zoltán"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "713 millió forintos közbeszerzést nyert az Orbán-kormány volt államtitkárának felesége",
+          "url": "https://index.hu/gazdasag/2026/10/13/kovacs-zoltan-kozbeszerzes-mavir-takaritas/",
+          "published": "2026-10-13T08:10:00+00:00",
+          "description": "Minden más céget kizártak.",
+          "image": "https://kep.index.hu/1/0/7202/72021/720219/72021931_5308769_470383aa4a94d5fc130ae63e3d4e4c14_wm.jpg",
+          "category": "Gazdaság",
+          "author": null
+        },
+        {
           "title": "Magyar sportember először érdemelte ki ezt a becses díjat",
           "url": "https://index.hu/sport/2026/10/13/dr.-nagy-zsigmond-europai-fair-play-mozgalom-elismeres-parizs-magyar-okolvivok-szovetsege-fotitkar/",
           "published": "2026-10-13T08:04:00+00:00",
@@ -470,15 +705,6 @@
           "description": "A munkanélküliségre vonatkozó várakozások azonban romlottak.",
           "image": "https://kep.index.hu/1/0/7201/72017/720170/72017095_5308425_42c80c5a38cbb5743f6563b447e4bc2e_wm.jpg",
           "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "„Sopron Magyarország. Pont” – megszólalt Hallerné Nagy Anikó a város elcsatolását ábrázoló térképről",
-          "url": "https://index.hu/belfold/2026/10/13/hallerne-nagy-aniko-sopron-terkep-afd-kulpolitika/",
-          "published": "2026-10-13T05:12:00+00:00",
-          "description": "Az országgyűlés alelnöke szerint Sopron ma is a hűség városa.",
-          "image": "https://kep.index.hu/1/0/7201/72016/720168/72016809_5308407_43cb51a8ffacc83ca2180ff30a64a44c_wm.jpg",
-          "category": "Belföld",
           "author": null
         }
       ]
