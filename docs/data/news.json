@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T15:45:40.819891+00:00",
+  "scraped_at": "2026-10-13T15:50:42.252507+00:00",
   "portals": [
     {
       "id": "telex",
@@ -1297,10 +1297,236 @@
       "name": "HVG",
       "url": "https://hvg.hu",
       "color": "#f26522",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://hvg.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A Fehér Ház megkérte a fenyegetőzéssel vádolt athéni nagykövetét, hogy mondjon le pozíciójából",
+          "url": "https://hvg.hu/vilag/20261013_kimberly-guilfoyle-athen-feher-haz-lemondas-kerelem",
+          "published": "2026-10-13T15:39:32+00:00",
+          "description": "Kimberly Guilfoyle olyan kijelentéseket tett, miszerint volt köze a tavasszal kialakult román kormányválsághoz is.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e06b940f-45d5-4fa1-b08c-aeadbae5ed89.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "A brit elhárítás vezetője szerint sokkal több dolguk van, mint a hidegháború idején",
+          "url": "https://hvg.hu/vilag/20261013_mi5-nagy-britannia-elharitas-ken-mccallum-oroszorszag-iran",
+          "published": "2026-10-13T15:30:45+00:00",
+          "description": "Nem meglepő módon jelenleg Oroszország „az első számú agresszor”.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/52657a48-6955-4148-af5d-08ba87d74718.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Bloomberg-kommentár: Miért mondja Putyin, hogy Oroszországnak vége lehet, ha veszít a háborúban?",
+          "url": "https://hvg.hu/360/20261013_lapszemle-bloomberg-putyin-oroszorszag-ukrajna-haboru-beke",
+          "published": "2026-10-13T15:09:17+00:00",
+          "description": "Az orosz elnök és emberei szemében összemosódik háború és béke, mint ahogy az is, hogy mi Oroszország, és hol végződik. Nagyon lényeges, hogy a Nyugat értse ezt a mentalitást, mert azon múlik, hogy a Kreml milyen békére hajlandó.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/100ac283-147b-40a0-8093-05df6363cbcf.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (hvg360)"
+        },
+        {
+          "title": "Amibe bedugják ezt az apró kütyüt, az hasíthat",
+          "url": "https://hvg.hu/tudomany/20261013_nvidia-cisco-adatkozpontok-halozati-sebesseg-noveles-optikai-modul",
+          "published": "2026-10-13T15:03:00+00:00",
+          "description": "Négyszeresére növelheti az adatközpontok hálózati sebességét az Nvidia és a Cisco által fejlesztett optikai modul.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dd992fbd-7917-4d02-94b1-7f8ab4722888.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Az Osztrák Újságíróklub ott tart, hogy nem mert megrendezni egy beszélgetést zsidó származású szerzők zsidókról szóló könyvéről",
+          "url": "https://hvg.hu/360/20261013_szeretettel-becsbol-osztrak-ujsagiroklub-konyvbemutato-danielle-spera-erika-freeman-batorsag-konyv",
+          "published": "2026-10-13T15:00:00+00:00",
+          "description": "Danielle Spera és Erika Freeman 36 zsidó nőről írt könyvének címe Bátorság – ez az, ami a mai osztrák közhangulatban sokszor hiányzik, helyét pedig átveszi a félelem. De van, aki úgy véli, az osztrákoknál még mindig jobb a helyzet, mint a franciáknál, briteknél, németeknél.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bc57807a-393c-4a89-b950-d9bafd1e6817.jpg",
+          "category": "hvg360",
+          "author": "szerzo@hvg.hu (Földvári Zsuzsa)"
+        },
+        {
+          "title": "Újból együttműködik Rácz Jenő és a McDonald’s – megnéztük, mi változott tavaly óta",
+          "url": "https://hvg.hu/elet/20261013_ujbol-egyuttmukodik-racz-jeno-es-a-mcdonald-s-megneztuk-mi-valtozott-tavaly-ota",
+          "published": "2026-10-13T14:54:04+00:00",
+          "description": "A Michelin-csillagos Rumour séfjére ezúttal walesi és francia fogások is hatottak az új menü elkészítése során.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/25cc6440-532a-4a95-b432-fa65c7671cdc.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (Gachályi Mátyás)"
+        },
+        {
+          "title": "Beismerte Tasó László unokaöccse, hogy költségvetési csalást követett el és nagy mértékben sikkasztott",
+          "url": "https://hvg.hu/gazdasag/20261013_taso-janos-sikkasztas-koltsegvetesi-csalas-beismeres-birosag",
+          "published": "2026-10-13T14:52:12+00:00",
+          "description": "Tasó János a volt feleségével összejátszva sikkasztott el közel 170 millió forintot a nyíradonyi önkormányzattól.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ba4f4bd5-c47e-4047-a804-25bc28bcce32.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Fokozott jelenlétet ígér a NATO a fekete-tengeri, 11 ember életét követelő dróntámadások miatt",
+          "url": "https://hvg.hu/vilag/20261013_fokozott-jelenletet-iger-a-nato-a-fekete-tengeri-11-ember-eletet-kovetelo-drontamadasok-miatt",
+          "published": "2026-10-13T14:38:14+00:00",
+          "description": "Egyetlen hét alatt ez a második, súlyos károkat okozó, emberéleteket követő támadás.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/23107e9f-478e-477c-bd1f-a2194850d238.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (Parászka Boróka)"
+        },
+        {
+          "title": "Így csinált családi olajbizniszt a világpolitikából Donald Trump",
+          "url": "https://hvg.hu/360/20261013_kapcsolatok-olajozasa-trump-lukoil-oroszorszag-dizel-hvg",
+          "published": "2026-10-13T14:24:10+00:00",
+          "description": "A dízelüzlet és a Lukoil külföldi vagyonának kiszemelése jelzi, hogy Donald Trump még Vlagyimir Putyinnal is hajlandó alkut kötni Ukrajna rovására, ha a saját politikai túlélése és családtagjainak, támogatóinak a gazdagodása a tét. Ez nemcsak Európának, pártja több politikusának sem tetszik.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a930c7e4-32b3-4846-b253-33af868512af.jpg",
+          "category": "hvg360",
+          "author": "a.nemeth@hvg.hu (Németh András)"
+        },
+        {
+          "title": "A félidős választások előtt Elon Musk 276 millió dollárt adományozott Republikánus párthoz köthető csoportoknak",
+          "url": "https://hvg.hu/gazdasag/20261013_musk-usa-felidos-valasztasok-trump-republikanus-part-kampanytamogatas",
+          "published": "2026-10-13T14:12:02+00:00",
+          "description": "A Tesla-vezér lett a második Trump-ciklus legbőkezűbb, ismert kampánydonorja.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f2091943-fba6-4726-adee-d2ff6cf73723.jpg",
+          "category": "Gazdaság",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Kiírták a pályázatot a közmédia vezérigazgatói posztjára",
+          "url": "https://hvg.hu/itthon/20261013_kozmedia-magyar-radio-es-televizio-nonprofit-zrt-vezerigazgatoi-palyazat",
+          "published": "2026-10-13T14:10:12+00:00",
+          "description": "Olyan szakembert keresnek, aki elkötelezett a közmédia alapértékei mellett.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0a78d7f7-4061-4fd0-914f-f98c07565864.jpg",
+          "category": "Itthon",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Újra letartóztatták a férfit, aki Jeszenszky Gézára és feleségére támadt",
+          "url": "https://hvg.hu/itthon/20261013_ferfi-ujra-letartoztattak-jeszenszky-geza-tamado-kalapacs",
+          "published": "2026-10-13T13:58:12+00:00",
+          "description": "A Fővárosi Törvényszék a letartóztatásnál enyhébb kényszerintézkedés alkalmazására továbbra sem lát lehetőséget.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/10ed7f42-f5b4-4af9-80f7-1b058ddd217b.jpg",
+          "category": "Itthon",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Sokatmondó számok: ennyit buktak a NER-cégek a kormányváltás óta a tőzsdén",
+          "url": "https://hvg.hu/kkv/20261013_ner-cegek-opus-global-meszaros-lorinc-4ig-jaszai-gellert-reszveny-ertekvesztes",
+          "published": "2026-10-13T13:48:29+00:00",
+          "description": "A Mészáros Lőrinc-féle Opus bukta a legnagyobbat.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7bb155dc-dcf6-41e2-a98d-b023375e386d.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Itt az Apple évek óta várt okoskijelzője, a HomeView, de nem veheti meg akárki",
+          "url": "https://hvg.hu/tudomany/20261013_apple-homeview-okoskijelzo-okosotthon-kozpont-megjelenes",
+          "published": "2026-10-13T13:46:00+00:00",
+          "description": "Az okosotthon vezérlése mellett sok másra is használható az Apple HomeView okoskijelző, ami a Siri AI-hoz hasonlóan az EU-ban egyelőre nem fog megjelenni.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfa37b82-383d-4c9b-84db-c67f5068fc10.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Borbás Marcsinak veserákja volt",
+          "url": "https://hvg.hu/elet/20261013_borbas-marcsi-veserak-daganat-betegseg-gyogyulas",
+          "published": "2026-10-13T13:45:39+00:00",
+          "description": "A műsorvezető korábban nem beszélt a betegségéről nyilvánosan, még a szüleivel sem osztotta meg.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/34e02906-53e7-413d-a57f-b99d4c0b5f9d.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Újra praktizálhat ügyvédként Völner Pál",
+          "url": "https://hvg.hu/itthon/20261013_volner-pal-elevules-fegyelmi-eljaras-praktizalas",
+          "published": "2026-10-13T13:42:42+00:00",
+          "description": "Megszüntette az ellene folyó előzetes fegyelmi vizsgálatot a Budapesti Ügyvédi Kamara.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/da2fac25-2ba1-4ea3-84ca-227f9944ce75.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "400 tudós írta alá a nyílt levelet: most már igazán szabályozni kéne az AI-t",
+          "url": "https://hvg.hu/tudomany/20261013_nyilt-level-tudosok-mesterseges-intelligencia-felugyelete",
+          "published": "2026-10-13T13:33:00+00:00",
+          "description": "Nyílt levélben szorgalmazza több száz tudós egy olyan nemzetközi testület létrehozását, amely ellátná a fejlett kiberbiztonsági képességekkel rendelkező mesterségesintelligencia-rendszerek elszigetelésével és az incidensek jelentésével kapcsolatos felügyeletet.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fee499da-b68e-40d7-8e37-92ccf110c46b.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "„Mi készen állunk” – újra elkészült a petesejt-donáció engedélyezéséhez szükséges javaslat",
+          "url": "https://hvg.hu/itthon/20261013_petesejt-donacio-engedelyezes-torvenyjavaslat-lombikkezeles-eredmenyesseg-varnagy-akos",
+          "published": "2026-10-13T13:16:00+00:00",
+          "description": "A hazai lombikcentrumok eredményességei ugyan javultak, de néhány külföldön engedélyezett eljárás még hiányzik a magyarországi ellátásból. Az állami lombikintézetek szakmai irányításáért felelős Humánreprodukciós Igazgatóság vezetője, Várnagy Ákos arról is beszélt, hogyan kell értelmezni a nemrég...",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5a97e142-ed7a-4054-9012-927a180bae96.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (Serdült Viktória)"
+        },
+        {
+          "title": "Nyomkövető kamerát épített, egyszer csak rendőrök jelentek meg a házánál",
+          "url": "https://hvg.hu/tudomany/20261013_nyomonkovetes-megfigyeles-terfigyelo-kamera-anthony-sistilli",
+          "published": "2026-10-13T13:03:00+00:00",
+          "description": "A kanadai szoftverménrök, Anthony Sistilli olyan kamerát épített, amilyet az állam is használ a lakosság megfigyelésére.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b8f42955-3ff1-4cf5-b4a6-bb53eff41946.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Már kedden megoperálják a pápát a tüdejében talált csomó miatt",
+          "url": "https://hvg.hu/elet/20261013_mutet-megoperaljak-papa-xiv-leo-tudo-csomo",
+          "published": "2026-10-13T12:58:20+00:00",
+          "description": "A 71 éves pápa vasárnap hozta nyilvánosságra, hogy az orvosok elváltozást fedeztek fel a tüdején, és a csomó eltávolítását javasolták.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e15c0709-eb49-498c-a6e8-0f68fc043bf2.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (MTI)"
+        },
+        {
+          "title": "Elutasították a fellebbezését, letartóztatásban marad Hankó Balázs",
+          "url": "https://hvg.hu/itthon/20261013_hanko-balazs-letartoztatas-fellebbezes-elutasitas",
+          "published": "2026-10-13T12:55:14+00:00",
+          "description": "A Kecskeméti Törvényszék szerint fennáll a szökés és az elrejtőzés veszélye.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/95cdd683-278c-4fa8-bd2f-df12ade5811f.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Kétrészes dokusorozat készült J. K. Rowlingról",
+          "url": "https://hvg.hu/kultura/20261013_j-k-rowling-dokumentum-sorozat-bbc-harry-potter",
+          "published": "2026-10-13T12:53:05+00:00",
+          "description": "A Harry Potter-könyvek szerzője nem vett részt a produkcióban, amelyben ellentmondásos megítélésével is foglalkoznak majd.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c89c2f13-b758-4944-8033-55ed8f5f16e1.jpg",
+          "category": "Kult",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Elismerte a Ripost volt munkatársa, hogy Ómolnár Miklós főszerkesztő megbízására kémkedett Mártha Imre ellen",
+          "url": "https://hvg.hu/itthon/20261013_martha-imre-omolnar-miklos-ripost-megfigyeles-forgacs-agnes",
+          "published": "2026-10-13T12:50:26+00:00",
+          "description": "Forgács Ágnes úgy gondolta, ha sztárokról lehet paparazzi fotókat csinálni, akkor Mártha kapuját is figyelhetik.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2757b988-81f6-4455-acf4-215f9586a1a2.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Pótkulccsal jutott ki az idős apa a szentendrei házból, amelyet a fia rágyújtott a szüleire",
+          "url": "https://hvg.hu/itthon/20261013_ugyeszseg-letartoztatas-inditvanyozas-szentendre-gyujtogatas-emberoles",
+          "published": "2026-10-13T12:34:21+00:00",
+          "description": "A gyújtogató édesanyja nem tudott kimenekülni a házból, ő életét vesztette.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
+          "title": "Újra kellett éleszteni egy soproni diáklányt, mentőhelikopter vitte kórházba",
+          "url": "https://hvg.hu/itthon/20261013_ujraelesztes-soproni-diaklany-mentohelikopter-korhaz",
+          "published": "2026-10-13T12:30:36+00:00",
+          "description": "Egyelőre nincs bővebb információ a középiskolás állapotáról.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4a55eafb-b8b5-4469-954c-5e7e18bd7564.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        }
+      ]
     },
     {
       "id": "kontroll",
@@ -1314,7 +1540,7 @@
         {
           "title": "Meghiúsulhat a MOL szerbiai üzlete, de október végéig még tárgyalhatnak a Gazprommal",
           "url": "https://kontroll.hu/cikk/gazdasag-tech/2026/10/13/meghiusulhat-a-mol-szerbiai-uezlete-de-oktober-vegeig-meg-targyalhatnak-a-gazprommal",
-          "published": "2026-10-13T16:37:40.818174+01:00",
+          "published": "2026-10-13T16:37:42.250307+01:00",
           "description": null,
           "image": null,
           "category": null,
@@ -1323,7 +1549,7 @@
         {
           "title": "Így változik a kata: megduplázódhat a főállású vállalkozók adója",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/13/igy-valtozik-a-kata-megduplazodhat-a-foallasu-vallalkozok-adoja",
-          "published": "2026-10-13T16:37:40.818344+01:00",
+          "published": "2026-10-13T16:37:42.250564+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1332,7 +1558,7 @@
         {
           "title": "Szorul a hurok? - Orbán Viktor védekezni kezdett az \"aranykonvoj\" ügyben",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/13/szorul-a-hurok-orban-viktor-vedekezni-kezdett-az-aranykonvoj-uegyben",
-          "published": "2026-10-13T15:53:40.818399+01:00",
+          "published": "2026-10-13T15:53:42.250647+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1395,6 +1621,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Botrányos múltú, kisebb stadionba viszik a magyar válogatott következő Nemzetek Ligája meccsét",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/10/georgia-magyarorszag-nemzetek-ligaja-stadion",
+          "published": "2026-10-13T17:45:00+01:00",
+          "description": "Stadioncsere előzi meg a magyar válogatott következő mérkőzését",
+          "image": "https://cdn.origo.hu/2026/10/fkvMuhxJstplT6_w2u7U0K5oup6IMEd_YW6AJP02xPM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VkN2Y3ZmE5ZTVkMjQ3OTQ4MTMwZTAyNGI5NTJlOWRj.webp",
+          "category": "magyar válogatott",
+          "author": null
+        },
+        {
           "title": "Az Árulók: Sipos Orsi sírva omlott össze",
           "url": "https://www.origo.hu/teve/2026/10/az-arulok-sipos-orsi-siras-rainer-micsinyei-nora",
           "published": "2026-10-13T17:30:00+01:00",
@@ -1453,7 +1688,7 @@
           "url": "https://www.origo.hu/galeria/ezeknek-a-sztaroknak-gyult-meg-a-baja-a-torvennyel",
           "published": "2026-10-13T17:00:00+01:00",
           "description": "",
-          "image": "https://cdn.origo.hu/2026/10/nxNZcVTvZrbwPUpY17i9IB6Hq7ub34Y5rO19_unri4Y/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYwZGM2MTI0ODIwZDQ1MDA5Zjg1YTlmNGI0YmRlY2Mx.webp",
+          "image": "https://cdn.origo.hu/2026/10/-KhoJ4Oq4mtL38t8lr1d3Ix29TQsY_0kba_12Vv_dOM/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjYWVlNzE0ZGZkZDRmMWE4MmVhOWU1MGUzYzNmY2Q5.webp",
           "category": "Galeria",
           "author": null
         },
@@ -1478,10 +1713,10 @@
         {
           "title": "Botrány a Parlamentben: \"Mocskos parasztozott\" egy tiszás képviselőnő",
           "url": "https://www.origo.hu/belpol/2026/10/parlament-botrany-mocskos-paraszt-tisza-part-pocs-janos",
-          "published": "2026-10-13T16:43:00+01:00",
-          "description": "Nem az első eset, a durva sértegetés miatt vizsgálatot követel a Fidesz-KDNP.",
-          "image": "https://cdn.origo.hu/2026/10/sh0dQT0NcVNlYXr7lfMLQAwmNM1Np53_azipT1kgm5s/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y1ZDQ2ZDk4OTQwZDQyY2RhM2M3Y2FhNmQ0NmI0YzM3.webp",
-          "category": "parlament",
+          "published": "2026-10-13T14:43:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1608,15 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "A szent tehenek levágására készülő Karácsony Gergely bocsánatot kér a kerületi polgármesterektől",
-          "url": "https://www.origo.hu/belpol/2026/10/karacsony-gergely-bocsanat-keruleti-polgarmesterek-parkolas",
-          "published": "2026-10-13T13:06:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
