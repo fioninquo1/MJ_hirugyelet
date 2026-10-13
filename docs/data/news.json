@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-13T18:50:41.499919+00:00",
+  "scraped_at": "2026-10-13T18:55:33.135684+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Lemondott az energetikai államtitkár, Tótth András",
+          "url": "https://telex.hu/belfold/2026/10/13/totth-andras-energetikai-allamtitkar-lemondas-gazdasagi-es-energetikai-miniszterium",
+          "published": "2026-10-13T18:52:39+00:00",
+          "description": "Az Energetikai és Gazdasági Minisztérium közleménye szerint személyes okokból döntött így.",
+          "image": "https://assets.telex.hu/images/20261013/1791916802-temp-m089cnaoabp2fkjnaka_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Megszavazta a parlament a fuvarozók adócsökkentését",
+          "url": "https://telex.hu/gazdasag/2026/10/13/fuvarozok-allami-tamogatasa",
+          "published": "2026-10-13T18:49:30+00:00",
+          "description": "A Fidesz egy képviselője kiszavazott a frakciójából.",
+          "image": "https://assets.telex.hu/images/20261013/1791917334-temp-evf9rg4dv8ss1hpccip_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Jól sikerült XIV. Leó pápa műtétje",
+          "url": "https://telex.hu/kulfold/2026/10/13/xiv-leo-papa-mutet-eredmeny",
+          "published": "2026-10-13T18:39:03+00:00",
+          "description": "A pápát délután műtötték meg a római Agostino Gemelli Egyetemi Kórházban, a tüdejéből távolítottak el daganatot.",
+          "image": "https://assets.telex.hu/images/20261013/1791916681-temp-vb55je7p00bgdhminek_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Robbanószereket találtak a lengyel férfi lakásán, aki a vád szerint merényletet tervezett Donald Tusk ellen",
+          "url": "https://telex.hu/kulfold/2026/10/13/lengyelorszag-donald-tusk-merenyletkiserlet-robbanoanyagok-gyanusitott",
+          "published": "2026-10-13T18:34:10+00:00",
+          "description": "Házilag készült robbanóanyagok voltak nála. Az üggyel összefüggésben még egy embert letartóztattak.",
+          "image": "https://assets.telex.hu/images/20261013/1791913866-temp-2hhm62aij7am5jnoecp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Donald Trump: Az USA továbbra is megosztja Ukrajnával a hírszerzési adatait",
+          "url": "https://telex.hu/kulfold/2026/10/13/donald-trump-hirszerzesi-segitseg-ukrajna",
+          "published": "2026-10-13T18:22:30+00:00",
+          "description": "Néhány napja még ennek ellenkezőjével fenyegette Ukrajnát az amerikai kormányzat.",
+          "image": "https://assets.telex.hu/images/20261013/1791915595-temp-adrduone647rdddmkef_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "A megoldás az lenne, ha nem szólalhatna meg a Stihl fűrész",
+          "url": "https://telex.hu/techtud/2026/10/13/fakivagasi-moratorium-feloldva-mit-jelent-ez",
+          "published": "2026-10-13T18:03:06+00:00",
+          "description": "A minisztérium a tűzifa biztosítására hivatkozva feloldotta a védett erdőterületek fakivágási moratóriumát, ami természetvédők szerint óriási visszalépés. Birtokunkba került belső anyagok szerint komolyan gondolják a fakivágások visszaszorítását, de a minisztérium szerint több időbe telik a szeml...",
+          "image": "https://assets.telex.hu/images/20261013/1791896341-temp-8fs94j1j9hombkijmen_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Két-két EU-csatlakozási klasztert nyitottak meg Ukrajnával és Moldovával, Albániával újabb fejezetet zártak le",
+          "url": "https://telex.hu/kulfold/2026/10/13/eu-ukrajna-moldova-albania-montenegro-csatlakozasi-targyalasok",
+          "published": "2026-10-13T17:58:15+00:00",
+          "description": "Ukrajnával csak azután vált hivatalossá a fejezeteket megnyitó kormányközi konferencia, hogy Kijevben megszavazták a nemzeti kisebbségek anyanyelvi oktatását is biztosító törvényt.",
+          "image": "https://assets.telex.hu/images/20261013/1791913643-temp-g2ebvcad1g702jagohp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Gulácsi Pétert és családját fegyverrel kirabolták",
+          "url": "https://telex.hu/sport/2026/10/13/gulacsi-petert-es-csaladjat-fegyverrel-kiraboltak",
+          "published": "2026-10-13T17:49:23+00:00",
+          "description": "Fegyverrel törtek be a házba, ahol Gulácsi feleségével és két gyerekével él.",
+          "image": "https://assets.telex.hu/images/20261013/1791914005-temp-n9s751e4o9a2bneccal_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "„Paraszt!” – kiabálta egy tiszás képviselő az ellenzéki képviselők felé a parlament ülésén",
+          "url": "https://telex.hu/belfold/2026/10/13/tisza-part-kepviselo-kovacs-petra-judit-beszolas-paraszt-bujdoso-andrea",
+          "published": "2026-10-13T17:21:18+00:00",
+          "description": "Kovács Petra Judit azóta bocsánatot is kért a megszólalásért.",
+          "image": "https://assets.telex.hu/images/20261013/1791912027-temp-1gbat414c1d5eajehpl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Nyolc hónap alatt ezer tonna aranyat vittek be Kínába, és ezt a világpiac is érzi",
+          "url": "https://telex.hu/gazdasag/2026/10/13/arany-kina-nemzeti-bank-vasarlas",
+          "published": "2026-10-13T17:09:11+00:00",
+          "description": "Az amerikai államkötvények kamatai rekordokat döntögetnek, ami normális esetben az arany árának csökkenésével járna. Most azonban nem ez történik.",
+          "image": "https://assets.telex.hu/images/20261013/1791911043-temp-32f18cnial950adkimf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Az EU-s bürokráciára panaszkodik Giorgia Meloni és Friedrich Merz az Európai Tanácsnak",
+          "url": "https://telex.hu/kulfold/2026/10/13/friedrich-merz-giorgia-meloni-bart-de-wever-level-europai-tanacs",
+          "published": "2026-10-13T16:37:03+00:00",
+          "description": "Három uniós vezető levelet írt az Európai Tanács elnökének, António Costának az EU-s bürokrácia miatt.",
+          "image": "https://assets.telex.hu/images/20261013/1791909345-temp-sgi69dbq9mqmakgioin_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Magyar Péter: Minden idők legalacsonyabb vízállását mérték Pakson",
+          "url": "https://telex.hu/belfold/2026/10/13/paksi-atomeromu-fenekkuszob-alacsony-vizallas",
+          "published": "2026-10-13T16:31:29+00:00",
+          "description": "A miniszterelnök szerint a fenékküszöb 61 centiméterrel emeli a vízszintet.",
+          "image": "https://assets.telex.hu/images/20260817/1786986349-temp-7c95icemps7q7jfdjhb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Polt Péter nem bízott annyira Baka új legfőbbügyész-jelöltjében, mint amennyire Baka bízik benne",
+          "url": "https://telex.hu/belfold/2026/10/13/fejes-peter-legfobb-ugyesz-jelolt-kormendi-gyerekgyilkossag-vorosiszap-marian-cozma-polt-peter",
+          "published": "2026-10-13T16:22:26+00:00",
+          "description": "Közel 40 éves ügyészi pályája alatt Fejes Péternek több nagy közérdeklődésű ügy is jutott, a körmendi gyerekgyilkosságtól a Marian Cozma-gyilkosságon át a vörösiszap-perig. Polt Péter viszont 2012-ben azonnali hatállyal, indoklás nélkül mentette fel megyei főügyészi pozíciójából.",
+          "image": "https://assets.telex.hu/images/20261013/1791903891-temp-9u8valvpnrbu7flmghn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Olyan javaslattal állt elő Magyar Péter, amit még a Fidesz is támogat",
+          "url": "https://telex.hu/belfold/2026/10/13/magyar-peter-parlament-alkohol-drogteszt-fidesz-frakcio",
+          "published": "2026-10-13T15:47:40+00:00",
+          "description": "A Fidesz-frakció a Telexnek azt írta, támogatják a parlamenti alkohol- és drogteszt bevezetését, de remélik, Magyar Péterre is vonatkoznak a szabályok.",
+          "image": "https://assets.telex.hu/images/20261013/1791906410-temp-n0iajcjkmp39ddnfhfb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Aszalt sárgabarackot hív vissza a Nébih",
+          "url": "https://telex.hu/belfold/2026/10/13/aszalt-sargabarack-visszahivas",
+          "published": "2026-10-13T15:47:05+00:00",
+          "description": "Túl magas kén-dioxid-tartalom miatt.",
+          "image": "https://assets.telex.hu/images/20261013/1791906370-temp-6glcigc6mv2b6dfocnm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Niedermüller szerint Erzsébetváros 2,6 milliárd forint helyett 17 milliót kapna a parkolási reformmal",
+          "url": "https://telex.hu/belfold/2026/10/13/niedermuller-peter-erzsebetvaros-terezvaros",
+          "published": "2026-10-13T15:31:33+00:00",
+          "description": "Az erzsébetvárosi polgármester szerint sokan félreértik Karácsony és Magyar megegyezésének szövegét.",
+          "image": "https://assets.telex.hu/images/20261013/1791905383-temp-un3s19mtse0q3bfbcgm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Uniós miniszterek széles körben üdvözölték a magyar jogállamisági eredményeket a testületük elnöksége szerint",
+          "url": "https://telex.hu/kulfold/2026/10/13/eu-hetes-cikkes-eljaras-europai-unio-tanacsa-meghallgatas",
+          "published": "2026-10-13T15:26:30+00:00",
+          "description": "Talán utoljára hallgatták meg a magyar kormányt a hetes cikkes eljárásban.",
+          "image": "https://assets.telex.hu/images/20261013/1791896951-temp-qud2eoh16rkkbcdepng_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Fekete-tengeri orosz rulett: nyolc napon belül a harmadik teherhajó süllyedt el a dróntámadások miatt",
+          "url": "https://telex.hu/transtelex/2026/10/13/dron-bulgaria-romania-torokoszrag-fekete-tenger",
+          "published": "2026-10-13T15:09:41+00:00",
+          "description": "A bolgár partoktól alig 30 kilométerre támadtak meg két kereskedelmi hajót, az egyik elsüllyedt, 11 tengerészt pedig eltűntként tartanak nyilván. A NATO a katonai jelenlétének módosítását is kilátásba helyezte.",
+          "image": "https://assets.telex.hu/images/20261013/1791898528-temp-ft2qbcbfbrrradbbmno_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tamás Zsófia (Transtelex)"
+        },
+        {
+          "title": "A Facebook már annyira rossz, hogy a róla szóló filmet is elrontotta",
+          "url": "https://telex.hu/after/2026/10/13/social-reckoning-halozat-ara-facebook-mark-zuckerberg-film-aaron-sorking-jeremy-strong-mikey-madison-jeremy-allen-white",
+          "published": "2026-10-13T14:59:03+00:00",
+          "description": "Mark Zuckerberg most már Bond-gonosz abban a filmben, ami látszólag A közösségi háló folytatása, de inkább csak annak a tribute zenekaros változata.",
+          "image": "https://assets.telex.hu/images/20261008/1791473878-temp-5tue64kun7k5ecibdhp_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Klág Dávid"
+        },
+        {
+          "title": "Trump megint Putyint cirógatja, Zelenszkijt pedig lazán a víz alá nyomná",
+          "url": "https://telex.hu/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru",
+          "published": "2026-10-13T13:32:25+00:00",
+          "description": "Az amerikai elnök Putyint hozza helyzetbe a mennyiségben elenyésző dízelmegállapodással. Az energetikai tűzszünethez sem az oroszokra, hanem Ukrajnára gyakorolnak óriási nyomást a háttérben a fegyvereladások és a hírszerzési adatok felfüggesztésével fenyegetve. Trump Európából és saját pártjából ...",
+          "image": "https://assets.telex.hu/images/20261013/1791885046-temp-q465l6pgi7fudjcokhk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Autizmusspektrum-állapot: papíron jól néz ki a rendszer, de a családok gyakran teljesen magukra maradnak",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/13/friss-tinta-autizmus-spektrum-allapot-kiss-judit-agnes-szalkay-krisztina",
+          "published": "2026-10-13T13:28:35+00:00",
+          "description": "Szalkay Krisztina gyermekpszichiáter szerint nemcsak a diagnosztikai eszköztár változott meg mostanra, hanem a fogalmak is sokat finomodtak.",
+          "image": "https://assets.telex.hu/images/20261013/1791895223-temp-0ndjb5diq8u30imopod_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "Hungarian Parliament adopts new child protection law, opposition votes against it",
+          "url": "https://telex.hu/english/2026/10/13/hungarian-parliament-adopts-new-child-protection-law-with-opposition-voting-against-it",
+          "published": "2026-10-13T13:11:19+00:00",
+          "description": "The child protection law passed by the previous government led to the EC launching infringement proceedings against Hungary as the legislation violated the founding values of the European Union.",
+          "image": "https://assets.telex.hu/images/20261013/1791895802-temp-tsjbn67267nlbkalgeg_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Gyanúsítottként hallgatták ki a Ripost volt munkatársát Mártha Imre megfigyelési ügyében",
+          "url": "https://telex.hu/belfold/2026/10/13/gyanusitotti-kihallgatas-martha-imre-feljelentes-ripost-feljelentes",
+          "published": "2026-10-13T12:55:13+00:00",
+          "description": "A 24.hu értesülése szerint Forgács Ágnest személyes adattal visszaélés és rágalmazás vétsége miatt hallgatták ki.",
+          "image": "https://assets.telex.hu/images/20261013/1791896092-temp-87a309au43in8cmemak_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Letartóztatásban marad Hankó Balázs",
+          "url": "https://telex.hu/belfold/2026/10/13/hanko-balazs-nka-kecskemeti-torvenyszek-jogeros-hatarozat-letartoztatas",
+          "published": "2026-10-13T12:41:16+00:00",
+          "description": "A Kecskeméti Törvényszék elutasította a fideszes képviselő fellebbezését. November 1-ig volt államtitkára, Varga-Bajusz Veronika sem mehet haza.",
+          "image": "https://assets.telex.hu/images/20261013/1791877233-temp-9sfqhcjnt7qi9ocglgo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Jóváhagyta az EU, hogy megvegye az OTP a Luminor Holdingot",
+          "url": "https://telex.hu/gazdasag/2026/10/13/otp-bank-luminor-holding-felvasarlas-europai-unio-jovahagyas",
+          "published": "2026-10-13T12:38:49+00:00",
+          "description": "Az Európai Bizottság szerint az ügylet nem vet fel versenyjogi aggályokat.",
+          "image": "https://assets.telex.hu/images/20261013/1791901782-temp-t1gbkr6fma3s5kcjglo_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Nádor András"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1305,7 +1531,7 @@
           "title": "Lemondott Tótth András energetikai államtitkár",
           "url": "https://hvg.hu/itthon/20261013_lemondas-totth-andras-energetikai-allamtitkar",
           "published": "2026-10-13T18:46:49+00:00",
-          "description": "Az államitkár személyes okokkal indokolta döntését.",
+          "description": "Az államtitkár személyes okokkal indokolta döntését.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e21fe2ee-ee3e-40cd-b6fd-ba0f1a5812a4.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
@@ -1621,6 +1847,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Könnyek között tört ki A Visszavágó közben Puskás Peti: egy 11 éves kisfiú hívása mindent megváltoztatott",
+          "url": "https://www.origo.hu/teve/2026/10/visszavago-most-wanted-puskas-peti",
+          "published": "2026-10-13T20:45:00+01:00",
+          "description": "Egy váratlan telefonhívást kapott.",
+          "image": "https://cdn.origo.hu/2026/10/GpNaqnOEbwAZbnjZyyzaNdtNhdRAFONFYG_BJxlzHvg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJhOWRjMDY2Y2UyMTQ3YWY5NjU4ZGE0YTU1Mjc2NjE1.webp",
+          "category": "Most Wanted",
+          "author": null
+        },
+        {
           "title": "Véget ért XIV. Leó pápa műtétje, megszólalt a Vatikán",
           "url": "https://www.origo.hu/nagyvilag/2026/10/leo-papa-mutet-vatikan",
           "published": "2026-10-13T20:37:00+01:00",
@@ -1704,10 +1939,10 @@
         {
           "title": "Magyar Péter: A fenékküszöbnek köszönhetően működik a paksi atomerőmű",
           "url": "https://www.origo.hu/belpol/2026/10/magyar-peter-fenekkuszob-paksi-atomeromu",
-          "published": "2026-10-13T19:22:00+01:00",
-          "description": "A miniszterelnök szerint a fenékküszöbbel az eddigi legnagyobb duzzasztást sikerül elérni.",
-          "image": "https://cdn.origo.hu/2026/10/hRP2-96aMoVUs5ZQkNdhyOE5_XxslqrsWYxVEtlYXOg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q4Y2Y3NzZiMzA5MjQ1ZjQ4YThlZDAxZmJmNjE0MGNl.webp",
-          "category": "Magyar Péter",
+          "published": "2026-10-13T17:22:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "TV",
-          "author": null
-        },
-        {
-          "title": "Leépítések, csatorna-összevonások: komoly változások jöhetnek a közmédiában",
-          "url": "https://www.origo.hu/belpol/2026/10/kozmedia-leepites-duna-m1-letszamcsokkentes",
-          "published": "2026-10-13T15:22:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
