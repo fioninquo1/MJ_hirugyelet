@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-14T07:05:50.174449+00:00",
+  "scraped_at": "2026-10-14T07:10:36.900415+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Az ősz eddigi leghidegebb reggelére ébredtünk",
+          "url": "https://telex.hu/belfold/2026/10/14/osz-fagy-huvos-idojaras-elorejelzes",
+          "published": "2026-10-14T06:44:36+00:00",
+          "description": "Az ország számos pontján fagypont alá csökkent a hőmérséklet. Szerencsére napközben még elérhetjük a 19-20 fokot.",
+          "image": "https://assets.telex.hu/images/20261014/1791959485-temp-b40p0euflmgf6dnkefe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Elfogta az FBI az OpenAI egyik alkalmazottját, miután lehallgatókészüléket találtak a cég vezetői tárgyalójában",
+          "url": "https://telex.hu/techtud/2026/10/14/openai-alkalmazott-letartoztatas-lehallgatokeszulek-iroda",
+          "published": "2026-10-14T06:32:35+00:00",
+          "description": "A 35 éves szaúdi állampolgár tavaly óta dolgozott a vállalatnál, az amerikai igazságügyi minisztérium szerint nemzetbiztonsági szempontból fontos a letartóztatása.",
+          "image": "https://assets.telex.hu/images/20261014/1791957050-temp-k5dvk9la44podebdnbi_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "A volt hegyvidéki alpolgármester részletesen beszélt a Kovács Gergellyel való konfliktusáról",
+          "url": "https://telex.hu/belfold/2026/10/14/hegyvidek-vadasz-gabor-alpolgarmester-kovacs-gergely",
+          "published": "2026-10-14T06:00:40+00:00",
+          "description": "Vadász Gábor szerint akkor kezdődött a konfliktusa a polgármesterrel, amikor ellentmondott neki vagy nem értett egyet vele valamiben.",
+          "image": "https://assets.telex.hu/images/20261014/1791957388-temp-5p1a5s612ka9agjjccj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Radar alatt: Rákay Philip cégétől Jászai Gellért magántőkealapjaihoz került a budai villa",
+          "url": "https://telex.hu/gazdasag/2026/10/14/rakay-philip-villa-jaszai-gellert-rege-ut-magantokealap-atkerult-hogyan",
+          "published": "2026-10-14T05:56:30+00:00",
+          "description": "Rákay Philip cége 198 millióért vett meg egy történelmi villát, amelyet négy évvel később már 631 millióra értékeltek. Túl is adott rajta.",
+          "image": "https://assets.telex.hu/images/20261012/1791805370-temp-qoetavkn1127dadhcnb_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Nyilatkozatban állította Bayer Zsolt, hogy nincs köztartozása, pár hétre rá az NKA-támogatásából kétmilliót a NAV-hoz utaltak",
+          "url": "https://telex.hu/belfold/2026/10/14/bayer-zsolt-1100ev-kft-koztartozas-nyilatkozat-vegrehajtas",
+          "published": "2026-10-14T05:40:28+00:00",
+          "description": "2015 és 2021 között összesen 19 NAV-végrehajtást jegyeztek be az 1100ÉV Kft.-vel szemben.",
+          "image": "https://assets.telex.hu/images/20261014/1791953289-temp-921k7t3kg5390hmkjoj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Orbán apjának bányájából származó kavicsból épült az iváncsai akkugyár",
+          "url": "https://telex.hu/gazdasag/2026/10/14/orban-gyozo-banya-kavics-ivancsai-akkugyar",
+          "published": "2026-10-14T05:18:40+00:00",
+          "description": "Összesen 300 ezer tonna zúzott követ rendeltek Orbán Győző bányájából.",
+          "image": "https://assets.telex.hu/images/20261014/1791954800-temp-mp7a9rmt4vi62jdckcp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Trump kirúgta a görögországi nagykövetét",
+          "url": "https://telex.hu/kulfold/2026/10/14/kimberly-guilfoyle-athen-nagykovet-lemondas",
+          "published": "2026-10-14T04:30:40+00:00",
+          "description": "Az elnök szerint Kimberly Guilfoyle ugyan remek munkát végzett, de nem tetszett neki, amit róla olvasott.",
+          "image": "https://assets.telex.hu/images/20261014/1791952164-temp-j6uqnv545n723kcenkl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Hadgyakorlatozó norvég katonák után kémkedtek a kínai gyártású bérelt autók",
+          "url": "https://telex.hu/techtud/2026/10/14/norvegia-hadgyakorlat-hertz-kinai-auto",
+          "published": "2026-10-14T03:52:05+00:00",
+          "description": "A kocsik felvették a katonák mozgását és biztonsági kódokat is rögzítettek.",
+          "image": "https://assets.telex.hu/images/20261014/1791949840-temp-buhujuomhg031mcijfa_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Tüdőrák miatt műtötték meg XIV. Leó pápát",
+          "url": "https://telex.hu/kulfold/2026/10/14/xiv-leo-papa-mutet-tudorak-diagnozis",
+          "published": "2026-10-14T03:18:15+00:00",
+          "description": "A műtét közben elvégzett szövettani vizsgálat is megerősítette a tüdő adenokarcinóma diagnózisát.",
+          "image": "https://assets.telex.hu/images/20261014/1791947786-temp-lnio63jco9bgefpccmm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Érzékeny információk szivárogtak ki a versenyhivataltól",
+          "url": "https://telex.hu/g7/vallalat/2026/10/14/gvh-informacioszivargas-vizsgalat",
+          "published": "2026-10-14T02:50:01+00:00",
+          "description": "Konkrét levél bizonyítja, hogy egyes szereplők előbb értesülhettek a hivatal vizsgálatairól, mint ahogy azt hivatalosan kommunikálták volna. Pedig ennek nem lenne szabad megtörténnie.",
+          "image": "https://assets.telex.hu/images/20261013/1791891907-temp-99tcm1v3g3h9femhnao_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Jandó Zoltán"
+        },
+        {
+          "title": "Fact-check: Tényleg kevesebb fizetést kaptak egyes tanárok, ahogy Takács Péter állítja?",
+          "url": "https://telex.hu/ellenorzo/2026/10/14/takacs-peter-tanari-fizetes-teljesitmenyertekeles-oktatasi-es-gyermekugyi-miniszterium-pdsz",
+          "published": "2026-10-14T02:48:33+00:00",
+          "description": "A fideszes képviselő szerint a teljesítményértékelési rendszer eltörlésével csökkent bizonyos pedagógusok fizetése. Utánajártunk, mi igaz ebből.",
+          "image": "https://assets.telex.hu/images/20261013/1791885138-temp-sb7iiool7n2f7bdbabp_cimlap-normal.jpg",
+          "category": "Ellenőrző",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "A japán horror, ami nem egyszerűen a hipnózisról szól, a nézőt is megpróbálja transzba ejteni",
+          "url": "https://telex.hu/eszkombajn/2026/10/14/gyogymod-cure-film-kuroszava-kijosi-hipnozis",
+          "published": "2026-10-14T02:48:17+00:00",
+          "description": "Kuroszava Kijosi Gyógymód című 1997-es filmje első ránézésre egy sorozatgyilkos utáni nyomozás történetét mutatja be, de aztán fokozatosan valami egészen mássá alakul, hogy a végére az ember már a hétköznapi zajoktól is frászt kapjon.",
+          "image": "https://assets.telex.hu/images/20261012/1791810355-temp-svmgtcg8bp94bepgkin_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Németh Balázs szerint Magyar Péter magához rendelte a házelnököt, Forsthoffer Ágnes kiakadt",
+          "url": "https://telex.hu/belfold/2026/10/13/forsthoffer-agnes-nemeth-balazs-magahoz-rendelte",
+          "published": "2026-10-13T21:46:54+00:00",
+          "description": "Forsthoffer hosszú posztban reagált az ellenzéki képviselő róla szóló videójára.",
+          "image": "https://assets.telex.hu/images/20261013/1791927787-temp-7osl6ce0badv1fpbinl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Lagos utcáit használta kifutónak, aztán a Chanel bemutatóján találta magát",
+          "url": "https://telex.hu/after/2026/10/13/rachel-ojuromi-nigeria-lagos-modell-instagram-matthieu-blazy-chanel-divathet",
+          "published": "2026-10-13T20:47:57+00:00",
+          "description": "Rachel Ojuromi dizájnerruhák helyett turizott, és a barátnője által tervezett ruhákban vonult fel szülővárosában. A videók virálisak lettek, és azt bizonyítják, hogy néha pont az erőforráshiányból születnek az igazán kreatív megoldások.",
+          "image": "https://assets.telex.hu/images/20261007/1791376914-temp-gejvqo286hnnbbklcdl_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Magyar Péter behívta a Partizánt a dolgozószobájába, beszélt nekik a legfőbb ügyészről, október 23-ról és a fóliázásról",
+          "url": "https://telex.hu/belfold/2026/10/13/magyar-peter-partizan-interju",
+          "published": "2026-10-13T20:47:37+00:00",
+          "description": "Interjút adott a Partizánnak Magyar Péter.",
+          "image": "https://assets.telex.hu/images/20261013/1791924450-temp-9krhe26eojkc5nfbofc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Beszólt Kapitány István távozó államtitkárának a tiszás Tárkányi Zsolt",
+          "url": "https://telex.hu/gazdasag/2026/10/13/tarkanyi-zsolt-totth-andras-lemondas-debrecen-akkumulatorgyarak-akkumulatoripari-szovetseg",
+          "published": "2026-10-13T20:37:24+00:00",
+          "description": "Tárkányi a frissített Facebook-posztban azt írta, élesítés után percekkel tudta meg, hogy Tótth András lemondott.",
+          "image": "https://assets.telex.hu/images/20261013/1791923619-temp-8fii9uncr8km9idpodp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Orbán Anita: Libanoni misszió indításáról döntöttek az uniós külügyminiszterek",
+          "url": "https://telex.hu/kulfold/2026/10/13/orban-anita-unios-kulugyminiszterek-tanacsulese",
+          "published": "2026-10-13T20:12:12+00:00",
+          "description": "Az EU 80–100 fős, polgári-katonai missziót küld az országba.",
+          "image": "https://assets.telex.hu/images/20261013/1791922291-temp-d7rplvktkulr6algcfk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Jön az X-akták rebootja",
+          "url": "https://telex.hu/after/2026/10/13/jon-az-x-aktak-rebootja",
+          "published": "2026-10-13T19:47:01+00:00",
+          "description": "Danielle Deadwyler és Himesh Patel játsszák a főszerepet.",
+          "image": "https://assets.telex.hu/images/20261013/1791920758-temp-jdqqaq7nh1vf8kdimcm_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "40 év börtönbüntetésre ítélték a Tupac Shakur meggyilkolását megszervező férfit",
+          "url": "https://telex.hu/after/2026/10/13/duane-keffe-davis-40-ev-borton",
+          "published": "2026-10-13T19:28:08+00:00",
+          "description": "Duane „Keffe D” Davis 63 éves, így nem jók a szabadulási esélyei.",
+          "image": "https://assets.telex.hu/images/20261013/1791919934-temp-57u60r2af54k2ibkfjc_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Iskolai késelések sokkolták Lengyelországot",
+          "url": "https://telex.hu/kulfold/2026/10/13/lengyelorszag-iskolai-tamadasok-donald-tusk-elleni-fenyegetes-nyomozas-rendorseg-hatosagok-kihallgatas-ellenorzes",
+          "published": "2026-10-13T19:14:18+00:00",
+          "description": "Múlt héten három, egymástól független támadás során diákok sebesítettek meg diákokat, tanárokat, egy gondnok belehalt sérüléseibe. Az ország alig ocsúdott fel, már jött is a hír a kormányfő és a védelmi miniszter elleni merénylettervről. Egy férfit hamar elfogtak, és kedd este vádat is emeltek el...",
+          "image": "https://assets.telex.hu/images/20261012/1791820738-temp-t0qi6ia6f3fc6plindo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Lemondott az energetikai államtitkár, Tótth András",
+          "url": "https://telex.hu/belfold/2026/10/13/totth-andras-energetikai-allamtitkar-lemondas-gazdasagi-es-energetikai-miniszterium",
+          "published": "2026-10-13T18:52:39+00:00",
+          "description": "Az Energetikai és Gazdasági Minisztérium közleménye szerint személyes okokból döntött így.",
+          "image": "https://assets.telex.hu/images/20261013/1791916802-temp-m089cnaoabp2fkjnaka_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Megszavazta a parlament a fuvarozók adócsökkentését",
+          "url": "https://telex.hu/gazdasag/2026/10/13/fuvarozok-allami-tamogatasa",
+          "published": "2026-10-13T18:49:30+00:00",
+          "description": "A Fidesz egy képviselője kiszavazott a frakciójából.",
+          "image": "https://assets.telex.hu/images/20261013/1791917334-temp-evf9rg4dv8ss1hpccip_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Jól sikerült XIV. Leó pápa műtétje",
+          "url": "https://telex.hu/kulfold/2026/10/13/xiv-leo-papa-mutet-eredmeny",
+          "published": "2026-10-13T18:39:03+00:00",
+          "description": "A pápát délután műtötték meg a római Agostino Gemelli Egyetemi Kórházban, a tüdejéből távolítottak el daganatot.",
+          "image": "https://assets.telex.hu/images/20261013/1791916681-temp-vb55je7p00bgdhminek_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Robbanószereket találtak a lengyel férfi lakásán, aki a vád szerint merényletet tervezett Donald Tusk ellen",
+          "url": "https://telex.hu/kulfold/2026/10/13/lengyelorszag-donald-tusk-merenyletkiserlet-robbanoanyagok-gyanusitott",
+          "published": "2026-10-13T18:34:10+00:00",
+          "description": "Házilag készült robbanóanyagok voltak nála. Az üggyel összefüggésben még egy embert letartóztattak.",
+          "image": "https://assets.telex.hu/images/20261013/1791913866-temp-2hhm62aij7am5jnoecp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Donald Trump: Az USA továbbra is megosztja Ukrajnával a hírszerzési adatait",
+          "url": "https://telex.hu/kulfold/2026/10/13/donald-trump-hirszerzesi-segitseg-ukrajna",
+          "published": "2026-10-13T18:22:30+00:00",
+          "description": "Néhány napja még ennek ellenkezőjével fenyegette Ukrajnát az amerikai kormányzat.",
+          "image": "https://assets.telex.hu/images/20261013/1791915595-temp-adrduone647rdddmkef_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        }
+      ]
     },
     {
       "id": "444",
@@ -20,6 +246,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Rákay Philip cége csendben átpasszolt egy budai villát Jászai Gellért magántőkealapjainak",
+          "url": "https://444.hu/2026/10/14/rakay-philip-cege-csendben-atpasszolt-egy-budai-villat-jaszai-gellert-magantokealapjainak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-10-14T07:01:35+00:00",
+          "description": "Már 2022-ben, csak semmit nem lehetett erről tudni, amíg Jászai magántőkealapjai bele nem toltak 160 milliót a villát tulajdonló cégbe felújításra.",
+          "image": "https://assets.4cdn.hu/kraken/81LeVSPupjAXchPos.jpeg",
+          "category": "Reg1 Holding",
+          "author": "Bódog Bálint"
+        },
         {
           "title": "Az Anthropic szerint hónapokra lehetünk attól, hogy az AI önállóan terjedjen az okoseszközökön",
           "url": "https://444.hu/2026/10/14/az-anthropic-szerint-honapokra-lehetunk-attol-hogy-az-ai-onalloan-terjedjen-az-okoseszkozokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -235,15 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8G7TEKjWXHQyPoJMs.jpeg",
           "category": "kalapács",
           "author": "Herczeg Márk"
-        },
-        {
-          "title": "A költségvetési csalást és a sikkasztást is beismerte Tasó László nyírségi fideszes kiskirály unokaöccse a bíróságon",
-          "url": "https://444.hu/2026/10/13/a-koltsegvetesi-csalast-es-a-sikkasztast-is-beismerte-taso-laszlo-nyirsegi-fideszes-kiskiraly-unokaoccse-a-birosagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-10-13T13:26:46+00:00",
-          "description": "Tasó János vállalkozó egykori felesége, a  helyi vagyonkezelő pénzügyi vezetője másodrendű vádlottként nem jelent meg a tárgyaláson.",
-          "image": "https://assets.4cdn.hu/kraken/8P2R6lmZ3XIDWGLWs.jpeg",
-          "category": "bodnár fanni",
-          "author": "Bódog Bálint"
         }
       ]
     },
@@ -266,7 +492,7 @@
           "author": null
         },
         {
-          "title": "Milliókat kapott az NKA-tól Bayer Zsolt cége, de a pénz nagy része azonnal a NAV-nál kötött ki",
+          "title": "24.hu: Milliókat kapott az NKA-tól Bayer Zsolt cége, de a pénz nagy része azonnal a NAV-nál kötött ki",
           "url": "https://index.hu/belfold/2026/10/14/bayer-zsolt-nka-tamogatas-molnar-aron/",
           "published": "2026-10-14T06:59:00+00:00",
           "description": "A publicista szerint „akkurátusan” be szokta fizetni adóit.",
@@ -1540,7 +1766,7 @@
         {
           "title": "Hankó Balázs védője: hivatalosan nincs szó tiltott pártfinanszírozásról az NKA-ügyben",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/14/hanko-balazs-vedoje-hivatalosan-nincs-szo-tiltott-partfinanszirozasrol-az-nka-uegyben-1",
-          "published": "2026-10-14T07:57:50.143308+01:00",
+          "published": "2026-10-14T07:57:36.899095+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Tovább fogy a birodalom: régi ismerősöknél landoltak Balásy Gyula cégei",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/14/tovabb-fogy-a-birodalom-regi-ismerosoeknel-landoltak-balasy-gyula-cegei",
-          "published": "2026-10-14T07:07:50.143521+01:00",
+          "published": "2026-10-14T06:07:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1558,7 +1784,7 @@
         {
           "title": "Magyar Péter: Macron jön október 23-án, a KDNP-sek akár fóliázni is elmehetnének",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/14/magyar-peter-macron-joen-oktober-23-an-a-kdnp-sek-akar-foliazni-is-elmehetnenek",
-          "published": "2026-10-14T07:06:50.143617+01:00",
+          "published": "2026-10-14T06:06:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1620,6 +1846,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Ma egész nap vitákat tartanak a parlamentben – élőben az Országgyűlésből az Origón!",
+          "url": "https://www.origo.hu/belpol/2026/10/orszaggyules-vita-magyar-nemzeti-bank-2026-10-14",
+          "published": "2026-10-14T09:05:00+01:00",
+          "description": "A képviselők döntenek a Magyar Nemzeti Bank 2025. évről szóló üzleti jelentéséről és beszámolójáról.",
+          "image": "https://cdn.origo.hu/2026/10/hz-0n3-kNOyjr7hph_senVrSqP3yBU-l_Bng62m1fqk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzYzliMTQ1OTBiYzRiNTVhZjZhMzE4ZWU1ZTM0YTQ3.webp",
+          "category": "Országgyűlés",
+          "author": null
+        },
+        {
+          "title": "Megállt, hogy elkerülje a balesetet, de a bölény így is nekirontott az autójának – videó",
+          "url": "https://www.origo.hu/nagyvilag/2026/10/boleny-tamadas-auto-video",
+          "published": "2026-10-14T09:01:00+01:00",
+          "description": "A bölények rendkívül erősek, és rövid idő alatt nagy sebességre képesek felgyorsulni.",
+          "image": "https://cdn.origo.hu/2026/10/ulZZsjCZ9nnyjeonxY-fZNaUeykPIdGrZQqa_Dmdp3Y/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE1OTkzOTRkNmFjNTRlMGRhNTQ4ODM4YThhODdhY2Ey.webp",
+          "category": "bölény",
+          "author": null
+        },
         {
           "title": "Sokan elkövetik ezt az 5 hibát a fűtési szezonban – észrevétlenül is növelhetik a rezsit",
           "url": "https://www.origo.hu/gazdasag/2026/10/futesi-szezon-rezsi",
@@ -1689,24 +1933,6 @@
           "published": "2026-10-14T07:43:00+01:00",
           "description": "A Sports Tourer eXperimental bizonyítja, hogy a jövőben is szükség lesz kombikra az Opel-kínálatban.",
           "image": "https://cdn.origo.hu/2026/10/xZ8rVKL60Ee2vWp1HPJ4n80ZAIbmORG-ydE6NvjKhOI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgxMWY1MWQ4OTUxMjQ5ODY4ZDJjMjVlMDRmYzk1Yzgx.webp",
-          "category": "Galeria",
-          "author": null
-        },
-        {
-          "title": "2+2 személyes mopedautóval bővíti a kínálatát a Fiat",
-          "url": "https://www.origo.hu/galeria/22-szemelyes-mopedautoval-boviti-a-kinalatat-a-fiat",
-          "published": "2026-10-14T07:41:00+01:00",
-          "description": "Az aranyos Topolino stílusában, de 20 lóerővel és 90 km/órás csúcssebességgel jön a Multiplina.",
-          "image": "https://cdn.origo.hu/2026/10/87Ialcs6f0kh123xV5l3hLRjF0A2qv4TCTMu8wgoxrk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM2NjJlNDdhYTIxYjQ5ZjBiMTcxMWFiMjEzOGFhY2U4.webp",
-          "category": "Galeria",
-          "author": null
-        },
-        {
-          "title": "Repülőautó versenysorozatban vesz részt a DeLorean, a Vissza a jövőbe filmek legendás repülőautójának gyártója",
-          "url": "https://www.origo.hu/galeria/repuloauto-versenysorozatban-vesz-reszt-a-delorean-a-vissza-a-jovobe-filmek-legendas-repuloautojanak-gyartoja",
-          "published": "2026-10-14T07:39:00+01:00",
-          "description": "Egy hónappal az első verseny előtt még nincs kész a megjelenés és a csapattagok-pilóta neve sem ismert.",
-          "image": "https://cdn.origo.hu/2026/10/APEweRtDUvoBhmSTGM-NAzkwsnVveAe1MPbjM1-bHQo/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVlOGJhZjRiZjVlNTRhYTNiMGMxOGZiMGM3ZWIzMjVj.webp",
           "category": "Galeria",
           "author": null
         },
