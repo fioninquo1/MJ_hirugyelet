@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-16T11:20:41.371055+00:00",
+  "scraped_at": "2026-10-16T11:25:30.707954+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Az egyik legkoncentráltabb NER-pénzelési program ügyében született most feljelentés",
+          "url": "https://telex.hu/g7/kozelet/2026/10/16/kisfaludy-program-gazdasagi-es-energetikai-miniszterium-feljelentes",
+          "published": "2026-10-16T11:13:26+00:00",
+          "description": "Szubjektív szempontrendszer, a NER-hez köthető üzleti körök, a fideszes vezetésű települések irányába koncentrálódó támogatások, valamint kétséges eredmények jellemezték a Kisfaludy-programot.",
+          "image": "https://assets.telex.hu/images/20261016/1792142969-temp-9nndoorggaqpbffcpdi_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Hajdu Miklós"
+        },
+        {
+          "title": "Négyszemközt tárgyalt Zelenszkijjel Magyar Péter",
+          "url": "https://telex.hu/kulfold/2026/10/16/negyszemkozt-targyalt-zelenszkijjel-magyar-peter",
+          "published": "2026-10-16T11:08:38+00:00",
+          "description": "Miniszteri szinten folytatják a két ország közötti egyeztetéseket, kiemelt figyelmet fordítanak a kisebbségek helyzetének további javítására.",
+          "image": "https://assets.telex.hu/images/20261016/1792148371-temp-hre2lhgvsuhn6pffngp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Fürcht Pál maga jelentkezett, soron kívül beidézi őt a végrehajtási visszaéléseket feltáró vizsgálóbizottság",
+          "url": "https://telex.hu/belfold/2026/10/16/furcht-pal-maga-jelentkezett-soron-kivul-beidezi-ot-a-vegrehajtasi-visszaeleseket-feltaro-vizsgalobizottsag",
+          "published": "2026-10-16T10:49:20+00:00",
+          "description": "Toroczkai László csütörtökön jelezte, hogy szükségesnek tartja a volt főügyész meghallgatását, Fürcht Pál meghallotta a hívást.",
+          "image": "https://assets.telex.hu/images/20261015/1792060792-temp-cojpl8fr8huqflkcafe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "„Mol = Monopol Olaj Lobbi” – független benzinkutasok tüntettek a Mol-székháznál",
+          "url": "https://telex.hu/belfold/2026/10/16/mol-szekhaza-megmozdulas-fuggetlen-benzinkutak-szovetsege",
+          "published": "2026-10-16T10:37:22+00:00",
+          "description": "A háborúk miatt emelkedő üzemanyagárakkal véren szerzett profit az, amit a Mol a finomítói árréssel szerez – közölte a Független Benzinkutak Szövetségének elnöke.",
+          "image": "https://assets.telex.hu/images/20261016/1792142460-temp-uf8dt6uooofk2ciipem_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Egy megalkuvást nem ismerő akrobatikus fénynyaláb invokációja is megtörténik a Karakter fesztiválján",
+          "url": "https://telex.hu/kozlemeny/2026/10/16/karakter-kortars-minifesztival-decolonize-your-mind-society",
+          "published": "2026-10-16T10:36:40+00:00",
+          "description": "Szokatlan hangolásokkal, egy új dallal és a hangszerek között egy saját fejlesztésű glissotarral érkezik november 7-én a Trafóba a Decolonize Your Mind Society.",
+          "image": "https://assets.telex.hu/images/20261002/1790941851-temp-ef6sh5vroook2emnidg_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Telex"
+        },
+        {
+          "title": "52 évesen vállalja harmadik gyerekét Hilary Swank",
+          "url": "https://telex.hu/after/2026/10/16/hilary-swank-terhesseg-petesejtfagyasztas-egyesult-allamok",
+          "published": "2026-10-16T10:17:27+00:00",
+          "description": "A kétszeres Oscar-díjas színésznő azt nyilatkozta, nem érzi magát öregnek, két nagyobbik gyereke petesejtfagyasztás után fogant meg.",
+          "image": "https://assets.telex.hu/images/20261016/1792145560-temp-6svtaoo6hs67cjjghcg_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Ruff Bálinttal és Robert Pattinsonnal indult újra a nyomtatott Népszabadság",
+          "url": "https://telex.hu/belfold/2026/10/16/ruff-balint-robert-pattinson-interju-nyomtatott-nepszabadsag",
+          "published": "2026-10-16T10:07:56+00:00",
+          "description": "Az október eleji online visszatérés után mától hetilapként is visszatér a Népszabadság. Megnéztük az első számot.",
+          "image": "https://assets.telex.hu/images/20261016/1792143748-temp-eagebn8nmkg0ekcokgi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "GTC: Izraeli sztármenedzserek segítik az MNB-alapítvány lengyel cégét",
+          "url": "https://telex.hu/gazdasag/2026/10/16/gtc-ingatlan-izrael-mnb-alapitvany-lengyel",
+          "published": "2026-10-16T09:23:45+00:00",
+          "description": "A GTC ingatlanos cég megpróbálja legalább a méregdrága hiteleit visszafizetni. Az külön rejtély, hogy ezeket miért vette fel az MNB-alapítvány lengyel cége.",
+          "image": "https://assets.telex.hu/images/20261016/1792142514-temp-bm30mntl9pgj6jkmapd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Lángolt a ruszti öböl, 220 hajóállás és 200 hajó is odaveszhetett a Fertő tónál",
+          "url": "https://telex.hu/kulfold/2026/10/16/ruszt-csonakhaz-leegett-ferto-to",
+          "published": "2026-10-16T09:21:50+00:00",
+          "description": "A Fertő tó nyugati oldalán szerdán késő este csaptak fel a lángok.",
+          "image": "https://assets.telex.hu/images/20261016/1792142458-temp-8kfbauh2vqoc0fmacbl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Egy egész lakásnyi okoseszköz – októberben kedvezményekkel",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/10/16/egy-egesz-lakasnyi-okoseszkoz-oktoberben-kedvezmenyekkel",
+          "published": "2026-10-16T08:55:01+00:00",
+          "description": "Az okoseszközök ma már a lakás minden helyiségében megjelenhetnek. Segítenek a takarításban, a főzésben, a munkában vagy éppen a pihenésben. Számos rutinfeladatot is levehetnek a vállunkról.",
+          "image": "https://assets.telex.hu/images/20261015/1792071979-temp-l9ihucdrl15b1llmmda_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Nem mindegy, hogyan köszönjük meg az egész éves munkát",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/10/16/a-fizetesen-tul-mitol-erzi-magat-megbecsultnek-a-dolgozo",
+          "published": "2026-10-16T08:55:01+00:00",
+          "description": "Novemberben a legtöbb vállalatnál napirendre kerül az év végi jutalom kérdése. Mekkora összeget enged meg a költségvetés? Minek örülnének leginkább a dolgozók?",
+          "image": "https://assets.telex.hu/images/20261015/1792075245-temp-mrj9247mcpuaejalkgh_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Akkora vihart kavart a 90 év után tervezett első nyilvános kivégzés, hogy Trump inkább visszatáncolt",
+          "url": "https://telex.hu/kulfold/2026/10/16/nyilvanos-kivegzes-kozvetites-lefujt-kivegzoosztag-trump-egyesult-allamok-fort-hood-nidal-hasan-iran-afganisztan-visszakozas",
+          "published": "2026-10-16T08:54:40+00:00",
+          "description": "A Pentagon bejelentette, hogy a hadsereg történetében először élőben közvetítik majd a Fort Hood-i ámokfutó kivégzését, amit katonai lövészosztag hajt végre. Törvényhozók, vallási vezetők, nyugalmazott tisztek szólaltak fel, és az amerikaiak nagy többsége sem értette, mi szükség erre. Már a védel...",
+          "image": "https://assets.telex.hu/images/20261014/1791971143-temp-kf8o8nkb5fkc4mpjond_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Zelensky invited to Budapest for commemoration on 70th anniversary of Hungary's 1956 revolution",
+          "url": "https://telex.hu/english/2026/10/16/zelensky-invited-to-budapest-for-hungarian-revolution-commemoration",
+          "published": "2026-10-16T08:47:14+00:00",
+          "description": "This was announced by the Ukrainian president’s deputy chief of staff, but it is not yet known whether he will visit the Hungarian capital.",
+          "image": "https://assets.telex.hu/images/20261016/1792140370-temp-ebclbe23iuv63bejgbd_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Zelenszkij megköszönte a támogatást az uniós vezetőknek, a „valódi vezetőknek”",
+          "url": "https://telex.hu/kulfold/2026/10/16/eu-europai-tanacs-volodimir-zelenszkij-antonio-costa-ursula-von-der-leyen-doorstep",
+          "published": "2026-10-16T08:36:54+00:00",
+          "description": "Ukrajna elnöke nem említette név szerint Donald Trumpot, amikor az EU-csúcs második napjára érkezett. Magyar Péterrel délben egyeztetnek.",
+          "image": "https://assets.telex.hu/images/20261016/1792138866-temp-sgekma0ohskkdcndlef_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Top 10-es foglalkoztató a NER-kedvezményezett cég, amely komoly anyagi gondokkal küzd",
+          "url": "https://telex.hu/g7/vallalat/2026/10/16/ner-allami-megrendeles-takaritas-uzemeltetes-b-n",
+          "published": "2026-10-16T08:21:06+00:00",
+          "description": "A B+N Magyarország az Orbán-rendszer kedvezményezett cége volt a takarítási és létesítményüzemeltetési feladatok terén. A problémák mégis még az előző kormányzati ciklusban kezdődtek.",
+          "image": "https://assets.telex.hu/images/20261016/1792135884-temp-t8pf5v78q30a8dlbcba_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Szabó Milán"
+        },
+        {
+          "title": "Az EU már megint rácsodálkozott arra, hogy baj van az energiaárakkal",
+          "url": "https://telex.hu/gazdasag/2026/10/16/eu-energiaar-hormuzi-orosz-ukran",
+          "published": "2026-10-16T08:09:34+00:00",
+          "description": "A mintázat ismerős, Európa energiaellátása nem elég stabil, mire az EU elmondja, hogy mi mindent jól csináltunk, csak gyorsítani kell a folyamatokat.",
+          "image": "https://assets.telex.hu/images/20261016/1792137955-temp-vcb9n0mj66k64dniojl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Feljelentést tett Hadházy Ákos a Fürcht-ügyben",
+          "url": "https://telex.hu/belfold/2026/10/16/feljelentest-tett-hadhazy-akos-a-furcht-ugyben",
+          "published": "2026-10-16T08:09:27+00:00",
+          "description": "Hadházy szerint az ügyészség ahelyett, hogy a Fürcht által mondottakat vizsgálná, inkább a „köpés” miatt indított fegyelmit ellene.",
+          "image": "https://assets.telex.hu/images/20261016/1792137981-temp-q8dq3jjjb2mn4djelje_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Meghívták Zelenszkijt az október 23-i megemlékezésre, Budapestre érkezhet",
+          "url": "https://telex.hu/belfold/2026/10/16/zelenszkij-budapest-oktober-23",
+          "published": "2026-10-16T08:02:33+00:00",
+          "description": "Az ukrán elnök helyettes kabinetfőnöke beszélt erről. Azt nem tudni, elmegy-e.",
+          "image": "https://assets.telex.hu/images/20261016/1792142027-temp-7kuj86lu0jjbciaglck_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Először volt házelnöki találkozó Magyarország és Ukrajna között, mióta az oroszok lerohanták Ukrajnát",
+          "url": "https://telex.hu/kulfold/2026/10/16/hazelnoki-talalkozo-magyarorszag-es-ukrajna-forsthoffer-agnes",
+          "published": "2026-10-16T07:50:53+00:00",
+          "description": "Forsthoffer Ágnes Rómában találkozott ukrán kollégájával.",
+          "image": "https://assets.telex.hu/images/20261016/1792136249-temp-519t0iqlnpgm6ppflhk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Visszahívtak egy temus ninjajelmezt, megsérülhet, aki viseli",
+          "url": "https://telex.hu/gazdasag/2026/10/16/visszahivtak-egy-temus-ninjajelmezt-megserulhet-aki-viseli",
+          "published": "2026-10-16T07:50:17+00:00",
+          "description": "A ninjaszetthez tartozó szalagokkal van baj.",
+          "image": "https://assets.telex.hu/images/20261016/1792136854-temp-9clqbcjaoau28fedang_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Company of richest Hungarian gave generous donations to organizations linked to Viktor Orbán's wife",
+          "url": "https://telex.hu/direkt36/2026/10/16/company-of-richest-hungarian-gave-generous-donations-to-organizations-linked-to-viktor-orban-s-wife",
+          "published": "2026-10-16T07:40:33+00:00",
+          "description": "According to documents obtained by Direkt36, two organizations linked to Anikó Lévai received large amounts of funding from a company called V-Híd, which had grown substantially through state projects. Other organizations, also affiliated with Fidesz circles, received significant donations as wel...",
+          "image": "https://assets.telex.hu/images/20261016/1792135993-temp-vbqlt2flgf424hggocg_cimlap-normal.jpg",
+          "category": "Direkt36",
+          "author": "Szopkó Zita"
+        },
+        {
+          "title": "A NER érinthetetlen volt, az ellenlábasokat vegzálták – így működött a versenyhivatal az Orbán-kormány alatt",
+          "url": "https://telex.hu/video/2026/10/16/gazdasagi-versenyhivatal-leepules-ner-vezeto-musor",
+          "published": "2026-10-16T07:32:52+00:00",
+          "description": "Szijjártó Péter fotója az irodában, Pócs-rajongó elnök, ordibálás, trágár fenyegetőzések, rosszullétig jutó alkalmazottak. Többrészes cikksorozatban dolgozta fel a G7, hogyan vált a politika játékszerévé a GVH.",
+          "image": "https://assets.telex.hu/images/20261015/1792076077-temp-t6kaijbu13rg8jbghpk_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Kiabálás és Unicum a közgyűlés pénteki ülésén, ami kevesebb, mint fél órát tartott",
+          "url": "https://telex.hu/belfold/2026/10/16/rendkivuli-fovarosi-kozgyules-karacsony-gergely-fovarosi-kozfejlesztesek-tanacsa-fidesz-eloterjesztes",
+          "published": "2026-10-16T07:22:10+00:00",
+          "description": "Nem fogadták el a napirendet, ezért gyorsan vége lett az ülésnek. A főpolgármester Baranyi Krisztina ferencvárosi polgármestertől Unicumot kapott. Karácsony azt mondta, 2014 óta nem ivott ilyet.",
+          "image": "https://assets.telex.hu/images/20261016/1792135701-temp-654b5jgh68ob5fmndap_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Kapitány feljelentést tett az Orbán-kormány 475 milliárd forintnyi szállodafejlesztési programjai miatt",
+          "url": "https://telex.hu/gazdasag/2026/10/16/kapitany-istvan-gazdasagi-miniszter-feljelentes-kisfaludy-program-turisztika",
+          "published": "2026-10-16T07:02:27+00:00",
+          "description": "A miniszter azt mondta, 23 ezer szerződést vizsgáltak át a Kisfaludy turisztikai program átvilágítása során, és súlyos visszaéléseket találtak. Különösen jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt tett feljelentést.",
+          "image": "https://assets.telex.hu/images/20261016/1792134507-temp-hghmvjss53e4fhkhccf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Keresetek: nőnek a bérek, apad az infláció, szép magas lett a reálbér-emelkedés",
+          "url": "https://telex.hu/gazdasag/2026/10/16/kereset-ber-jovedelem-netto-brutto-atlagos-median",
+          "published": "2026-10-16T06:56:23+00:00",
+          "description": "Kifejezetten magas, 8,6 százalékos volt augusztusban a reálbérek emelkedése Magyarországon. Mindebben persze nemcsak a fizetésemelések, de az árstabilitás is szerepet játszott.",
+          "image": "https://assets.telex.hu/images/20261016/1792133739-temp-aj1h8n7gpje56agkefo_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        }
+      ]
     },
     {
       "id": "444",
@@ -20,6 +246,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Öt méter mélyről ástak ki egy 1944-ben lelőtt szovjet repülőt Törtelnél, még a pilóta aláírása is előkerült a roncsok közül",
+          "url": "https://444.hu/2026/10/16/ot-meter-melyrol-astak-ki-egy-1944-ben-lelott-szovjet-repulot-tortelnel-meg-a-pilota-alairasa-is-elokerult-a-roncsok-kozul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-10-16T11:21:14+00:00",
+          "description": "Német gép lőtte le 1944-ben egy légiharcban, az orosz pilóta túlélte a zuhanást. A maradványokat kiállítják.",
+          "image": "https://assets.4cdn.hu/kraken/8P72XFCDIKuK1ZY12us.jpeg",
+          "category": "Alekszandr Andrianov",
+          "author": "Kolozsi Ádám"
+        },
         {
           "title": "Négyszemközt tárgyalt Magyar és Zelenszkij",
           "url": "https://444.hu/2026/10/16/negyszemkozt-targyalt-magyar-es-zelenszkij?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -235,15 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8P5fPHsolb431Ym13Ns.jpeg",
           "category": "Project Syndicate",
           "author": "Timothy Snyder"
-        },
-        {
-          "title": "Beindult a Fidesz körüli mozgolódás, Partos Bence helyett a felesége próbálja életre kelteni a Digitális Polgári Köröket",
-          "url": "https://444.hu/2026/10/16/beindult-a-fidesz-koruli-mozgolodas-partos-bence-helyett-a-felesege-probalja-eletre-kelteni-a-digitalis-polgari-koroket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-10-16T03:59:39+00:00",
-          "description": "Az alapító hátrébb lépett, de a 444 információi szerint a power couple másik fele, Farkas Vera pszichológus a saját cégén, a Volumen Communicationsen keresztül beszállt az egyre inkább a személyes találkozókra építő DPK-k szervezésébe.",
-          "image": "https://assets.4cdn.hu/kraken/8P5c02QxWBliX2Mys.png",
-          "category": "Morális Forráskód Nonprofit Kft",
-          "author": "Német Szilvi"
         }
       ]
     },
@@ -256,6 +482,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Jogsegélyvonalat indított a Fidesz és a KDNP az általuk gendertörvénynek nevezett gyermekvédelmi csomag miatt",
+          "url": "https://index.hu/belfold/2026/10/16/fidesz-kdnp-frakcioules-sajtotajekoztato-boka-janos-retvari-bence-adoemeles/",
+          "published": "2026-10-16T11:22:00+00:00",
+          "description": "A párt segélyvonalat indított azoknak, akik úgy érzik a gyerekük környékén megjelentek a „szivárványos szervezetek”.",
+          "image": "https://kep.index.hu/1/0/7210/72102/721021/72102103_5314421_09f3bccf6647f197f38a3b42a3bf791f_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
         {
           "title": "Kováts Dávid elárulta, mi volt a fő motivációja Az Árulók-stratégiája mögött, a paranoiáról is mesélt",
           "url": "https://index.hu/mindekozben/poszt/2026/10/16/kovats-david-elarulta-mi-volt-a-fo-motivacioja-az-arulok-strategiaja-mogott-paranoiarol-is-meselt/",
@@ -471,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/7209/72098/720985/72098575_960f6beb148856149f62264e6ffccf79_wm.jpg",
           "category": "Belföld",
           "author": null
-        },
-        {
-          "title": "Szepesfalvy Anna: Nem szeretnénk gátolni semmilyen megegyezést",
-          "url": "https://index.hu/belfold/2026/10/16/budapest-fovaros-karacsony-gergely-fovarosi-kozgyules-keruletek-parkolas-fidesz-tisza-part/szepesfalvy-anna-nem-szeretnenk-gatolni-semmilyen-megegyezest/",
-          "published": "2026-10-16T07:18:10+00:00",
-          "description": "",
-          "image": "https://kep.index.hu/1/0/7209/72098/720985/72098555_b085be4bc8ed2124d8c2498754607ecf_wm.jpg",
-          "category": "Belföld",
-          "author": null
         }
       ]
     },
@@ -493,10 +719,10 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Új alapokra helyezné a magyar-ukrán viszonyt a miniszterelnök",
+          "title": "Új alapokat emleget Magyar Péter, miután Volodimir Zelenszkijjel egyeztetett négyszemközt",
           "url": "https://magyarnemzet.hu/kulfold/2026/10/uj-alapokra-helyezne-a-magyar-ukran-viszonyt-a-miniszterelnok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-10-16T11:09:54+00:00",
-          "description": "Teljes szolidaritásáról biztosította az ukrán elnököt az agresszió ellen Magyar Péter.",
+          "description": "A kormányfő teljes szolidaritásáról biztosította az ukrán elnököt az agresszió ellen.",
           "image": "https://cdn.magyarnemzet.hu/2026/10/0AmnuSTYkjuzvqQI_Drkp3cyzKTXh96s4xL-SXLcNxI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ1MTc4NDgwMWQyODRlMGU4MGU3MjgwOGUzZDFmY2Fl.jpg",
           "category": "alapértelmezett",
           "author": null
@@ -1302,6 +1528,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Karácsony Gergely a botrányos közgyűlés után:  Bizonyos dolgokat rendbe kell tenni, akkor is, ha ez konfliktusokkal jár",
+          "url": "https://hvg.hu/itthon/20261016_karacsony-gergely-torvenytelen-eloterjesztes-kozgyules-budapest",
+          "published": "2026-10-16T11:21:51+00:00",
+          "description": "Nincs vége a vitának.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f510b3a6-c6d1-48ec-9aa5-2a82684fafd4.jpg",
+          "category": "Itthon",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
+        {
+          "title": "Gyermeket vár az 52 éves Hilary Swank",
+          "url": "https://hvg.hu/elet/20261016_gyermeket-var-az-52-eves-hilary-swank",
+          "published": "2026-10-16T11:20:40+00:00",
+          "description": "Harmadik gyerekét várja a kétszeres Oscar-díjas színésznő.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/815fe235-5f15-4e56-886c-e0e66cb7b658.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Új alapok – lezajlott Magyar Péter és Zelenszkij találkozója",
           "url": "https://hvg.hu/itthon/20261016_negyszemkozt-targyalas-brusszel-magyar-peter-zelenszkij",
           "published": "2026-10-16T11:17:46+00:00",
@@ -1507,24 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ad06bb07-0056-4f70-8c3e-06b30f385e67.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "„Ne tegye, Elnök Úr!” – a Starlink ukrajnai korlátozásának súlyos veszélyeire figyelmezteti Trumpot a Wall Street Journal",
-          "url": "https://hvg.hu/360/20261016_lapszemle-trump-putyin-hszi-ukrajnai-haboru-starlink",
-          "published": "2026-10-16T08:31:31+00:00",
-          "description": "Ha nem javul meg Trump és Zelenszkij viszonya, akkor Kijevnek nagy valószínűséggel engednie kell. Trump szégyenbe hozza Amerikát, amikor dízelre cseréli a demokráciát. Hamarosan az amerikai elnök minden útja Pekingbe vezet. Ha Trump elveszti a Képviselőházat, de megtartja a Szenátust, akkor béna ...",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d4767ae2-4160-4046-bb04-587e6b911cfe.jpg",
-          "category": "hvg360",
-          "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Volodimir Zelenszkijt is meghívták Budapestre október 23-ra",
-          "url": "https://hvg.hu/itthon/20261016_volodimir-zelenszkijt-is-meghivtak-budapestre-oktober-23-ra",
-          "published": "2026-10-16T08:18:47+00:00",
-          "description": "„Majd meglátjuk” – kommentelt az ukrán elnök kabinetfőnöke.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0fa1f3d3-74f5-4f9e-a788-a8366eef94a4.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1766,7 @@
         {
           "title": "Kiszállt a választás után Orbán Viktor öccse a milliárdos reptéri megbízásra pályázó cégből",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/16/kiszallt-a-valasztas-utan-orban-viktor-oeccse-a-milliardos-repteri-megbizasra-palyazo-cegbol",
-          "published": "2026-10-16T11:33:41.368879+01:00",
+          "published": "2026-10-16T11:33:30.706404+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "\"Tisztítótűzben\" a szálláshely-fejlesztési program, Pintér Sándor üzleti köre is célkeresztben",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/16/tisztitotuzben-a-szallashely-fejlesztesi-program-pinter-sandor-uezleti-koere-is-celkeresztben",
-          "published": "2026-10-16T11:29:41.369106+01:00",
+          "published": "2026-10-16T11:29:30.706544+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1634,7 +1860,7 @@
           "url": "https://www.origo.hu/belpol/2026/10/magyar-peter-zelenszkij-targyal-brusszel-ukran-magyar",
           "published": "2026-10-16T13:15:00+01:00",
           "description": "Tárgyalást folytatott Magyarország miniszterelnöke és Ukrajna elnöke",
-          "image": "https://cdn.origo.hu/2026/10/xucbjEl_Thl7vwpv9-vqYaj6AXGiAI3wNDLvm8lSF6M/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U1YTMwY2QwMjYxYjQ0MWZhNWU5MDJiMWNjNWZiY2Q1.webp",
+          "image": "https://cdn.origo.hu/2026/10/6CZYZ-u2lX_G5DFSU29PereXc6kEGUcWG2RAmT5kNm4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFlMWFlMTFiZDY4MTQyNWE4M2NiMmYzZjM4NGQ2NTEy.webp",
           "category": "Magyar Péter",
           "author": null
         },
@@ -1651,7 +1877,7 @@
           "title": "Rétvári Bence: „Felháborító, hogy a Tisza-kormány szembefordít gyereket és szülőt!”",
           "url": "https://www.origo.hu/belpol/2026/10/retvari-bence-boka-janos-adoemeles-gendertorveny-lmbtq",
           "published": "2026-10-16T12:59:00+01:00",
-          "description": "A gendertörvény is szóba került a Kidesz-KDNP frakcióülésén.",
+          "description": "A gendertörvény is szóba került a Fidesz-KDNP frakcióülésén.",
           "image": "https://cdn.origo.hu/2026/10/pUsG35vk-3jovbH-MSph6N4vFrodaJr8apW-OC7svBU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VlMWIxMWY1ZmM5YjQ2YThiNWY1YTk2Y2Q1YjlmMTdm.webp",
           "category": "Bóka János",
           "author": null
