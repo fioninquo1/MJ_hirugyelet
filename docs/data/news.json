@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-19T15:45:40.904656+00:00",
+  "scraped_at": "2026-10-19T15:51:36.077424+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Karácsony Gergely szerint a fellélegzés éve lehet 2027",
+          "url": "https://telex.hu/belfold/2026/10/19/karacsony-gergely-koltsegvetes-reakcio",
+          "published": "2026-10-19T15:34:42+00:00",
+          "description": "A főpolgármester szerint „ez egy nagyon jó költségvetési tervezet”, amit Magyar Péter bemutatott a parlamentben.",
+          "image": "https://assets.telex.hu/images/20261019/1792424053-temp-caclk5m404todchkjid_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "Magyar Péter bejelentései: megszűnik az árrésstop, duplázódik a családi pótlék, jön az adócsökkentés",
+          "url": "https://telex.hu/gazdasag/2026/10/19/magyar-peter-parlament-parlament-bejelentes-koltsegvetes-tamogatas-program-tisza-kormany",
+          "published": "2026-10-19T15:34:12+00:00",
+          "description": "A miniszterelnök több mint kétórás beszédben ismertette a jövő évi költségvetés legfontosabb intézkedéseit. Összegyűjtöttük, mit lehet már biztosan tudni a változásokról, kik járhatnak jobban, és milyen területekre jut több pénz 2027-ben.",
+          "image": "https://assets.telex.hu/images/20261019/1792417745-temp-5su20dtaqtgn6hpnkkc_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Rétvári Bence talált valamit, amiben a KDNP a legsikeresebb párt",
+          "url": "https://telex.hu/zacc/2026/10/19/retvari-bence-talalt-valamit-amiben-a-kdnp-a-legsikeresebb-part",
+          "published": "2026-10-19T15:30:29+00:00",
+          "description": "Csak az elmúlt 36 évet kellett hozzá átpörgetni.",
+          "image": "https://assets.telex.hu/images/20261019/1792423732-temp-83ndotqvucv55ggfmbk_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Aranytömböket ásott el a kertjében, majd a biztonság kedvéért megmutatta a munkásnak, pontosan hova NE telepítse a kerti tavat",
+          "url": "https://telex.hu/belfold/2026/10/19/elasott-aranytomb-kerti-to-fonyod",
+          "published": "2026-10-19T14:45:15+00:00",
+          "description": "Gondolta volna, hogy a munkálatokat végző férfi később tízmilliós értékben aranyat értékesített?",
+          "image": "https://assets.telex.hu/images/20261019/1792421059-temp-g67rcs4d3jdadmeemhb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "430 ezer forintos büntetést is kaphat mostantól az, aki hangosan telefonozik a vonaton Nagy-Britanniában",
+          "url": "https://telex.hu/kulfold/2026/10/19/nagy-britannia-andy-burnham-csendhaboritas",
+          "published": "2026-10-19T14:42:01+00:00",
+          "description": "A brit kormány hétfőn indított országos kampányt a tömegközlekedési eszközökön történő hangos zenehallgatás, e-cigaretta-használat és szemetelés visszaszorítására.",
+          "image": "https://assets.telex.hu/images/20261019/1792420905-temp-s1qd4n76t09i7gapmfb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "Vége az Otthon Startnak: új lakáshitel jön, a Wekerle Pluszban már nem mindenkinek jár a 3 százalékos kamat",
+          "url": "https://telex.hu/gazdasag/2026/10/19/otthon-start-helyett-wekerle-program-kinek-hany-eves-korig-mennyi-energetikai-korszerusites-kiknek-reszletek",
+          "published": "2026-10-19T14:34:18+00:00",
+          "description": "Magyar Péter új támogatásokat jelentett be, amelyek nem elsősorban a tehetősebbeknek kedveznek. A lakásvásárlást és évente 20 ezer háztartás energetikai korszerűsítését segítenék. De kiknek jár?",
+          "image": "https://assets.telex.hu/images/20261019/1792419280-temp-p3tbndt6fa6majegknc_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Szeparatisták fúrják Kanada egységét, az olajban gazdag tartományban hétfőn népszavazást tartanak",
+          "url": "https://telex.hu/kulfold/2026/10/19/kanada-alberta-quebec-elszakadasi-torekvesek-nepszavazas",
+          "published": "2026-10-19T14:08:00+00:00",
+          "description": "Az egyik kérdés arról szól, elindítsa-e Alberta egy ügydöntő referendum szervezését az elszakadáshoz. A lakosság nem túl lelkes, de intő jel Mark Carney kormányfőnek, hogy Québecben is egy szeparatista párt került hatalomra.",
+          "image": "https://assets.telex.hu/images/20261015/1792058906-temp-57gi2r0ta15n4dmmiag_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Acélipari munkások foglalták el Genova repterét",
+          "url": "https://telex.hu/kulfold/2026/10/19/genova-repuloter-sztrajk-lezaras-olaszorszag",
+          "published": "2026-10-19T13:31:15+00:00",
+          "description": "Az utasok először elérhették a beszállókapukat, majd a délelőtt folyamán ezt a folyosót is lezárták a létszámleépítés ellen demonstrálók.",
+          "image": "https://assets.telex.hu/images/20261019/1792416470-temp-7k4ct7l0m01bfknigof_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "A napelemes szövetség elnökének napelemes érdekeltsége is kartellezett",
+          "url": "https://telex.hu/g7/vallalat/2026/10/19/mnnsz-elnok-napelem-gvh-kartell-birsag-greentechnic",
+          "published": "2026-10-19T13:30:33+00:00",
+          "description": "A versenyhivatal a bírság kapcsán megjegyezte, hogy nem feltétlenül az ilyen 9 millió forintos ügyekre lenne célszerű koncentrálnia, mint amit az Integritás Hatóság bejelentése alapján vizsgált.",
+          "image": "https://assets.telex.hu/images/20261019/1792410699-temp-8ps6l0q7kf921efiagm_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Torontáli Zoltán"
+        },
+        {
+          "title": "Kondor Vilmos: Igen, én írtam a Zászló, kóla, szív című regényt",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/19/kondor-vilmos-zaszlo-kola-sziv-the-pardon",
+          "published": "2026-10-19T13:19:17+00:00",
+          "description": "A NER bő másfél évtizedét feldolgozó politikai thriller tavaly Kovács Petra írói álnév alatt jelent meg, mostantól angolul is olvasható.",
+          "image": "https://assets.telex.hu/images/20251104/1762248996-temp-228qaf0nst6k3aplOME_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "Kritikus állapotban van az ausztrál politikus, akit szándékosan gázolhattak el",
+          "url": "https://telex.hu/kulfold/2026/10/19/ausztralia-gazolas-tamadas",
+          "published": "2026-10-19T13:13:37+00:00",
+          "description": "Terepjáróval gázoltak el egy parlamenti képviselőt hétfőn, az ausztrál miniszterelnök szerint szándékos támadás történt.",
+          "image": "https://assets.telex.hu/images/20261019/1792415573-temp-ln60mpauroab7jpnpfm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "Gulyás Gergely: Hogy hosszabb távon van-e indok a parlamentben maradásra, megfontolom",
+          "url": "https://telex.hu/belfold/2026/10/19/gulyas-gergely-parlament-kepviselo-politikai-jovo-fidesz",
+          "published": "2026-10-19T13:03:39+00:00",
+          "description": "A fideszes politikus nyáron lemondott a frakció vezetéséről, de képviselő maradt. Azóta viszont alig jár be a parlamentbe.",
+          "image": "https://assets.telex.hu/images/20261019/1792414975-temp-6ap3d2vvk25dfcjehpb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Többször megszúrt egy tanárt, és a diáktársát is megsebesítette egy 13 éves Erdélyben",
+          "url": "https://telex.hu/transtelex/2026/10/19/beszterce-iskola-keseles",
+          "published": "2026-10-19T12:58:48+00:00",
+          "description": "Előzőleg a TikTokon posztolt arról, hogy mire készül.",
+          "image": "https://assets.telex.hu/images/20261019/1792414617-temp-rgugq1tdpb44ecgclfi_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Zsizsmann Erika (Transtelex)"
+        },
+        {
+          "title": "Kihirdette a magyar férfi-kézilabdaválogatott megfiatalított keretét az új kapitány",
+          "url": "https://telex.hu/sport/2026/10/19/kihirdette-a-magyar-ferfi-kezilabda-valogatott-megfiatalitott-keretet-az-uj-kapitany",
+          "published": "2026-10-19T12:39:20+00:00",
+          "description": "Sótonyi László csapata a 2028-as Európa-bajnokság selejtezőjére készül.",
+          "image": "https://assets.telex.hu/images/20261019/1792413370-temp-t45n69bgo74tcbonjgn_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Ókovács Szilveszter: Mága Zoltán nem nemzetközi szinten elismert hegedűs. Deutsch Tamás pedig nem zeneesztéta",
+          "url": "https://telex.hu/belfold/2026/10/19/okovacs-szilveszter-opera-nka-hanko-balazs-maga-zoltan",
+          "published": "2026-10-19T12:35:32+00:00",
+          "description": "Az Operaház főigazgatója szerint soha nem kaptak NKA-támogatást, és túlzás a Hankó Balázs elleni fellépés.",
+          "image": "https://assets.telex.hu/images/20261019/1792411997-temp-h53n034t9vlq5ahnefa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "Amelia Earhart repülőgépének roncsa helyett farönkökre bukkantak a kutatók az óriási rákok által lakott szigeten",
+          "url": "https://telex.hu/kulfold/2026/10/19/amelia-earhart-repulogep-roncs-lakatlan-sziget-fa",
+          "published": "2026-10-19T12:28:25+00:00",
+          "description": "A kutatócsoport vezetője nem adta fel, szerinte előbb-utóbb be fogják tudni bizonyítani, hogy a híres pilótanő gépe Nikumarorón zuhant le.",
+          "image": "https://assets.telex.hu/images/20261019/1792412823-temp-rh06tfom9kvv3gbcmng_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "2027-től duplájára emelik a családi pótlékot, a 40 év feletti kétgyermekes anyák nem lesznek szja-mentesek",
+          "url": "https://telex.hu/gazdasag/2026/10/19/kormany-csaladi-potlek-megduplazas-magyar-peter-parlament",
+          "published": "2026-10-19T11:57:08+00:00",
+          "description": "Magyar Péter szerint a családi pótlék megemelése, a dolgozók adócsökkentése és az anyai adómentességek jövedelemplafonja együttesen 500 milliárd forinttal javítja majd a családok anyagi helyzetét.",
+          "image": "https://assets.telex.hu/images/20261019/1792410865-temp-i61j88h9na8f3aplgic_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Forsthoffer Ágnes a vagyonnyilatkozatában részletezte, hogy mennyi osztalékot vett ki a családi cégből",
+          "url": "https://telex.hu/belfold/2026/10/19/forsthoffer-agnes-vagyonnyilatkozat-kiegeszites-csaladi-vallalkozas",
+          "published": "2026-10-19T11:50:39+00:00",
+          "description": "A házelnök bevallása szerint eddig sem rejtegette a vagyonát, és 2023 óta nagyjából 23 millió forint osztalékot fizetett ki a számára a balatonfüredi Hotel Margarétát üzemeltető cég.",
+          "image": "https://assets.telex.hu/images/20261019/1792410243-temp-d6hno9s2c43ebdpliei_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "Terrorcselekmény elkövetésével fenyegetés miatt nyomoz az NNI az országos bombariadók után",
+          "url": "https://telex.hu/belfold/2026/10/19/posfai-gabor-belugyminiszter-bombafenyegetesek-oktober-19-hetfo-70-iskola-rendorseg-atvizsgalas",
+          "published": "2026-10-19T11:44:35+00:00",
+          "description": "Pósfai Gábor belügyminiszter szerint az eddigi vizsgálatok alapján a hétfő reggeli fenyegetések alaptalannak bizonyultak.",
+          "image": "https://assets.telex.hu/images/20261019/1792410224-temp-mdkrocr4s0at2keabpa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Magyar Péter new dealt ajánlott a hazai vállalkozásoknak, ami arra a bibliai parancsra épül, hogy ne lopj",
+          "url": "https://telex.hu/belfold/2026/10/19/parlament-koltsegvetes-magyar-peter-napirend-elotti-felszolalas",
+          "published": "2026-10-19T11:08:26+00:00",
+          "description": "Megduplázzák a családi pótlékot, 680 ezer forintos havi jövedelem alatt mindenkinek csökkenni fog az adója, jövőre 9 százalékra csökkentik a minimálbér személyi jövedelemadóját, jelentette be a Parlamentben a kormányfő. A költségvetési hiányt 4,9 százalékra csökkentik, ehhez a fedezet részben a 2...",
+          "image": "https://assets.telex.hu/images/20261019/1792410070-temp-8li22cj4o1672hghkpk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Telex"
+        },
+        {
+          "title": "A francia nagykövetség azt közölte, hogy Macron mégsem jön Budapestre október 23-án",
+          "url": "https://telex.hu/belfold/2026/10/19/a-francia-nagykovetseg-azt-kozolte-hogy-macron-megsem-jon-el-budapestre-oktober-23-an",
+          "published": "2026-10-19T11:08:23+00:00",
+          "description": "Magyar Péter korábban azt mondta, a francia elnök is itt lesz az 1956-os megemlékezésen.",
+          "image": "https://assets.telex.hu/images/20261019/1792407109-temp-p7i9hg3jr5u0dbcjhom_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Távozik Bódis László volt helyettes államtitkár a Nemzeti Innovációs Ügynökség éléről",
+          "url": "https://telex.hu/belfold/2026/10/19/bodis-laszlo-allamtitkar-nemzeti-innovacios-ugynokseg-felmentes-innovacios-es-technologiai-miniszterium",
+          "published": "2026-10-19T10:58:54+00:00",
+          "description": "A megüresedő vezetői pozíció betöltésére a minisztérium pályázatot ír ki, és az új vezető kiválasztásáig az ügynökség szakmai irányítását a minisztérium felügyeli.",
+          "image": "https://assets.telex.hu/images/20261019/1792407494-temp-b85g09clso9g6alodka_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Hogyan lehet túlélni egy abszurd, mégis létező diktatúrát?",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/19/vida-gabor-kondor-vilmos-rudyard-kipling-friss-konyvmegjelenesek",
+          "published": "2026-10-19T10:22:50+00:00",
+          "description": "A legfiatalabb Nobel-díjas legismertebb műve újból magyarul, egy véres gellérthegyi terrorakció és a rendszerváltással érkező szabadságvágy, ami gyorsan fakul. Ajánlatunk a friss könyvmegjelenések közül.",
+          "image": "https://assets.telex.hu/images/20261019/1792401740-temp-kudsn3ububo3dbckhpa_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "A Fidesz sok szent tehenet hagyott hátra – élőben értékeljük a költségvetési javaslatot",
+          "url": "https://telex.hu/video/2026/10/19/parlament-elo-magyar-peter-koltsegvetes-rona-daniel",
+          "published": "2026-10-19T10:21:24+00:00",
+          "description": "Magyar Péter hétfőn bemutatta a költségvetés tervezetét, 16 éve az elsőt, amit nem Orbán Viktor és miniszterei készítettek. A miniszterelnök a parlamentben mondta el a főbb számokat.",
+          "image": "https://assets.telex.hu/images/20261019/1792402385-temp-g4940ise1o8sdbbhlbp_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Rédli Balázs"
+        },
+        {
+          "title": "Von der Leyen is Budapestre jön október 23-án",
+          "url": "https://telex.hu/kulfold/2026/10/19/eu-europai-bizottsag-befagyasztas-feloldas-javaslat",
+          "published": "2026-10-19T10:20:27+00:00",
+          "description": "Az Európai Bizottság elnöke is beszédet mond az 1956-os forradalom 70. évfordulójára szervezett megemlékezésen.",
+          "image": "https://assets.telex.hu/images/20261019/1792403969-temp-o9r09mqu91ah5aafaka_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        }
+      ]
     },
     {
       "id": "444",
@@ -20,6 +246,33 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Módosították a 2026-os költségvetést, 7,5 százalékra nőtt a hiánycél",
+          "url": "https://444.hu/2026/10/19/modositottak-a-2026-os-koltsegvetest-75-szazalekra-nott-a-hianycel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-10-19T15:49:59+00:00",
+          "description": "A Pénzügyminisztérium szerint azért volt szükség korrekcióra, mert az előző kormány által elfogadott költségvetésnek nem sok köze volt a valósághoz.",
+          "image": "https://assets.4cdn.hu/kraken/8OUH9oroOTlbmOWHs.jpeg",
+          "category": "költségvetés módosítása",
+          "author": "Bódog Bálint"
+        },
+        {
+          "title": "1,1 milliárd forinttal csökkentették Békéscsaba idei kiadásait",
+          "url": "https://444.hu/2026/10/19/11-milliard-forinttal-csokkentettek-bekescsaba-idei-kiadasait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-10-19T15:46:24+00:00",
+          "description": "Ott sincs kolbászból a kerítés: úgy számolnak, hogy ennyivel kevesebb iparűzési adó folyik be várhatóan év végéig a büdzsébe.",
+          "image": "https://assets.4cdn.hu/kraken/8PC034e3cjb3WGLWs.jpeg",
+          "category": "kiadáscsökkentés",
+          "author": "Herczeg Márk"
+        },
+        {
+          "title": "Az ellenzék a béremelések mértékét kevesli, Toroczkai pedig inkább egy társasjátékról kezdett beszélni a költségvetésről szóló vitában",
+          "url": "https://444.hu/2026/10/19/az-ellenzek-a-beremelesek-merteket-kevesli-toroczkai-pedig-inkabb-egy-tarsasjatekrol-kezdett-beszelni-a-koltsegvetesrol-szolo-vitaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-10-19T15:42:32+00:00",
+          "description": "Magyar a válaszában végül Rétvári Bencét fekete öves, babérkoszorús hazugságbajnoknak nevezte.",
+          "image": "https://assets.4cdn.hu/kraken/8PBotTi6dfVSmOWHs.jpeg",
+          "category": "rétvári bence",
+          "author": "Haszán Zoltán"
+        },
         {
           "title": "Szabó Bálint Pócs János vendégeként ült be a parlamenti páholyba, majd onnan ordibált, míg ki nem küldték",
           "url": "https://444.hu/2026/10/19/szabo-balint-pocs-janos-vendegekent-ult-be-a-parlamenti-paholyba-majd-onnan-ordibalt-mig-ki-nem-kuldtek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -217,33 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8PBcrkEG1s04M0GVs.jpeg",
           "category": "ausztrál terrorelhárítás",
           "author": "Kolozsi Ádám"
-        },
-        {
-          "title": "ORFK: Iskolákat fenyegettek robbantással",
-          "url": "https://444.hu/2026/10/19/orfk-iskolakat-fenyegettek-robbantassal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-10-19T09:37:33+00:00",
-          "description": "A hétfő reggeli fenyegetőlevélben azt írták, hogy az országban több mint 70 oktatási intézményben robbanószereket helyeztek el.",
-          "image": "https://assets.4cdn.hu/kraken/8IFrLrLGP1Ey1MauOs.jpeg",
-          "category": "oktatási intézmény",
-          "author": "Diószegi-Horváth Nóra"
-        },
-        {
-          "title": "Médiatanács: a KDNP jelöltje átment, a Fideszét leszavazta a művelődési bizottság",
-          "url": "https://444.hu/2026/10/19/mediatanacs-a-kdnp-jeloltje-atment-a-fideszet-leszavazta-a-muvelodesi-bizottsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-10-19T09:34:20+00:00",
-          "description": "Pedig Siklósi Beatrix ellenpólusnak tekintette volna magát a testületben.",
-          "image": "https://assets.4cdn.hu/kraken/8PBbAG0Nct0829A1Qms.jpeg",
-          "category": "mi hazánk",
-          "author": "Diószegi-Horváth Nóra"
-        },
-        {
-          "title": "Töréssel zárta a szezont Valter Attila",
-          "url": "https://444.hu/2026/10/19/toressel-zarta-a-szerzont-valter-attila?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-10-19T09:23:40+00:00",
-          "description": "Kulcscsonttörés a japán egynaposon, így fejezi be 2026-ot.",
-          "image": "https://assets.4cdn.hu/kraken/8PBaJJhA7eXfOmIas.jpeg",
-          "category": "Bahrain Victorious",
-          "author": "Kolozsi Ádám"
         }
       ]
     },
@@ -256,6 +482,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Magyar Péternek volt egy kérdése a Költségvetési Tanács elnökéhez, majd megszavazták az idei büdzsé módosítását",
+          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peternek-volt-egy-kerdese-a-koltsegvetesi-tanacs-elnokehez-majd-megszavaztak-az-idei-budzse-modositasat/",
+          "published": "2026-10-19T15:49:57+00:00",
+          "description": "",
+          "image": null,
+          "category": "Belföld",
+          "author": null
+        },
+        {
+          "title": "Elhunyt Szolnoki Mária",
+          "url": "https://index.hu/sport/2026/10/19/elhunyt-szolnoki-maria-olimpiai-ezustermes-torvivo/",
+          "published": "2026-10-19T15:45:00+00:00",
+          "description": "79 esztendős volt.",
+          "image": "https://kep.index.hu/1/0/7214/72145/721457/72145717_5317497_1e6a45d8e5a33123a1acbc1af09081ab_wm.jpg",
+          "category": "Sport",
+          "author": null
+        },
         {
           "title": "Esküt tett a Fidesz új képviselője",
           "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/eskut-tett-a-fidesz-uj-kepviseloje/",
@@ -461,24 +705,6 @@
           "description": "A családi otthonteremtési kedvezmény szabályain nem változtatnak.",
           "image": "https://kep.index.hu/1/0/7214/72143/721433/72143383_5317321_ca3063e3790fff3456349dfec9ff00a2_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "300 milliárd forint biztonsági tartalék lesz a 2027-es költségvetésben",
-          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/300-milliard-forint-biztonsagi-tartalek-lesz-a-2027-es-koltsegvetesben/",
-          "published": "2026-10-19T13:28:36+00:00",
-          "description": "",
-          "image": null,
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Keretet hirdetett az Eb-selejtezőre a magyar válogatott új kapitánya, három újoncnak szavazott bizalmat",
-          "url": "https://index.hu/sport/kezilabda/2026/10/19/kezilabda-europa-bajnoksag-selejtezo-magyar-ferfi-kezilabda-valogatott-kerethirdetes-sotonyi-laszlo-szovetsegi-kapitany/",
-          "published": "2026-10-19T13:27:00+00:00",
-          "description": "A spanyol élvonal kapusrangsorát vezető játékosunk is meghívást kapott.",
-          "image": "https://kep.index.hu/1/0/7214/72143/721434/72143409_5317323_9b6085c99bc327479dbea7829257f4f7_wm.jpg",
-          "category": "Kézilabda",
           "author": null
         }
       ]
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Kerti tó építésére hívták, de közben kiásta és eladta a tulajdonos aranytömbjeit",
+          "url": "https://24.hu/belfold/2026/10/19/rendorseg-somogy-kiasott-aranytombok/",
+          "published": "2026-10-19T17:45:00+01:00",
+          "description": "A somogyi tulajdonos direkt megmondta, hol ne ásson.",
+          "image": "https://s.24.hu/app/uploads/2026/10/176c155e-7775-4473-b555-fc24e199dbe9-e1792424691979-320x180.jpg",
+          "category": "Belföld",
+          "author": "Spirk József"
+        },
+        {
           "title": "Meghalt Szolnoki Mária olimpiai ezüstérmes vívó",
           "url": "https://24.hu/sport/2026/10/19/meghalt-szolnoki-maria-olimpiai-ezustermes-torvivo/",
           "published": "2026-10-19T17:31:00+01:00",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/10/d__hr20261019001_kiem-320x180.jpg",
           "category": "Élő",
           "author": "Papp Atilla"
-        },
-        {
-          "title": "Ősi ujjlenyomatok fedhetik fel, kik építették a kínai agyaghadsereg katonáit",
-          "url": "https://24.hu/tudomany/2026/10/19/agyaghadsereg-keszitok-ujjlenyomat-kutatas-ferfiak-nok-gyerekek/",
-          "published": "2026-10-19T14:31:00+01:00",
-          "description": "1974-es felfedezésük óta rengeteg kérdésre kaphattunk választ a kínai agyaghadseregről. Egy friss kutatás egy több évtizedes mítoszt is megdöntött.",
-          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-2269748006-e1792413023967-320x180.jpg",
-          "category": "Tudomány",
-          "author": "Lányi Örs"
         }
       ]
     },
@@ -1306,7 +1532,7 @@
           "url": "https://hvg.hu/itthon/20261019_rekordhosszu-beszed-magyar-peter-parlament-torok-gabor",
           "published": "2026-10-19T15:42:18+00:00",
           "description": "Magyar Péter miniszterelnök napirend előtti felszólalása az 1990-es rendszerváltás utáni időszak leghosszabb parlamenti beszéde volt.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e07de7bd-cdc8-4930-9b51-5bc2ffb8c8d6.jpg",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/121267aa-42e1-4f4d-b7ea-6a217e5c761c.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
         },
@@ -1540,7 +1766,7 @@
         {
           "title": "„A Kárpátok Fidel Castróját hallottuk” – az ellenzéknek nem jött be a Tisza büdzsétervevetésről a Parlamentben",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/19/a-karpatok-fidel-castrojat-hallottuk-az-ellenzeknek-nem-joett-be-a-tisza-buedzsetervevetesrol-a-parlamentben",
-          "published": "2026-10-19T16:27:40.902536+01:00",
+          "published": "2026-10-19T16:27:36.075931+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Macron mégsem jön október 23-án, Von der Leyen viszont beszédet is mond Budapesten",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/19/macron-megsem-joen-oktober-23-an-von-der-leyen-viszont-beszedet-is-mond-budapesten",
-          "published": "2026-10-19T16:00:40.902757+01:00",
+          "published": "2026-10-19T16:00:36.076095+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
