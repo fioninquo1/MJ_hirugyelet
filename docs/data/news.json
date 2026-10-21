@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-21T19:05:31.073734+00:00",
+  "scraped_at": "2026-10-21T19:10:36.869961+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A történelmi BL-szégyent megúszta a Manchester United, de így is nagyon elverte a Como",
+          "url": "https://telex.hu/sport/2026/10/21/como-manchester-united-bajnokok-ligaja",
+          "published": "2026-10-21T18:59:26+00:00",
+          "description": "Az olasz kis csapat a Lipcse után az angolokat is 4-1-gyel küldte haza, Sallai Rolandék idegenben lőttek négyet.",
+          "image": "https://assets.telex.hu/images/20261021/1792607578-temp-721j4kuitlar9heknpc_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Uniós sajtódíjat kapott az olasz-albán migrációs megállapodás részleteit feltáró cikk",
+          "url": "https://telex.hu/kulfold/2026/10/21/eu-europai-parlament-daphne-caruana-galizia-dij-olaszorszag-albania-migracio",
+          "published": "2026-10-21T18:58:30+00:00",
+          "description": "A győztesek másfél éven át vizsgálták az egyezséget. Egy részben magyar történet is a döntősök közé került.",
+          "image": "https://assets.telex.hu/images/20261021/1792609007-temp-ve659bqsach11jcmknh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Azt kell mondanom, 100 százalék, hogy nyerünk, mert ha nem, el kell mennünk máshova – Szerbia történelmi választásra készül",
+          "url": "https://telex.hu/kulfold/2026/10/21/szerbia-aleksandar-vucic-egyetemista-lista-meneteles-ujvidekrol-belgradba-plusz-urog",
+          "published": "2026-10-21T18:40:24+00:00",
+          "description": "A két éve a rendszer ellen demonstráló egyetemisták saját listával mennek neki Aleksandar Vučić rendszerének. Miközben Vučić felé lejt a pálya, az újvidéki állomásnál történt tragédiából kinőtt mozgalom hatalmas gyalogmenetekkel jelzi az erejét. Egyre többen szimpatizálnak velük, a Telex pedig me...",
+          "image": "https://assets.telex.hu/images/20261021/1792598856-temp-r7971rbp8i956hhpdhb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Nem sült el jól az Orbán melletti kiállás, soha többé nem fog külföldi politikus mellett kampányolni J. D. Vance",
+          "url": "https://telex.hu/kulfold/2026/10/21/jd-vance-orban-viktor-tamogatas",
+          "published": "2026-10-21T18:35:55+00:00",
+          "description": "„Nem sült el túl jól” – kommentálta az Orbán melletti áprilisi kampányolást az amerikai alelnök.",
+          "image": "https://assets.telex.hu/images/20261021/1792607671-temp-fkd47lme6dpj4bhcebj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "Leépítéseket jelentett be az EA, megszűnik a BioWare, a készülő Mass Effectet is elkaszálták",
+          "url": "https://telex.hu/after/2026/10/21/videojatek-ea-leepites-bioware-mass-effect",
+          "published": "2026-10-21T18:03:27+00:00",
+          "description": "Durván egy éve vásárolták fel a szaúdiak az egyik legnagyobb videójátékos céget, akkor azt mondták, egyelőre nem lesznek leépítések – úgy tűnik, ez eddig tartott.",
+          "image": "https://assets.telex.hu/images/20261021/1792605777-temp-p8c2s53k9ija4fpaich_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Závecz: a Tisza 55 százalékon, a Fidesz 21-en áll",
+          "url": "https://telex.hu/belfold/2026/10/21/nepszerusegi-verseny-a-tisza-55-szazalekon-fidesz-21-en",
+          "published": "2026-10-21T17:45:24+00:00",
+          "description": "A közvéleménykutató intézet friss adatai szerint a Tisza jelenlegi tábora 4,2 milliós, a Fidesz–KDNP-é 1,6 milliós nagyságú.",
+          "image": "https://assets.telex.hu/images/20260723/1784807051-temp-6p2st1oqtvbi3iigjam_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Kritikus sebezhetőséget fedeztek fel, elérhetetlenné vált a Wikipédia és a BBC honlapja is",
+          "url": "https://telex.hu/techtud/2026/10/21/kiberbiztonsag-sebezhetoseg-mesterseges-intelligencia",
+          "published": "2026-10-21T17:15:07+00:00",
+          "description": "Franciaországban, Hollandiában, Dániában és Finnországban is közigazgatási honlapokat kellett leállítani.",
+          "image": null,
+          "category": "Techtud",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "A legjobb dolog, ami egy koncerten történhet, hogy senkinél nincs telefon",
+          "url": "https://telex.hu/after/2026/10/21/phoebe-bridgers-nashville-ilyen-egy-telefon-nelkuli-koncert-lost-weekend",
+          "published": "2026-10-21T17:09:23+00:00",
+          "description": "Phoebe Bridgers két telt házas koncertet adott Nashville-ben, ahol a közönségnek már a bejáratnál el kellett búcsúznia a telefonjától. A gyászról, veszteségről és személyes kapcsolatokról szóló dalokhoz különösen jól illett, hogy senki sem videózott, és mindenki a zenére figyelt.",
+          "image": "https://assets.telex.hu/images/20261021/1792583748-temp-sof3jtgqm6ql0gonceb_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "Történelmi pillanat videón: Matolcsy megérkezik egy rendőrautóban a Gyorskocsi utcai fogházba",
+          "url": "https://telex.hu/belfold/2026/10/21/tortenelmi-pillanat-videon-matolcsy-megerkezik-egy-rendorautoban-a-gyorskocsi-utcai-foghazba",
+          "published": "2026-10-21T16:44:14+00:00",
+          "description": "Kisebb zavart okozott, hogy nem volt nyitva a kapu, ezért a rendőrautó elhajtott, tett egy kört, majd visszatért a gazdasági csalással gyanúsított volt jegybankelnökkel.",
+          "image": "https://assets.telex.hu/images/20261021/1792601010-temp-tefu2qq5ctgjfehlide_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Kire utalt Fürcht Pál, amikor a bizottsági meghallgatásán kimondott egy vezetéknevet?",
+          "url": "https://telex.hu/belfold/2026/10/21/furcht-pal-parlamenti-meghallgatas-szathmary-zoltan",
+          "published": "2026-10-21T16:26:05+00:00",
+          "description": "A Schadl–Völner-ügy nyomozásában is részt vett a korábban legfőbb ügyésznek jelölt Szathmáry Zoltán testvére, aki a titkosszolgálattól érkezett az ügyészségre, majd oda is tért vissza, és később fontos szerepe volt az aranykonvoj-ügyben.",
+          "image": "https://assets.telex.hu/images/20261021/1792597063-temp-9p3cj068vidb1pfjmbl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Extrém idő miatt lefújták a török ultrakerékpáros versenyt, amin egy magyar versenyző vezetett",
+          "url": "https://telex.hu/szepkilatas/2026/10/21/extrem-ido-miatt-lefujtak-a-torok-ultrakerekparos-versenyt-amin-egy-magyar-versenyzo-vezetett",
+          "published": "2026-10-21T15:58:38+00:00",
+          "description": "A felhőszakadás, viharos szél, földcsuszamlások miatt a Borsos Benedekéket üldöző élmezőnyből négyen is mentést kértek, az értük induló mentőautók alig értek fel a hegyre.",
+          "image": "https://assets.telex.hu/images/20261021/1792598238-temp-bccoq3mg9q2saaoapdp_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "IEA-vezér a Hormuzi-szorosról: Ez a történelem legnagyobb energiabiztonsági fenyegetése",
+          "url": "https://telex.hu/gazdasag/2026/10/21/iea-tarolo-szel-nap-foldgaz-olaj-fatih-birol",
+          "published": "2026-10-21T15:46:06+00:00",
+          "description": "Interjút adott a Telexnek Fatih Birol, a Nemzetközi Energiaügynökség vezetője, aki szerint a globális dízelhiány miatt nehéz idők jönnek, Magyarország viszont jó úton jár a szél- és napenergia-fejlesztésekkel. A magyar kormánynak azt tanácsolja, hogy a megújulók mellett figyeljen oda a tárolókapa...",
+          "image": "https://assets.telex.hu/images/20261020/1792479742-temp-1ukniic3pkgufcmbioo_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Visszaküldte a diplomata-útlevelét Dzsudzsák Balázs, aki a mellékelt levelében már nem volt Tesoka",
+          "url": "https://telex.hu/belfold/2026/10/21/dzsudzsak-balazs-diplomata-utlevel-kulugyminiszterium-level",
+          "published": "2026-10-21T15:40:56+00:00",
+          "description": "A Külügyminisztérium a 444-nek elküldte a focista levelét, illetve azt is, hogy Dzsudzsáknak kétszer volt diplomata-útlevele.",
+          "image": "https://assets.telex.hu/images/20261021/1792597203-temp-s6ujp3c743gk4ehfakf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Románia politikai csapdája nem oldódott meg az új kabinettel: a szélsőjobb már ugrásra kész",
+          "url": "https://telex.hu/transtelex/2026/10/21/romania-kormanyvalsag-uj-kormany-osszefoglalo",
+          "published": "2026-10-21T15:39:44+00:00",
+          "description": "Az érvénytelenített elnökválasztási sokk óta tartó krízis nem zárult le: a mérsékelt pártok megosztottak, az államfő morális hitele elapadt, az AUR pedig sakkban tartja az országot.",
+          "image": "https://assets.telex.hu/images/20261021/1792592728-temp-c226d3sfem8i6ebacpo_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Vig Emese (Transtelex)"
+        },
+        {
+          "title": "Szovjet rombolóbombát találtak egy belvárosi társasház kertjében",
+          "url": "https://telex.hu/belfold/2026/10/21/szovjet-rombolobombat-talaltak-egy-belvarosi-tarsashaz-kertjeben",
+          "published": "2026-10-21T15:14:26+00:00",
+          "description": "A tűzszerészek a kiemelés idejére körülbelül száz embert evakuáltak a környékről.",
+          "image": "https://assets.telex.hu/images/20261021/1792595569-temp-jcfvfgdbknv6bikpfab_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Körözést adtak ki Matolcsy Ádám ellen",
+          "url": "https://telex.hu/gazdasag/2026/10/21/matolcsy-adam-korozes",
+          "published": "2026-10-21T15:07:17+00:00",
+          "description": "A korábbi jegybankelnök fiát gazdasági csalás gyanújával keresik. Elfogatóparancsot adtak ki Stofa György, az MNB-alapítványok pénzét kezelő Optima Zrt. korábbi vezetője ellen is.",
+          "image": "https://assets.telex.hu/images/20261021/1792595225-temp-riok9esrbs9tdocmpkm_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "MNB-ügy: nemzetközi elfogatóparancs kiadását kérik két gyanúsított esetében",
+          "url": "https://telex.hu/gazdasag/2026/10/21/mnb-ugy-nemzetkozi-elfogatoparancs-gyanusitottak-matolcsy-gyorgy",
+          "published": "2026-10-21T14:51:52+00:00",
+          "description": "Az MNB-ügynek eddig öt gyanúsítottja van, köztük a volt jegybankelnök. Két gyanúsítottat viszont nem tudtak őrizetbe venni, mert nincsenek az országban.",
+          "image": "https://assets.telex.hu/images/20261021/1792594184-temp-ff2phbjr9h0lflhneig_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Krasznahorkai László, Závada Pál és Enyedi Ildikó is állami kitüntetést kapott október 23-a alkalmából",
+          "url": "https://telex.hu/karakter/kultura/2026/10/21/krasznahorkai-laszlo-zavada-pal-enyedi-ildiko-allami-kituntetes",
+          "published": "2026-10-21T14:45:07+00:00",
+          "description": "A kitüntetettek között van Jeszenszky Géza volt külügyminiszter és Kéri László politológus is.",
+          "image": "https://assets.telex.hu/images/20261021/1792593838-temp-d049eu28ocm39ffpbob_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Putyin beleegyezett, hogy újrakezdjék a háromoldalú tárgyalásokat az ukrajnai háború befejezéséről",
+          "url": "https://telex.hu/kulfold/2026/10/21/ujrakezdik-a-haromoldalu-targyalast-az-ukrajnai-haboru-befejezeserol",
+          "published": "2026-10-21T14:32:54+00:00",
+          "description": "Az orosz vezető „elvileg” beleegyezett a tárgyalások november 10. utáni folytatásába, közölte Jurij Usakov, Putyin külügyi tanácsadója.",
+          "image": "https://assets.telex.hu/images/20261021/1792593068-temp-m2kcnf705l0a8hjojjg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Súlyos sérülést szenvedett Kvarachelia a Barcelona elleni meccsen, több hónapos kihagyás várhat rá",
+          "url": "https://telex.hu/sport/2026/10/21/futball-bl-psg-barcelona-kvarachelia-serules",
+          "published": "2026-10-21T14:30:35+00:00",
+          "description": "Elszakadt az elülső keresztszalagja, így a magyar válogatott ellen sem játszhat majd a Nemzetek Ligájában.",
+          "image": "https://assets.telex.hu/images/20261021/1792592907-temp-uqfnsopanhad2nhbldm_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Kommunista taggal vált ismét egyedül a harmadik legnagyobbá a fideszesek EP-frakciója",
+          "url": "https://telex.hu/kulfold/2026/10/21/eu-europai-parlament-patriotak-europaert-katerina-konecna",
+          "published": "2026-10-21T14:24:57+00:00",
+          "description": "Kateřina Konečná már Csehország EU-csatlakozása előtt megfigyelő volt a szélsőbaloldaliaknál az Európai Parlamentben, most is Csehország és Morvaország Kommunista Pártjának tagja.",
+          "image": "https://assets.telex.hu/images/20261021/1792592099-temp-172ao704kbkmainmckn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Olajbogyószedés közben vették őrizetbe az amerikai Demokrata Párt egyik kongresszusi képviselőjelöltjét Izraelben",
+          "url": "https://telex.hu/kulfold/2026/10/21/olajbogyo-orizetbe-vettek-amerikai-demokrata-part-kongresszusi-kepviselojelolt",
+          "published": "2026-10-21T14:06:27+00:00",
+          "description": "A demokrata politikust később elengedték, társait azonban továbbra is fogva tartották.",
+          "image": "https://assets.telex.hu/images/20261021/1792591570-temp-7ej33ihlvvq35mbjkaf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Indítványozták Matolcsy György letartóztatását",
+          "url": "https://telex.hu/gazdasag/2026/10/21/kezdemenyezik-matolcsy-gyorgy-letartoztatasat",
+          "published": "2026-10-21T13:40:27+00:00",
+          "description": "A volt jegybankelnököt több mint három órán keresztül hallgatták ki a Központi Nyomozó Főügyészségen, ahol nem tett vallomást. Letartóztatásáról 72 órán belül kell döntenie a bíróságnak.",
+          "image": "https://assets.telex.hu/images/20261021/1792590066-temp-bhkl0nbntvmc3fccdlb_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Fürcht Pál meghallgatása: a Völner–Schadl-ügyet már az elején le akarták állítani felülről, Szathmáry neve is felmerült a volt főügyész meghallgatásán",
+          "url": "https://telex.hu/belfold/2026/10/21/furcht-pal-knyf-fougyesz-vegrehajtasi-visszaeleseket-feltaro-vizsgalobizottsag-schadl-volner-rogan",
+          "published": "2026-10-21T13:02:18+00:00",
+          "description": "A Központ Nyomozó Főügyészség korábbi vezetője azt mondta: a Nemzeti Védelmi Szolgálat tábornoka figyelmeztette, és közösen érték el, hogy folytatódjon az eljárás. Fürcht szerint Varga Judit miniszterként nem tudott a visszaélésekről, együttműködőként be is akarták vonni az eljárásba. A volt főüg...",
+          "image": "https://assets.telex.hu/images/20261021/1792585606-temp-79euoccchfm1fhhnfnc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Ön emberséges, és ezt nagyra értékelem – mondta Trump különmegbízottja Putyinnak",
+          "url": "https://telex.hu/kulfold/2026/10/21/steve-witkoff-talalkozo-vlagyimir-putyin-emberseges",
+          "published": "2026-10-21T12:51:20+00:00",
+          "description": "Steve Witkoff Szentpéterváron tárgyalt az orosz elnökkel, erről került ki egy rövid videó, amiben Putyint méltatta.",
+          "image": "https://assets.telex.hu/images/20261021/1792585598-temp-pvb7719fhhn07agolgg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        }
+      ]
     },
     {
       "id": "444",
@@ -965,6 +1191,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A nap legfontosabb hírei  - 2026.10.21.",
+          "url": "https://24.hu/belfold/2026/10/21/a-nap-legfontosabb-hirei-2026-10-21/",
+          "published": "2026-10-21T21:05:00+01:00",
+          "description": "Volt már jobb napja a Matolcsy családnak.",
+          "image": "https://s.24.hu/app/uploads/2026/10/central-0416035956-2-e1792590487378-320x180.jpg",
+          "category": "Belföld",
+          "author": "Kerner Zsolt"
+        },
+        {
+          "title": "Tarjányi Péter: Pszichésen fel kell készülnünk az iskolai bombafenyegetések folytatódására",
+          "url": "https://24.hu/belfold/2026/10/21/tarjanyi-peter-iskolai-bombafenyegetesek-hibrid-akciok-24extra/",
+          "published": "2026-10-21T21:02:00+01:00",
+          "description": "A biztonságpolitikai szakértő szerint a legnagyobb valószínűséggel oroszok állhatnak a jól szervezettnek tűnő, és elterelő akciókkal is fűszerezett fenyegetések mögött.",
+          "image": "https://s.24.hu/app/uploads/2026/10/central-0956990325-320x180.jpg",
+          "category": "Belföld",
+          "author": "Szegő Iván Miklós"
+        },
+        {
           "title": "Őrizetbe vették Matolcsyék állandó jogi képviselőjét és a Quartz Befektetési Alapkezelő vezérigazgatóját is",
           "url": "https://24.hu/belfold/2026/10/21/sandor-tamas-valko-mihaly-mnb-matolcsy-ugyeszseg-breaking/",
           "published": "2026-10-21T20:52:00+01:00",
@@ -1082,15 +1326,6 @@
           "author": "Kovács Barna"
         },
         {
-          "title": "Így vitték el Matolcsy Györgyöt a rendőrök – fotókon a volt jegybankelnök őrizetbe vétele",
-          "url": "https://24.hu/belfold/2026/10/21/matolcsy-gyorgy-mnb-jegybank-orizetbe-vetel-rendor-foto-galeria/",
-          "published": "2026-10-21T16:44:00+01:00",
-          "description": "Matolcsy kihallgatását követő őrizetbe vételénél a 24.hu is jelen volt. Fotókon, amint elviszi a rendőrség az Orbán-kormány egykori miniszterét, egyben az MNB volt elnökét.",
-          "image": "https://s.24.hu/app/uploads/2026/10/moh_0353-masolat-320x180.jpg",
-          "category": "Belföld",
-          "author": "Mohos Márton"
-        },
-        {
           "title": "Borbély Balázs: Nincs akkora különbség az NB I-es és az európai teljesítményünk között",
           "url": "https://24.hu/sport/foci/2026/10/21/ferencvaros-torreense-borbely-balazs-nagy-adam-europa-liga/",
           "published": "2026-10-21T16:41:00+01:00",
@@ -1098,6 +1333,15 @@
           "image": "https://s.24.hu/app/uploads/2026/10/nagy-adam-borbely-balazs-dszzs20261021511-320x180.jpg",
           "category": "Foci",
           "author": "24.hu"
+        },
+        {
+          "title": "Az MNB-s alapítványi vagyonvesztés miatt zajlik büntetőeljárás, Matolcsy és fia haszonszerzéséről ír az ügyészség, nemzetközi elfogatóparancsot is kiadtak",
+          "url": "https://24.hu/belfold/2026/10/21/matolcsy-gyorgy-ugyeszseg-gyanusitott-nemzetkozi-elfogatoparancs/",
+          "published": "2026-10-21T16:30:00+01:00",
+          "description": "A nyomozó ügyészek az úgynevezett „MNB ügy” egyik szálát érintően intézkedtek.",
+          "image": "https://s.24.hu/app/uploads/2026/10/matolcsy-e1792592993712-320x180.jpg",
+          "category": "Belföld",
+          "author": "Kovács Barna"
         },
         {
           "title": "Krasznahorkai, Kende, Schiff - Itt a lista arról, kik kaptak állami kitüntetéseket október 23 alkalmából",
@@ -1170,24 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/10/20261021145053_adz_1218-320x180.jpg",
           "category": "Belföld",
           "author": "Kozák Dániel"
-        },
-        {
-          "title": "7 év, 4 hónapot kapott a fiatal, aki megszurkálta az apját Forráskúton",
-          "url": "https://24.hu/belfold/2026/10/21/foraskut-keseles-apa-itelet/",
-          "published": "2026-10-21T15:13:00+01:00",
-          "description": "A férfit nyolc évre kiutasították Magyarország területéről.",
-          "image": "https://s.24.hu/app/uploads/2026/10/central-0803252709-2026-10-12t151605-673-1-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "Úttörő agykutatási módszert dolgoztak ki magyar kutatók",
-          "url": "https://24.hu/tudomany/2026/10/21/uttoro-agykutatasi-modszer-magyar-kutatok/",
-          "published": "2026-10-21T15:00:00+01:00",
-          "description": "Eredményeik később az elhízás kezelését célzó gyógyszerkutatásban, és az emberi agy vizsgálatában is nagy segítséget jelenthetnek.",
-          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-582759294-e1792587408312-320x180.jpg",
-          "category": "Tudomány",
-          "author": "Stéger Dávid"
         }
       ]
     },
@@ -1621,6 +1847,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Elhunyt Ziegler Péter",
+          "url": "https://www.origo.hu/sport/2026/10/ziegler-peter-elhunyt",
+          "published": "2026-10-21T21:02:00+01:00",
+          "description": "Az FTC jelentette be a szomorú hírt.",
+          "image": "https://cdn.origo.hu/2026/10/Tfa0Xc-4nRDgJCbFBWfkcR7m4GVfs05euTyqDVT65wA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUwMTdiNjExOTM0NTQzOThhNmUyNTI2OTgzMzRmMmQy.webp",
+          "category": "ftc",
+          "author": null
+        },
+        {
+          "title": "Elszabadult a pokol, amikor sörért indult a szekszárdi BMW-s",
+          "url": "https://www.origo.hu/auto/2026/10/elszabadult-a-pokol-amikor-sorert-indult-a-szekszardi-bmw-s",
+          "published": "2026-10-21T21:00:00+01:00",
+          "description": "Előzőleg a bevont jogsis sofőr fogyasztott egyet s mást.",
+          "image": "https://cdn.origo.hu/2026/10/IBi8Q8gFDh_eKJewDjhpYBYhfBxDzu0zDRYwJU8OMCI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3MWM4MjViYmI5ZTRjOWQ4MzJiZThiNDZlOWJkMjdi.webp",
+          "category": "autós hír",
+          "author": null
+        },
+        {
           "title": "Sallai Roland megmutatta, miért robbant ki komoly vita miatta",
           "url": "https://www.origo.hu/sport/sport-futball/2026/10/lille-galatasaray-bajnokok-ligaja-sallai-roland",
           "published": "2026-10-21T20:50:00+01:00",
@@ -1695,19 +1939,19 @@
         {
           "title": "A Házasság első látásra Renátója az Origónak tisztázta, mi a helyzet közte és Lívi között: „Ott tartunk, ahol abbahagytuk”",
           "url": "https://www.origo.hu/teve/2026/10/hazassag-elso-latasra-renato-livi-kapcsolata",
-          "published": "2026-10-21T20:05:00+01:00",
-          "description": "Nagyon jó édesanyának tartja Lívit.",
-          "image": "https://cdn.origo.hu/2026/10/ao3FQiCob6J3NOITRwTxbacvXSbJZENr0lgJp0K2Hrw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRhYjcwNjk1NzczMjQzMWZhZDlhNjJjNzA0ZGYxZWE4.webp",
-          "category": "Házasság első látásra",
+          "published": "2026-10-21T18:05:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "TV",
           "author": null
         },
         {
           "title": "Gulácsi Pétert megvédte a Villarreal edzője a kőkemény kritikák után",
           "url": "https://www.origo.hu/sport/sport-futball/2026/10/gulacsi-peter-villarreal-inigo-perez",
-          "published": "2026-10-21T20:00:00+01:00",
-          "description": "Gulácsi Péter kritikákat kapott a spanyol sajtótól, de a spanyol csapat edzője, Inigo Perez megvédte őt.",
-          "image": "https://cdn.origo.hu/2026/10/TavWUCzbJHQeuTQLcjy4IBfNcg0QW2KXrNV8mdQQmKg/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VhZjJiMjgwNGI3YTRjNzBiZmE4NDA4YWNkMWM4M2Ni.webp",
-          "category": "gulácsi péter",
+          "published": "2026-10-21T18:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
@@ -1825,24 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "„Nem sírhatok, mert lejön a gyönyörű sminkem!” – galéria a budapesti Fitparádéról",
-          "url": "https://www.origo.hu/sport/sport-egyeni/2026/10/fitparade-budapest-mr-olympia",
-          "published": "2026-10-21T16:30:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Harminc év után újra működik a Mátrix legendás Nokiája, de van egy titka, amit kevesen ismernek",
-          "url": "https://www.origo.hu/techbazis/2026/10/nokia-8110-ujra-mukodik-a-matrix-legendas-telefonja",
-          "published": "2026-10-21T16:30:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Tech",
           "author": null
         }
       ]
