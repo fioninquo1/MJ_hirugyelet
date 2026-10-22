@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-22T16:10:42.115759+00:00",
+  "scraped_at": "2026-10-22T16:15:38.380643+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Másik János: Cseh Tamás halála után tabu volt a Budapest, évekig nem nyúltam hozzá",
+          "url": "https://telex.hu/after/2026/10/22/telex-after-masik-janos-level-noveremnek-interju",
+          "published": "2026-10-22T16:00:43+00:00",
+          "description": "Cseh Tamás utolsó koncertje, a Levél nővéremnek születése, közös zenélés Szabó Gáborral és a nyolcvanas évek undergroundja. Másik Jánossal több évtizednyi magyar zenetörténetet és személyes emléket idéztünk fel.",
+          "image": "https://assets.telex.hu/images/20261021/1792571118-temp-5ou41or1aacg4olflmk_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Sajó Dávid"
+        },
+        {
+          "title": "Zelenszkij: Nincs személyes konfliktus köztem és Trump között",
+          "url": "https://telex.hu/kulfold/2026/10/22/zelenszkij-oroszorszag-ukrajna-haboru-tuzszunet-targyalas",
+          "published": "2026-10-22T15:53:11+00:00",
+          "description": "Az ukrán elnök szerint ha leülnek tárgyalni az oroszokkal, tűzszünet is lehetne.",
+          "image": "https://assets.telex.hu/images/20261022/1792684162-temp-ma312n9948arehlnobo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Ellenzékiekkel is egyeztet a küldöttség, amelynek a jelentése döntő lehet a „hetes cikkes” eljárásnál",
+          "url": "https://telex.hu/kulfold/2026/10/22/eu-europai-parlament-oroszorszag-bulgaria-romania-dronok",
+          "published": "2026-10-22T15:38:32+00:00",
+          "description": "A jövő héten nyolc európai parlamenti képviselő érkezik a szélsőbaloldaltól a szélsőjobboldalig. Korábban a fideszesek frakciója azt kérte, hogy Hankóékhoz is látogassanak el.",
+          "image": "https://assets.telex.hu/images/20261022/1792681639-temp-e49alpgabuhpfilfglc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Péntek reggel dönt a bíróság Matolcsy György letartóztatásáról",
+          "url": "https://telex.hu/belfold/2026/10/22/matolcsy-gyorgy-letartoztatas-birosag",
+          "published": "2026-10-22T15:34:46+00:00",
+          "description": "A Budai Központi Kerületi Bíróság dönt majd az ügyben.",
+          "image": "https://assets.telex.hu/images/20261022/1792683270-temp-spq19n4cqe0j0npfjbl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "December 25-ig letartóztatásban maradhat Bús Balázs",
+          "url": "https://telex.hu/belfold/2026/10/22/bus-balazs-nka-ugy-kecskemeti-jarasbirosagi-gyanusitas-letartoztatas-meghosszabbitasa",
+          "published": "2026-10-22T15:32:57+00:00",
+          "description": "Az óbudai korrupciós ügyben is gyanúsított Bús az NKA-botrány miatt van letartóztatásban.",
+          "image": "https://assets.telex.hu/images/20261022/1792683127-temp-7qp3jash51j73fbknng_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Az 1956-os forradalmároknak az akasztófahumor kínált menedéket a frontokon",
+          "url": "https://telex.hu/karakter/kultura/2026/10/22/56-perc-szabadsag-1956-hangjatek-vagvolgyi-b-andras-eorsi-laszlo-interju",
+          "published": "2026-10-22T15:01:21+00:00",
+          "description": "Hetven éve számos fővárosi lakásba hallatszott be a szabadságharc robaja. Odalent dörgött az utca és a nők sem maradtak ki az eseményekből. Interjú az 56 perc szabadság című hangjáték alkotóival, Vágvölgyi B. Andrással és Eörsi Lászlóval.",
+          "image": "https://assets.telex.hu/images/20261022/1792661973-temp-55cob9o18e74fkhkfnn_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Újraindult a magyarorszag.hu",
+          "url": "https://telex.hu/techtud/2026/10/22/magyarorszag-hu-tanacs-zoltan-ujraindult",
+          "published": "2026-10-22T14:59:38+00:00",
+          "description": "Tanács Zoltán tudományos és technológiai miniszter szerint megtörténtek a szükséges biztonsági intézkedések.",
+          "image": "https://assets.telex.hu/images/20261022/1792681133-temp-eu98ue9e6sca1pmpgeh_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Adjon pénzt az EU a keleti határtérségei szükségleteire, követeli az Európai Parlament",
+          "url": "https://telex.hu/kulfold/2026/10/22/eu-europai-parlament-keleti-regiok",
+          "published": "2026-10-22T14:56:22+00:00",
+          "description": "A szöveg szerint az ukrajnai határ melletti térségek hosszú távú költségeket viselnek logisztikai, közlekedési és humanitárius csomópontként.",
+          "image": "https://assets.telex.hu/images/20261022/1792678898-temp-0mpi8nhlbkrd9cbnend_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Macron szerint ultrabaloldali csoportok akarják megdönteni a köztársaságot Franciaországban",
+          "url": "https://telex.hu/kulfold/2026/10/22/emmanuel-macron-franciaorszag-tuntes-zavargasok-koztarsasag-megdontese",
+          "published": "2026-10-22T14:47:28+00:00",
+          "description": "Azokat a tüntetéseket betiltják, amelyeket nem a szakszervezetek hirdettek meg.",
+          "image": "https://assets.telex.hu/images/20261022/1792680241-temp-p9etmmgehq6dfddbeog_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Láncfűrésszel a kezében ordibált egy egri férfi, a szomszédja fűnyírótraktorral menekült",
+          "url": "https://telex.hu/zacc/2026/10/22/eger-lancfuresz-funyiro-ugyeszseg",
+          "published": "2026-10-22T14:36:38+00:00",
+          "description": "Zavarta, hogy nyírják a füvet.",
+          "image": "https://assets.telex.hu/images/20261022/1792679664-temp-dgrulg0oioaa4badfkn_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Még nem él a nemzetközi elfogatóparancs Matolcsy Ádám ellen, csak akkor jelezne a rendszer, ha Ferihegyen ellenőriznék az útlevelét",
+          "url": "https://telex.hu/gazdasag/2026/10/22/matolcsy-adam-stofa-gyorgy-nemzetkozi-korozes-mnb-ugy",
+          "published": "2026-10-22T13:59:23+00:00",
+          "description": "Nem véletlenül nem európai elfogatóparancs kiadását indítványozta az ügyészség, feltehetően tudják, hogy Matolcsy Ádám és Stofa György nem az EU-ban vannak.",
+          "image": "https://assets.telex.hu/images/20261022/1792677191-temp-euc4lhp02ufhbaofdef_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Először kapta el ember a haszonállatok között terjedő Shamonda vírust Franciaországban",
+          "url": "https://telex.hu/techtud/2026/10/22/shamonda-virus-fertozes-franciaorszag-allat-ember",
+          "published": "2026-10-22T13:49:08+00:00",
+          "description": "Nincs veszélyben a lakosság a kormány szerint.",
+          "image": "https://assets.telex.hu/images/20261022/1792676902-temp-a50ehpk98og62cpbidc_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Török Ferenc: Élni segít ez a sorsfordító történelmi pillanatról szóló sorsfordító regény",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/22/torok-ferenc-eletem-konyve-spiro-gyorgy",
+          "published": "2026-10-22T13:46:58+00:00",
+          "description": "Kelet-európai szellemi nyomor, titokzatosság és finom humor. A Moszkva tér rendezőjének legkedvesebb könyve bemutatja, mit jelentett árulók és besúgók között élni, mégis néha szabadon.",
+          "image": "https://assets.telex.hu/images/20261021/1792589749-temp-4huob881ha75doglekj_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Gryllus Dorka és a DM vitatott menopauza kampánya miatt kellett távoznia az RTL-nél a Reggeli főszerkesztőjének",
+          "url": "https://telex.hu/after/2026/10/22/tavozik-rtl-reggeli-foszerkeszto-markus-kata-gryllus-dorka-dm-mediahekk",
+          "published": "2026-10-22T13:41:09+00:00",
+          "description": "Márkus Kata leváltását az RTL nem indokolta, de lapunk több forrásból is úgy értesült, hogy a színésznővel készült adás volt az oka. A beszámolók szerint a figyelemfelhívó médiahekkről a műsorvezető, Barabás Évi sem tudott.",
+          "image": "https://assets.telex.hu/images/20261022/1792673603-temp-8la359n8bf1q9adgbod_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Megkapta a főváros az egyszeri 120 milliárdos támogatást, le is vonták belőle a szolidaritási adót",
+          "url": "https://telex.hu/belfold/2026/10/22/fovarosi-onkormanyzat-tamogatas-kormany-megallapodas",
+          "published": "2026-10-22T13:32:36+00:00",
+          "description": "Így végül 30 milliárdot kapott kézhez a főváros.",
+          "image": "https://assets.telex.hu/images/20261022/1792675821-temp-cg1bk1e700n68iilaag_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Former governor of Hungarian central bank in custody",
+          "url": "https://telex.hu/english/2026/10/22/former-governor-of-hungarian-central-bank-in-custody",
+          "published": "2026-10-22T13:29:29+00:00",
+          "description": "During György Matolcsy's time as head of the Hungarian National Bank, hundreds of billions of forints' worth of assets disappeared from the bank's foundation, while more and more suspicious transactions and the lavish lifestyle of his son’s business circle kept coming to light. The investigation ...",
+          "image": "https://assets.telex.hu/images/20261022/1792673546-temp-6f0q2o8i7h4a7pipaio_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Az ELTE munkatársait aggodalommal tölti el a Telex által bemutatott gánti szociális otthon helyzete",
+          "url": "https://telex.hu/belfold/2026/10/22/ganti-szocialis-intezmeny-elte-barczi-gusztav-gyogypedagogiai-kar",
+          "published": "2026-10-22T13:22:04+00:00",
+          "description": "A szakpolitikai változásokhoz segítséget ajánlottak az egyetem szakemberei.",
+          "image": "https://assets.telex.hu/images/20261015/1792073185-temp-ogf64ijk65mh9lcikfh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Gulyás Balázs: Voltak, akik Brüsszelben igyekeztek elérni, hogy kizárják a HUN-REN-t az uniós pályázatokból",
+          "url": "https://telex.hu/techtud/2026/10/22/gulyas-balazs-hun-ren-elnok-lemondas-tanacs-zoltan-tudomanyos-technologiai-miniszterium-stipsicz-andras-mta-atalakulas",
+          "published": "2026-10-22T12:52:24+00:00",
+          "description": "A kutatóhálózat leköszönő elnöke szerint a HUN-REN vezetése a hálózat megújításán dolgozott, de a kutatók egy része ellenállt az érdemi változásoknak. Utódja, Stipsicz András szerint a régi vezetés nem hallgatta meg a kutatókat, és üzleti szemléletű működést próbált rájuk kényszeríteni. Most új H...",
+          "image": "https://assets.telex.hu/images/20261022/1792662149-temp-sp5qn1027htf8bffioo_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Hónapokig nem javították meg csőtörés miatt nem működő fűtést a kecskeméti kórházban",
+          "url": "https://telex.hu/belfold/2026/10/22/kecskemet-korhaz-futes-hiba-javitas-hideg",
+          "published": "2026-10-22T12:36:44+00:00",
+          "description": "Augusztusban volt csőtörés, és azután javították meg egy éjszaka alatt, hogy ott járt a Népszabadság stábja.",
+          "image": "https://assets.telex.hu/images/20261022/1792672514-temp-iqoo0emb47pa5clcned_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Gauguin egyik legfontosabb művét csomagolták ki a Szépművészetiben",
+          "url": "https://telex.hu/karakter/kultura/2026/10/22/gauguin-kiallitas-szepmuveszeti-muzeum-kicsomagolas",
+          "published": "2026-10-22T12:35:40+00:00",
+          "description": "A francia festő életművének kiemelkedő darabja Dániából érkezett, és az intézmény hamarosan nyíló tárlatán lesz látható.",
+          "image": "https://assets.telex.hu/images/20261022/1792671080-temp-b5ujbfgehl081ddjofe_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Debreceni BMW-k lángoltak egy bécsi vonatbalesetben",
+          "url": "https://telex.hu/belfold/2026/10/22/debreceni-bmw-k-langoltak-egy-becsi-vonatbalesetben",
+          "published": "2026-10-22T12:31:59+00:00",
+          "description": "Az első jelentések szerint az egyik szállított elektromos BMW gyulladhatott ki először az ütközésben. A tűz ezután átterjedt más elektromos autókra is.",
+          "image": "https://assets.telex.hu/images/20261022/1792672305-temp-lgco9q09j81cenjfiil_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "A Nemzetközi Büntetőbíróság kapja idén a Szaharov-díjat",
+          "url": "https://telex.hu/kulfold/2026/10/22/szaharov-dij-nemzetkozi-buntetobirosag-europai-parlament-strasbourg",
+          "published": "2026-10-22T12:20:42+00:00",
+          "description": "Az Európai Parlament a díjjal a bíróság meghatározó munkáját ismeri el a nemzetközi jog és az igazságosság érvényre juttatásában.",
+          "image": "https://assets.telex.hu/images/20261022/1792671572-temp-sj5ebkid6ho0dpcgahl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Az Isztambuli Egyezmény a vállalásoktól a konkrét intézkedésekig tereli Romániát, kiemelve a hiányosságokat",
+          "url": "https://telex.hu/transtelex/2026/10/22/isztambuli-egyezmeny-romania-magyarorszag-nok-elleni-eroszak",
+          "published": "2026-10-22T12:02:52+00:00",
+          "description": "Romániában történtek előrelépések, de továbbra is komoly hiányosságok vannak, miközben a kisebbségi helyzetben élő nők problémái könnyen láthatatlanok maradnak.",
+          "image": "https://assets.telex.hu/images/20261014/1791985518-temp-onetftpe492t5gaklmb_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tamás Zsófia (Transtelex)"
+        },
+        {
+          "title": "Kiírták a közbeszerzést a budai fonódó villamos óbudai bővítésének tervezésére",
+          "url": "https://telex.hu/belfold/2026/10/22/kiirtak-a-kozbeszerzest-a-budai-fonodo-villamos-obudai-bovitesenek-tervezesere",
+          "published": "2026-10-22T11:53:16+00:00",
+          "description": "A tervezett villamos a Pacsirtamező utcán, a Flórián téren és a Szentendrei úton megy majd Kaszásdűlőig.",
+          "image": "https://assets.telex.hu/images/20261022/1792669960-temp-lth8ttldi5mncbhnkeh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Jogsértően járt el az Államkincstár a szolidaritási hozzájárulás levonásakor a bíróság szerint, a XV. kerületnek adtak igazat",
+          "url": "https://telex.hu/belfold/2026/10/22/budapest-szolidaritasi-hozzajarulas-fovarosi-torvenyszek-itelet-xv-kerulet",
+          "published": "2026-10-22T11:46:54+00:00",
+          "description": "Az ítélet szerint nem volt tisztességes az önkormányzattal szembeni eljárás.",
+          "image": "https://assets.telex.hu/images/20261022/1792669287-temp-cq544tuhe7o63nnlphe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1540,7 +1766,7 @@
         {
           "title": "Szakadt a győri Fidesz frakció, de a belőle alakult Csak Győr sem támogatja a független polgármestert",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/22/szakadt-a-gyori-fidesz-frakcio-de-a-belole-alakult-csak-gyor-sem-tamogatja-a-fueggetlen-polgarmestert",
-          "published": "2026-10-22T16:41:42.025162+01:00",
+          "published": "2026-10-22T16:41:38.275442+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1706,7 +1932,7 @@
           "url": "https://www.origo.hu/galeria/vombatok-vilagnapja-galeria",
           "published": "2026-10-22T17:15:00+01:00",
           "description": "",
-          "image": "https://cdn.origo.hu/2026/10/WFfGJdl1W7gGidtkCALDPnCNOrtMZb82bRVBLdd23g0/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzZWI5ZDg0ZGY4MjQ2OTU4MzgyMTM1N2QxYzBhNTQz.webp",
+          "image": "https://cdn.origo.hu/2026/10/M_TffPD0Ly7_m1ZuImCSUfaoWIh51lqsX475v9b0sQQ/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRiOTA3YjJhMzAxZjQyNTZiNzI5M2E1YjYxNTg4YTU3.webp",
           "category": "Galeria",
           "author": null
         },
