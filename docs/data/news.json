@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-23T16:10:39.684142+00:00",
+  "scraped_at": "2026-10-23T16:15:43.125277+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Magyar Péter: Aki egy agresszort menteget, semmit sem ért '56 üzenetéből",
+          "url": "https://telex.hu/belfold/2026/10/23/magyar-peter-1956-allami-unnepseg-beszed",
+          "published": "2026-10-23T16:03:23+00:00",
+          "description": "A Párizsban lefotózott Orbán Viktornak is üzent ezzel az állami ünnepségen mondott beszédében a miniszterelnök. Azt is mondta: vége annak, hogy a nemzeti ünnep csak egy politikai oldalnak jár, majd megígérte, hogy a megszerzett hatalmat soha nem használják fel a népük ellen.",
+          "image": "https://assets.telex.hu/images/20261023/1792771279-temp-s6k85qo81b3p2gnlhon_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Elrendelték Matolcsy György letartóztatását",
+          "url": "https://telex.hu/gazdasag/2026/10/23/mnb-ugy-matolcsy-gyorgy-letartoztatas-birosag-ules",
+          "published": "2026-10-23T15:40:27+00:00",
+          "description": "A volt jegybankelnök egy hónapra került letartóztatásba, mert a bíróság szerint fennáll a szökés, elrejtőzés veszélye valamint a tanúk befolyásolása. Letartóztatásba került Matolcsy Ádám cégeinek állandó ügyvédje valamint a Matolcsy Ádámhoz és Száraz Istvánhoz köthető egyik cég vezető tisztségvis...",
+          "image": "https://assets.telex.hu/images/20261023/1792758324-temp-8mikln0mtekk7damdma_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Roman Abramovics pénzügyei miatt nyomoz a ciprusi rendőrség",
+          "url": "https://telex.hu/kulfold/2026/10/23/roman-abramovics-penzugyei-miatt-nyomoz-a-ciprusi-rendorseg-bbc-tbij-tenyfeltaras-adoelkerules-deloitte",
+          "published": "2026-10-23T15:32:06+00:00",
+          "description": "Kiszivárgott iratok szerint luxusjachtok, villák és magánrepülőgépek tűnhettek el az orosz oligarcha cégének könyveléséből.",
+          "image": "https://assets.telex.hu/images/20261023/1792769389-temp-k17042hh2dn7cldkamp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Magyar: Now it's our turn to stand up for freedom",
+          "url": "https://telex.hu/english/2026/10/23/parlamenti-unnepi",
+          "published": "2026-10-23T15:20:24+00:00",
+          "description": "The heroes of 1956 left behind a legacy for Hungarian leaders, and there is much the country still needs to do together, PM Péter Magyar said in his speech at the commemoration in honour of the uprising against Soviet oppression.",
+          "image": "https://assets.telex.hu/images/20261023/1792767249-temp-ni2udc524oe7anfhoep_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Horváth Kávai Andrea"
+        },
+        {
+          "title": "A Fehér Ház szerint Melania Trump közvetítésével helyi tűzszünet jöhet Oleski városában",
+          "url": "https://telex.hu/kulfold/2026/10/23/melania-trump-kozvetites-helyi-tuzszunet-oleski-herszon-megye-dnyeper-folyo-ukrajna-oroszorszag",
+          "published": "2026-10-23T14:42:03+00:00",
+          "description": "A Dnyeper menti településen élőket az éhínség fenyegeti.",
+          "image": "https://assets.telex.hu/images/20261023/1792766210-temp-67an4jojja4k1efboed_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Havasi Bertalan Orbánról: Jelenleg min tudna változtatni, ha itthon lenne?",
+          "url": "https://telex.hu/belfold/2026/10/23/havasi-bertalan-orban-viktor-parizs-oktober-23",
+          "published": "2026-10-23T14:34:10+00:00",
+          "description": "Az egykori kormányfő sajtófőnökét arról kérdeztük, hogy Orbán Viktor miért tartózkodik Párizsban. Havasi szerint Orbán vissza fog térni a magyar belpolitikába, de „most még nem tartunk ott”.",
+          "image": "https://assets.telex.hu/images/20261023/1792765965-temp-8nparcc1jbg5aebfnnk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Putyin szóvivője szerint novemberben Abu-Dzabiban tervezik megtartani a háromoldalú tárgyalásokat Ukrajnáról",
+          "url": "https://telex.hu/kulfold/2026/10/23/dmitrij-peszkov-kreml-haromoldalu-targyalas-ukrajna-oroszorszag-egyesult-allamok",
+          "published": "2026-10-23T14:08:43+00:00",
+          "description": "Dmitrij Peszkov közölte, Brüsszel álláspontjától függ, hogy van-e értelme részt vennie a tárgyalásokon az Európai Unió különmegbízottjának.",
+          "image": "https://assets.telex.hu/images/20261023/1792764329-temp-k5cep1joenbu2phkjpl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Száraz István állítja, semmi köze nincs Matolcsyék ügyéhez, Matolcsy Ádámmal csak jogi képviselőkön és kollégákon keresztül egyeztet",
+          "url": "https://telex.hu/gazdasag/2026/10/23/szaraz-istvan-matolcsy-adam-mnb-ugy-quartz-befektetesi-alapkezelo",
+          "published": "2026-10-23T13:27:39+00:00",
+          "description": "Matolcsy Ádám egykori barátja levelet küldött a Telexnek, amiben részletesen reagál arra a 2025. februári ügyre, ami miatt Matolcsy Györgyöt őrizetbe vették.",
+          "image": "https://assets.telex.hu/images/20261023/1792761474-temp-99fup4v1nq2a5gkmjin_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Kármán András Stoltenberggel tárgyalt, megerősítették a Norvég Alapról szóló együttműködési megállapodást",
+          "url": "https://telex.hu/gazdasag/2026/10/23/karman-andras-jens-stoltenberg-megbeszeles-norveg-alap",
+          "published": "2026-10-23T13:22:55+00:00",
+          "description": "A megbeszélésen szóba került a magyar költségvetés, az euróbevezetés perspektívája és az EU belső piacának működése is.",
+          "image": "https://assets.telex.hu/images/20261023/1792760812-temp-e3j3qlhqu5hi4daeibh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Elindították az első orosz dízelszállítmányt az Egyesült Államokba",
+          "url": "https://telex.hu/gazdasag/2026/10/23/vlagyimir-putyin-donald-trump-dizel",
+          "published": "2026-10-23T13:02:00+00:00",
+          "description": "Peszkov tájékoztatása szerint a szállítmányok rendszeresek lesznek.",
+          "image": "https://assets.telex.hu/images/20261023/1792759973-temp-l482kpf5sdbkcleaide_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Újabb teherhajót ért dróntámadás a Fekete-tenger román partjainál, egy ember meghalt",
+          "url": "https://telex.hu/kulfold/2026/10/23/ujabb-teherhajot-ert-drontamadas-a-fekete-tenger-roman-partjainal-egy-ember-meghalt",
+          "published": "2026-10-23T12:54:45+00:00",
+          "description": "A helyszínre érkezett mentőegységek kilenc tengerészt tudtak kimenteni a vízből, találtak egy holttestet, a legénység további három tagja pedig eltűnt.",
+          "image": "https://assets.telex.hu/images/20261023/1792759619-temp-2shq6ogergkh1kcnabb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Párizsban fotózták le Orbán Viktort október 23-án",
+          "url": "https://telex.hu/kulfold/2026/10/23/orban-viktor-parizs-oktober-23",
+          "published": "2026-10-23T12:27:30+00:00",
+          "description": "A volt miniszterelnök egy hotel teraszán nyomkodta a telefonját.",
+          "image": "https://assets.telex.hu/images/20261023/1792762855-temp-chursl6hoq48fdfnjkd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "\"The whole city looks like a battlefield, the statue of Stalin has been dragged away\"",
+          "url": "https://telex.hu/english/2026/10/23/the-whole-city-looks-like-a-battlefield-the-statue-of-stalin-has-been-dragged-away-by-crane",
+          "published": "2026-10-23T12:21:00+00:00",
+          "description": "One of our readers sent us a letter that her grandmother wrote at age 15 about the first days of the Hungarian Revolution of 1956.",
+          "image": "https://assets.telex.hu/images/20261023/1792755341-temp-guvslf9a43afaejakcn_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Fehér János"
+        },
+        {
+          "title": "„Az egész város olyan, mint egy csatatér, a Sztálin szobrot daruval a Nemzeti elé húzták és mindenki aki odafér hozzá rug egyet rajta, közben állandóan csákányozzák”",
+          "url": "https://telex.hu/techtud/2026/10/23/egy-15-eves-lany-levelben-irta-meg-anyukajanak-mit-elt-at-az-56-os-forradalom-elso-napjaiban",
+          "published": "2026-10-23T11:36:09+00:00",
+          "description": "Egy olvasónktól jutott el hozzánk az a levél, amelyet a nagymamája 15 évesként írt az '56-os forradalom első napjairól.",
+          "image": "https://assets.telex.hu/images/20261022/1792665085-temp-935c8ckhokdm3lhpkli_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Autóból lövöldözött egy támadó Párizs agglomerációjában, egy ember meghalt, többen megsérültek",
+          "url": "https://telex.hu/kulfold/2026/10/23/autobol-lovoldoztek-jarokelokre-parizs-agglomeraciojaban-egy-ember-meghalt-tobben-megserultek",
+          "published": "2026-10-23T11:18:18+00:00",
+          "description": "Az ügyet a Nemzeti Terrorelhárítási Ügyészség vizsgálja.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Öt izraeli megsebesült egy lövöldözésben, Netanjahu elrendelte Ciszjordánia lezárását",
+          "url": "https://telex.hu/kulfold/2026/10/23/ot-izraeli-megsebesult-egy-lovoldozesben-netanjahu-elrendelte-ciszjordania-lezarasat",
+          "published": "2026-10-23T11:17:45+00:00",
+          "description": "Az Izraeli Védelmi Erők (IDF) közleménye szerint mindkét támadó fegyverest lelőtték, de folytatják a kutatást a térségben esetleges tettestársak után.",
+          "image": "https://assets.telex.hu/images/20261023/1792754143-temp-u0e18832u47kcfbkhbc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Hatalmas viharok sanyargatják a briteket és franciákat, keleten a Champi szupertájfun büntet",
+          "url": "https://telex.hu/kulfold/2026/10/23/hatalmas-viharok-sanyargatjak-a-briteket-es-franciakat-keleten-a-champi-szupertajfun-buntet",
+          "published": "2026-10-23T10:42:37+00:00",
+          "description": "130 kilométer/h-s szél, kicsavart fák, áram nélkül maradt otthonok, rengeteg sérült és egy halálos áldozat a tomboló viharok nyomán.",
+          "image": "https://assets.telex.hu/images/20261023/1792751846-temp-n0m0gl4bvb0n4mmbked_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Új rekordot állított fel a szél Budapesten",
+          "url": "https://telex.hu/belfold/2026/10/23/uj-rekordot-allitott-fel-a-szel-budapesten",
+          "published": "2026-10-23T10:38:45+00:00",
+          "description": "Egy híján 100 km/h-t ért el csütörtökön.",
+          "image": "https://assets.telex.hu/images/20261023/1792751889-temp-2q20fj67tdsr3dhepbn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "A szabadságról és Európáról beszélt Magyar, Matolcsyt meg letartóztatták – élő műsor október 23-án",
+          "url": "https://telex.hu/video/2026/10/23/1956-evfordulo-megemlekezes-elo-magyar-peter-fidesz-tisza-mi-hazank",
+          "published": "2026-10-23T10:31:32+00:00",
+          "description": "Turbulens időszakban ünnepli az ország az 1956-os forradalom 70. évfordulóját. Magyar Péter rengeteg európai vezetőt hívott meg Budapestre, Ursula von der Leyen még beszédet is tartott. A Fidesz holdudvara is felvonult, de ők inkább Matolcsy György letartóztatási tárgyalását figyelhették aggódva.",
+          "image": "https://assets.telex.hu/images/20261023/1792748368-temp-t0gb82jkb3e29kagkao_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Rédli Balázs"
+        },
+        {
+          "title": "A V4-ek aktívabbak a magyar kormányváltás óta, ez befolyást tud nekik adni az EU energiaügyi biztosa szerint",
+          "url": "https://telex.hu/gazdasag/2026/10/23/eu-europai-unio-europai-bizottsag-dan-jorgensen-ets-v4-interju",
+          "published": "2026-10-23T10:16:53+00:00",
+          "description": "Dan Jørgensen kiállt a rendszer mellett, amelynek a hatásait részben Magyar Péter kérésére mérik fel újra. A biztos csodálkozna, ha a vizsgálat nem azt mutatná, hogy megfelelőek az eszközeik.",
+          "image": "https://assets.telex.hu/images/20261023/1792749683-temp-ke595uiap7mh7geelpl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Az oktatási minisztérium SNI munkacsoportja javasolja, hogy ne mindig a tanítás után vagy a kedvenc tárgyak helyett legyenek a fejlesztések",
+          "url": "https://telex.hu/belfold/2026/10/23/az-oktatasi-miniszterium-sni-munkacsoportja-javasolja-hogy-a-gyogypedagogus-az-osztalytermi-munkaban-is-reszt-vehessen",
+          "published": "2026-10-23T09:42:24+00:00",
+          "description": "Azt is javasolják az intézményeknek, hogy minden pedagógus ismerje az SNI-irányelveket.",
+          "image": "https://assets.telex.hu/images/20261023/1792748516-temp-bhlsfsruh873fkcdaoe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Azt hiszik, a rendszer még megjavítható – 56 perc szabadság, 1. rész",
+          "url": "https://telex.hu/karakter/kultura/2026/10/23/56-perc-szabadsag-hangjatek-1-resz",
+          "published": "2026-10-23T09:19:59+00:00",
+          "description": "Kalandvágy és hazafiság, kitalált és valós alakok. Szabad Európa Rádió, felzúgó taps a Bem téren és egy szál virág az utcakövön. Az 1956-ról készült dokumentarista hangjáték 1. részének premierje a Telexen.",
+          "image": "https://assets.telex.hu/images/20261022/1792675430-temp-h8em9v635dg7bdckeno_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Magyar Péter: Hosszú éveken át azt hazudták nekünk, hogy a nemzeti ünnep csak egy politikai oldalnak jár",
+          "url": "https://telex.hu/belfold/2026/10/23/oktober-23-nemzeti-unnep-1956-forradalom-70-evfordulo-megemlekezes-magyar-peter-parlament",
+          "published": "2026-10-23T09:19:52+00:00",
+          "description": "„Aki egy agresszort menteget, semmit sem ért '56 üzenetéből, legyen az Budapesten vagy egy párizsi teraszon” – üzent Orbánnak a kormányfő a Kossuth téren. A Fidesz megemlékezésén rendőrök akadályozták meg, hogy ellentüntetőket verjenek meg. Bóka János szerint „kutyanehéz évek állnak előttünk”. A ...",
+          "image": "https://assets.telex.hu/images/20261023/1792766352-temp-rlqg407t2l583agamgf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Telex"
+        },
+        {
+          "title": "Infrastrukturális és energetikai létesítményeket értek orosz légicsapások éjszaka Ukrajnában",
+          "url": "https://telex.hu/kulfold/2026/10/23/infrastrukturalis-es-energetikai-letesitmenyeket-ertek-orosz-legicsapasok-ejszaka-ukrajnaban",
+          "published": "2026-10-23T08:56:41+00:00",
+          "description": "Ketten megsebesültek az északkelet-ukrajnai Szumiban egy benzinkutat ért orosz dróncsapásban, Odessza megyében egy hőerőművet és civil infrastruktúrát értek találatok.",
+          "image": "https://assets.telex.hu/images/20261023/1792745739-temp-4r9e5836pl6b8onnmjf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Ránk számíthattok. Most mi számítunk rátok.",
+          "url": "https://telex.hu/kozlemeny/2026/10/23/rank-szamithattok-most-mi-szamitunk-ratok",
+          "published": "2026-10-23T08:30:09+00:00",
+          "description": "Háromezer új támogatót keresünk. Segítsetek, hogy a Telex továbbra is mindenki számára szabadon olvasható legyen!",
+          "image": "https://assets.telex.hu/images/20261023/1792752893-temp-2lbtvdjsle53cfobcbi_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Német Tamás"
+        }
+      ]
     },
     {
       "id": "444",
@@ -493,6 +719,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Már a hívei sem hallgatták végig Magyar Pétert + videó",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-beszed-kossuth-ter-hivek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-10-23T16:13:56+00:00",
+          "description": "Látványosan ürült a Kossuth tér Magyar Péter beszéde alatt.",
+          "image": "https://cdn.magyarnemzet.hu/2026/10/mAJa5Ui0zCThIfwhHDyCPmsbshL1orxOfkRrnIYPYoY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdkNDYwNzFlMDQ4NDQ0ZTU4NThkMjlmMDkwOGFlNGJl.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
           "title": "Letartóztatták Matolcsy Györgyöt",
           "url": "https://magyarnemzet.hu/belfold/2026/10/letartoztattak-matolcsy-gyorgyot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-10-23T15:47:11+00:00",
@@ -706,15 +941,6 @@
           "description": "Magasabb hiánnyal számol és kockázatokra hívja fel a figyelmet a londoni elemzőház.",
           "image": "https://cdn.magyarnemzet.hu/2026/10/Oc0fv2EAL3M5bC1up8_cssMgoiccKD1209y_BqX4Pls/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3MDY5MzJiNTlkNDRhMTU4YzRhNzFlN2ViNjdiMjI3.jpg",
           "category": "gazdaság",
-          "author": null
-        },
-        {
-          "title": "Felvonták a nemzeti lobogót az Országház előtt",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/1956-oktober-23-megemlekezes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-10-23T08:35:27+00:00",
-          "description": "Az 1956-os forradalom és szabadságharc 70. évfordulója alkalmából országszerte megemlékezéseket tartanak.",
-          "image": "https://cdn.magyarnemzet.hu/2026/10/_h4UnSPWS_iTV-eUU2I_2TJrtfoDU8zrgyqSnBpJ0mE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZmYzFjNTA5Y2Y3MzRhNzU5MjMzMjM4MzJmNjVhNjYz.jpg",
-          "category": "belföld",
           "author": null
         }
       ]
@@ -1305,8 +1531,8 @@
           "title": "Letartóztatták Matolcsy Györgyöt és társait",
           "url": "https://hvg.hu/gazdasag/20261023_letartoztattak-matolcsy-gyorgyot-es-tarsait",
           "published": "2026-10-23T15:42:44+00:00",
-          "description": "Harminc napra szól a bíróság letartóztatási határozata.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5c53e048-bae4-4527-8b37-2346918c88ac.jpg",
+          "description": "Harminc napra szól a bíróság letartóztatási határozata, mivel a bíróság szerint a gyanúsítottak a tanúkat befolyásolhatják, rejtett vagyonuk lehet, az eljárás sikere érdekében el kell őket szigetelni.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/832fdb32-a445-41a0-99d2-9d4cd9a37c98.jpg",
           "category": "Gazdaság",
           "author": "szerzo@hvg.hu (HVG)"
         },
@@ -1540,7 +1766,7 @@
         {
           "title": "Magyar Péter: Aki Moszkvában keres támaszt, annak legyen 1956 intő figyelmeztetés",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/23/magyar-peter-aki-moszkvaban-keres-tamaszt-annak-legyen-1956-into-figyelmeztetes",
-          "published": "2026-10-23T17:08:39.682164+01:00",
+          "published": "2026-10-23T17:08:43.122912+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Bede Zsolték ellentüntetőkre támadtak a Fidesz megemlékezésén, Kubatov \"megoldóembere\" volt a nyugtató",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/23/bede-zsoltek-ellentuentetokre-tamadtak-a-fidesz-megemlekezesen-kubatov-megoldoembere-volt-a-nyugtato-koezben",
-          "published": "2026-10-23T16:38:39.682367+01:00",
+          "published": "2026-10-23T16:38:43.123127+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1621,11 +1847,29 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Ilyen volt a Fidesz 1956-os megemlékezése a Bem téren",
+          "url": "https://www.origo.hu/galeria/ilyen-volt-a-fidesz-1956-os-megemlekezese-a-bem-teren",
+          "published": "2026-10-23T18:04:00+01:00",
+          "description": "",
+          "image": "https://cdn.origo.hu/2026/10/7C2bHfrcp6IzRaYTo6Czr2nVJOnrq9g8U8yZsL-hJRQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IwOTY5OTViZTQ3NjQ4ODhhNGFjZDhiNThmMGRlM2Q5.webp",
+          "category": "Galeria",
+          "author": null
+        },
+        {
+          "title": "Dráma a Bayern Münchennél: Kompany összeesett, kórházba kellett szállítani",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/10/vincent-kompany-osszeeses-bayern-munchen",
+          "published": "2026-10-23T18:04:00+01:00",
+          "description": "A bajorok edzője vírusfertőzéssel küzd.",
+          "image": "https://cdn.origo.hu/2026/10/aQ6i67nNHqfdGDQkss-9UBcYUgLh_WNhYnkOgmLQPbY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNkM2FmMWQwMTM3ZTQ1Nzk5MWIyZGQ4NTViNDU0ZGNk.webp",
+          "category": "Bayern München",
+          "author": null
+        },
+        {
           "title": "Mindenki cikizte a szemöldöke miatt, most a világ legszebb színésznője: íme, Emilia Clarke legjobb alakításai",
           "url": "https://www.origo.hu/galeria/emilia-clarke-szuletesnap-galeria",
           "published": "2026-10-23T18:00:00+01:00",
           "description": "Ma még a tűzokádó szörnyetegek is ünneplő ölebekké változnak, hiszen születésnapos a sárkányok anyja. Emilia Clarke-nak hosszú és rögös út vezetett a sikerhez, és úgy tűnt, sose jön el számára a nagy áttörés, 40 éves korára viszont a tévétörténelem egyik legnagyobb sztárjává vált a Trónok harca szépsége.",
-          "image": "https://cdn.origo.hu/2026/10/XYicVUlzoYo4n7tKjl1HG7Ert0xAmmJTM9f4gwjjpBo/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzZTk1ODgwZTM0MjRkNTJhNGFjZjc1ZDYzYzg0ZTg0.webp",
+          "image": "https://cdn.origo.hu/2026/10/zbVXIEAZToU-gMzc15DNVNGr65NnOOSlD4dbLkduCjs/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdkNGFmOTAwOWRhMDRkNDg4N2ZkMzhhZTZhYjU0NjE2.webp",
           "category": "Galeria",
           "author": null
         },
@@ -1695,19 +1939,19 @@
         {
           "title": "Súlyos fordulat a Real Madrid botrányában, akár kétéves eltiltás is jöhet",
           "url": "https://www.origo.hu/sport/sport-futball/2026/10/real-madrid-javier-tebas-botrany-fejlemenyek",
-          "published": "2026-10-23T17:15:00+01:00",
-          "description": "A sporthatóság is lépett az ügyben.",
-          "image": "https://cdn.origo.hu/2026/10/PsUhMFRjBoVafs3paghSckQuHIVbLsiQZddniciDxyo/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM3YTQyMGNjNDdlZDRmZTBiMzFiNjBlZjU2MGMwNTRl.webp",
-          "category": "Real Madrid",
+          "published": "2026-10-23T15:15:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Sport",
           "author": null
         },
         {
           "title": "Eszméletét vesztette a Wizz Air egyik pilótája, azonnal lépnie kellett a kapitánynak",
           "url": "https://www.origo.hu/nagyvilag/2026/10/wizz-air-elajult-pilota-lengyelorszag",
-          "published": "2026-10-23T17:06:00+01:00",
-          "description": "Vészhelyzet a Wizz Air járatán.",
-          "image": "https://cdn.origo.hu/2026/10/HYWbDH8LJZzcp4-lh8xUmNVwAiwn4QEPKmrA0ZzhoEs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI4OTllYjlhYjc1YjRkMjg4MDdlZWZjNDA1MDI4NDQ5.webp",
-          "category": "pilóta",
+          "published": "2026-10-23T15:06:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1822,24 +2066,6 @@
           "title": "Ursula von der Leyen otthon érzi magát Budapesten, Magyar Péternek köszönetet is mondott",
           "url": "https://www.origo.hu/belpol/2026/10/ursula-von-der-leyen-oktober-23-parlament-beszed",
           "published": "2026-10-23T13:02:01+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "20 éve mutatták be az egyik legjobb filmet október 23-ról: így néznek ki ma a Szabadság, szerelem sztárjai – Galéria",
-          "url": "https://www.origo.hu/filmklub/2026/10/oktober-23-szabadsag-szerelem-evfordulo",
-          "published": "2026-10-23T13:00:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Filmklub",
-          "author": null
-        },
-        {
-          "title": "Te tudod, hol fotózták le Orbán Viktort október 23-án?",
-          "url": "https://www.origo.hu/belpol/2026/10/orban-viktor-oktober-23",
-          "published": "2026-10-23T12:48:02+00:00",
           "description": null,
           "image": null,
           "category": "Belpolitika",
