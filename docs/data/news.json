@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-25T12:35:28.676262+00:00",
+  "scraped_at": "2026-10-25T12:40:38.156990+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A Colosseumba is bejutottak az olasz tüntetők, de nagyrészt sikerült elkerülni az erőszakos jeleneteket",
+          "url": "https://telex.hu/kulfold/2026/10/25/giorgia-meloni-olaszorszag-tuntetes-rendorseg-colosseum",
+          "published": "2026-10-25T12:37:16+00:00",
+          "description": "Giorgia Meloni szerint ez nagyrészt annak köszönhető, hogy elképesztő mennyiségű rendőrt vezényeltek az olasz városokba.",
+          "image": "https://assets.telex.hu/images/20261025/1792931639-temp-8ir133c8i07gakhebjh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Orbán Viktor a Blikknek árulta el, hogyan emlékezett meg az 1956-os forradalomról Párizsban",
+          "url": "https://telex.hu/belfold/2026/10/25/orban-viktor-parizs-blikk-1956-os-forradalom-megemlekezes",
+          "published": "2026-10-25T12:32:02+00:00",
+          "description": "A volt kormányfő a lapnak azt mondta, szombaton felkereste Nagy Imre és mártírtársai párizsi emlékművét.",
+          "image": "https://assets.telex.hu/images/20261025/1792931470-temp-so06r4kj4uhncbelaik_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Elon Musk elismerte, hogy a SpaceX korlátozta Ukrajna hozzáférését a Starlinkhez",
+          "url": "https://telex.hu/kulfold/2026/10/25/elon-musk-starlink-korlatozas-ukrajna-starshield",
+          "published": "2026-10-25T11:51:56+00:00",
+          "description": "A techmilliárdos szerint Ukrajna megsértette a felhasználási feltételeket.",
+          "image": "https://assets.telex.hu/images/20261025/1792928896-temp-4n5calnac9kefbifhmp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A forradalom nagyobb nálunk, Gizi! – 56 perc szabadság, 4. rész",
+          "url": "https://telex.hu/karakter/kultura/2026/10/25/56-perc-szabadsag-hangjatek-4-resz",
+          "published": "2026-10-25T11:50:44+00:00",
+          "description": "Páncéltörők és Molotov-koktélok, földalatti ellenállás és sebkötözés. Az először a Telexen hallható hangjáték a főváros VII., VIII. és IX. kerületébe kísér, amelyeket a korabeli vicc a világ katonai nagyhatalmai között emlegetett.",
+          "image": "https://assets.telex.hu/images/20261024/1792837314-temp-5pqgafptstd7ffkdcel_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Mozgó autóból lőttek egy szabadidőközpontra Ausztráliában, négyen megsérültek",
+          "url": "https://telex.hu/kulfold/2026/10/25/ausztralia-lovoldozes-boxverseny-szorakozohely-auto-serultek",
+          "published": "2026-10-25T10:39:56+00:00",
+          "description": "A központban éppen bokszversenyt tartottak, egy 19 éves nő kritikus állapotban van.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A százhúsz éves svájci csodareggeli",
+          "url": "https://telex.hu/gasztro/2026/10/25/a-szazhusz-eves-svajci-csodareggeli",
+          "published": "2026-10-25T10:33:26+00:00",
+          "description": "Az éjszakai zabpehely az utóbbi évek legmenőbb egészséges reggelije – de hogyan nézett ki az eredeti 120 éve, és mi köze van hozzá Thomas Mann híres regényének?",
+          "image": "https://assets.telex.hu/images/20261016/1792161991-temp-05ph720k051m8epklgi_cimlap-normal.jpg",
+          "category": "Gasztro",
+          "author": "Ács Bori"
+        },
+        {
+          "title": "Megbírságolták a Szent Imre Kórházat, ahol későn ismerték fel egy idős nő halálos infarktusát",
+          "url": "https://telex.hu/direkt36/2026/10/25/megbirsagoltak-a-szent-imre-korhazat-ahol-keson-ismertek-fel-egy-idos-no-halalos-infarktusat",
+          "published": "2026-10-25T10:29:57+00:00",
+          "description": "A Direkt36 írta meg részletesen Piroska történetét, aki nem kapott állapotának megfelelő ellátást és néhány órával később meghalt. Két év telt el azóta, a kórház most először fejezte ki részvétét a családnak.",
+          "image": "https://assets.telex.hu/images/20261022/1792665341-temp-hockpo4dh9vcccphlbb_cimlap-normal.jpg",
+          "category": "Direkt36",
+          "author": "Marton Kamilla"
+        },
+        {
+          "title": "II. világháborús bomba hatástalanítása miatt lezárták az Üllői út egy szakaszát",
+          "url": "https://telex.hu/belfold/2026/10/25/ii-vilaghaborus-bomba-hatastalanitasa-miatt-lezartak-az-ulloi-ut-egy-szakaszat",
+          "published": "2026-10-25T10:00:41+00:00",
+          "description": "Egy építkezésen került elő egy újabb rombolóbomba, a Thököly út és Haladás utca közötti szakaszt zárták le, amíg dolgoznak a tűzszerészek.",
+          "image": "https://assets.telex.hu/images/20261025/1792922271-temp-vr8er8tbh009djhkjkn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Hivatalos: Rónai Egon a Network4-nél folytatja",
+          "url": "https://telex.hu/after/2026/10/25/ronai-egon-network4-atv-media",
+          "published": "2026-10-25T09:49:12+00:00",
+          "description": "A szórakoztató és sportcsatornákkal bíró médiavállalat saját gyártású közéleti műsorokkal erősít.",
+          "image": "https://assets.telex.hu/images/20261025/1792921649-temp-2cs7vps5rk3ncblpjgm_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Magyar Péter az ellenzék október 23-i megemlékezéséről: A korábban közpénzen kitartott fideszes propagandisták egymást püfölték és a valódi újságírókat fenyegették",
+          "url": "https://telex.hu/belfold/2026/10/25/magyar-peter-oktober-23-megemlekezes-fidesz-mi-hazank",
+          "published": "2026-10-25T09:43:01+00:00",
+          "description": "A miniszterelnök szerint a „fejetlen ellenzék” méltatlanul viselkedett a nemzeti ünnepen.",
+          "image": "https://assets.telex.hu/images/20261025/1792921332-temp-3heqijo36f1f2faffif_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Igazi sztár lett a dél-koreai kikötőváros csatornájába tévedt cápa, de pár hét után sikerült visszaterelni a tengerbe",
+          "url": "https://telex.hu/kulfold/2026/10/25/del-korea-puszan-csatorna-capa-tenger-mentes",
+          "published": "2026-10-25T09:12:52+00:00",
+          "description": "Bukangi többször is visszatért a szűk mesterséges csatornába, ahol több mint másfél millió rajongó várt rá az elmúlt hetekben.",
+          "image": "https://assets.telex.hu/images/20261025/1792919385-temp-s1s9m5u0ov4g3cmjjbk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Maszkos fiatalok verték szét Barcelona belvárosát",
+          "url": "https://telex.hu/kulfold/2026/10/25/barcelona-spanyolorszag-rongalas-tuntetes-vandalizmus",
+          "published": "2026-10-25T08:38:18+00:00",
+          "description": "A város polgármestere szerint a rongálásnak nincs köze a lakhatási válság miatti tüntetéshez, ez csak „öncélú erőszak” volt.",
+          "image": "https://assets.telex.hu/images/20261025/1792917460-temp-l8jdhrkhd32s1amjonm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "A túlaranyozott Fehér Házat és az iráni háborút is élesen bírálta Barack Obama egy demokrata kampányrendezvényen",
+          "url": "https://telex.hu/kulfold/2026/10/25/egyesult-allamok-felidos-valasztasok-barack-obama-kampany-kritika-donald-trump",
+          "published": "2026-10-25T08:27:59+00:00",
+          "description": "„Ez a választás az utolsó és legjobb esélyünk arra, hogy legalább részben megfékezzük ennek a kormányzatnak az ostobaságait” – fogalmazott a volt elnök.",
+          "image": "https://assets.telex.hu/images/20261025/1792916851-temp-amm438tjrv19cnjjgjl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Ha Stallone városába jössz, tiszteletben kell tartanod a törvényeit",
+          "url": "https://telex.hu/after/2026/10/25/heti-streamingajanlo-tulsa-kiralya-jaga-a-titkosugynok",
+          "published": "2026-10-25T08:23:46+00:00",
+          "description": "Heti streamingajánlónkban egy szláv mítosz modern feldolgozása, Sylvester Stallone maffiás sorozata és a Cyberpunk sorozat új évada is helyet kapott.",
+          "image": "https://assets.telex.hu/images/20261024/1792852185-temp-7jf410j00hd54dpmkln_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "Mindenki győzelemre készül: Vučić átmentené a hatalmát, az egyetemisták listája pedig megbuktatná a rendszerét",
+          "url": "https://telex.hu/kulfold/2026/10/25/szerbia-parlamenti-valasztas-vucic-egyetemista-lista-srdanovic-elozetes",
+          "published": "2026-10-25T08:16:59+00:00",
+          "description": "Az újvidéki előtető leomlása óta kibontakozó mozgalom minden korábbinál komolyabb kihívás elé állítja a szerb politikát másfél évtizede uraló Vučićot, aki arra készül, hogy az elnökiből visszaüljön a kormányfői székbe. A szerbiai civilek mellett Magyarországról is érkeztek aktivisták, hogy megaka...",
+          "image": "https://assets.telex.hu/images/20261023/1792758340-temp-cjkuigmb3mhm0efdale_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Michelisz tripla dobogóval jött vissza a bajnokság 2. helyére Csöcsiangban",
+          "url": "https://telex.hu/sport/2026/10/25/michelisz-norbert-turaauto-tcr-world-tour-kina-csocsiang-tripla-dobogo",
+          "published": "2026-10-25T07:58:32+00:00",
+          "description": "A Hyundai két kettős győzelmet is aratott, Michelisz az időmérő megnyerése után három 2. helyet szerzett. Már csak három pilótának van esélye a bajnoki címre.",
+          "image": "https://assets.telex.hu/images/20261025/1792914982-temp-hj0du83arh7iadbmfcj_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Péli-Koroknai Gergely"
+        },
+        {
+          "title": "Szerbiában már bemondták, mikor indul a személyszállítás a Budapest–Belgrád-vasútvonalon, Vitézyék nem rohannának ennyire előre",
+          "url": "https://telex.hu/belfold/2026/10/25/budapest-belgrad-vasutvonal-szerbia",
+          "published": "2026-10-25T07:42:44+00:00",
+          "description": "A szerb vasútvállalat már azt is közölte, naponta hány járat indul majd a szerb és magyar fővárosok között és mennyibe kerülnek majd a jegyek.",
+          "image": "https://assets.telex.hu/images/20261025/1792914059-temp-4a71vfrvkp09bemjbbg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "A brit miniszterelnök kész a szabad mozgás visszaállításáról tárgyalni az EU-val",
+          "url": "https://telex.hu/kulfold/2026/10/25/andy-burnham-egyesult-kiralysag-europai-unio-szabad-mozgas-targyalas",
+          "published": "2026-10-25T07:32:49+00:00",
+          "description": "Andy Burnham szerint az elmúlt években változtak a migrációs kihívások, amiről őszinte beszélgetést kell folytatni az EU-val.",
+          "image": "https://assets.telex.hu/images/20261025/1792913557-temp-9fjn9lgb4laa1ihfnfg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Kárpáti panorámatúra a Prahova-völgy felett: páholyból néztük a Bucsecs falait",
+          "url": "https://telex.hu/transtelex/2026/10/25/tura-erdely-bucsecs-hegyseg",
+          "published": "2026-10-25T07:19:59+00:00",
+          "description": "A Prahova-völgy fölé tornyosuló Baj-hegység gerincének pont azért érdemes nekivágni, amit ígér is: szelíden hullámzó, végtelen gyepes hátakat, ahonnan zavartalanul bámulhatjuk a Kárpátok sziklafalait.",
+          "image": "https://assets.telex.hu/images/20261025/1792906600-temp-4tp15n71mcfm4anhmgi_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tőkés Hunor (Transtelex)"
+        },
+        {
+          "title": "A bejelentőknek védelmet, a betegeknek őszintébb egészségügyet ígér Hegedűs Zsolt",
+          "url": "https://telex.hu/belfold/2026/10/25/hegedus-zsolt-egeszsegugy-betegelegedettseg-bejelentovedelem",
+          "published": "2026-10-25T07:08:29+00:00",
+          "description": "Új rendszereket alakítanak ki, hogy egy egészségügyi dolgozót se lehessen megfélemlíteni vagy ellehetetleníteni, ha jelez egy problémát.",
+          "image": "https://assets.telex.hu/images/20261025/1792912061-temp-r2h5mfkjbbsv1cfeopi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Darvasi László: Család – Az árvaság könyve (részlet)",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/25/darvasi-laszlo-csalad-az-arvasag-konyve-reszlet",
+          "published": "2026-10-25T06:02:36+00:00",
+          "description": "Olvasson bele Darvasi László eddigi legszemélyesebb írásába!",
+          "image": "https://assets.telex.hu/images/20261021/1792572598-temp-p1og7mk1a6n0epnphhl_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Nyolc év alatt több mint 1 milliárd forintnyi támogatást adtak Matolcsyék alapítványai az MCC-nek",
+          "url": "https://telex.hu/gazdasag/2026/10/25/mcc-jegybank-mnb-padme-pallas-athene-domus-meriti-alapitvany-matolcsy-gyorgy-adam-tamogatas-1-1-milliard-8-ev-alatt",
+          "published": "2026-10-25T06:02:17+00:00",
+          "description": "A PADME-tól kiperelt dokumentumok szerint másfél év leforgása alatt 750 millió forintot kapott a Fidesz-közeli szakkollégium, annak azonban kevés nyomát találni, hogy mire költötték a pénzt.",
+          "image": "https://assets.telex.hu/images/20261022/1792684110-temp-9hh32bag2ek16ohgjhd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Naptárilag már véget ért, mégis félbeszakadt az 56-os focibajnokság, nem is hirdettek győztest",
+          "url": "https://telex.hu/eszkombajn/2026/10/25/az-1956-os-focibajnoksag-nem-hirdettek-gyoztest",
+          "published": "2026-10-25T06:00:47+00:00",
+          "description": "A Honvéd vezetett, de a Vörös Lobogónak még volt négy elmaradt meccse, amiket sohasem pótoltak.",
+          "image": "https://assets.telex.hu/images/20261022/1792673880-temp-digva74du2288hppfie_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Donald Trump leadta a szavazatát a félidős választáson",
+          "url": "https://telex.hu/kulfold/2026/10/25/egyesult-allamok-felidos-valasztas-donald-trump-melania-trump-szavazat-florida",
+          "published": "2026-10-25T05:30:02+00:00",
+          "description": "Az amerikai elnök Melania Trump oldalán, személyesen szavazott Floridában szombaton, de előtte még golfozott egyet.",
+          "image": "https://assets.telex.hu/images/20261025/1792879804-temp-475tufteieaq5cndpnh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Milyen lesz a magyar New Deal?",
+          "url": "https://telex.hu/g7/kozelet/2026/10/25/magyar-new-deal-koltsegvetes-gazdasagpolitika-jovo",
+          "published": "2026-10-25T03:51:01+00:00",
+          "description": "A gazdaság szereplőinek többsége megnyerhető egy új dealhez, különösen akkor, ha abban nem csak az szerepel: ne próbáljatok lopni, hanem a döntési-cselekvési szabadságukat is visszakapják.",
+          "image": "https://assets.telex.hu/images/20261024/1792877120-temp-5mhtjqtvi06mfcbfihg_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Bod Péter Ákos"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1540,7 +1766,7 @@
         {
           "title": "A halálraítélt bajszos tábornok Londonból öntötte a lelket honfitársaiba: De Gaulle – Az ellenállás hajnala",
           "url": "https://kontroll.hu/cikk/kultura/2026/10/25/a-halalraitelt-bajszos-tabornok-londonbol-oentoette-a-lelket-honfitarsaiba-de-gaulle-az-ellenallas-hajnala",
-          "published": "2026-10-25T13:09:28.642535+01:00",
+          "published": "2026-10-25T13:08:38.154677+01:00",
           "description": null,
           "image": null,
           "category": "Kultura",
@@ -1549,7 +1775,7 @@
         {
           "title": "Vidéki prókátor: a Mi Hazánk neve mostantól Nása Rogyina",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/25/videki-prokator-a-mi-hazank-neve-mostantol-nasa-rogyina",
-          "published": "2026-10-25T13:06:28.642789+01:00",
+          "published": "2026-10-25T13:05:38.154885+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1620,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "El Clásico: a Barcelona a bajnoki címért, a Real Madrid a túlélésért játszik",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/10/el-clasico-barcelona-real-madrid-elozetes",
+          "published": "2026-10-25T13:30:00+01:00",
+          "description": "Már a vasárnap esti rangadón eldőlhet a bajnoki cím sorsa.",
+          "image": "https://cdn.origo.hu/2026/10/A_IzgBKV-qX0FYgRunkw8WhLuUwgSIMW3rdGw-QBa3Q/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhjZmRhYzhiZmU1NTQ3YWJhY2JmMjVkYmFhOTJlYjIx.webp",
+          "category": "El Clásico",
+          "author": null
+        },
         {
           "title": "Vidéki intézmény is van a három legjobb gimnázium között",
           "url": "https://www.origo.hu/belpol/2026/10/gimnazium-rangsor-videk-budapest",
@@ -1704,10 +1939,10 @@
         {
           "title": "Kiderült, hol folytatja Rónai Egon az ATV után",
           "url": "https://www.origo.hu/itthon/2026/10/ronai-egon-atv-tavozas-uj-munkahely-network4",
-          "published": "2026-10-25T11:52:00+01:00",
-          "description": "Hivatalossá vált, hol folytatja pályafutását.",
-          "image": "https://cdn.origo.hu/2026/10/ZOZWbCG-7ojEzgwPJmVq5sp7VjlcEQLJ8iftrz3keZs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVlNjBmNTg1MmU3YTQ1MjZiMTdlNTM1OTRkYTQxZGQ1.webp",
-          "category": "műsorvezető",
+          "published": "2026-10-25T10:52:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Elszólta magát Harry herceg: ezt árulta el Károly király egészségi állapotáról",
-          "url": "https://www.origo.hu/teve/2026/10/harry-karoly-egeszseg-kiralyi-csalad",
-          "published": "2026-10-25T08:50:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "TV",
           "author": null
         }
       ]
