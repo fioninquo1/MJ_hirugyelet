@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-28T08:40:39.054490+00:00",
+  "scraped_at": "2026-10-28T08:45:37.698325+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Magyar bejelentette, hogy 150 ezer forintig illetékmentesek lesznek a banki átutalások",
+          "url": "https://telex.hu/gazdasag/2026/10/28/tranzakcios-dij-magyar-peter-bejelentes-150-ezer-forint-modositas",
+          "published": "2026-10-28T08:22:02+00:00",
+          "description": "A lakosságnak 50-ről 150 ezer forintra emelik a tranzakciós díj nélkül utalható összegek limitjét.",
+          "image": "https://assets.telex.hu/images/20261028/1793175610-temp-5n3ovmo19m4e7bikjkp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "A kegyelmi és az MNB-ügyet vizsgáló bizottság jelentéstételi határidejét is kitolná a Tisza",
+          "url": "https://telex.hu/belfold/2026/10/28/negy-vizsgalobizottsag-jelentestetel-hatarido-hosszabbitas-hat-honap",
+          "published": "2026-10-28T08:21:34+00:00",
+          "description": "Összesen négy vizsgálóbizottságnál javasolták a határidő hosszabbítását.",
+          "image": "https://assets.telex.hu/images/20261028/1793174728-temp-3771hjah9l593dniphe_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Az angol Ligakupa történetének egyik legsokkolóbb vereségét hozta össze az Arsenal",
+          "url": "https://telex.hu/sport/2026/10/28/arsenal-sokkolo-veresege-ligakupaban-negyedosztalyu-fleetwood-towntol",
+          "published": "2026-10-28T07:58:01+00:00",
+          "description": "Az Arsenal tizenegyesekkel esett ki a jóval esélytelenebb, az angol negyedosztályban szereplő Fleetwood Town ellen.",
+          "image": "https://assets.telex.hu/images/20261028/1793172635-temp-7b1e7qqr7lou0lhpkke_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "Régebben kicsapongó életet élt, a média pedig rossz fényben tüntette fel mindezt – ezzel védekezett a rendőrségen Russell Brand",
+          "url": "https://telex.hu/after/2026/10/28/russel-brand-birosag-rendorseg-kihallgatas",
+          "published": "2026-10-28T07:53:55+00:00",
+          "description": "Keddi tárgyalásán a szexuális bűncselekményekkel vádolt színész-humorista korábbi években tett vallomásait olvasták fel, amelyeket Brand a vádlottak padján hallgatott végig.",
+          "image": "https://assets.telex.hu/images/20261028/1793171629-temp-alags90nm9pp0dlniik_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Vitézy Dávid: Elindítjuk a 2017 óta zárva álló Iparművészeti Múzeum rekonstrukcióját",
+          "url": "https://telex.hu/belfold/2026/10/28/vitezy-david-kormanydontes-iparmuveszeti-muzeum-rekonstrukcio",
+          "published": "2026-10-28T07:48:37+00:00",
+          "description": "Elsőként aktualizálják az elavult terveket és engedélyeket.",
+          "image": "https://assets.telex.hu/images/20261028/1793173571-temp-8f85ng8s8ulbbbpbbdn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Vučić Orbánnal együtt küzd a visszatérésért, szerinte két éven belül sikerrel jár",
+          "url": "https://telex.hu/kulfold/2026/10/28/aleksandar-vucic-szerbia-halado-part-visszateres-orban-viktor",
+          "published": "2026-10-28T07:23:44+00:00",
+          "description": "A volt szerb elnök szerint a választásokon győztes Egyetemista Lista támogatói hamar ki fognak ábrándulni az új kormányból.",
+          "image": "https://assets.telex.hu/images/20261028/1793172095-temp-5s9ijc5f6ffbdgghhij_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Fejenként 30 évre ítélték az Alexander testvéreket, az amerikai elit szexuális erőszakkal vádolt ingatlanosait",
+          "url": "https://telex.hu/kulfold/2026/10/28/alexander-testverek-30-ev-bortonbuntetes-egyesult-allamok-itelet",
+          "published": "2026-10-28T07:16:44+00:00",
+          "description": "A bíró romlottnak és szörnyűnek minősítette a három testvér viselkedését.",
+          "image": "https://assets.telex.hu/images/20261028/1793171371-temp-gmjlvkutf222cahckfi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Olvad a Fidesz hátországa az önkormányzatokban: sok képviselő szerint a pártlogó ma már stigma",
+          "url": "https://telex.hu/belfold/2026/10/28/valasztas-onkormanyzat-fidesz-frakcio-kilepett-gyor-pecs-szolnok-paks",
+          "published": "2026-10-28T07:12:11+00:00",
+          "description": "Április óta elvesztette többségét a Fidesz a győri és a szolnoki közgyűlésben, megszűnt a párt frakciója Pakson és Óbudán. Sorra jelentik be a kilépésüket a képviselők, akik úgy érzik: függetlenként jobb esélyük van a túlélésre, a párt üzeneteivel pedig nem tudnak azonosulni. Ez aggasztó lehet a ...",
+          "image": "https://assets.telex.hu/images/20261027/1793113359-temp-l1o7eecv7aft8bkbiob_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Orbán Ráhel átjelentkezett az apja házából a svábhegyi Dreher-villába",
+          "url": "https://telex.hu/gazdasag/2026/10/28/orban-rahel-lakcim-modositas-kolto-utca-cinege-ut",
+          "published": "2026-10-28T06:34:16+00:00",
+          "description": "Az ingatlan 2023 óta egy BDPST-csoporthoz tartozó cég a tulajdona.",
+          "image": "https://assets.telex.hu/images/20260902/1788352722-temp-fhjuruquk2231ekfdad_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Netanjahu blokkja vezet 66 százalékos feldolgozottságnál az izraeli választáson",
+          "url": "https://telex.hu/kulfold/2026/10/28/izrael-valasztas-eredmenyek",
+          "published": "2026-10-28T06:33:07+00:00",
+          "description": "1999 óta soha ennyien nem szavaztak az izraeli választásokon, az arab pártok történelmi eredményekre számíthatnak.",
+          "image": "https://assets.telex.hu/images/20261028/1793168606-temp-vlibia653kjdalakiam_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Késsel támadt egy fiatal Belgrádban az izraeli nagykövetség őrére, a támadót lelőtték",
+          "url": "https://telex.hu/kulfold/2026/10/28/terrortamadas-szerbia-izraeli-nagykovetseg",
+          "published": "2026-10-28T06:32:35+00:00",
+          "description": "Az eset miatt a legmagasabb fokozatra emelték a terrorkészültséget Szerbiában.",
+          "image": "https://assets.telex.hu/images/20261028/1793174460-temp-8ba376geglcmcbakkpp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "Hild Imre váltja Bódis Lászlót a Nemzeti Innovációs Ügynökség vezérigazgatói posztján",
+          "url": "https://telex.hu/belfold/2026/10/28/nemzeti-innovacios-ugynokseg-hild-imre-bodis-laszlo",
+          "published": "2026-10-28T06:25:02+00:00",
+          "description": "A posztot ideiglenesen tölti be, a végleges vezetőt pályázat útján választják majd ki.",
+          "image": "https://assets.telex.hu/images/20261027/1793125266-temp-4b1q0m7acpot6lehbmd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Zelenszkij szerint újabb területeket foglaltak vissza az ukrán erők",
+          "url": "https://telex.hu/kulfold/2026/10/28/ukrajna-zelenszkij-teruletek-visszafoglalasa-orosz-ukran-haboru",
+          "published": "2026-10-28T05:52:24+00:00",
+          "description": "Az ukrán elnök szerint országa harctéri helyzete régóta nem volt ilyen erős.",
+          "image": "https://assets.telex.hu/images/20261028/1793166668-temp-defpm9rodpl4eiehjcb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Amerika biztosítja a vízumot a brazil elnökválasztást elveszítő Bolsonarónak, akinek visszavonták az útlevelét",
+          "url": "https://telex.hu/kulfold/2026/10/28/flavio-bolsonaro-brazilia-elnokvalasztas-menekules-egyesult-allamok",
+          "published": "2026-10-28T04:47:44+00:00",
+          "description": "Ezt azután közölték, hogy kiderült, Flávio Bolsonaro és családja az Egyesült Államokba menekülhetett.",
+          "image": "https://assets.telex.hu/images/20261028/1793162655-temp-ql57co2jhcfm3nmclme_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Kormányváró, bérelt limuzin: kiderítettük, mennyit költött Orbán a nem orbánista Leslie Mandoki protokollkényeztetésére",
+          "url": "https://telex.hu/belfold/2026/10/28/leslie-mandoki-orban-protokollkeret-kormanyvaro-autoberles-54-millio",
+          "published": "2026-10-28T04:02:47+00:00",
+          "description": "A NER utolsó két évében Leslie Mandokit rendszeresen bérelt Mercedes és reptéri lounge várta Budapesten, amit Orbán Viktor saját protokollkeretéből fizettek. Az összeg persze eltörpül a zenésznek közpénzből kifizetett milliárdokhoz képest, mégis kérdés: miért részesült szinte havi rendszerességge...",
+          "image": "https://assets.telex.hu/images/20261020/1792486297-temp-pv1nt2lfpu8s0imhibk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Egy zsidókat rejtegető római kórház kitalált egy halálos járványt, hogy távol tartsa a nácikat",
+          "url": "https://telex.hu/eszkombajn/2026/10/28/egy-zsidokat-rejtegeto-romai-korhaz-kitalalt-egy-ragalyos-halalos-betegseget-hogy-tavol-tartsa-a-nacikat",
+          "published": "2026-10-28T04:02:23+00:00",
+          "description": "Az idegrendszert megtámadó K-szindróma sosem létezett, de többtucatnyi embernek az életet jelentette, amikor néhány bátor orvos kitalálta a nagy átverést.",
+          "image": "https://assets.telex.hu/images/20261021/1792593071-temp-v47eaf5asfcb7bnaape_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Szlovákia 120 métert ráverne a sátoraljaújhelyi világrekorder gyalogos függőhídra egy új híddal",
+          "url": "https://telex.hu/szepkilatas/2026/10/28/szlovakia-120-metert-raverne-a-satoraljaujhelyi-vilagrekorder-fuggohidra-egy-uj-hiddal",
+          "published": "2026-10-28T04:01:37+00:00",
+          "description": "A 824 méter hosszú függőhidat lebegő túraösvényként engedélyeztetnék a Tátrában. A természetvédőknek és az érintett földbirtokosoknak sem tetszik az ötlet.",
+          "image": "https://assets.telex.hu/images/20261027/1793095513-temp-5qm1f9me54ab6hjobmn_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Magyar állami hitelekből vittek orosz projekteket, most milliárdos kötelezettségeken ülnek",
+          "url": "https://telex.hu/g7/vallalat/2026/10/28/exim-hitelek-orosz-uzletek-polus-epitoipar-orvosi-muszerek-kereskedelem",
+          "published": "2026-10-28T03:50:01+00:00",
+          "description": "Az iparkamara orosz tagozatának elnöke által vezetett vállalat úgy kapott állami exporthiteleket oroszországi projektekre, hogy nem látni, milyen magyar termékeket segített ez piacra.",
+          "image": "https://assets.telex.hu/images/20260901/1788267211-temp-bc3p5fcc6glr2gmggga_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Bucsky Péter"
+        },
+        {
+          "title": "Eltűnt a jég Szlovénia legmagasabb csúcsáról",
+          "url": "https://telex.hu/techtud/2026/10/27/szlovenia-triglav-gleccser-jeg-olvadas-klimavaltozas-klimazona",
+          "published": "2026-10-27T22:27:34+00:00",
+          "description": "Túl meleg volt idén a Triglav gleccsernek, az utolsó jégdarabok is eltűntek.",
+          "image": "https://assets.telex.hu/images/20261027/1793139904-temp-5jsbnapgq4h36ploeeo_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Tíz év börtönt is kaphat egy amerikai nő, akit tinédzserként az apja vitt Szíriába, majd hozzáadták az Iszlám Állam egyik harcosához",
+          "url": "https://telex.hu/kulfold/2026/10/27/tiz-ev-bortont-is-kaphat-egy-amerikai-no-akit-tinedzserkent-az-apja-vitt-sziriaba-hogy-hozzaadja-az-iszlam-allam-egyik-harcosahoz",
+          "published": "2026-10-27T21:55:39+00:00",
+          "description": "Az amerikai esküdtszék szerint a nő szabad akaratából vett részt a terrorszervezet kiképzésén.",
+          "image": "https://assets.telex.hu/images/20261027/1793138085-temp-cs71gf6c09ce3ohmikc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Ted Bundy ölhetett meg egy több mint ötven éve meggyilkolt, 17 éves lányt",
+          "url": "https://telex.hu/kulfold/2026/10/27/egyesult-allamok-ted-bundy-gyilkossag-dns-vizsgalat",
+          "published": "2026-10-27T21:30:51+00:00",
+          "description": "Melissa Ann Smith holttestét vadászok találták meg 1974-ben, halálát most DNS-vizsgálattal kötötték a sorozatgyilkoshoz.",
+          "image": "https://assets.telex.hu/images/20261027/1793136479-temp-v8ecgtm91t1v1peeckk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Mácsai Pál, Székely Kriszta és Saiid is hoz egy számára fontos verset a Karakter fesztiváljára",
+          "url": "https://telex.hu/kozlemeny/2026/10/27/karakter-kortars-minifesztival-hozz-egy-verset",
+          "published": "2026-10-27T21:26:05+00:00",
+          "description": "A választott versekhez fűződő személyes történetekről beszélgetünk november 7-én a Trafóban. Az ingyenes programra még lehet regisztrálni.",
+          "image": "https://assets.telex.hu/images/20261026/1793019860-temp-c0d435bb0g1i0bdlaga_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Telex"
+        },
+        {
+          "title": "A párizsi klímacél duplájával számolnak az EU-ban, jól megtérülne alkalmazkodni hozzá",
+          "url": "https://telex.hu/gazdasag/2026/10/27/eu-europai-bizottsag-globalis-felmelegedes-alkalmazkodas",
+          "published": "2026-10-27T20:51:48+00:00",
+          "description": "Az Európai Bizottság szerint arra kellene készülni, hogy az átlaghőmérséklet három fokkal túllépné az iparosodás előtti szintet 2100-ra.",
+          "image": "https://assets.telex.hu/images/20261027/1793134135-temp-rn41d3ifq040elkphch_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Kubatov Gábort ismét Fradi-elnöknek választották, de 2027 elején le kell mondania",
+          "url": "https://telex.hu/sport/2026/10/27/ferencvaros-tisztujitas-kubatov-gabor-osszeferhetetlenseg",
+          "published": "2026-10-27T20:42:17+00:00",
+          "description": "A Fidesz egykori alelnöke újabb négy évre kapott bizalmat az elnökségtől. A nagy kérdés az lesz, mi lesz februártól, amikor Kubatov már nem lehet elnök.",
+          "image": "https://assets.telex.hu/images/20261027/1793118404-temp-4195j87frb3pappgeep_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Visszafordítottak egy Las Vegasból felszálló repülőt, mert egy utas azt írta sms-ben, hogy eltéríti a gépet",
+          "url": "https://telex.hu/kulfold/2026/10/27/egyesult-allamok-las-vegas-repulogep-sms",
+          "published": "2026-10-27T20:20:48+00:00",
+          "description": "Az egyik utaskísérő látta, mit ír, és azonnal szólt a pilótáknak.",
+          "image": "https://assets.telex.hu/images/20261027/1793132415-temp-r4g71vgnjff02obhioi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Világi Máté"
+        }
+      ]
     },
     {
       "id": "444",
@@ -493,6 +719,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Magyar Péter megint kommentben akar kirúgni valakit, ezúttal Kubatov Gábornak üzent",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-kubatov-gabor-komment?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-10-28T08:41:57+00:00",
+          "description": "Korábban két közmédiás kinevezést vontak vissza egy miniszterelnöki komment után.",
+          "image": "https://cdn.magyarnemzet.hu/2026/06/JN-hcoCupUyufRN6bpvM2pjzckICh00HhDCHB-Apu7Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU5ZTUyNDhlMmM4YzQwYjFiNTAyZmU4ZGFlYjNiYmJk.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
           "title": "Terrortámadás történt Izrael belgrádi nagykövetségénél, lelőtték az elkövetőt",
           "url": "https://magyarnemzet.hu/kulfold/2026/10/terrortamadas-izrael-belgradi-nagykovetseg-fiatalkoru-tamado?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-10-28T08:28:31+00:00",
@@ -705,15 +940,6 @@
           "published": "2026-10-27T18:31:01+00:00",
           "description": "Mostantól jó kezekben lesznek a lottópénzek a pénzügyminiszter szerint.",
           "image": "https://cdn.magyarnemzet.hu/2026/10/qfkKQfKhcXotc9LBY0SY2eKYZQ8yYhJe7Nx4MCP58Y8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIyMzYzYjA1NDFiYzQwNGVhYjU2ZjdjMDM2MzE1NDVl.jpg",
-          "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "Gaudi-Nagy Tamás: A demokrácia, a jogállamiság és az átláthatóság pusztán politikai jelszó a LIBE-bizottság számára",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/gaudi-nagy-tamas-a-demokracia-a-jogallamisag-es-az-atlathatosag-pusztan-politikai-jelszo-a-libe-bizottsag-szamara?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-10-27T18:02:29+00:00",
-          "description": "Előre eldöntött a vizsgálat eredménye? Megszólaltak a kihagyott jogvédők.",
-          "image": "https://cdn.magyarnemzet.hu/2026/10/CQxEANHrNysSLJXLRaeZGjiq_aOWeaplMSl9GQUetY0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgyMWQ0NmY4N2RiMDQ5ZjM5YTI3YjExM2M4NWRkZDYz.jpg",
           "category": "belföld",
           "author": null
         }
@@ -1540,7 +1766,7 @@
         {
           "title": "Orbán Ráhel lakcímet változtatott, kijelentkezett apja házából, de belföldön maradt",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/28/orban-rahel-lakcimet-valtoztatott-kijelentkezett-apja-hazabol-de-belfoeldoen-maradt",
-          "published": "2026-10-28T09:24:38.947073+01:00",
+          "published": "2026-10-28T09:24:37.540697+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Az MTA megkerülésével kerültek Fidesz-közeli szakemberek a KSH tanácsadó testületébe",
           "url": "https://kontroll.hu/cikk/gazdasag-tech/2026/10/28/az-mta-megkeruelesevel-kerueltek-fidesz-koezeli-szakemberek-a-ksh-tanacsado-testueletebe",
-          "published": "2026-10-28T08:57:38.947278+01:00",
+          "published": "2026-10-28T08:57:37.540901+01:00",
           "description": null,
           "image": null,
           "category": null,
