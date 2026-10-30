@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-30T11:01:06.994878+00:00",
+  "scraped_at": "2026-10-30T11:05:31.007571+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Vége a CATL hatósági engedélye miatt indított pernek, a bíróság elutasította a civilek keresetét",
+          "url": "https://telex.hu/gazdasag/2026/10/30/birosag-civilek-per-catl-elutasitotta-a-keresetet-itelet",
+          "published": "2026-10-30T10:49:30+00:00",
+          "description": "Az ítélet szerint időközben módosították a debreceni üzem környezethasználati engedélyét, így az már nem is létezik eredeti formájában, ami ellen a helyiek a pert indították.",
+          "image": "https://assets.telex.hu/images/20261030/1793357186-temp-95e5a1avkin08gmbamh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Öt év letöltendő börtönbüntetésre ítélte a bíróság Boldog Istvánt",
+          "url": "https://telex.hu/belfold/2026/10/30/boldog-istvan-korrupcio-hivatali-vesztegetes-elfogadasa-itelet",
+          "published": "2026-10-30T10:43:26+00:00",
+          "description": "A Fidesz volt képviselője leghamarabb a büntetési idő kétharmada után szabadulhat. Öt évre eltiltották a közügyektől, és 6,6 millió forint vagyonelkobzást rendelt el a bíróság. Boldog az ítélet előtt azt mondta: a végsőkig harcolni fog az igazáért, mert szerinte nem követett el bűncselekményt.",
+          "image": "https://assets.telex.hu/images/20261013/1791884093-temp-09t6e6kk2quvekimpkg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Húsz éve nem tudunk elszakadni Dexter Morgantől",
+          "url": "https://telex.hu/after/2026/10/30/husz-eve-nem-tudunk-elszakadni-dexter-morgantol",
+          "published": "2026-10-30T10:35:21+00:00",
+          "description": "Október 31-én indul a SkyShowtime-on a Dexter: Feltámadás második évada Michael C. Hall-lal és többek között Uma Thurmannel, aminek apropóján felidézzük, hogyan lett a sorozatból kultikus franchise.",
+          "image": "https://assets.telex.hu/images/20261030/1793352998-temp-3fvs4qar8qjledljcjl_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Csollán Tamara: Elporlanak, elszáradnak",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-csollan-tamara-elporladnak-elszaradnak",
+          "published": "2026-10-30T10:30:09+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793096314-temp-e4bmo4c301f1cpccbol_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Horváth Tamás: Hervadó virágok",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-horvath-tamas-hervado-viragok",
+          "published": "2026-10-30T10:30:08+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105183-temp-1jpm2nthbdif4eagllf_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Ka Zepe: 1989",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-kazepe-vadnyul",
+          "published": "2026-10-30T10:30:07+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105241-temp-bjvhti6mg6msailjfjl_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Soltész Béla: Mostantól én hallom a rigófüttyöt",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-soltesz-bela-mostantol-en-hallom-a-rigofuttyot",
+          "published": "2026-10-30T10:30:06+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105568-temp-i7lbt721q4vd6cekfod_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Gigor Attila: A kilencedik lépés",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-gigor-attila-a-kilencedik-lepes",
+          "published": "2026-10-30T10:30:05+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105646-temp-ccpoc8fckui95pecalh_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Ádám Gergő: Szökési sebesség",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-adam-gergo-szokesi-sebesseg",
+          "published": "2026-10-30T10:30:04+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105788-temp-oueq985jt0pg5iggife_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Majláth Ákos: Ceruzák",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-majlath-akos-ceruzak",
+          "published": "2026-10-30T10:30:04+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105711-temp-ee3k562q65d66nhkafe_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Szemesi András: Görgetés",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-szemesi-andras-figyelsz",
+          "published": "2026-10-30T10:30:03+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105498-temp-ht0eias06uiv3gknlhf_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Szerényi-Bartók Tamás: Adaptív védelem",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-szerenyi-bartok-tamas-adaptiv-vedelem",
+          "published": "2026-10-30T10:30:03+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105377-temp-e46k3mrl0f7e2fkkgjo_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Endrey-Nagy Ágoston: Akár maradhatsz is",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/10/30/karakter-novellapalyazat-2026-top10-endrey-nagy-agoston-akar-maradhatsz-is",
+          "published": "2026-10-30T10:30:02+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261027/1793105437-temp-6tdqusdr7gtoegddebd_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "A nemzetközi Sportdöntőbíróság szerint nem lehet kitiltani az oroszokat a jégkorong-vb-ről",
+          "url": "https://telex.hu/sport/2026/10/30/a-nemzetkozi-sportdontobirosag-szerint-nem-lehet-kitiltani-a-oroszokat-a-jegkorong-vb-rol-iihf",
+          "published": "2026-10-30T10:29:47+00:00",
+          "description": "A Nemzetközi Jégkorong Szövetség nem örül a CAS ítéletének, de tudomásul veszik azt.",
+          "image": "https://assets.telex.hu/images/20261030/1793356169-temp-msaem2ird248bbimnhe_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Már csak november 8-ig látható a World Press Photo a Biodómban (x)",
+          "url": "https://telex.hu/pr-cikk/2026/10/30/mar-csak-november-8-ig-lathato-a-world-press-photo-a-biodomban-x",
+          "published": "2026-10-30T10:22:53+00:00",
+          "description": "November 8-án, vasárnap zár a World Press Photo idei budapesti kiállítása a Biodómban. Aki eddig nem jutott el a tárlatra, annak alig több mint egy hete maradt rá.",
+          "image": "https://assets.telex.hu/images/20261026/1793014273-temp-jhgumqphb9ok0admpie_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "Donald Trump nem megy el a hétvégi kampánygyűléseire",
+          "url": "https://telex.hu/kulfold/2026/10/30/trump-kampany-kansas-iowa-rekedtseg",
+          "published": "2026-10-30T10:21:53+00:00",
+          "description": "Előbb azt mondta, hogy kikészültek a hangszálai, majd közölte, hogy kutya baja. Telefonon azért becsatlakozik.",
+          "image": "https://assets.telex.hu/images/20261030/1793355353-temp-dg9i3vjmkjfa7anhbck_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Hungarian FM and Marco Rubio sign agreement about joining forces to fight far-left organizations such as Antifa",
+          "url": "https://telex.hu/english/2026/10/30/hungarian-fm-and-rubio-sign-agreement-about-joining-forces-to-fight-far-left-organizations-such-as-antifa",
+          "published": "2026-10-30T10:18:35+00:00",
+          "description": "According to the U.S. Secretary of State, there have been instances of politically motivated violence in both Europe and the United States recently, and this agreement will improve the situation by enhancing cooperation and information sharing.",
+          "image": "https://assets.telex.hu/images/20261030/1793355050-temp-ep9n5bighdc38plljef_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "A Tarr Béla nevét viselő szám tüntetéses videója vitte el a fődíjat a Klipszemlén",
+          "url": "https://telex.hu/after/2026/10/30/tizedik-klipszemle-beton-hofie-lett-az-ev-legjobb-klipje-pogany-indulot-is-dijaztak",
+          "published": "2026-10-30T10:00:43+00:00",
+          "description": "A tavalyi évhez hasonlóan Beton.Hofi és Pogány Induló klipjeit díjazták a főbb kategóriákban.",
+          "image": "https://assets.telex.hu/images/20261030/1793353408-temp-klen4nk9af091pdggnh_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "Nekiment a kormányzat az akkuiparnak, de a magyar autógyárak így is boldogulnak",
+          "url": "https://telex.hu/g7/vallalat/2026/10/30/akkugyartas-autoipar-felfuggesztes-beruhazas",
+          "published": "2026-10-30T09:59:29+00:00",
+          "description": "Csúsznak a beruházások, és a hatóságok is szigorúbbak az akkumulátoriparban, de ez nem fogja vissza az itteni autógyártókat a termelésük felfuttatásában.",
+          "image": "https://assets.telex.hu/images/20261029/1793283487-temp-kkpsfdnnfop9bagienl_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Hajdu Miklós"
+        },
+        {
+          "title": "Szökött ormányos medvét és sarki rókát keres a törökmezői kisállatpark",
+          "url": "https://telex.hu/belfold/2026/10/30/szokott-ormanyos-medvet-es-sarki-rokat-keres-a-torokmezoi-kisallatpark",
+          "published": "2026-10-30T09:58:02+00:00",
+          "description": "A park gondozói telefonon várják a bejelentéseket, és tanácsokat is adtak az állatok megtalálóinak.",
+          "image": "https://assets.telex.hu/images/20261030/1793353975-temp-962tpjn6no6vdmibfjm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Egy blokkláncelemző cég szerint észak-koreai hekkerek támadták meg a Binance-t",
+          "url": "https://telex.hu/gazdasag/2026/10/30/binance-kriptotozsde-eszak-korea-kriptovaluta",
+          "published": "2026-10-30T09:50:39+00:00",
+          "description": "A cég nagy bizonyossággal azonosította az észak-koreai TraderTraitor hekkercsoportot a Binance elleni, 6,36 milliárd dolláros támadás elkövetőjeként.",
+          "image": "https://assets.telex.hu/images/20261030/1793353813-temp-m0odstidjr598logfbg_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Bezuhantak a Google anyavállalatának részvényei, a befektetőknek kezd elege lenni az MI-költekezésből",
+          "url": "https://telex.hu/gazdasag/2026/10/30/google-alphabet-mesterseges-intelligencia-tozsde-befektetok-eses",
+          "published": "2026-10-30T09:44:47+00:00",
+          "description": "Nem tetszett a piacnak az Alphabet negyedéves beszámolója, közel 4000 milliárd dollárról egy nap alatt 3500 milliárd alá esett vissza a cég értéke.",
+          "image": "https://assets.telex.hu/images/20261030/1793353439-temp-va2rhgcepde3eonolnk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Boldog István: Mindig arról voltam híres, hogy megvesztegethetetlen vagyok",
+          "url": "https://telex.hu/belfold/2026/10/30/boldog-istvan-fidesz-targyalas-hivatali-vesztegetes-targyalas-fovarosi-torvenyszek",
+          "published": "2026-10-30T09:24:54+00:00",
+          "description": "A korrupcióval vádolt volt fideszes képviselő az utolsó szó jogán beszélt a bíróságon. Szerinte csak azért került vád alá, mert volt olyan jó, hogy a lelkiismeretére hallgatva feljelentette azokat, akik korrupciógyanúba kerültek.",
+          "image": "https://assets.telex.hu/images/20261030/1793350025-temp-eikhk7l1a5037iijmlm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Kivonul a Tesco Csehországból és Szlovákiából",
+          "url": "https://telex.hu/gazdasag/2026/10/30/tesco-csehorszag-szlovakia-kivonulas",
+          "published": "2026-10-30T09:08:39+00:00",
+          "description": "Egy holland–belga hátterű cég veszi át a helyi üzletágakat, de Magyarországot nem érinti az eladás.",
+          "image": "https://assets.telex.hu/images/20261030/1793350834-temp-8kd2kjo0avqf1hmdpbd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Három hónappal a miniszteri egyeztetés után is a szívhangrendelet eltörlését sürgetik civil szervezetek",
+          "url": "https://telex.hu/belfold/2026/10/30/szivhangrendelet-surgossegi-fogamzasgatlo-tablettak-gyogyszeres-terhessegmegszakitas-civil-szervezetek",
+          "published": "2026-10-30T09:03:03+00:00",
+          "description": "Állításuk szerint azóta sem történt érdemi lépés. Megszüntetnék a sürgősségi fogamzásgátló tabletták vénykötelezettségét, és bevezetnék a gyógyszeres terhességmegszakítást.",
+          "image": "https://assets.telex.hu/images/20251103/1762169833-temp-jhmolv381rh64cHmCPh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        }
+      ]
     },
     {
       "id": "444",
@@ -493,6 +719,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Így kebelezhette be Ruff Bálint a vidékfejlesztési tárcát is",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/ruff-balint-befolyasa-ala-kerulhetett-a-videkfejlesztesi-tarca?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-10-30T11:03:10+00:00",
+          "description": "Lapunk információi szerint Lőrincz Viktória tárcáján keresztül Ruff Bálint a kormányzati hatásköreinek további kiterjesztésére törekedhet.",
+          "image": "https://cdn.magyarnemzet.hu/2026/10/A96MvaWKK0qohc05Wq2J5lQ66zwhV_JwwZ6UBQh1o7s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ExNDMzYWY3MzE0MzQ2ZmNhOTlmYmZkOTU0MzVlMjhm.jpg",
+          "category": "belföld",
+          "author": null
+        },
+        {
           "title": "Szurcsik József rejtőzködő festményei előkerültek negyven év után",
           "url": "https://magyarnemzet.hu/kultura/2026/10/szurcsik-jozsef-rejtozkodo-festmenyei-elokerultek-negyven-ev-utan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-10-30T10:38:51+00:00",
@@ -706,15 +941,6 @@
           "description": "Nem nyerte el a választók tetszését Kármán András bejelentése.",
           "image": "https://cdn.magyarnemzet.hu/2026/10/Pfweou7VY_UPMhwwbaLPvrHyGU_pHRAOB1s40kRySO4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ3YmEzNWM1NWQzOTQ4NjE4YmZjZDhkZmU2ZDY4OGM4.jpg",
           "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "Fegyveres rablók támadtak a családjára, de Gulácsi Péter máris lenyűgözte Spanyolországot",
-          "url": "https://magyarnemzet.hu/sport/2026/10/gulacsi-peter-kispadrol-biztos-pont-villarreal-la-liga?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-10-30T04:02:00+00:00",
-          "description": "Kispadon kezdett, három hónappal később a La Liga legjobbjai közé került, Courtois-t és Oblakot is megelőzi.",
-          "image": "https://cdn.magyarnemzet.hu/2026/10/1UvKKFqIhRopuWow_rXecWxu5kPGq6go_A0EtQydAJk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1MDZkNjMzN2IzMTRhMTFhNThiMDA0ZThkYThlOTc5.jpg",
-          "category": "sport",
           "author": null
         }
       ]
@@ -978,7 +1204,7 @@
           "url": "https://24.hu/belfold/2026/10/30/budapest-pedofil-kommandosok-eltunt-fiu/",
           "published": "2026-10-30T11:39:00+01:00",
           "description": "Az 54 éves férfii lakásán 80 ezer gyermekpornográf felvételt találtak a nyomozók.",
-          "image": "https://s.24.hu/app/uploads/2026/10/kepernyokep-2026-10-30-110554-e1793354844451-320x180.png",
+          "image": "https://s.24.hu/app/uploads/2026/10/kepernyokep-2026-10-30-115615-e1793357906588-320x180.png",
           "category": "Belföld",
           "author": "Kolontár Krisztián"
         },
@@ -1302,6 +1528,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Így lesz egy problémából lehetőség: a napelemek és a növénytermesztés randevúja",
+          "url": "https://hvg.hu/tudomany/20261030_napelemekkel-boritott-mezogazdasagi-teruletek",
+          "published": "2026-10-30T11:03:00+00:00",
+          "description": "Win-win szituációt teremthetnek napelemes mezőgazdasági rendszerek. Egy fenntarthatósági trendről van szó, amely az agrikultúra és a megújuló energia találkozásából született. Van, ahol már a rendkívüli hőség ellen nyújt védelmet, és miközben csökken a növényeket érő hőstressz, áramból is több lesz.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab812dfc-6e16-4a60-8209-bc018acfd5de.jpg",
+          "category": "Tech",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Szigorra és szerencsére is szükség lesz a 2027-es költségvetés számainak tartásához",
           "url": "https://hvg.hu/gazdasag/20261030_koltsegvetes-2027-tanacs-tervek-budzse",
           "published": "2026-10-30T10:40:18+00:00",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/100a109a-87e1-4b94-a84f-1600d0d30c38.jpg",
           "category": "Tech",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Már a Rolls-Royce-nak is konkurenciát állítana a BYD, százmilliós luxusautóval készül",
-          "url": "https://hvg.hu/cegauto/20261030_mar-a-rolls-royce-nak-is-konkurenciat-allitana-a-byd-szazmillios-luxusautoval-keszul",
-          "published": "2026-10-30T07:58:00+00:00",
-          "description": "Miért ne működne a legfelső szegmensben is a kínai hatalomátvétel?",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f158398b-77aa-4e55-b52b-a2c38d03c06f.jpg",
-          "category": "Autó",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1766,7 @@
         {
           "title": "Közel 2500 milliárd forintnyi hitellel zárul az Otthon Start",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/30/koezel-2500-milliard-forintnyi-hitellel-zarul-az-otthon-start",
-          "published": "2026-10-30T11:50:06.841840+01:00",
+          "published": "2026-10-30T11:49:30.915027+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Meghalt Patrick Stewart, a Star Trek és az X-Men-filmek legendás színésze",
           "url": "https://kontroll.hu/cikk/kultura/2026/10/30/meghalt-patrick-stewart-a-star-trek-es-az-x-men-filmek-legendas-szinesze",
-          "published": "2026-10-30T11:24:06.842125+01:00",
+          "published": "2026-10-30T11:24:30.915235+01:00",
           "description": null,
           "image": null,
           "category": "Kultura",
@@ -1620,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Liverpoolban döntöttek: kirakták a csapatból az egyik legnagyobb sztárt",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/10/everton-newcastle-jack-grealish-fegyelmi-vetseg",
+          "published": "2026-10-30T12:00:00+01:00",
+          "description": "Edzője nem volt hajlandó belemenni a klub döntésének részleteibe.",
+          "image": "https://cdn.origo.hu/2026/10/iwpBzQqS33a5YDRNNc0RJ8al7hDYrpXnb2R_xlJJBZk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM4ZTBhZDJiYTUxMzQ1ZjhhNzkwOTRhNTM0ODcxMDQ3.webp",
+          "category": "angol Ligakupa",
+          "author": null
+        },
         {
           "title": "Marco Rossi aggódhat, lesújtó hírek érkeztek Tóth Alexről",
           "url": "https://www.origo.hu/sport/sport-futball/2026/10/toth-alex-bournemouth-sulyos-serules-bejelentes",
@@ -1704,10 +1939,10 @@
         {
           "title": "Egy ház nappalijába csapódott a gyerekekkel teli iskolabusz, rengeteg a sérült",
           "url": "https://www.origo.hu/nagyvilag/2026/10/iskolabusz-baleset-nemetorszag-gyermek-hazba-csapodott",
-          "published": "2026-10-30T10:44:00+01:00",
-          "description": "Súlyos baleset történt Németországban.",
-          "image": "https://cdn.origo.hu/2026/10/yBA1SsRIISHYDpBEHsTtFO7tPSw0asDyZfjir3IXwII/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIyZDhiZTg3M2Q3NjRkZTJhZTc2YjViNjE3M2U1NDdi.webp",
-          "category": "iskolabusz",
+          "published": "2026-10-30T09:44:08+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Patrick Stewart utolsó interjúja: \"Képtelen vagyok elképzelni, hogy visszavonuljak\"",
-          "url": "https://www.origo.hu/teve/2026/10/patrick-stewart-utolso-interju",
-          "published": "2026-10-30T08:05:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "TV",
           "author": null
         }
       ]
