@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-31T18:45:32.940504+00:00",
+  "scraped_at": "2026-10-31T18:50:38.576214+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Elemzők szerint tartaná a korábban belőtt céljait az új költségvetéssel a kormány",
+          "url": "https://telex.hu/gazdasag/2026/10/31/koltsegvetes-2027-elemzok",
+          "published": "2026-10-31T18:38:35+00:00",
+          "description": "A K&H és a Gránit Alapkezelő szakemberei szerint az oktatás és az egészségügy nyeri a legtöbbet.",
+          "image": "https://assets.telex.hu/images/20261031/1793469359-temp-va11oksvcn18flnnkfj_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Szeifert Natália: Berliner",
+          "url": "https://telex.hu/karakter/telextarcak/2026/10/31/szeifert-natalia-berliner-tarcanovella-irodalom",
+          "published": "2026-10-31T18:34:31+00:00",
+          "description": "„A halál nem teszi múlt időbe a szeretést azzal, hogy a szeretett lény már nincs itt.” E heti novellánk egy évszázados családtörténet fejezeteit villantja fel.",
+          "image": "https://assets.telex.hu/images/20261028/1793180169-temp-geioh17v2ljkfgnjlbk_cimlap-normal.jpg",
+          "category": "Telextárcák",
+          "author": "Szeifert Natália"
+        },
+        {
+          "title": "Az AI nem váltja ki az emberi kapcsolódást – interjú Bíró Bence Péterrel",
+          "url": "https://telex.hu/video/2026/10/31/gen-eu-holnap-biro-bence-peter-interju",
+          "published": "2026-10-31T18:04:46+00:00",
+          "description": "A pszichológussal a Z generációt érintő magányosságról, szorongásról, a sématerápia fontosságáról és az állami mentális egészségügyi ellátás jövőjéről beszélgettünk Holnap című műsorunk új adásában.",
+          "image": "https://assets.telex.hu/images/20261029/1793298957-temp-gn3rv2k7t2tp7pojlie_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "„A barátok mindig barátok maradnak” – apja házában fogadta Aleksandar Vučić Orbán Viktort",
+          "url": "https://telex.hu/belfold/2026/10/31/orban-viktor-aleksandar-vucic-talalkozo-a-baratok-mindig-baratok-maradnak",
+          "published": "2026-10-31T17:28:00+00:00",
+          "description": "Milorad Dodik után a bukott szerb elnököt látogatta meg Orbán Viktor. Belgrádban a VMSZ elnökével, Pásztor Bálinttal is találkozott.",
+          "image": "https://assets.telex.hu/images/20261031/1793467395-temp-8ate7ke8q5m94odgkdc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Terrortámadásra figyelmeztette Oroszországot az Egyesült Államok",
+          "url": "https://telex.hu/kulfold/2026/10/31/terrortamadasra-figyelmeztette-oroszorszagot-az-egyesult-allamok",
+          "published": "2026-10-31T17:15:42+00:00",
+          "description": "Az orosz titkosszolgálat megteszi a szükséges lépéseket.",
+          "image": "https://assets.telex.hu/images/20261031/1793466778-temp-7227eil2ce2i5felglg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Hegedűs Zsolt elment a Covid idején megépített konténerkórházba, ami már nagyrészt üresen áll",
+          "url": "https://telex.hu/belfold/2026/10/31/hegedus-zsolt-egeszsegugyi-miniszter-kiskunhalas-mobil-jarvanykorhaz-covid",
+          "published": "2026-10-31T16:51:45+00:00",
+          "description": "A kiskunhalasi intézményben még fent vannak a betegek köszönőlevelei a falakon, és ott maradtak eszközök, berendezések is.",
+          "image": "https://assets.telex.hu/images/20261031/1793465282-temp-pu12na2buicf0dpkjdb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "Több mint ezer milliárd dollárt söpört ki a tőzsdéről, hogy a befektetők nem látják, hogyan fognak megtérülni az MI-beruházások",
+          "url": "https://telex.hu/gazdasag/2026/10/31/intel-amazon-google-techorias-reszveny-zuhanas-mesterseges-intelligencia-fejlesztes",
+          "published": "2026-10-31T16:47:18+00:00",
+          "description": "Az Amazon, a Google és az Intel részvényei is nehéz héten vannak túl. Míg a cégek rengeteget költenek MI-fejlesztésekre, a bevételeik elmaradnak a várakozásoktól, ez pedig a piacot is egyre jobban zavarja.",
+          "image": "https://assets.telex.hu/images/20261031/1793464996-temp-pge77clg5kjs2ncgdei_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Visszatérhet pártjának élére Aleksandar Vučić az elbukott választás után",
+          "url": "https://telex.hu/kulfold/2026/10/31/szerbia-aleksandar-vucic-szerb-halado-part-elnok",
+          "published": "2026-10-31T16:44:13+00:00",
+          "description": "A Szerb Haladó Pártot most Miloš Vučević volt miniszterelnök vezeti.",
+          "image": "https://assets.telex.hu/images/20261031/1793464188-temp-pf4o6c4eet86bgmfcli_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Légvédelmi rendszereket telepítettek Donald Trump floridai villájához",
+          "url": "https://telex.hu/kulfold/2026/10/31/donald-trump-legvedelmi-rendszer-telepites-florida-mar-a-lago-rezidencia",
+          "published": "2026-10-31T16:01:23+00:00",
+          "description": "A titkosszolgálat a fokozott fenyegetettségre figyelemmel korábban a Mar-A-Lago körüli légi forgalom állandó korlátozását is kérte.",
+          "image": "https://assets.telex.hu/images/20261031/1793462320-temp-7ovht4k4hjk2amkkhel_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Már látszik, hogy ki fizeti a fordulatot: megnéztük a Tisza első költségvetését",
+          "url": "https://telex.hu/gazdasag/2026/10/31/koltsegvetes-2027-jogszabaly-adok-koltsegcsokkentes-hogyan-kik-fizetnek",
+          "published": "2026-10-31T15:44:07+00:00",
+          "description": "A kormány sokat ígért, most pedig az is látszik, hogy miből fizetnék a révészt: magasabb vállalati adókból, állami kiadáscsökkentésből, korábbi támogatások elhagyásából, miközben több százmilliárdnyi megtakarítás még a levegőben lóg.",
+          "image": "https://assets.telex.hu/images/20261031/1793458225-temp-mt7n4fipbvkrcnoblpl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "XIV. Leó leadta levélszavazatát az Egyesült Államok félidős választásán",
+          "url": "https://telex.hu/kulfold/2026/10/31/xiv-leo-levelben-szavazott-az-egyesult-allamok-felidos-valasztasan",
+          "published": "2026-10-31T15:36:42+00:00",
+          "description": "Ő az első pápa, aki világi választáson szavaz.",
+          "image": "https://assets.telex.hu/images/20261031/1793460944-temp-f1458em6ukqucgimagd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Megtiltotta a bíróság Trump kormányának, hogy vizsgálattal fenyegessék a választáson dolgozókat",
+          "url": "https://telex.hu/kulfold/2026/10/31/donald-trump-birosag-igazsagugyi-miniszterium-fenyegetes",
+          "published": "2026-10-31T15:18:59+00:00",
+          "description": "Korábban levélben próbáltak nyomást gyakorolni a választások lebonyolítását segítő tisztségviselőkre, hogy különítsék el az általuk szabálytalannak ítélt szavazatokat.",
+          "image": "https://assets.telex.hu/images/20261031/1793459719-temp-rrj13p79fjinbbjdgdo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Nem hinném – kommentelte Magyar, miután megírtuk, hogy a volt köztársasági elnököknek jövőre is járhat jótékonysági keret",
+          "url": "https://telex.hu/belfold/2026/10/31/magyar-peter-nem-hinnem-komment-volt-koztarsasagi-elnokok-jotekonysagi-kerete",
+          "published": "2026-10-31T14:22:26+00:00",
+          "description": "A miniszterelnök a Telex Facebook-oldalán reagált a hírre. A kommentje alapján nem kizárt, hogy még módosítják a 2027-es költségvetési tervezetet.",
+          "image": "https://assets.telex.hu/images/20261031/1793455822-temp-t7q5i90cb2827bdkonm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "A düh kora: rég nem látott elégedetlenségi hullám veszélyezteti a középpártokat Európában",
+          "url": "https://telex.hu/kulfold/2026/10/31/zavargasok-europa-tuntetesek-franciaorszag-albania-spanyolorszag-portugalia-gazdasagi-nehezsegek",
+          "published": "2026-10-31T14:15:18+00:00",
+          "description": "Oktatás, lakhatás, infláció, megélhetési válság: különböző indokok miatt vonulnak több százezren utcára Európában, közelebbről vizsgálva azonban több közös vonás is kirajzolódik.",
+          "image": "https://assets.telex.hu/images/20261021/1792590495-temp-6mei455pdm5oebdmend_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ferenci Ármin"
+        },
+        {
+          "title": "Törölték a G20-as családi fotót, mert több ország sem akart Lavrovval közös képet",
+          "url": "https://telex.hu/kulfold/2026/10/31/g20-kulugyminiszterek-kozos-foto-szergej-lavrov",
+          "published": "2026-10-31T14:00:03+00:00",
+          "description": "A résztvevő külügyminiszterek egyharmada fenyegetőzött azzal, hogy kisétálnak a fotózásról.",
+          "image": "https://assets.telex.hu/images/20261031/1793454983-temp-f99svestdj1rcdkgicn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "A Fidesz azt követeli, hogy a kormány vonja vissza „az átverés költségvetését”",
+          "url": "https://telex.hu/gazdasag/2026/10/31/fidesz-koltsegvetes-atveres-vonjak-vissza",
+          "published": "2026-10-31T13:12:38+00:00",
+          "description": "A párt képviselője szerint adóemelésekre és megszorításokra épül a költségvetési tervezet.",
+          "image": "https://assets.telex.hu/images/20261031/1793452242-temp-7u4375lb07gheohjcim_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "A Tisza meghagyja Novák és Sulyok jótékonysági keretét, kapnak pénzt jövőre az Orbán-rendszer intézetei, köztük a Magyarságkutató is",
+          "url": "https://telex.hu/gazdasag/2026/10/31/koltsegvetes-magyarsagkutato-intezet-koztarsasagi-elnok",
+          "published": "2026-10-31T13:10:30+00:00",
+          "description": "A most beterjesztett költségvetés szerint a Magyarságkutató Intézetnek több pénz jut 2027-ben, de a Nemzetstratégiai Kutatóintézet állami támogatását megvágják.",
+          "image": "https://assets.telex.hu/images/20261031/1793450015-temp-8juu10o01t118agocag_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "A szerb jegybank visszavonta egy Vučić pártjához közeli üzletember bankjának működési engedélyét",
+          "url": "https://telex.hu/kulfold/2026/10/31/alta-bank-szerbia-jegybank-felfuggesztes",
+          "published": "2026-10-31T12:42:14+00:00",
+          "description": "Hosszú sorok alakultak ki a pénzintézet újvidéki kirendeltsége előtt.",
+          "image": "https://assets.telex.hu/images/20261031/1793450461-temp-vgr2ias3oae07imhjpb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Prigozsin fia átvette a zsoldossereg irányítását, afrikai aranybányákat felügyelnek, a Kreml hiába próbálta meg bekebelezni őket",
+          "url": "https://telex.hu/kulfold/2026/10/31/wagner-csoport-pavel-prigozsin-kozep-afrikai-koztarsasag-moszkva-kreml",
+          "published": "2026-10-31T12:33:09+00:00",
+          "description": "Apja az utódjának nevelte Pavel Prigozsint, és sikerrel járt. A három éve meghalt zsoldosvezér 28 éves fia átvette a Wagner-csoport irányítását, és egy évente több százmillió dollárt termelő hídfőállást alakított ki Afrikában. Védik a rezsimet Banguiban, de a fegyver- és drogkereskedelemhez is kö...",
+          "image": "https://assets.telex.hu/images/20261022/1792655333-temp-8e7dj7fr28gcfjhpheg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Azahriah énekelt az Astoria aluljárójában",
+          "url": "https://telex.hu/after/2026/10/31/azahriah-astoria-aluljaro-utcazeneles",
+          "published": "2026-10-31T11:56:21+00:00",
+          "description": "A gitáros Oláh Marcell mellé állt oda egy spontán közös produkcióra.",
+          "image": "https://assets.telex.hu/images/20261031/1793447772-temp-h4v8tne7j7338bjjhce_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "Megérkezett Belaruszba az összes, Oleskiből kimenekített ember",
+          "url": "https://telex.hu/kulfold/2026/10/31/orosz-ukran-haboru-oleski-evakualas",
+          "published": "2026-10-31T11:17:35+00:00",
+          "description": "Az orosz-ukrán fronton lévő ukrán város lakosait pénteken kezdték el kimenekíteni. Hosszú úton tudnak csak eljutni Ukrajnába.",
+          "image": "https://assets.telex.hu/images/20261031/1793445386-temp-scl7j75a6nnt2jdegda_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Brutálisan kiszáradt a talaj: három év alatt két balatonnyi víz tűnt el",
+          "url": "https://telex.hu/techtud/2026/10/31/csapadek-szarazsag-talajnedvesseg-folyok-szte-aszalykar-aem-ekfm",
+          "published": "2026-10-31T11:12:56+00:00",
+          "description": "Egyelőre nem tudni, mekkora károkat okozott az idei szárazság, de az már most biztos, hogy sokkal súlyosabb volt, mint a 2022-es, akkor történelminek nevezett aszály: a Szegedi Tudományegyetem tanulmánya szerint még ahhoz képest is 0,7 köbkilométerrel kevesebb víz tárolódott el a talajban. A korm...",
+          "image": "https://assets.telex.hu/images/20261030/1793370837-temp-877r1uf70qjuelegmfp_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Jövőre megszűnik az önkormányzatok egyik kötelezettsége",
+          "url": "https://telex.hu/belfold/2026/10/31/lorincz-viktoria-videk-es-telepulesfejlesztesi-miniszter-onkormanyzatok",
+          "published": "2026-10-31T10:54:54+00:00",
+          "description": "Nem kell befizetniük a területfejlesztési alapba. Ez 30–35 milliárd forintos könnyítést jelent a településeknek Lőrincz Viktória szerint.",
+          "image": "https://assets.telex.hu/images/20261031/1793443804-temp-olu315r6vh1a5bhoonh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "A Börzsöny vad nagytesója itt van a szomszédban, csak vigyél magaddal medvecsengőt",
+          "url": "https://telex.hu/szepkilatas/2026/10/31/polyana-szlovakia-tura-medve-medvecsengo-vedekezes-szabalyok",
+          "published": "2026-10-31T10:53:16+00:00",
+          "description": "A Polyána 500 méterrel magasabb, hasonló korú vulkanikus hegység hatalmas kalderával, 50 kilométerre a magyar határtól. Találkozás agresszív juhászkutyákkal, fenyegető tehenekkel, aztán a végén egy hátborzongató üvöltés.",
+          "image": "https://assets.telex.hu/images/20261031/1793467722-temp-r69p8r2gvv058kgofmk_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Újabb jelöltet neveztek ENSZ-főtitkárnak, nem Orbán Viktor az",
+          "url": "https://telex.hu/kulfold/2026/10/31/ujabb-jeloltet-neveztek-az-ensz-fotitkarnak",
+          "published": "2026-10-31T10:27:11+00:00",
+          "description": "Törökország az EBESZ főtitkárát, Feridun Sinirlioğlu-t jelölte hivatalosan is a világszervezet élére. Orbán esetleges jelölését ellenezte a héten a vétőjoggal rendelkező Franciaország külügyminisztere.",
+          "image": "https://assets.telex.hu/images/20261031/1793442248-temp-ug3l6kapk0m2cinipdg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1540,7 +1766,7 @@
         {
           "title": "Krekó Péter: „Ugyanaz a magyar társadalom tartotta hatalomban Orbánt, mint amelyik leváltotta”",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/31/kreko-peter-ugyanaz-a-magyar-tarsadalom-tartotta-hatalomban-orbant-mint-amelyik-levaltotta",
-          "published": "2026-10-31T19:38:32.906093+01:00",
+          "published": "2026-10-31T19:38:38.393779+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Eltűnőben az eufória, de a befektetői bizalom továbbra is megvan a piacon",
           "url": "https://kontroll.hu/cikk/gazdasag-tech/2026/10/31/eltunoben-az-euforia-de-a-befektetoi-bizalom-tovabbra-is-megvan-a-piacon",
-          "published": "2026-10-31T18:54:32.906295+01:00",
+          "published": "2026-10-31T18:53:38.394011+01:00",
           "description": null,
           "image": null,
           "category": null,
@@ -1688,7 +1914,7 @@
           "url": "https://www.origo.hu/galeria/galeria-harry-houdini-elete-es-titokzatos-halala",
           "published": "2026-10-31T18:59:00+01:00",
           "description": "",
-          "image": "https://cdn.origo.hu/2026/10/HO35E6v3d_OroAiwPhP2QpQs7j_MaRJdQyoh3Ds57DQ/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjMGFjMTFjZWZjMjQwZDlhOGEyYTFiZGZiYWI0YzBi.webp",
+          "image": "https://cdn.origo.hu/2026/10/_nH4qHIaXMFIC_lR7CKSVZk6WAgA0oH1DoXXjTn4vWc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E2ZmJmNTdiMzg4ZjRkYzFiY2M4MGRhYjA0YTNhZjZl.webp",
           "category": "Galeria",
           "author": null
         },
