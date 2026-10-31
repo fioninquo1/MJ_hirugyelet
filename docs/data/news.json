@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-10-31T12:00:59.353503+00:00",
+  "scraped_at": "2026-10-31T12:05:30.743830+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Azahriah énekelt az Astoria aluljárójában",
+          "url": "https://telex.hu/after/2026/10/31/azahriah-astoria-aluljaro-utcazeneles",
+          "published": "2026-10-31T11:56:21+00:00",
+          "description": "A gitáros Oláh Marcell mellé állt oda egy spontán közös produkcióra.",
+          "image": "https://assets.telex.hu/images/20261031/1793447772-temp-h4v8tne7j7338bjjhce_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "Megérkezett Belaruszba az összes, Oleskiből kimenekített ember",
+          "url": "https://telex.hu/kulfold/2026/10/31/orosz-ukran-haboru-oleski-evakualas",
+          "published": "2026-10-31T11:17:35+00:00",
+          "description": "Az orosz-ukrán fronton lévő ukrán város lakosait pénteken kezdték el kimenekíteni. Hosszú úton tudnak csak eljutni Ukrajnába.",
+          "image": "https://assets.telex.hu/images/20261031/1793445386-temp-scl7j75a6nnt2jdegda_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Brutálisan kiszáradt a talaj: három év alatt két balatonnyi víz tűnt el",
+          "url": "https://telex.hu/techtud/2026/10/31/csapadek-szarazsag-talajnedvesseg-folyok-szte-aszalykar-aem-ekfm",
+          "published": "2026-10-31T11:12:56+00:00",
+          "description": "Egyelőre nem tudni, mekkora károkat okozott az idei szárazság, de az már most biztos, hogy sokkal súlyosabb volt, mint a 2022-es, akkor történelminek nevezett aszály: a Szegedi Tudományegyetem tanulmánya szerint még ahhoz képest is 0,7 köbkilométerrel kevesebb víz tárolódott el a talajban. A korm...",
+          "image": "https://assets.telex.hu/images/20261030/1793370837-temp-877r1uf70qjuelegmfp_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Jövőre megszűnik az önkormányzatok egyik kötelezettsége",
+          "url": "https://telex.hu/belfold/2026/10/31/lorincz-viktoria-videk-es-telepulesfejlesztesi-miniszter-onkormanyzatok",
+          "published": "2026-10-31T10:54:54+00:00",
+          "description": "Nem kell befizetniük a területfejlesztési alapba. Ez 30–35 milliárd forintos könnyítést jelent a településeknek Lőrincz Viktória szerint.",
+          "image": "https://assets.telex.hu/images/20261031/1793443804-temp-olu315r6vh1a5bhoonh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "A Börzsöny vad nagytesója itt van a szomszédban, csak vigyél magaddal medvecsengőt",
+          "url": "https://telex.hu/szepkilatas/2026/10/31/polyana-szlovakia-tura-medve-medvecsengo-vedekezes-szabalyok",
+          "published": "2026-10-31T10:53:16+00:00",
+          "description": "A Polyána 500 méterrel magasabb, hasonló korú vulkanikus hegység hatalmas kalderával, 50 kilométerre a magyar határtól. Találkozás agresszív juhászkutyákkal, fenyegető tehenekkel, aztán a végén egy hátborzongató üvöltés.",
+          "image": "https://assets.telex.hu/images/20261029/1793266069-temp-el2o6ker6f7n0gncdnm_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Újabb jelöltet neveztek ENSZ-főtitkárnak, nem Orbán Viktor az",
+          "url": "https://telex.hu/kulfold/2026/10/31/ujabb-jeloltet-neveztek-az-ensz-fotitkarnak",
+          "published": "2026-10-31T10:27:11+00:00",
+          "description": "Törökország az EBESZ főtitkárát, Feridun Sinirlioğlu-t jelölte hivatalosan is a világszervezet élére. Orbán esetleges jelölését ellenezte a héten a vétőjoggal rendelkező Franciaország külügyminisztere.",
+          "image": "https://assets.telex.hu/images/20261031/1793442248-temp-ug3l6kapk0m2cinipdg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Vészjósló tendencia olvasható ki a 2027-es büdzsé gyerektámogatási számaiból",
+          "url": "https://telex.hu/gazdasag/2026/10/31/csaladtamogatas-csed-gyes-gyet-koltsegvetes-2027-reszletek",
+          "published": "2026-10-31T10:07:18+00:00",
+          "description": "GYED-re, GYES-re és anyasági támogatásra is kevesebbet tervez a kormány. A demográfiai lejtmenet a költségvetésben is nyomot hagy.",
+          "image": "https://assets.telex.hu/images/20261031/1793442081-temp-h6u42prvk7g1ahhajch_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Az NKA-ügyben letartóztatott Varga-Bajusz Veronikát Kiskunhalasra szállították át",
+          "url": "https://telex.hu/belfold/2026/10/31/varga-bajusz-veronika-allamtitkar-letartoztatas-kiskunhalas",
+          "published": "2026-10-31T09:42:44+00:00",
+          "description": "Az ügyvédje szerint „feltehetőleg rosszabb körülmények közé” került a volt államtitkár, akinek a letartóztatását február 1-jéig meghosszabbította a bíróság.",
+          "image": "https://assets.telex.hu/images/20261031/1793439370-temp-c297chlpv1i67ddjpaa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Blikk: Varga Judit eladta a Magyar Péterrel közösen épített balatonhenyei házat",
+          "url": "https://telex.hu/belfold/2026/10/31/varga-judit-magyar-peter-balatonhenye-nyaralo-eladas",
+          "published": "2026-10-31T09:36:26+00:00",
+          "description": "Válásuk után a volt igazságügyi miniszteré lett a ház, amit aztán 299 millió forintért hirdetett meg.",
+          "image": "https://assets.telex.hu/images/20261031/1793438988-temp-6de6fldnudu70gidoma_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "A rohamrendőröket megkerülve, a bírákon átgázolva tört be a lengyel elnök az alkotmánybíróságra",
+          "url": "https://telex.hu/kulfold/2026/10/31/lengyelorszag-alkotmanybirosag-karol-nawrocki",
+          "published": "2026-10-31T09:35:46+00:00",
+          "description": "A bíróság varsói épületéhez rohamrendőröket vezényeltek.",
+          "image": "https://assets.telex.hu/images/20261031/1793438921-temp-v7crjaac5qj39jkblmi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Milliárdos állami támogatást kap jövőre a Tisza Párt, a Fidesz és a KDNP rosszabbul járt",
+          "url": "https://telex.hu/gazdasag/2026/10/31/koltsegvetes-partok-tamogatasa-tisza-fidesz-kdnp-mi-hazank-dk",
+          "published": "2026-10-31T08:52:07+00:00",
+          "description": "Kétszer annyi pénz jut a Tisza pártalapítványának, mint idén, a DK kivételével megszűnik a korábbi ellenzéki pártok állami forrása.",
+          "image": "https://assets.telex.hu/images/20261031/1793435672-temp-v2rld5bn2een3hpmejf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Hogyan fér bele ugyanabba a hétvégébe egy halloweenparti és a családi temetőlátogatás?",
+          "url": "https://telex.hu/transtelex/2026/10/31/halloween-halottak-napja-fiatalok-z-generacio",
+          "published": "2026-10-31T07:58:27+00:00",
+          "description": "A halloween és a halottak napja körüli vita minden ősszel előkerül, Segesváron idén több egyház is tiltakozott egy halloweeni fesztivál miatt. Fiatalokkal beszélgettünk arról, hogyan fér bele ugyanabba a hétvégébe egy jelmezes házibuli és a családi temetőlátogatás, és egyáltalán kellene-e választ...",
+          "image": "https://assets.telex.hu/images/20261031/1793430640-temp-nr9l2kh5lgd48eihkge_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Farkas Kriszta"
+        },
+        {
+          "title": "Ellopták az iPad-et a kávézóból, a tulaj a GPS alapján követte a tolvajt, aztán már együtt utaztak a 6-os villamoson",
+          "url": "https://telex.hu/belfold/2026/10/31/ipad-helymeghatarozo-tolvaj-rendorseg-budapest",
+          "published": "2026-10-31T07:42:42+00:00",
+          "description": "A belvárosi kávézó pultjáról ellopott gép helymeghatározójának jele először egy IX. kerületi utcából érkezett, majd a körúti villamosmegállóhoz közeledett.",
+          "image": "https://assets.telex.hu/images/20261031/1793432340-temp-d3291k67l50vanblafi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Galaxist kaptak a szerbiai egyetemisták",
+          "url": "https://telex.hu/techtud/2026/10/31/szerbia-egyetemistak-galaxis-nev",
+          "published": "2026-10-31T07:13:02+00:00",
+          "description": "Az SL3 nevet kapta egy galaxis, a szerbiai egyetemisták tiszteletére.",
+          "image": "https://assets.telex.hu/images/20261031/1793430373-temp-cg8cfqqagm49aobakcm_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Írjatok közösen novellát Szeifert Natáliával a Karakter fesztiválján!",
+          "url": "https://telex.hu/kozlemeny/2026/10/31/karaktert-kortars-minifesztival-irodalmi-workshop",
+          "published": "2026-10-31T06:31:47+00:00",
+          "description": "A Karakter fesztiváljának ingyenes workshopjára már lehet regisztrálni.",
+          "image": "https://assets.telex.hu/images/20261026/1793021103-temp-hsire3pcqqv0aajidkp_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Karakter"
+        },
+        {
+          "title": "4,1 milliárdos vagyon két alapítványban, amit Seszták Miklós lánya ellenőriz, és a szálak az apja üzleti köréhez vezetnek",
+          "url": "https://telex.hu/gazdasag/2026/10/31/sesztak-miklos-uzleti-kor-vagyonkezelo-alapitvanyok-milliardok-oak-hodvar-alapitvany-minotax",
+          "published": "2026-10-31T06:09:16+00:00",
+          "description": "Cipruson és Kanadán át került jelentős vagyon a volt miniszter lányának felügyelete alá. Az egyik alapítványt már azután hozták létre, hogy Seszták ellen nyomozás indult.",
+          "image": "https://assets.telex.hu/images/20261030/1793367738-temp-g8iagijra53j3pcphdi_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Péntek késő este benyújtották a 2027-es költségvetést",
+          "url": "https://telex.hu/gazdasag/2026/10/31/benyujtottak-a-2027-es-koltsegvetest",
+          "published": "2026-10-31T06:08:50+00:00",
+          "description": "A törvényjavaslat 23 óra 38 perckor jelent meg a parlament.hu oldalon.",
+          "image": "https://assets.telex.hu/images/20261031/1793426888-temp-oj1vv48t7c01dnmllbf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Sakkfeladvány: a megkerülős cselnek van értelme",
+          "url": "https://telex.hu/sport/2026/10/31/sakkfeladvany-megkerulos-csel",
+          "published": "2026-10-31T06:08:00+00:00",
+          "description": "A világos három figurájából nagyon nem mindegy, melyik lép először.",
+          "image": "https://assets.telex.hu/images/20261030/1793351546-temp-m26t1e0qckmm9mhcbii_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Az erdélyi szabadságharcos, akit Bem József századossá léptetett elő, miután megtudta, hogy nő",
+          "url": "https://telex.hu/transtelex/2026/10/31/a-szabadsagharcos-akit-bem-jozsef-szazadossa-leptetett-elo-miutan-megtudta-hogy-no",
+          "published": "2026-10-31T06:07:40+00:00",
+          "description": "Cirkuszi műlovarnőből lett honvédtiszt, sebesülten úszott ki a Szamosból, végül Kairóban nyitott fogadót: Bányai Júlia életében a férfiálnév csak a kezdet volt.",
+          "image": "https://assets.telex.hu/images/20261030/1793355902-temp-da61g9k3n1mudoenplc_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tamás Zsófia (Transtelex)"
+        },
+        {
+          "title": "Egyre kevesebben nyelvvizsgáznak, de nem ez a baj a magyarok nyelvtudásával",
+          "url": "https://telex.hu/g7/adat/2026/10/31/nyelvvizsga-nyelvtudas-felsooktatas-kulfold-europai-osszevetes",
+          "published": "2026-10-31T03:58:00+00:00",
+          "description": "Többen érettségiznek nyelvekből, javuló eredménnyel, de közben a felsőoktatásban csökkent a motiváció a nyelvtanulásra. Továbbra is a magyarok Európa sereghajtói nyelvtudásban.",
+          "image": "https://assets.telex.hu/images/20260217/1771324243-temp-g5u6kkklckdlfApDkkA_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Bucsky Péter"
+        },
+        {
+          "title": "500 darab Patriot elfogórakétát ad Ukrajnának az Egyesült Államok",
+          "url": "https://telex.hu/kulfold/2026/10/30/ukrajna-egyesult-allamok-patriot-raketa-vedelem-jovahagyas",
+          "published": "2026-10-30T22:49:13+00:00",
+          "description": "2,1 milliárd dollár értékben kaphat védelmi eszközöket Ukrajna.",
+          "image": "https://assets.telex.hu/images/20261030/1793400272-temp-mapue0u8qgnl9cdkpfd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A Jövő Szövetsége: új partnerséget jelentett be Kanada és az Európai Unió",
+          "url": "https://telex.hu/kulfold/2026/10/30/kanada-europai-unio-eu-szovetseg-bejelentes",
+          "published": "2026-10-30T22:10:53+00:00",
+          "description": "Csökkennek az utazási korlátozások, új oktatási lehetőségek nyílhatnak meg, és integrált piac jöhet létre a felek között.",
+          "image": "https://assets.telex.hu/images/20261030/1793395966-temp-004fasjhtfvh2ppfemc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Patrick Stewart az űrben lett világsztár, a legnagyobb csatákat viszont önmagával vívta",
+          "url": "https://telex.hu/after/2026/10/30/patrick-stewart-meghalt-picard-kapitany-professzor-x",
+          "published": "2026-10-30T21:01:50+00:00",
+          "description": "A 86 éves korában meghalt Patrick Stewart nehéz gyerekkorból jutott el Hollywoodig, végül két generációnak is megmutatta, milyen egy igazi hős. Kollégái sokáig ugratták, hogy vérkomolyan veszi a forgatásokat, és esze ágában sem volt visszavonulni.",
+          "image": "https://assets.telex.hu/images/20261030/1793361486-temp-2b6se366tp3f8objida_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Matolcsy Györgyöt nem hallgathatja meg személyesen a parlamenti bizottság az ügyészség szerint",
+          "url": "https://telex.hu/gazdasag/2026/10/30/matolcsy-gyorgy-mnb-bizottsagi-meghallgatas-szemelyesen-nem-lehetseges-knyf",
+          "published": "2026-10-30T20:18:16+00:00",
+          "description": "Szűkszavúan annyit közöltek az RTL-lel, hogy nem állnak fenn ehhez a törvényi feltételek.",
+          "image": "https://assets.telex.hu/images/20261030/1793390941-temp-jaujvvs5gffh6gpedbi_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "„Az igaz barátság örökre szól” – Orbán Viktor Milorad Dodiknál, a boszniai Szerb Köztársaság volt elnökénél járt, egymást átkarolva pálinkáztak a tűz mellett",
+          "url": "https://telex.hu/kulfold/2026/10/30/milorad-dodik-orban-viktor-boszniai-szerb-koztarsasag-igaz-baratsag",
+          "published": "2026-10-30T19:56:23+00:00",
+          "description": "Az elítélt volt boszniai szerb vezető megtisztelve érzi magát.",
+          "image": "https://assets.telex.hu/images/20261030/1793389134-temp-kthgsgt1a1357jkilhn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        }
+      ]
     },
     {
       "id": "444",
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Fényérzékeny kísértetek és árnyalakok – szellemképek a Fortepanon",
+          "url": "https://24.hu/belfold/2026/10/31/fenyerzekeny-szellemkepek-heti-fortepan/",
+          "published": "2026-10-31T13:00:00+01:00",
+          "description": "Dermesztő csontvázak, vintage töklámpa és szellemkép a Heti Fortepan halloweeni összeállításában.",
+          "image": "https://s.24.hu/app/uploads/2026/10/fortepan_borito_24hu-masolat-320x180.jpg",
+          "category": "Belföld",
+          "author": "24.hu"
+        },
+        {
           "title": "Agárdi Szilvi: Az életben maradásért és megerősödésért ennem kell, de hatalmas fájdalommal jár",
           "url": "https://24.hu/kultura/2026/10/31/agardi-szilvi-betegseg-lyell-szindroma-eves/",
           "published": "2026-10-31T12:56:00+01:00",
@@ -1091,13 +1326,13 @@
           "author": "Pál Zsombor"
         },
         {
-          "title": "Forsthoffer Ágnes: Az ország felelős vezetői elfelejtették, hogy a koporsónak nincsen zsebe",
-          "url": "https://24.hu/belfold/2026/10/31/forsthoffer-agnes-halottak-napja-koporso-ellenzek-fidesz/",
-          "published": "2026-10-31T08:59:00+01:00",
-          "description": "Szombat reggeli bejegyzésében a lejárató politikai módszereket bírálta az Országgyűlés elnöke, hangsúlyozva, hogy tiszta a lelkiismerete.",
-          "image": "https://s.24.hu/app/uploads/2026/10/central-1098136399-e1793433533864-320x180.jpg",
-          "category": "Belföld",
-          "author": "Molnár Dávid"
+          "title": "Amerikában attól tartanak, hogy Trump újra megtámadja Iránt, ha veszítenek a republikánusok a félidős választásokon",
+          "url": "https://24.hu/kulfold/2026/10/31/trump-felidos-valasztas-usa-iran-tamadas-ujrainditasa/",
+          "published": "2026-10-31T08:51:00+01:00",
+          "description": "„Ha Donald Trump úgy érzi, hogy zavarban van, vagy jogfosztottnak érzi magát, akkor valami merészet tesz.”",
+          "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-2302461368-e1793432996398-320x180.jpg",
+          "category": "Nagyvilág",
+          "author": "Rugli Tamás"
         },
         {
           "title": "Michael Douglas szerint a szexjelenetek forgatásánál egyetlen dolog számít igazán",
@@ -1178,15 +1413,6 @@
           "description": "Meghan Markle testvére több, gyermekek szexuális bántalmazását ábrázoló fotót talált apjuk otthonában, most további aggasztó bizonyítékokra leltek.",
           "image": "https://s.24.hu/app/uploads/2026/10/gettyimages-2301126308-e1793425888423-320x180.jpg",
           "category": "Kultúra",
-          "author": "Besenyei Balázs"
-        },
-        {
-          "title": "Ázsia Expressz: olyan páros esett ki, akit a nézők legszívesebben a döntőben is láttak volna",
-          "url": "https://24.hu/elet-stilus/2026/10/31/azsia-expressz-kiesok-hajsza-tv2/",
-          "published": "2026-10-31T06:35:00+01:00",
-          "description": "Gombos Edina és férje, Alberto, Tischler Petra és Vomberg Frigyes, valamint Deák Rebeka és Kabai András indultak hajszázni, remélve, hogy elkerülik a kiesést.",
-          "image": "https://s.24.hu/app/uploads/2026/10/central-1088144952-e1793424293238-320x180.jpg",
-          "category": "Kikapcs",
           "author": "Besenyei Balázs"
         }
       ]
@@ -1540,7 +1766,7 @@
         {
           "title": "Milliárdos alapítványokat találtak Seszták üzleti körében, a vagyonkezelést a lánya ellenőrzi",
           "url": "https://kontroll.hu/cikk/belfold/2026/10/31/milliardos-alapitvanyokat-talaltak-sesztak-uezleti-koereben-a-vagyonkezelest-a-lanya-ellenorzi",
-          "published": "2026-10-31T12:17:59.121376+01:00",
+          "published": "2026-10-31T12:18:30.634135+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
