@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-01T13:35:33.483372+00:00",
+  "scraped_at": "2026-11-01T13:40:34.654024+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Radnai Márk: Munkacsoportot hoznak létre a dorogi Palatinus-tó megmentésére",
+          "url": "https://telex.hu/belfold/2026/11/01/palatinos-to-vizszint-radnai-mark-komarom-esztergom-megye-dorog",
+          "published": "2026-11-01T13:28:45+00:00",
+          "description": "A Tisza párt alelnöke szerint harmincöt településről érkeztek hozzászólások a tó ügyében indított egyeztetés során.",
+          "image": "https://assets.telex.hu/images/20261101/1793539611-temp-q1153q7p3c8p3denhho_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Trump az Egyesült Államokba menekült Flávio Bolsonaroról: Addig maradhat itt, ameddig csak akar",
+          "url": "https://telex.hu/kulfold/2026/11/01/donald-trump-reakcio-flavio-bolsonaro-tartozkodas-egyesult-allamok",
+          "published": "2026-11-01T13:23:31+00:00",
+          "description": "Marco Rubio mindeközben szombaton arról beszélt, az amerikai kormány nem segített Bolsonaro szökésében.",
+          "image": "https://assets.telex.hu/images/20261101/1793537153-temp-d079epimspkefokhbbj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Ben Lerner: Átirat (részlet)",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/01/ben-lerner-atirat-reszlet",
+          "published": "2026-11-01T13:15:31+00:00",
+          "description": "Az amerikai Ben Lerner regénye a 21. századi lét legfontosabb kérdéseit feszegeti. Olvasson bele!",
+          "image": "https://assets.telex.hu/images/20261028/1793199404-temp-hu8skbbr9qs79okhddi_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Az évszázad végére három részre szakadhat a Balaton",
+          "url": "https://telex.hu/belfold/2026/11/01/balaton-vizszint-vizpotlas-klimavaltozas",
+          "published": "2026-11-01T12:36:41+00:00",
+          "description": "A pesszimista számítás szerint folyamatos vízpótlásra is szükség lesz.",
+          "image": "https://assets.telex.hu/images/20261101/1793536441-temp-16bviq1vof435hnnomb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Hogy milyen lesz a jövőben Magyarország időjárása? Anatólia klímája egy kiváló előkép",
+          "url": "https://telex.hu/szepkilatas/2026/11/01/aszaly-duna-talajviz-sivatagosodas-anatolia",
+          "published": "2026-11-01T12:27:05+00:00",
+          "description": "Mikor fognak a budai lakásokban is hörögni a csapok? Lesznek-e magyar eukaliptuszerdők? Milyen bajokat hoz az aszály és felmelegedés a föld alatt? Interjúnk Nagy Balázzsal, az ELTE Földrajztudományi Központjának vezetőjével.",
+          "image": "https://assets.telex.hu/images/20261020/1792489523-temp-9o7ko6mgci1i5dheiln_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Feldúlták a dédnagyapja sírját, de nem haragszik – erről posztolt halottak napján a miniszterelnök",
+          "url": "https://telex.hu/belfold/2026/11/01/feldultak-magyar-peter-dednagyapjanak-sirjat",
+          "published": "2026-11-01T11:58:24+00:00",
+          "description": "Azt, hogy pontosan mikor és miért történt mindez, nem lehet tudni.",
+          "image": "https://assets.telex.hu/images/20261101/1793533307-temp-1r2tbhqpfmfsanmmmpm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Oroszország szerint jelenleg nem lenne haszna, ha Európa is részt venne az Ukrajnával és az Egyesült Államokkal tervezett tárgyalásokon",
+          "url": "https://telex.hu/kulfold/2026/11/01/europa-oroszorszag-ukrajna-beketargyalasok",
+          "published": "2026-11-01T11:57:54+00:00",
+          "description": "A Kreml szóvivője szerint ehhez Európának először meg kellene változtatnia az Oroszországgal kapcsolatos álláspontját.",
+          "image": "https://assets.telex.hu/images/20261101/1793534188-temp-dfk71nn903h1aapdjil_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "„Vigyázó szemetek Varsóra vessétek” – Orbán is elmondta a véleményét a lengyel alkotmánybírósági válságról",
+          "url": "https://telex.hu/belfold/2026/11/01/orban-viktor-reakcio-lengyelorszag-alkotmanybirosag-donald-tusk",
+          "published": "2026-11-01T11:28:31+00:00",
+          "description": "Baloldali önkény, Brüsszel.",
+          "image": "https://assets.telex.hu/images/20261101/1793531957-temp-q42ikpibu1et9jndhkh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Az euró önmagában nem hozza formába a magyar gazdaságot, a felzárkózásért meg kell dolgozni",
+          "url": "https://telex.hu/nevertek/2026/11/01/eurobevezetes-termelekenyseg-versenykepesseg-oecd",
+          "published": "2026-11-01T11:19:53+00:00",
+          "description": "Az euró bevezetése nem csodaszer, egy stagnáló gazdaságot nem tud kihúzni a csávából. Ahhoz, hogy Magyarország az euróbevezetés nyertese legyen, a termelékenység körüli kérdésekkel is szembe kell nézni.",
+          "image": "https://assets.telex.hu/images/20261028/1793199428-temp-pe4an091uae59afdkcn_cimlap-normal.jpg",
+          "category": "Névérték",
+          "author": "Égert Balázs"
+        },
+        {
+          "title": "Nem sikerült a mentőakció, egy hét múlva lezuhanhatnak a NASA egyik űrteleszkópjának darabjai",
+          "url": "https://telex.hu/techtud/2026/11/01/nasa-swift-ureleszkop-mentoakcio-fold-zuhanas",
+          "published": "2026-11-01T10:49:37+00:00",
+          "description": "A több mint 20 éves Swift űrteleszkóp jelentős része elég majd a légkörben, de így is lesz alkatrészeső.",
+          "image": "https://assets.telex.hu/images/20261101/1793530042-temp-h100bbg8ktkfdknneoe_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Játékfegyverrel rabolta ki a soponyai postát egy 18 éves fiú, egymilliót tett zsebre",
+          "url": "https://telex.hu/belfold/2026/11/01/soponya-posta-rablas-rendorseg",
+          "published": "2026-11-01T10:38:32+00:00",
+          "description": "A rendőrség két órán belül lefülelte és őrizetbe vette a soponyai férfit.",
+          "image": "https://assets.telex.hu/images/20261101/1793529485-temp-mphhm28c862pbdekhna_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Majdnem mindent láthattok",
+          "url": "https://telex.hu/after/2026/11/01/heti-streamingajanlo-sitcom-fiatalokkal-egy-pizzazoban-netflix-nocturne-apple-tv",
+          "published": "2026-11-01T10:25:34+00:00",
+          "description": "Heti streamingajánlónkban helyet kapott egy Elizabeth Holmes-ról szóló sorozat Amanda Seyfried főszereplésével, és megérkezett egy áldokumentarista sitcom egy pizzázóról.",
+          "image": "https://assets.telex.hu/images/20261029/1793284182-temp-aa0fukm4eas34mcpjmc_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "Végleg elutasította a bíróság Trump Wall Street Journallal szembeni kereseti kérelmét",
+          "url": "https://telex.hu/kulfold/2026/11/01/donald-trump-jeffrey-epstein-per-wall-street-journal",
+          "published": "2026-11-01T10:08:11+00:00",
+          "description": "Az amerikai elnök 10 milliárd dollárra perelte volna a napilapot a Jeffrey Epstein ötvenedik születésnapjára készített születésnapi albumba írt üzenetéről szóló cikk miatt.",
+          "image": "https://assets.telex.hu/images/20261101/1793527400-temp-beoakbijojv1ahhkjjp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Őrizetbe vették a szerb bűnügyi rendőrség vezetőjét, Aleksandar Vučić bizalmasát",
+          "url": "https://telex.hu/kulfold/2026/11/01/marko-kricak-orizetbe-vetel-szerb-bunugyi-rendorseg-vezetoje-aleksandar-vucic-bizalmas",
+          "published": "2026-11-01T09:37:54+00:00",
+          "description": "Marko Kričak korábban a kormányellenes tüntetőkkel szembeni rendőri erőszak miatt vált ismertté.",
+          "image": "https://assets.telex.hu/images/20261101/1793524989-temp-qabcndo840e13johcoj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Evolúciós magyarázata lehet annak, hogy úgy rástresszelünk egy emailre, mintha a mamut üldözne",
+          "url": "https://telex.hu/eszkombajn/2026/11/01/emberi-agy-evolucios-elteres-modern-elet-ingerek-technologia-kozossegi-media-internet-infodemia",
+          "published": "2026-11-01T09:26:07+00:00",
+          "description": "Az evolúciós eltérés elmélete szerint olyan gyorsan és drasztikusan változott a világ, hogy az agyunk és az ösztöneink képtelenek lekövetni. A hipotézis szerint egy sor civilizációs betegség magyarázható ezzel az eltéréssel a közösségi média okozta szorongástól a mozgásszegény életmód egészségügy...",
+          "image": "https://assets.telex.hu/images/20261029/1793287439-temp-2e2i0995g7822kombpk_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Az ukránok és az oroszok rendszeres humanitárius együttműködésről állapodtak meg",
+          "url": "https://telex.hu/kulfold/2026/11/01/a-ukranok-es-az-oroszok-rendszeres-humanitarius-egyuttmukodesrol-allapodtak-meg",
+          "published": "2026-11-01T09:19:16+00:00",
+          "description": "A szétlőtt ukrán város, Oleski lakosainak mentésekor jelentették be, hogy a jövőben is lesznek hasonló közös akciók.",
+          "image": "https://assets.telex.hu/images/20261101/1793524403-temp-gcphqj45jer0dnomioo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Közzétette a kormány, kinek mennyivel emelkedik jövőre a nyugdíja",
+          "url": "https://telex.hu/gazdasag/2026/11/01/igy-alakulnak-nyugdijak-savos-emeles-2027",
+          "published": "2026-11-01T09:10:00+00:00",
+          "description": "Az alacsony nyugdíjak esetében sávosan, az infláció feletti mértékben várható emelés.",
+          "image": "https://assets.telex.hu/images/20261101/1793522946-temp-o94u0bmptdps5ocedha_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Az ősz eddigi leghidegebb hajnalával indult a november, eső is lehet halottak napján",
+          "url": "https://telex.hu/belfold/2026/11/01/szezon-leghidegebb-hajnala-zabar-eso-idojaras-elorejelzes-november-1",
+          "published": "2026-11-01T08:29:20+00:00",
+          "description": "Délutántól dél felől vastag felhőtakaró érkezik, a hőmérséklet csúcsértéke 8 és 16 fok között alakul.",
+          "image": "https://assets.telex.hu/images/20261101/1793521218-temp-a8u7r2pdon7m1jlkokm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Tüntetéshullám Németországban: a fiatalok jobb oktatást követelnek, a vandálok üzleteket fosztottak ki",
+          "url": "https://telex.hu/kulfold/2026/11/01/nemetorszag-z-generacio-tuntetes-fosztogatas-rongalas-oktatas",
+          "published": "2026-11-01T08:11:48+00:00",
+          "description": "Az egyre nehezebb megélhetési körülmények, illetve a sorkatonai szolgálat ellen, valamint a jobb oktatásért és egészségügyi ellátásért szervezett demonstrációk több helyen erőszakba csaptak át.",
+          "image": "https://assets.telex.hu/images/20261101/1793520643-temp-da6pjl3ddj2p9lhheie_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Balatonfüredtől Polgárdiig tíz balatoni vasútállomás felújítását indítják el Vitézyék",
+          "url": "https://telex.hu/belfold/2026/11/01/balaton-eszaki-part-vasutallomas-megallohely-felujitas-unios-forrasok-vitezy-david",
+          "published": "2026-11-01T07:49:49+00:00",
+          "description": "Közel 29 ezer négyzetméteren rendezik az állomási előtereket, új parkolóhelyeket és kerékpártárolókat alakítanak ki.",
+          "image": "https://assets.telex.hu/images/20261101/1793517734-temp-aj6g8b7h8pmfdegfjdg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Egyre többen vennének hibridet a villanyautó után",
+          "url": "https://telex.hu/techtud/2026/11/01/villanyauto-hibrid-plug-in-autovasarlas-europa-egyesult-allamok-ausztrali-felmeres",
+          "published": "2026-11-01T07:42:53+00:00",
+          "description": "Sokan tartanak a nyilvános töltési lehetőségek bizonytalanságától, és meglepően kevesen tartják fontosnak a környezetvédelmi szempontokat egy friss felmérés szerint.",
+          "image": "https://assets.telex.hu/images/20261101/1793518768-temp-nr9vkpjco06a2miboil_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "A Volkswagen pénzhiány miatt felfüggeszti az új elektromos hajtású Golf fejlesztését",
+          "url": "https://telex.hu/gazdasag/2026/11/01/volkswagen-golf-elektromos-auto-villanyauto-fejlesztes",
+          "published": "2026-11-01T06:55:39+00:00",
+          "description": "Egy kiszivárgott vezetői feljegyzés szerint jelenleg nincs más választása a jelentős pénzügyi gondokkal küzdő cégcsoportnak.",
+          "image": "https://assets.telex.hu/images/20261101/1793515882-temp-614qcr2c0f7pcoplonf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Tusk szerint nem létezik kompromisszumos megoldás a lengyel alkotmánybírósági válságra",
+          "url": "https://telex.hu/kulfold/2026/11/01/lengyelorszag-donald-tusk-alkotmanybirosag",
+          "published": "2026-11-01T06:28:14+00:00",
+          "description": "Mateusz Morawiecki volt kormányfő szerint az alkotmánybíróság újraindítására a Tusk-kormány sürgős leváltása után kerülhet sor.",
+          "image": "https://assets.telex.hu/images/20261101/1793514168-temp-gra2su1j01nncepkeie_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "Filmpremier, táncelőadás és pszichedelikus koncert a Karakter fesztiválján",
+          "url": "https://telex.hu/kozlemeny/2026/11/01/filmpremier-tanceloadas-es-pszichedelikus-koncert-a-karakter-fesztivaljan",
+          "published": "2026-11-01T06:06:32+00:00",
+          "description": "November 7-én a Trafóban ünnepeljük a Karakter első születésnapját. Gyertek el a novellapályázat díjátadójára, és maradjatok velünk az esti koncertig!",
+          "image": "https://assets.telex.hu/images/20260929/1790684364-temp-p6oudka8pu758bkcamj_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Karakter"
+        },
+        {
+          "title": "Kubatov harcra készül, Deutsch a testvérének adhatja át az MTK-t",
+          "url": "https://telex.hu/sport/2026/11/01/politukusi-osszeferhetetlenseg-sport-torveny-szabalyok-kubatov-gabor-deutsch-tamas-szijjarto-peter",
+          "published": "2026-11-01T05:58:31+00:00",
+          "description": "Hétfőn tárgyalja a parlament a sport-összeférhetetlenségi törvényt, ami Kubatov Gábort érinti a legérzékenyebben, de a kajakosoknál és a vívóknál is váltást hozhat. Összeszedtük, kikre vonatkozik, és a finomítás után kiknek nem kell választaniuk. Milyen forgatókönyv jön akkor, ha Kubatov nem mond...",
+          "image": "https://assets.telex.hu/images/20261030/1793352342-temp-r46k695qiom54ckhpmc_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Meghalt Ciara Mageean, az írek Európa-bajnok futója 34 éves volt",
+          "url": "https://index.hu/sport/2026/11/01/meghalt-ciara-mageean-ir-kozeptavfuto-gyasz/",
+          "published": "2026-11-01T13:35:00+00:00",
+          "description": "Szerepelt a 2016-os Rio de Janeiró-i és a 2021-es tokiói olimpián is.",
+          "image": "https://kep.index.hu/1/0/7238/72380/723802/72380221_5333947_45d55fafbff3e35170d93955ebfb0855_wm.jpg",
+          "category": "Sport",
+          "author": null
+        },
+        {
           "title": "Akár egész Európát is megfigyelheti Vlagyimir Putyin, ha elkészül a Kalinyingrádban épülő óriási radar",
           "url": "https://index.hu/kulfold/2026/11/01/oroszorszag-kalinyingrad-radar-nato-fenyegetes/",
           "published": "2026-11-01T13:32:00+00:00",
@@ -470,15 +705,6 @@
           "description": "Ha elveszik a gyászt az emberektől, vagy a halál idejét a haldokló testtől, akkor végképp kikerül kezünkből az élet.",
           "image": "https://kep.index.hu/1/0/5902/59027/590278/59027823_4364351_c15083ba07ec4c5ba8c53238f724becb_wm.jpg",
           "category": "Vélemény",
-          "author": null
-        },
-        {
-          "title": "Patthelyzet Izraelben, bajba kerülhet Benjamin Netanjahu",
-          "url": "https://index.hu/kulfold/2026/11/01/izrael-knesszet-benjamin-netanjahu-likud-gadi-eizenkot-jichak-hercog/",
-          "published": "2026-11-01T08:54:00+00:00",
-          "description": "Megkezdődtek a koalíciós tárgyalások.",
-          "image": "https://kep.index.hu/1/0/7237/72374/723745/72374515_5333545_c0a3e7ebaa7781ba3f9507246d5bebd4_wm.jpg",
-          "category": "Külföld",
           "author": null
         }
       ]
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Saly Noémi: ’56-ban kiderült, hogy a magyar ember mégiscsak tisztességes",
+          "url": "https://24.hu/kultura/2026/11/01/1956-forradalom-otvenhatunk-saly-noemi-interju-etelek-video/",
+          "published": "2026-11-01T14:35:00+01:00",
+          "description": "Mi az a hadilinzer? Hogyan próbáltak finomat főzni az anyák a legnagyobb córesz idején is? Saly Noémi gasztrotörténész mesélt arról, hogyan nézett ki a forradalom „gyomornézetből”.",
+          "image": "https://s.24.hu/app/uploads/2026/10/ill24_sn_021-320x180.jpg",
+          "category": "Videó",
+          "author": "Jankovics Márton"
+        },
+        {
           "title": "Gyűlnek a gondok a Bayernnél: három müncheni játékos is megsérült a rangadón, egyiküket már meg is műtötték",
           "url": "https://24.hu/sport/foci/2026/11/01/bayern-munchen-serulesek-ismael-saibari-mutet/",
           "published": "2026-11-01T14:09:00+01:00",
@@ -1100,6 +1335,24 @@
           "author": "Futó Csaba"
         },
         {
+          "title": "Elfogták a soponyai postarablás gyanúsítottját",
+          "url": "https://24.hu/belfold/2026/11/01/elfogtak-a-soponyai-postarablas-gyanusitottjat/",
+          "published": "2026-11-01T10:54:00+01:00",
+          "description": "A rendőrök két órán belül azonosították a bűncselekmény elkövetésével gyanúsítható 18 éves helyi férfit.",
+          "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-71-320x180.jpg",
+          "category": "Belföld",
+          "author": "24.hu"
+        },
+        {
+          "title": "Nem kell sokat költeni az egészséges táplálkozásra: 7 rostban gazdag, pénztárcabarát alapanyag",
+          "url": "https://sokszinuvidek.24.hu/eletmod/2026/11/01/egeszseges-eletmod-rost-etkezes/",
+          "published": "2026-11-01T11:02:00+01:00",
+          "description": "A rostban gazdag étkezés nem feltétlenül drága. Hét egyszerű, kedvező árú élelmiszert mutatunk, amelyek támogatják az emésztést és változatosan elkészíthetők.",
+          "image": "https://24.hu/app/uploads/sites/11/2026/10/couleur-carrot-juice-1623157_1280-1-e1793127164887-320x180.jpg",
+          "category": "Életmód",
+          "author": "Sokszínű Vidék"
+        },
+        {
           "title": "Fosztogattak és rendőrökre támadtak több német városban",
           "url": "https://24.hu/kulfold/2026/11/01/nemetorszag-tuntetes-zavargasok/",
           "published": "2026-11-01T10:45:00+01:00",
@@ -1161,33 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/central-1088011562-e1793520068205-320x180.jpg",
           "category": "Belföld",
           "author": "Varga Zsuzsa"
-        },
-        {
-          "title": "Kínában hozná össze Trumpot és Putyint az amerikai és orosz külügyminiszter",
-          "url": "https://24.hu/kulfold/2026/11/01/trump-putyin-talakozo-kina-amerika-oroszoroszag-marco-rubio/",
-          "published": "2026-11-01T08:54:00+01:00",
-          "description": "Marco Rubio hangsúlyozta, hogy Szergej Lavrovval rövid beszélgetést folytattak, hivatalos találkozójuk nem volt.",
-          "image": "https://s.24.hu/app/uploads/2026/11/000_69nm4ev-320x180.jpg",
-          "category": "Nagyvilág",
-          "author": "Kassai Zsigmond"
-        },
-        {
-          "title": "Michael Douglas a nyilvánosság elől évek óta eltűnt Jack Nicholsonról: Jól van",
-          "url": "https://24.hu/elet-stilus/2026/11/01/michael-douglas-a-nyilvanossag-elol-evek-ota-eltunt-jack-nicholsonrol-jol-van/",
-          "published": "2026-11-01T08:36:00+01:00",
-          "description": "A színész épp az önéletrajzi regényét népszerűsítette, amikor kollégájáról kérdezték. Rendszeresen találkozik Nicholsonnal, úgyhogy készségesen válaszolt.",
-          "image": "https://s.24.hu/app/uploads/2026/11/063_gyi0057661845-e1793517775146-320x180.jpg",
-          "category": "Kikapcs",
-          "author": "Varga Zsuzsa"
-        },
-        {
-          "title": "Mit ünneplünk halottak napján és mindenszentekkor?",
-          "url": "https://24.hu/tudomany/2026/11/01/halottak-napja-mindenszentek-unnep-egyhaz/",
-          "published": "2026-11-01T08:11:00+01:00",
-          "description": "Halottainkkal kapcsolatban talán nem tűnik szerencsésnek az ünnep kifejezés, mégis erről van szó: a földön küzdő egyház ünnepélyes megemlékezése a szenvedő egyházról.",
-          "image": "https://s.24.hu/app/uploads/2026/10/d_mrc20261028035-e1793359339707-320x180.jpg",
-          "category": "Tudomány",
-          "author": "Bihari Dániel"
         }
       ]
     },
