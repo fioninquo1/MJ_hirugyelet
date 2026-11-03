@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-03T17:25:27.546569+00:00",
+  "scraped_at": "2026-11-03T17:30:56.961679+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A „mogging” lett az év szava a Collins szótár szerint",
+          "url": "https://telex.hu/zacc/2026/11/03/mogging-ev-szava-collins-english-dictionary",
+          "published": "2026-11-03T17:21:59+00:00",
+          "description": "A szó annyira népszerű lett 2026-ban, hogy magyar politikusok is meghonosították.",
+          "image": "https://assets.telex.hu/images/20261103/1793726302-temp-buj0eu0o9sfacnemhac_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "„A legnagyobb felelőtlenségek közé tartozik az ítéletmondás” – erős idézetek Bartis Attila interjújából",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/03/bukso-bartis-attila-nyary-krisztian-eros-idezetek",
+          "published": "2026-11-03T17:21:20+00:00",
+          "description": "Tévedni lehet. Hazudni nem. Bartis Attila ezzel a szabállyal vág neki annak, amire korábban aligha vállalkozott volna: hogy regény helyett a saját életét írja meg.",
+          "image": "https://assets.telex.hu/images/20261103/1793726136-temp-va3tumqcpouiedihhll_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Regényi Eszter"
+        },
+        {
+          "title": "Bartis Attila: A diktatúra hazugság nélkül elképzelhetetlen",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/03/bartis-attila-irodalom-bukso-a-reg-ugynokmult",
+          "published": "2026-11-03T17:21:17+00:00",
+          "description": "A Buksó legújabb epizódjában Nyáry Krisztián Bartis Attilával beszélget az ügynökmúltról, a Ceaușescu-kori Erdélyről és a szerző legújabb, önéletrajzi kötetéről, ami Bartis szerint gyökeresen különbözik a fikciós munkáitól.",
+          "image": "https://assets.telex.hu/images/20261103/1793698711-temp-hdgr0so5sbai0hlcojp_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Nyáry Krisztián"
+        },
+        {
+          "title": "Lökdösődés, kerítésmászás és politikai sárdobálás: eldurvult a lengyel alkotmánybírák lecserélése",
+          "url": "https://telex.hu/kulfold/2026/11/03/lengyelorszag-alkotmanybirosag-nawrocki-tusk-tusakodas",
+          "published": "2026-11-03T17:21:12+00:00",
+          "description": "A szejm sorban szavazza meg az új alkotmánybírákat, hogy lecserélje a Kaczyński-érában feltöltött testületet. Az ellenzékhez kötődő államfő azonban nem hajlandó elfogadni a kinevezéseket. Az egész helyzet ostromlott erődöt csinált az alkotmánybíróság épületéből, és még Nawrocki elnök is visszafor...",
+          "image": "https://assets.telex.hu/images/20261102/1793637597-temp-qavngd3pgksu6edmjll_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "A Loupe elfogadhatatlannak tartja, hogy a gyártócég előzetes egyeztetés nélkül kaszálta el a filmjüket",
+          "url": "https://telex.hu/after/2026/11/03/loupe-szinhazi-tarsulas-reakcio-vertigo-media-becsapodas",
+          "published": "2026-11-03T17:14:58+00:00",
+          "description": "A Becsapódás történetének ezt a fejezetét lezártnak tekintik.",
+          "image": "https://assets.telex.hu/images/20261103/1793725949-temp-fhdb9dpsmc8h8aaibki_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Öt telephelyét bezárja a Schaeffler autóipari beszállító, több mint háromezer munkahelyet megszüntetnek",
+          "url": "https://telex.hu/gazdasag/2026/11/03/schaeffler-nemet-autoipari-beszallito-leepites-3460-munkahelyet-szuntet-meg-ot-gyar-bezar",
+          "published": "2026-11-03T17:12:35+00:00",
+          "description": "Csökken a belső égésű motorral szerelt járművek iránti kereslet.",
+          "image": "https://assets.telex.hu/images/20261103/1793725912-temp-sbc6log3cb30dmcdigd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Gajdos László: Jövőre 25 százalékkal kevesebb fát termelhetnek ki az állami erdőkből",
+          "url": "https://telex.hu/gazdasag/2026/11/03/gajdos-laszlo-jovore-25-szazalekkal-kevesebb-fat-termelhetnek-ki-az-allami-erdokbol",
+          "published": "2026-11-03T16:38:40+00:00",
+          "description": "Ambiciózus terveket jelentett be a Tisza minisztere: négyszeresére növelnék azon erdőterületeket, ahol nincs vágásos kitermelés, és leváltják az erdőgazdaságok vezetőit, hogy átszervezzék a rendszert.",
+          "image": "https://assets.telex.hu/images/20261103/1793723812-temp-dusjn1rpg52r0hdgajl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Fabók Bálint"
+        },
+        {
+          "title": "Kollégáink, Németh-Halász Nikolett és Bődey János nyerték a MÚOSZ októberi sajtódíját",
+          "url": "https://telex.hu/kozlemeny/2026/11/03/nemeth-halasz-nikolett-es-bodey-janos-nyerte-a-muosz-oktober-sajtodij-2",
+          "published": "2026-11-03T16:31:37+00:00",
+          "description": "A cikk az ALS-szel küzdő Skripeg Béla életének utolsó három évét követi végig.",
+          "image": "https://assets.telex.hu/images/20261103/1793723129-temp-07hldndf3195agmgbic_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Nem hallgatja meg csütörtökön Matolcsy Györgyöt az MNB-botrányt vizsgáló bizottság",
+          "url": "https://telex.hu/gazdasag/2026/11/03/nem-hallgatja-meg-csutortokon-matolcsy-gyorgyot-az-mnb-botranyt-vizsgalo-bizottsag",
+          "published": "2026-11-03T16:28:42+00:00",
+          "description": "A vizsgálóbizottság csütörtökön dönthet arról, hogyan tudják majd személyesen is meghallgatni a volt jegybankelnököt.",
+          "image": "https://assets.telex.hu/images/20261103/1793714313-temp-4cm04nr0rc12apnagha_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "444: Navracsics Tibornak is dolgozott Feledy Botond elemzőcége",
+          "url": "https://telex.hu/belfold/2026/11/03/444-navracsics-tibornak-is-dolgozott-feledy-botond-elemzocege",
+          "published": "2026-11-03T16:23:39+00:00",
+          "description": "Lázár János minisztériumának az Epstein-aktákról is készítettek anyagokat.",
+          "image": "https://assets.telex.hu/images/20261103/1793722892-temp-60o1co0r4eko6mmabcd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "A kampányoló Trumpot rajongva fogadták hívei, sok republikánus jelölt viszont legszívesebben eldugta volna",
+          "url": "https://telex.hu/kulfold/2026/11/03/amerikai-felidos-valasztasok-midterm-trump-szemelye-akadalyozo-tenyezo",
+          "published": "2026-11-03T16:15:31+00:00",
+          "description": "Trump magát akarta a félidős választási kampány középpontjában látni, ez azonban erősen visszaütött a republikánus jelöltekre.",
+          "image": "https://assets.telex.hu/images/20261030/1793346139-temp-eovbhkec4fpi0imgnci_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Ungváry Krisztián: Németh Miklós törvénytelenül tekintett be titkosszolgálati dokumentumokba",
+          "url": "https://telex.hu/ugynokaktak/2026/11/03/ungvary-krisztian-orban-viktor-nemeth-miklos-ugynoki-jelentesek",
+          "published": "2026-11-03T16:02:40+00:00",
+          "description": "A rendszerváltás előtti utolsó miniszterelnök azt állította, látta Orbán Viktor ügynöki jelentéseit.",
+          "image": "https://assets.telex.hu/images/20240119/1705669808-temp-cPadie_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Idén már 44 körözöttet találtak meg külföldön a magyar fejvadászok",
+          "url": "https://telex.hu/belfold/2026/11/03/iden-mar-44-korozottet-talaltak-meg-kulfoldon-a-magyar-fejvadaszok-nemzeti-nyomozo-iroda-celkorozesi-osztaly",
+          "published": "2026-11-03T15:38:13+00:00",
+          "description": "Magyarországon is elfogtak 12 szökevényt.",
+          "image": "https://assets.telex.hu/images/20261103/1793720278-temp-g0akmfv0ijc21memahp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Sokan építenének szélerőművet, a 700-as kapacitásra 2300 megawattnyi ajánlat érkezett",
+          "url": "https://telex.hu/gazdasag/2026/11/03/kapitany-istvan-szelenergia-szeleromu-palyazat-2300-megawatt-jelentkezesek",
+          "published": "2026-11-03T15:38:06+00:00",
+          "description": "Kapitány István szerint az előző kormány éveken át akadályozta a szélerőművek építését, ezen változtatnak most.",
+          "image": "https://assets.telex.hu/images/20261103/1793720164-temp-jo0p49gjnde91ljobil_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Anita Orbán: There are strategic interests which do not change with a change in government",
+          "url": "https://telex.hu/english/2026/11/03/there-are-strategic-interests-which-do-not-change-with-a-change-in-government",
+          "published": "2026-11-03T15:33:42+00:00",
+          "description": "In her first interview with Telex, the Hungarian Minister of Foreign Affairs spoke about how Hungary is contributing to ending the Russian-Ukrainian war, her recent meeting with US Secretary of State Marco Rubio, and Hungary's involvement in the Western Balkans, among others.",
+          "image": "https://assets.telex.hu/images/20261103/1793717701-temp-fh93fm46um8q2fdcnmn_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Sorra kapják a bombafenyegetéseket a repülőjáratok Európa-szerte",
+          "url": "https://telex.hu/kulfold/2026/11/03/bombafenyegetes-repulogep-legi-kozlekedes-leszallas",
+          "published": "2026-11-03T15:25:02+00:00",
+          "description": "Egyelőre nem találtak kapcsolatot az esetek között.",
+          "image": "https://assets.telex.hu/images/20261103/1793717915-temp-gk2va6ii36072mpncfd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Nem érted anya, hogy a puszta létezés is fáj?",
+          "url": "https://telex.hu/after/2026/11/03/eivind-landsvik-alacsony-elvarasok-low-expectations-girl-in-red-ilyen-sodrodni-a-depresszioval",
+          "published": "2026-11-03T15:22:55+00:00",
+          "description": "A Girl in Red néven ismertté vált Marie Ulven első filmszerepében máris emlékezeteset nyújt. A Nincsenek elvárásokban egy kiégés utáni huszonévest játszik, akit az élet monotonitása teljesen felőröl.",
+          "image": "https://assets.telex.hu/images/20261030/1793370728-temp-rgrf5adsglp22lohboc_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Szente Katica"
+        },
+        {
+          "title": "Biztos, hogy el fognak kezdeni keresni politikusok, politikusok rokonaira, felmenőire vonatkozó információkat",
+          "url": "https://telex.hu/ugynokaktak/2026/11/03/cseh-gergo-bendeguz-allambiztonsagi-szolgalatok-torteneti-leveltara-foigazgato-abtl-ugynokaktak",
+          "published": "2026-11-03T15:22:53+00:00",
+          "description": "Az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatójával, Cseh Gergő Bendegúzzal készült interjú legfontosabb állításai.",
+          "image": "https://assets.telex.hu/images/20261103/1793712272-temp-usk2p42knqhr7pcgoke_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Rácz Attila"
+        },
+        {
+          "title": "Ügynökakták: éppen itt volt az ideje, hogy felvágjuk és megpróbáljuk kitisztítani ezt a sebet",
+          "url": "https://telex.hu/ugynokaktak/2026/11/03/ugynokaktak-interju-cseh-gergo-bendeguz-abtl-foigazgato",
+          "published": "2026-11-03T15:22:50+00:00",
+          "description": "Atombombák nem lesznek, miután november 4-én nyilvánosságra hozzák az ügynökaktákat, de biztosan előkerülnek majd ismert nevek, akiknek eddig nem volt ismert az állambiztonsági múltja. A levéltár 60 ezer nevet tesz majd közzé, a kommunista diktatúra legsötétebb időszakáról viszont alig fogunk meg...",
+          "image": "https://assets.telex.hu/images/20261103/1793714354-temp-qk362qnrhm984hjiamd_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "New York állam egy megyéjében megadták magukat a szavazatszámláló-gépek, Trump posztcunamival kezdte a félidős választások napját",
+          "url": "https://telex.hu/kulfold/2026/11/03/usa-amerikai-egyesult-allamok-felidos-valasztas-midterm-trump-demokratak-republikanusok",
+          "published": "2026-11-03T15:07:39+00:00",
+          "description": "Félidős választásokat tart az Egyesült Államok, minden államban megnyíltak a szavazófülkék. Benne van a pakliban, hogy nemcsak a képviselőházat, hanem a szenátust is elveszítik a republikánusok az amerikai elnök népszerűtlensége miatt. Kövesse velünk élőben!",
+          "image": "https://assets.telex.hu/images/20261103/1793725839-temp-qlspma09cvcebpfacnk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Telex"
+        },
+        {
+          "title": "Több felújítási támogatás jut a paneleknek, mint amennyit az állapotuk indokolna",
+          "url": "https://telex.hu/g7/adat/2026/11/03/felujitasi-tamogatas-panel-csaladi-haz-tarsashaz-wekerle-plusz-energiahatekonysag",
+          "published": "2026-11-03T14:53:12+00:00",
+          "description": "A panelek energiahatékonysága annak ellenére is jobb, hogy az elmúlt évek kormányzati programjaiból kimaradtak. A források eloszlása alapján nekik és a társasházaknak kedvez a Wekerle Plusz program.",
+          "image": "https://assets.telex.hu/images/20261103/1793715496-temp-vsqj2qm8mlfabddlekk_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Stubnya Bence"
+        },
+        {
+          "title": "Donald Trump szerint az év végével leállítják az Izraelnek szánt 4 milliárd dolláros támogatást",
+          "url": "https://telex.hu/kulfold/2026/11/03/donald-trump-amerikai-elnok-izrael-4-milliard-dollaros-tamogatas-leallitas-fegyver-benjamin-netanjahu",
+          "published": "2026-11-03T14:39:52+00:00",
+          "description": "Az amerikai elnök azt mondta, Izraelnek már nincs szüksége a segítségre, maguk is meg tudják vásárolni a fegyvereiket.",
+          "image": "https://assets.telex.hu/images/20261103/1793716765-temp-uov8e1j22d7p6hedlgi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Rendkívüli ülésen dönt a Házbizottság arról, szabályos volt-e Pócs János szavazása a parlamentben",
+          "url": "https://telex.hu/belfold/2026/11/03/hallerne-nagy-aniko-parlament-vizsgalat-pocs-janos-szavazas-gomb-megnyomas",
+          "published": "2026-11-03T14:01:49+00:00",
+          "description": "Hallerné Nagy Anikó szerint meg fogják tudni állapítani, hogy mi történt.",
+          "image": "https://assets.telex.hu/images/20261103/1793714306-temp-r867kgdvtfam3lplgfh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "„Jó otthon lenni” – 28 év után hazatért a brit kalandor, aki gyalog utazta körbe a Földet",
+          "url": "https://telex.hu/szepkilatas/2026/11/03/karl-bushby-brit-kalandor-gyaloglas-vilagkoruli-ut-hazateres",
+          "published": "2026-11-03T13:47:43+00:00",
+          "description": "Karl Bushby 1998-ban, 29 évesen indult útnak. 57 évesen tért vissza a szülővárosába, ahol az édesanyja várta.",
+          "image": "https://assets.telex.hu/images/20261103/1793713236-temp-tpr7oodv06tnaflcope_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Bedőlt az Ueno Bank, amelyben idén az OTP is részesedést szerzett",
+          "url": "https://telex.hu/gazdasag/2026/11/03/bedolt-ueno-bank-paraguay-otp-bank-befektetes",
+          "published": "2026-11-03T13:39:00+00:00",
+          "description": "Az OTP hangsúlyozta, hogy csak pénzügyi befektetőként jelentek meg Paraguay legjelentősebb pénzintézetében.",
+          "image": "https://assets.telex.hu/images/20261103/1793713092-temp-sr0f5sbajv1abdmpjci_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pupli Anna Sára"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Svédországba látogat Forsthoffer Ágnes, a koronahercegnő is fogadja",
+          "url": "https://index.hu/belfold/2026/11/03/forsthoffer-agnes-latogatas-svedorszag/",
+          "published": "2026-11-03T17:25:00+00:00",
+          "description": "Tárgyal a svéd házelnökkel és miniszterelnökkel is.",
+          "image": null,
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Rekordlétszámú megfigyelő ellenőrzi a választás tisztaságát",
           "url": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/rekordletszamu-megfigyelo-ellenorzi-a-valasztas-tisztasagat/",
           "published": "2026-11-03T17:23:21+00:00",
@@ -470,15 +705,6 @@
           "description": "Minden kormány továbbtolta a problémát, most az ország működése lehet a tét.",
           "image": "https://kep.index.hu/1/0/7239/72391/723916/72391653_5334733_24e3eb96e68f307614cafe0a0063209d_wm.jpg",
           "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "Donald Trump nem hazudtolta meg magát, rasszizmussal vádolja az egyik demokrata jelöltet",
-          "url": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/donald-trump-nem-hazudtolta-meg-magat-rasszizmussal-vadolja-az-egyik-demokrata-jeloltet/",
-          "published": "2026-11-03T15:30:02+00:00",
-          "description": "",
-          "image": "https://kep.cdn.indexvas.hu/1/0/7240/72404/724041/72404185_aaba105d237aded7b6fe86532b9c1601_wm.jpg",
-          "category": "Külföld",
           "author": null
         }
       ]
@@ -1100,15 +1326,6 @@
           "author": "24.hu"
         },
         {
-          "title": "Bárány Tibor: Nagy Magyar Megbotránkozástörténetek",
-          "url": "https://24.hu/kultura/2026/11/03/barany-tibor-nagy-magyar-megbotrankozastortenetek/",
-          "published": "2026-11-03T15:25:00+01:00",
-          "description": "A szexista klisék ismételgetése megerősíti az elmében azt a fogalmi sémát, amelyben a női test tárgy, a vele való durva bánásmód pedig a férfiasság bizonyítéka?",
-          "image": "https://s.24.hu/app/uploads/2026/11/central-0562180566-masolat-320x180.jpg",
-          "category": "Vélemény",
-          "author": "Bárány Tibor"
-        },
-        {
           "title": "Donald Tusk: Provokációt hiúsítottak meg a lengyel–orosz határon",
           "url": "https://24.hu/kulfold/2026/11/03/donald-tusk-provokacio-lengyelorszag-oroszorszag-kalinyingrad/",
           "published": "2026-11-03T15:14:00+01:00",
@@ -1188,6 +1405,15 @@
           "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2298447599-e1793710057872-320x180.jpg",
           "category": "Kultúra",
           "author": "Besenyei Balázs"
+        },
+        {
+          "title": "Bocsánatot kért a társadalomtól az új legfőbb ügyész",
+          "url": "https://24.hu/belfold/2026/11/03/fejes-peter-legfobb-ugyesz-bocsanatkeres/",
+          "published": "2026-11-03T13:45:00+01:00",
+          "description": "Fejes Péter új legfőbb ügyész megválasztása után bocsánatot kért a társadalomtól az ügyészség egyes korábbi döntései és mulasztásai miatt.",
+          "image": "https://s.24.hu/app/uploads/2026/11/central-1142822443-e1793709898208-320x180.jpg",
+          "category": "Belföld",
+          "author": "D. Kovács Ildikó"
         }
       ]
     },
@@ -1356,7 +1582,7 @@
           "author": "szerzo@hvg.hu (HVG)"
         },
         {
-          "title": "Zelenszkij: Az oroszok nem tartották be a Tumpnak tett ígéretüket, így mi is folytatjuk az energetikai létesítmények elleni támadásokat",
+          "title": "Zelenszkij: Az oroszok nem tartották be a Trumpnak tett ígéretüket, így mi is folytatjuk az energetikai létesítmények elleni támadásokat",
           "url": "https://hvg.hu/gazdasag/20261103_ukrajna-orosz-energetika-olajfinomito-tamadas-zelenszkij",
           "published": "2026-11-03T16:50:35+00:00",
           "description": "Éjjel meg is támadták az öt legnagyobb orosz olajfinomító egyikét.",
@@ -1540,7 +1766,7 @@
         {
           "title": "Nyomozás indult a Kisfaludy Program 475 milliárd forintnyi támogatása miatt",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/03/nyomozas-indult-a-kisfaludy-program-475-milliard-forintnyi-tamogatasa-miatt",
-          "published": "2026-11-03T17:47:27.545044+01:00",
+          "published": "2026-11-03T17:46:56.960354+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
