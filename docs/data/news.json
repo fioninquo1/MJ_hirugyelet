@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-03T05:10:50.457078+00:00",
+  "scraped_at": "2026-11-03T05:15:39.597840+00:00",
   "portals": [
     {
       "id": "telex",
@@ -7,7 +7,7 @@
       "url": "https://telex.hu",
       "color": "#2ec4b6",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
       "article_count": 0,
       "articles": []
     },
@@ -257,6 +257,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Óriásit bukhat Donald Trump, így mondanak véleményt a választók az elnökségéről",
+          "url": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-republikanusok-demokratak-szajbarago/",
+          "published": "2026-11-03T05:11:00+00:00",
+          "description": "Összeszedtük, miről is szól a félidős választás az Egyesült Államokban.",
+          "image": "https://kep.index.hu/1/0/7231/72314/723149/72314963_5329351_3824551ff7517edcd6a11016c6de0b82_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Az Oktogonon történt lövöldözésre a mai napig nincs épeszű magyarázat",
+          "url": "https://index.hu/kultur/2026/11/03/kordos-szabolcs-egy-varos-bunos-titkai-budapest-konyv/",
+          "published": "2026-11-03T05:10:00+00:00",
+          "description": "Senki sem sejtette, hogy gyilkos indulatok munkálnak a csendes díszletmunkásban.",
+          "image": "https://kep.index.hu/1/0/7238/72385/723858/72385899_5334333_32a8ed3ef5bec63152f49a56ec0fc73b_wm.jpg",
+          "category": "Kultúr",
+          "author": null
+        },
+        {
           "title": "Nagy Attila Tibor: Forsthoffer Ágnes mosolya eltűnt, Magyar Péter nem bír magával",
           "url": "https://index.hu/velemeny/2026/11/03/parlament-orszaggyules-magyar-peter-tisza-kormany-forsthoffer-agnes-vita-ellenzek-ulesnap/",
           "published": "2026-11-03T05:04:00+00:00",
@@ -461,24 +479,6 @@
           "description": "Ma már rémuralomként aposztrofálta az Operaház kirúgott vezetőjének munkásságát.",
           "image": "https://kep.index.hu/1/0/7228/72281/722810/72281021_5326967_1ff1d93e3196c4dbe2986d78714e80e7_wm.jpg",
           "category": "Kultúr",
-          "author": null
-        },
-        {
-          "title": "Magyar Péter fodrásza és barátnője a Kísértés új szereplői",
-          "url": "https://index.hu/mindekozben/poszt/2026/11/02/kisertes-uj-par-koltozik-be-tv2-magyar-peter-fodrasza/",
-          "published": "2026-11-02T17:20:41+00:00",
-          "description": "",
-          "image": "https://kep.index.hu/1/0/7239/72397/723976/72397619_8b200f943fcca4c1e0d85db5db22c26f_wm.jpg",
-          "category": "Mindeközben",
-          "author": null
-        },
-        {
-          "title": "Figyelmeztetést adott ki a Tisza-kormány, fontos határidő közeledik az autósoknak",
-          "url": "https://index.hu/belfold/2026/11/02/kobol-anita-tisza-kormany-zold-rendszam-plug-in-hibrid-auto-hatotavnovelt-elektromos-fekete-feher-rendszamtabla-forgalom/",
-          "published": "2026-11-02T17:17:00+00:00",
-          "description": "Kevesebb mint egy hónap múlva 27 000 járművet kivonhatnak a forgalomból.",
-          "image": "https://kep.index.hu/1/0/6147/61472/614728/61472899_4547527_c5041c3593097f018c2cfdcfceb921ed_wm.jpg",
-          "category": "Belföld",
           "author": null
         }
       ]
@@ -1201,6 +1201,15 @@
       "article_count": 10,
       "articles": [
         {
+          "title": "„Elviselhetetlen szintre” emelkedett az iszlamista antiszemita erőszak Németországban",
+          "url": "https://neokohn.hu/2026/11/03/iszlamista-antiszemita-eroszak-nemetorszag-muszlimok-atrocitasok-bka/",
+          "published": "2026-11-03T05:13:13+00:00",
+          "description": "Az iszlamizmus ma elsősorban a mobiltelefonokon keresztül éri el a fiatalokat, ezt a veszélyforrást akarják felszámolni. A „Elviselhetetlen szintre” emelkedett az iszlamista antiszemita erőszak Németországban bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/043_dpa-pa_251007-99-256926_dpai.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
           "title": "Árt az izraeli gazdaságnak a patthelyzet, egységkormányt sürget a tőzsde vezetője",
           "url": "https://neokohn.hu/2026/11/02/izraeli-gazdasag-patthelyzet-egysegkormany-tozsde-befektetok-biztonsag/",
           "published": "2026-11-02T18:30:20+00:00",
@@ -1280,15 +1289,6 @@
           "image": "https://neokohn.hu/files/2026/11/075_roberts-notitle261101_npfxd.jpg",
           "category": "Külföld",
           "author": "Neokohn"
-        },
-        {
-          "title": "Netanjahu legyőzhető lett volna – akkor miért nem sikerült Eisenkotnak?",
-          "url": "https://neokohn.hu/2026/11/02/netanjahu-legyozheto-lett-volna-akkor-miert-nem-sikerult-eisenkotnak/",
-          "published": "2026-11-02T05:13:45+00:00",
-          "description": "Mi vezetett a, talán mindenki számára, meglepő eredményhez? A Netanjahu legyőzhető lett volna – akkor miért nem sikerült Eisenkotnak? bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/11/089_MEI-ISR-KEHR-LSANA-20261028-004.jpg",
-          "category": "Izrael",
-          "author": "Megyeri Jonatán"
         }
       ]
     },
