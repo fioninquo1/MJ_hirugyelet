@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-03T10:35:28.198106+00:00",
+  "scraped_at": "2026-11-03T10:40:36.781276+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Az EU-ban Magyarországon lesz a legdrágább a GTA 6",
+          "url": "https://telex.hu/after/2026/11/03/magyarorszag-legdragabb-gta-6-europai-unio-mennyibe-kerul",
+          "published": "2026-11-03T10:34:39+00:00",
+          "description": "Ráadásul a fizetésekhez viszonyítva is nálunk fájhat a legjobban a vásárlás, de Norvégiában és Izraelben még ennél is többet kérnek érte.",
+          "image": "https://assets.telex.hu/images/20261103/1793701858-temp-5rvolcg4lbphcbeoanf_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Magyar Péter szerint Pócs János csalt a szavazásnál, ezért a fideszes képviselő súlyos megbüntetését kérte",
+          "url": "https://telex.hu/belfold/2026/11/03/magyar-peter-pocs-janos-megbuntetes",
+          "published": "2026-11-03T10:31:06+00:00",
+          "description": "Ócska, piti csalónak nevezte a fideszes képviselőt a miniszterelnök, és a házbizottság mielőbbi összehívását kérte.",
+          "image": "https://assets.telex.hu/images/20261103/1793702108-temp-7s2rpq2lkbau3abgbhg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Velkey György szerint nem a Telextől, hanem egy másik minisztériumtól tudták meg, hogy Feledy korábban Lázár minisztériumának dolgozott",
+          "url": "https://telex.hu/belfold/2026/11/03/velkey-gyorgy-kulugyi-allamtitkar-feledy-botond-felmentes-lazar-janos-telex",
+          "published": "2026-11-03T10:20:21+00:00",
+          "description": "Ez talán nem véletlen, hiszen korábban a Telex Vitézy minisztériumának küldött közérdekű adatigénylést. „Mindent el lehet magyarázni, de elhallgatni nem” – mondta a Külügyminisztérium parlamenti államtitkára a Telexnek.",
+          "image": "https://assets.telex.hu/images/20261103/1793699752-temp-dqkqtps17dk4fecfble_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nádor András"
+        },
+        {
+          "title": "Távozik az MTK vezetőedzője, Pizenits Máté",
+          "url": "https://telex.hu/sport/2026/11/03/mtk-vezetoedzo-pizenits-mate",
+          "published": "2026-11-03T10:16:40+00:00",
+          "description": "Vele együtt Lednitzky András asszisztens edző is távozik az MTK Budapest felnőtt csapatának szakmai stábjából.",
+          "image": "https://assets.telex.hu/images/20261103/1793700967-temp-d7oibio6vsvp9aocpcj_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Tarr Zoltán a költségvetés körüli turbulenciáról: Ez is az örökségünk, hogy picit hamar felkapjuk a vizet",
+          "url": "https://telex.hu/belfold/2026/11/03/tarr-zoltan-koltsegvetes-kulturalis-rendszer-atalakitas",
+          "published": "2026-11-03T10:13:49+00:00",
+          "description": "A kultúráért felelős miniszter arról beszélt, érti a felháborodást, de fontos tisztázni, hogy „a kulturális rendszer nagyon-nagyon drasztikus átalakításán” dolgoznak, ami hosszú folyamat.",
+          "image": "https://assets.telex.hu/images/20261103/1793700779-temp-4v1ol04kgpap2jeeeim_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Forsthoffer egy hétre kitiltotta a parlamentből a HírTV tudósítóit, „nagyobb fegyelmezettséget” vár a sajtótól",
+          "url": "https://telex.hu/belfold/2026/11/03/forsthoffer-agnes-parlament-forgatas-sajto-szabalyok-szigoritas-hirtv-egy-het-kitiltas",
+          "published": "2026-11-03T10:07:05+00:00",
+          "description": "A házelnök belengette, hogy a jövőben egy-egy sajtómunkatárs provokatív viselkedése az egész szerkesztőség kitiltásához vezethet.",
+          "image": "https://assets.telex.hu/images/20261103/1793698623-temp-bnv7r9cjdvdk0mjoaek_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Szavazott a parlament a magántőkealapokról, megismerhetőek lesznek a tényleges tulajdonosok",
+          "url": "https://telex.hu/gazdasag/2026/11/03/orszaggyules-szavazas-magantokealapok-alapok-befektetesi-alapok",
+          "published": "2026-11-03T10:01:51+00:00",
+          "description": "A kormány még májusban határozott arról, hogy felülvizsgálja a magyarországi magántőkealapok működését.",
+          "image": "https://assets.telex.hu/images/20261103/1793700330-temp-ljicshnrm8932gbeeli_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Megszavazták, munkaszüneti nap lesz december 24-e",
+          "url": "https://telex.hu/belfold/2026/11/03/december-24-munkaszunet-parlament-orszaggyules",
+          "published": "2026-11-03T09:56:10+00:00",
+          "description": "Zsinórban három nap fognak zárva tartani az üzletek karácsonykor, de lesznek kivételek.",
+          "image": "https://assets.telex.hu/images/20261103/1793700151-temp-5neogh9g8cnp2ehmkhm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Vilmos"
+        },
+        {
+          "title": "A lakossági befektetők is részvényesi lehetnek Oszkó Péter cégének",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/11/03/a-lakossagi-befektetok-is-reszvenyesi-lehetnek-oszko-peter-cegenek",
+          "published": "2026-11-03T09:55:02+00:00",
+          "description": "Most készülnek az első nyilvános részvénykibocsátásra, november 9-től az, aki szeretne, magánbefektetőként jegyezhet a cég részvényei közül.",
+          "image": "https://assets.telex.hu/images/20261030/1793367566-temp-cft4dgevebkp3lgcfej_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Mit jelent 5000 négyzetméter zöldfelület egy lakóparkban? (x)",
+          "url": "https://telex.hu/pr-cikk/2026/11/03/mit-jelent-5000-m2-zoldfelulet-egy-lakoparkban-x",
+          "published": "2026-11-03T09:55:01+00:00",
+          "description": "Mit nyújt 5000 m2 zöldfelület egy újépítésű, budai lakóparkban? A Mártonhegy Villapark példáján mutatjuk be.",
+          "image": "https://assets.telex.hu/images/20261029/1793265582-temp-ng651fpob00hciclmbj_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "Döntött a parlament: indulhat a politikusok vagyonosodási vizsgálata",
+          "url": "https://telex.hu/belfold/2026/11/03/parlament-megszavazta-vagyonosodasi-eljaras-torvenyjavaslat",
+          "published": "2026-11-03T09:48:35+00:00",
+          "description": "Sok száz politikus és közvetlen családtagjaik vagyongyarapodását fogja vizsgálni a NAV, ám Orbán Győző és Tiborcz István fellélegezhet.",
+          "image": "https://assets.telex.hu/images/20261103/1793700221-temp-ncrff5saq52ecdfodoo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Gulyás Gergely megkapta a végkielégítését, és tovább is utalta",
+          "url": "https://telex.hu/belfold/2026/11/03/gulyas-gergely-megkapta-a-vegkielegiteset-es-tovabb-is-utalta",
+          "published": "2026-11-03T09:44:57+00:00",
+          "description": "A korábbi Miniszterelnökséget vezető miniszter a kárpátaljai nagydobronyi gyermekotthonnak utalta át a három hete megkapott összeget.",
+          "image": "https://assets.telex.hu/images/20261103/1793697869-temp-m65a40d9rat3fpnhnkd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Meghalt a Tenerife csatára, miután olyan súlyosan megsérült egy mérkőzésen, hogy újra is kellett éleszteni",
+          "url": "https://telex.hu/sport/2026/11/03/jesus-de-miguel-spanyol-la-liga-2-halaleset-baleset-labdarugo-merkozes",
+          "published": "2026-11-03T09:26:44+00:00",
+          "description": "Jesús de Miguel 30 éves volt.",
+          "image": "https://assets.telex.hu/images/20261103/1793697825-temp-3ktrcformg5t6bhfikg_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Németh-Halász Nikolett"
+        },
+        {
+          "title": "Magyarország az őrület multiverzumában",
+          "url": "https://telex.hu/belfold/2026/11/03/lajkbajnoksag-139",
+          "published": "2026-11-03T09:26:16+00:00",
+          "description": "Rendszerváltás, igazságtétel és tisztítótűz, vagy újkommunizmus, politikai foglyok és kárhozat? Facebook-kormányzás vagy Facebook-ellenzék? Alternatív univerzumok csapnak össze a Lájkbajnokságban, miközben premier plánban nézzük, ahogy a Fidesz egyre inkább Gyurcsányt csinál saját magából.",
+          "image": "https://assets.telex.hu/images/20261102/1793642746-temp-r82icsn2s8fc5mekgec_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Hanula Zsolt"
+        },
+        {
+          "title": "A Balaton vízegyenlege világosan megmutatja, miért egyre kisebb a vízállás",
+          "url": "https://telex.hu/techtud/2026/11/03/megborult-a-balaton-vizegyenlege-parolgas-keves-a-teli-viztobblet",
+          "published": "2026-11-03T08:59:51+00:00",
+          "description": "Még nőtt is a téli víztöbblet a tó vízgyűjtőjén, de ez már nem képes ellensúlyozni a nyári vízhiány óriási erősödését.",
+          "image": "https://assets.telex.hu/images/20261103/1793695750-temp-jn19mp5bfpbi3ffgcie_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Elindult a társadalmi egyeztetés a Működő és Emberséges Magyarország Intézet létrehozásáról",
+          "url": "https://telex.hu/belfold/2026/11/03/orszaggyules-mukodo-es-emberseges-magyarorszag-intezet-velemenyezes",
+          "published": "2026-11-03T08:58:21+00:00",
+          "description": "A Közhangon lehet véleményezni.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Németh-Halász Nikolett"
+        },
+        {
+          "title": "Fidesz: Minden tény, adat és dokumentum azt bizonyítja, hogy Orbán Viktor nem megfigyelt, hanem őt figyelte meg a kommunista államhatalom",
+          "url": "https://telex.hu/belfold/2026/11/03/fidesz-minden-teny-adat-es-dokumentum-azt-bizonyitja-hogy-orban-viktor-nem-megfigyelt-hanem-ot-figyelte-meg-a-kommunista-allamhatalom",
+          "published": "2026-11-03T08:55:13+00:00",
+          "description": "A párt arra reagált, hogy Németh Miklós volt kormányfő állítja: látta, olvasta Orbán Viktor ügynöki jelentéseit.",
+          "image": "https://assets.telex.hu/images/20261103/1793696100-temp-cju7glk1nb88beeplbj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "HVG: Kamarai ingatlanvásárlások miatt nyomoz a rendőrség",
+          "url": "https://telex.hu/gazdasag/2026/11/03/kamara-nyomozas-mihalovics-sesztak-nagy-elek-rendorseg",
+          "published": "2026-11-03T08:50:24+00:00",
+          "description": "Seszták Miklós volt kabinetfőnöke lehetett az eladó cég kulcsembere.",
+          "image": "https://assets.telex.hu/images/20261103/1793695679-temp-6joghdedm29a4cnaphb_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Head of Hungarian Institute of International Affairs dismissed with immediate effect",
+          "url": "https://telex.hu/english/2026/11/03/feledy",
+          "published": "2026-11-03T08:41:07+00:00",
+          "description": "Botond Feledy was dismissed after it was discovered that he had worked as an advisor for the Orbán government’s Minister of Construction and Transport, János Lázár for the past several years, but failed to disclose this.",
+          "image": "https://assets.telex.hu/images/20261103/1793694530-temp-a3iics7ohg4e0kcbjkc_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Bejelentkezéshez fogja kötni a Reddit az oldal használatát, mert a mesterséges intelligencia elveszi a látogatóit",
+          "url": "https://telex.hu/techtud/2026/11/03/reddit-bejelentkezes-mesterseges-intelligencia-automatizalt-adatgyujtes",
+          "published": "2026-11-03T08:23:41+00:00",
+          "description": "Egyre kevesebb az oldalra érkező forgalom az MI-keresőösszefoglalók miatt, ezért a cég védekezik a modellek automatikus adatgyűjtése ellen.",
+          "image": "https://assets.telex.hu/images/20261103/1793694198-temp-dtdhgq26tmb61lbcban_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Költségvetési csalás miatt nyomoznak a fideszes propagandát gyártó Logosz Alapítvány ellen",
+          "url": "https://telex.hu/belfold/2026/11/03/logosz-alapitvany-nyomozas-koltsegvetesi-csalas-propaganda",
+          "published": "2026-11-03T08:22:25+00:00",
+          "description": "A szervezet a lakosság objektív tájékoztatására kapott közpénzt, az általuk megjelenített lapokban viszont visszatérően fideszes propagandát jelenítettek meg.",
+          "image": "https://assets.telex.hu/images/20261016/1792156569-temp-lq7pnvc1vfbfbpihljh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Kavarodással indult a keddi parlament: Magyar Péter rázta a fejét, azt mondta, ma nem szólal fel",
+          "url": "https://telex.hu/belfold/2026/11/03/magyar-peter-parlament-november-3-napirend-elotti-felszolalas-hallerne-nagy-aniko-december-24-legfobbugyesz-jelolt",
+          "published": "2026-11-03T08:20:18+00:00",
+          "description": "Hallerné Nagy Anikó azzal kezdte az ülést, hogy a miniszterelnöknek lett volna napirend előtti felszólalása, de ez végül elmarad. Toroczkai László „minősíthetetlen kuplerájnak” nevezte a parlamenti munkát, Tanács Zoltán pedig Hankó Balázson élcelődött.",
+          "image": "https://assets.telex.hu/images/20261103/1793694374-temp-e7cq6eunq0193imiepb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Hétmilliárd forintnyi bírságot szórtak ki a budapesti traffipaxokkal az év első hat hónapjában",
+          "url": "https://telex.hu/belfold/2026/11/03/traffipax-budapest-adatok-statisztika",
+          "published": "2026-11-03T08:00:09+00:00",
+          "description": "Az év első hat hónapjában összesen 157 105 gyorshajtást mértek a 71 darab traffipaxszal.",
+          "image": "https://assets.telex.hu/images/20261103/1793692775-temp-tr2s876kdmue9blnegk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Trump ígérete ellenére még a félidős választások előtt iráni célpontokra mért csapásokat az Egyesült Államok",
+          "url": "https://telex.hu/kulfold/2026/11/03/irani-celpontok-tamadas-egyesult-allamok-felidos-valasztas-elott",
+          "published": "2026-11-03T07:54:19+00:00",
+          "description": "Amerikai tisztviselők szerint „védekező jellegű” csapásokról volt szó.",
+          "image": "https://assets.telex.hu/images/20261103/1793692782-temp-vtlk46286k1s3jjbldk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Trump pártja jókora pofonba szaladhat bele a félidős választáson, amely mindenképp mérföldkő lesz a közeljövőre nézve",
+          "url": "https://telex.hu/kulfold/2026/11/03/amerikai-felidos-valasztasok-kongresszus-tet-trump-nepszerutlen-demokratak-republikanusok-kepviselohaz-szenatus",
+          "published": "2026-11-03T07:42:53+00:00",
+          "description": "A képviselőházban szinte biztosan többségük lesz a demokratáknak, csak annak mértéke a kérdés, de a szenátusra is jó esélyük van. Az elnök népszerűtlensége, az iráni háború miatti üzemanyagár-emelkedés és a vámok hatásai olyan helyzetet teremtettek a keddi félidős választáson, ahol a demokraták k...",
+          "image": "https://assets.telex.hu/images/20261102/1793651543-temp-35fm0gf3olob3lncdpe_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ferenci Ármin"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Felháborodott a svéd király rokonai pénzéhségén, a történetben természetesen megvan a magyar szál is",
+          "url": "https://index.hu/fomo/2026/11/03/arveres-aukcio-ekszer-luxus-sved-kiraly-hercegno-anyacarne-orosz-bolgar-car-botrany/",
+          "published": "2026-11-03T10:35:00+00:00",
+          "description": "Brigitta hercegnő elárverezendő ékszereinek egyike az utolsó orosz anyacárné zafírjaiból áll, melyeket a magyar származású első bolgár cár vett meg.",
+          "image": "https://kep.index.hu/1/0/7238/72385/723859/72385955_5334337_909672bd3b03870920c1b3b0d2120a64_wm.jpg",
+          "category": "Fomo",
+          "author": null
+        },
+        {
           "title": "Három nap alatt kell új csapatot építeni a válogatottnál, a héten élesben bizonyít az új kapitány",
           "url": "https://index.hu/sport/kezilabda/2026/11/03/magyar-ferfi-kezilabda-valogatott-europa-bajnoki-selejtezo-sotonyi-laszlo-toth-edmond/",
           "published": "2026-11-03T10:20:00+00:00",
@@ -470,15 +705,6 @@
           "description": "A rendőrség eljárást indított, szemtanúk és érintettek jelentkezését várják.",
           "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Egyértelműek a célok: Donald Trump megfékezése, megélhetés, abortusz",
-          "url": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-demokrata-part-donald-trump/",
-          "published": "2026-11-03T07:41:00+00:00",
-          "description": "Négy új mandátum is elég lehet ahhoz, hogy átírják az erőviszonyokat.",
-          "image": "https://kep.index.hu/1/0/7239/72396/723968/72396895_5335109_fca34815044c1ac32bc60764401d4822_wm.jpg",
-          "category": "Külföld",
           "author": null
         }
       ]
@@ -966,7 +1192,7 @@
       "articles": [
         {
           "title": "„Mindannyian osztozunk a szörnyű fájdalomban” – a futballvilág gyászolja Jesús de Miguelt",
-          "url": "https://24.hu/sport/foci/2026/11/03/mindannyian-osztozunk-a-szornyu-fajdalomban-a-futballvilag-gyaszolja-jesus-de-miguelt/",
+          "url": "https://24.hu/sport/foci/2026/11/03/jesus-de-miguel-tenerife-meghalt-megemlekezes/",
           "published": "2026-11-03T11:28:00+01:00",
           "description": "A Tenerife 30 éves támadója azt követően vesztette életét, hogy egy bajnokin ütközött az ellenfél kapusával.",
           "image": "https://s.24.hu/app/uploads/2026/11/jesus-de-miguel-320x180.jpg",
@@ -1540,7 +1766,7 @@
         {
           "title": "Vitályos Fanni Fidesz-közeli alapítványánál tartott házkutatást a NAV",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/03/vitalyos-fanni-fidesz-koezeli-alapitvanyanal-tartott-hazkutatast-a-nav-1",
-          "published": "2026-11-03T11:25:28.075442+01:00",
+          "published": "2026-11-03T11:25:36.779090+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "30 ezer köbméter mederanyag mosódott ki a Dunából a paksi fenékküszöb építése során",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/03/30-ezer-koebmeter-mederanyag-mosodott-ki-a-dunabol-a-paksi-fenekkueszoeb-epitese-soran-1",
-          "published": "2026-11-03T11:04:28.075674+01:00",
+          "published": "2026-11-03T11:04:36.779297+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1558,7 +1784,7 @@
         {
           "title": "Százmilliós bukó a GYAC-nál, Borkai Zsolt elnöki fizetése mégis nagyot ugrott",
           "url": "https://kontroll.hu/cikk/sport/2026/11/03/szazmillios-buko-a-gyac-nal-borkai-zsolt-elnoeki-fizetese-megis-nagyot-ugrott-1",
-          "published": "2026-11-03T10:52:28.075758+01:00",
+          "published": "2026-11-03T10:52:36.779378+01:00",
           "description": null,
           "image": null,
           "category": "Sport",
