@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-04T13:05:35.179359+00:00",
+  "scraped_at": "2026-11-04T13:10:37.177287+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Szikora Róbert hálózati személy volt, az énekes szerint senkiről nem jelentett semmit",
+          "url": "https://telex.hu/ugynokaktak/2026/11/04/r-go-szikora-robert-kornyei-attila-hungaria-kekes-zoltan",
+          "published": "2026-11-04T13:07:32+00:00",
+          "description": "Szikora mellett az R-GO másik alapítótagjáról, Környei Attiláról és a Hungáriából vagy a Dolly Rollból ismert Kékes Zoltánról is előkerült 6-os karton. Róluk korábban nem lehetett tudni, hogy hálózati személyek voltak.",
+          "image": "https://assets.telex.hu/images/20261104/1793796811-temp-7hi637de7c2s5klheop_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "Októberben 200 milliárd volt az államkasza hiánya, Kármán szerint összességében sikerül stabilizálni a gazdaságot",
+          "url": "https://telex.hu/gazdasag/2026/11/04/allamhaztartasi-hiany-2026-oktober-allamkassza-karman-andras-penzugyminiszterium",
+          "published": "2026-11-04T12:59:15+00:00",
+          "description": "Kármán szerint jövőre javul majd a helyzet, mivel 2027-es költségvetés jelentős kiadáscsökkenéssel számol.",
+          "image": "https://assets.telex.hu/images/20261104/1793796791-temp-7c6cufc6tf92dcahpkf_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Hónapokig élt a nápolyi reptéren egy svéd férfi, aki arra sem emlékezett, hogy került oda, de most már hazamenne",
+          "url": "https://telex.hu/kulfold/2026/11/04/napoly-repuloter-sved-ferfi-amnezia-hazajutas",
+          "published": "2026-11-04T12:55:01+00:00",
+          "description": "A magát 25 évesnek valló Daniel korábban nem fogadott el segítséget. November elején végre sikerült kapcsolatba lépni a családjával, és elkezdték szervezni a hazajutását.",
+          "image": "https://assets.telex.hu/images/20261104/1793796875-temp-9l0e84prnptm7dlbcna_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Beer Miklós nyugalmazott püspök is szerepel az ügynökaktákban, de elmondása szerint nem is tudott róla, hogy hálózati személy",
+          "url": "https://telex.hu/ugynokaktak/2026/11/04/beer-miklos-katolikus-puspok-ugynokaktak-6-os-karton-magnesszalag-beszervezes",
+          "published": "2026-11-04T12:43:36+00:00",
+          "description": "Beer szerint két-három alkalommal megkeresték gyanús alakok, és felidézett egy korábbi furcsa esetet, de valódi beszervezés nem történt.",
+          "image": "https://assets.telex.hu/images/20261104/1793794873-temp-cgutgrjh02811igicfl_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "Fejvadászok fogták el a több mint két éve bujkáló, hét év börtönre ítélt férfit",
+          "url": "https://telex.hu/belfold/2026/11/04/fejvadasz-bujkalo-bunozo-elfogas-video-het-ev-borton-itelet",
+          "published": "2026-11-04T12:43:36+00:00",
+          "description": "Emberrablásban és unokázós csalásban is részt vett.",
+          "image": "https://assets.telex.hu/images/20261104/1793795814-temp-i8p4epatfnna2hnoeid_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Navracsics Tibor szerint a Feledy Botond-ügy a kormány hatalmi paranoiáját mutatja",
+          "url": "https://telex.hu/belfold/2026/11/04/navracsics-tibor-feledy-botond-kormany-hatalmi-paranoia",
+          "published": "2026-11-04T12:20:32+00:00",
+          "description": "A volt miniszter szerint a kormány kettős mércét alkalmaz, és továbbmélyíti a politikai megosztottságot.",
+          "image": "https://assets.telex.hu/images/20261104/1793794797-temp-uqivlk1v2lu95fklaef_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Jellemzően 36 millió forintos hitellel keresik a Wekerle Pluszt a Bankmonitor adatai szerint",
+          "url": "https://telex.hu/nevertek/2026/11/04/wekerle-plusz-bankmonitor",
+          "published": "2026-11-04T11:39:44+00:00",
+          "description": "Az ingatlan értékéhez képest hasonló hitelaránnyal számolnak az érdeklődők a Wekerlénél, mint az Otthon Startnál, a becsült törlesztés viszont a jövedelmük nagyobb részét vinné el.",
+          "image": "https://assets.telex.hu/images/20261104/1793783910-temp-o4uuqplkm1k08nkigmk_cimlap-normal.jpg",
+          "category": "Névérték",
+          "author": "Kisfaludy Tamás"
+        },
+        {
+          "title": "Hungary opens database of communist-era informer files",
+          "url": "https://telex.hu/english/2026/11/04/hungary-opens-database-of-communist-era-informer-files",
+          "published": "2026-11-04T11:30:24+00:00",
+          "description": "The records of more than fifty thousand former informants are now available to the public via an online database. The PM sees the move as part of a process of healing and reconciliation.",
+          "image": "https://assets.telex.hu/images/20261104/1793791092-temp-tb44pd0111nk5jeildb_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Lélegeztetőgép-biznisz: bizonyítékokat foglalt le az NNI a Külügyminisztériumban",
+          "url": "https://telex.hu/belfold/2026/11/04/nni-iratok-lefoglalas-iratok-kulugyminiszterium-lelegeztetogep",
+          "published": "2026-11-04T11:07:15+00:00",
+          "description": "A lélegeztetőgép-bizniszek ügyében a NAV bűnszervezetben elkövetett költségvetési csalás és pénzmosás gyanújával nyomoz.",
+          "image": "https://assets.telex.hu/images/20261104/1793790403-temp-eqou01o443145eimjcb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Tarr Zoltán: Édesapám írásos igazolással is rendelkezett arról, hogy ügynöki tevékenységet nem végzett, a 6-os karton megléte ellenére sem",
+          "url": "https://telex.hu/ugynokaktak/2026/11/04/tarr-zoltan-ugynokakta-apa-jelentes-hatos-karton",
+          "published": "2026-11-04T10:57:02+00:00",
+          "description": "Tarr Kálmán református lelkész neve egy hatos kartonon tűnik fel az ÁBTL adatbázisában. Tarr Zoltán szerint az édesapja története ismert volt a családban, de a fennmaradt irat nem azt jelenti, hogy az apja ügynök volt.",
+          "image": "https://assets.telex.hu/images/20261104/1793789847-temp-hila0uht2dqdainkica_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A republikánusok 94 év után szenvedtek vereséget Kansasben, és ez csak a jéghegy csúcsa",
+          "url": "https://telex.hu/kulfold/2026/11/04/94-ev-utan-demokrata-szenator-gyozelem-kansas",
+          "published": "2026-11-04T10:19:52+00:00",
+          "description": "Nem egyszerűen egy szenátori széket buktak el, a kansasi vereség önmagában is mutatja, hogy Trump és vele együtt a Republikánus Párt is súlyos válságba került.",
+          "image": "https://assets.telex.hu/images/20261104/1793785331-temp-9a8oouqcbi1d7cjipbp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "A Bankszövetség elnöke szerint a bankok még várnak a rendszerváltásra",
+          "url": "https://telex.hu/gazdasag/2026/11/04/jelasity-radovan-erste-bank-bankszovetseg-bankado-extraprofitado",
+          "published": "2026-11-04T10:09:42+00:00",
+          "description": "A Tisza-kormány megtartotta a bankokat terhelő extra adókat, bár Jelasity Radován szerint folyamatosak a tárgyalások a Pénzügyminisztériummal.",
+          "image": "https://assets.telex.hu/images/20261104/1793786720-temp-t2jtfk65fiha4nhklme_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Érettségi előtt állnak, de mit tudnak a pénzről?",
+          "url": "https://telex.hu/g7/tamogatott-tartalom/2026/11/04/erettsegi-elott-allnak-de-mit-tudnak-a-penzrol",
+          "published": "2026-11-04T10:00:41+00:00",
+          "description": "Kinek a feladata megtanítani a fiatalokat bánni a pénzzel, ha otthon hiányoznak az alapok?",
+          "image": "https://assets.telex.hu/images/20261103/1793712313-temp-8pvpq932hvemfmooaeh_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Miért ilyen pocsék sok helyen a munkahelyi kávé? (x)",
+          "url": "https://telex.hu/pr-cikk/2026/11/04/miert-ilyen-pocsek-meg-mindig-a-munkahelyi-kave-x",
+          "published": "2026-11-04T09:55:01+00:00",
+          "description": "Fizetésemelés, bónusz, wellbeing és dizájneriroda – de mi a helyzet a kávéval? Miért éri be sok cég gyenge minőségű munkahelyi üzemanyaggal 2026-ban?",
+          "image": "https://assets.telex.hu/images/20261029/1793289607-temp-0adp2cj4pm2fbeolkgl_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "Egyéves a Xiaomi Store a Westendben – kétnapos születésnapi buli lesz! (x)",
+          "url": "https://telex.hu/pr-cikk/2026/11/04/egyeves-a-xiaomi-store-a-westendben-ketnapos-szuletesnapi-unneplessel-keszulnek-x",
+          "published": "2026-11-04T09:55:01+00:00",
+          "description": "November 6–7-én különleges születésnapi ajánlatokkal, interaktív játékokkal és értékes nyereményekkel várja a látogatókat a Westend megújult Xiaomi üzlete.",
+          "image": "https://assets.telex.hu/images/20261030/1793382233-temp-5o64513f1l9vacgdaie_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "Földindulás Texasban, a demokraták elsöpörték a republikánusok fellegvárát",
+          "url": "https://telex.hu/kulfold/2026/11/04/foldindulas-texasban-a-demokratak-elsoportek-a-republikanusok-fellegvarat",
+          "published": "2026-11-04T09:48:02+00:00",
+          "description": "Hiába költött több százmillió dollárt Elon Musk a republikánus jelöltek támogatására, az összes fontos posztot elvitték a demokraták szenátortól kormányzóig.",
+          "image": "https://assets.telex.hu/images/20261104/1793773598-temp-junj7r20b7e2eoilhgm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "Nálunk is zsugorodik, de a hatalmas német leépítést megúszhatja a nagy autóipari beszállító",
+          "url": "https://telex.hu/g7/vallalat/2026/11/04/schaeffler-leepites-uzembezaras-nemetorszag-szombathely-debrecen-autoipar-beszallito",
+          "published": "2026-11-04T09:44:04+00:00",
+          "description": "Úgy tűnik, hogy a németeknek nagyon fájdalmas a Schaeffler-csoport újabb több ezer fős leépítése. Magyarországon közel 7 százalékkal csökkent a csoport öt vállalatának létszáma egy év alatt.",
+          "image": "https://assets.telex.hu/images/20261103/1793720267-temp-facnsfidiig22dhaokf_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Torontáli Zoltán"
+        },
+        {
+          "title": "Megnyíltak az ügynökakták, de mik is ezek? Mi derülhet ki az iratokból, és mi nem?",
+          "url": "https://telex.hu/ugynokaktak/2026/11/04/ugynokaktak-allambiztonsagi-szolgalatok-torteneti-leveltara-hatos-karton-aldozatok",
+          "published": "2026-11-04T09:29:23+00:00",
+          "description": "A rendszerváltás után 36 évvel nyilvánosak a köznyelvben csak ügynökakták néven emlegetett iratok. Most három irattípust tettek mindenki számára elérhetővé. Ezek közül a hatos kartonok a legérdekesebbek, de még azokból sem állapítható meg egyértelműen, hogy valaki ügynök volt-e. Atombombákra nem ...",
+          "image": "https://assets.telex.hu/images/20261103/1793705566-temp-dum903tej6nd6ddjhkl_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Elérhető a nyitottaktak.hu adatbázisa, mostantól bárki megnézheti, szerepeltek-e a rokonai az állambiztonság hálózati nyilvántartásában",
+          "url": "https://telex.hu/ugynokaktak/2026/11/04/mostantol-barki-rakereshet-szerepeltek-e-a-rokonai-az-allambiztonsag-halozati-nyilvantartasaban",
+          "published": "2026-11-04T09:16:51+00:00",
+          "description": "Elindult a Nyitott akták honlapja, elérhetővé váltak a levéltárban őrzött 6-os kartonok, B-naplók és mágnesszalagos nyilvántartások digitális másolatai.",
+          "image": "https://assets.telex.hu/images/20261104/1793784104-temp-1an0tv769cee9negiih_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Az első muszlim szenátor, az első fekete női kormányzó – történelmi áttöréseket hozott az amerikai félidős választás",
+          "url": "https://telex.hu/kulfold/2026/11/04/amerikai-felidos-valasztas-midterms-tortenelem-elsok",
+          "published": "2026-11-04T09:16:37+00:00",
+          "description": "Először kerül a szenátusba nyíltan meleg férfi, és megválasztották az első őslakos női kormányzót is.",
+          "image": "https://assets.telex.hu/images/20261104/1793781948-temp-ro6upcud3vd76aibffb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Pénzéhes unokák ugráltatják a gazdag nagymamát a John Lewis üzletlánc karácsonyi reklámjában",
+          "url": "https://telex.hu/after/2026/11/04/elkenyeztetett-unokak-fenyuzo-karacsony-john-lewis-idei-reklam",
+          "published": "2026-11-04T09:12:43+00:00",
+          "description": "A reklám sokakat felháborított, a kritikák zöme szerint érzéketlenség gazdagságot bemutató képsorokkal sokkolni az embereket a megélhetési válság idején.",
+          "image": "https://assets.telex.hu/images/20261104/1793783485-temp-gue0ms1e8cdn0efijda_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Bóka János az ügynökakták megnyitásáról: Újra politikai cirkusz van",
+          "url": "https://telex.hu/ugynokaktak/2026/11/04/fidesz-boka-janos-ugynokaktak",
+          "published": "2026-11-04T09:06:35+00:00",
+          "description": "A Fidesz frakcióvezetője szerint ez az esemény arra tökéletesen alkalmas, hogy „újra politikai cirkuszt generáljon, és elvigye az emberek figyelmét a valóban fontos problémákról”.",
+          "image": "https://assets.telex.hu/images/20261104/1793783009-temp-5o1igubt7m7scaimgji_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Már biztos, hogy a szentestét is börtönben tölti Bús Balázs",
+          "url": "https://telex.hu/belfold/2026/11/04/bus-balazs-borton-letartoztatas-meghosszabbitas-december-25",
+          "published": "2026-11-04T08:58:39+00:00",
+          "description": "Másodfokon is döntöttek az NKA volt alelnöke letartóztatásának meghosszabbításáról.",
+          "image": "https://assets.telex.hu/images/20261104/1793782679-temp-s6g2v72sufn9bmnfcep_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "31 százalékkal több új lakást adtak át az év első 9 hónapjában, mint egy évvel korábban",
+          "url": "https://telex.hu/gazdasag/2026/11/04/ksh-lakasepites-lakaspiac",
+          "published": "2026-11-04T08:53:53+00:00",
+          "description": "A KSH adatai szerint eddig valamivel több mint 22 ezer új lakás építésére adtak ki engedélyt idén.",
+          "image": "https://assets.telex.hu/images/20261104/1793782372-temp-pj7jm5esfqhe7iiinib_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Több ezer ázsiai munkavállalónak gyorsított vízum, bérlakások ezrei – újabb részleteket közölt Tárkányi az Orbán-kormány CATL-nek tett ígéreteiből",
+          "url": "https://telex.hu/gazdasag/2026/11/04/tarkanyi-zsolt-catl-szandeknyilatkozat-vendegmunkasok-telekvasarlas-kepzesek",
+          "published": "2026-11-04T08:43:52+00:00",
+          "description": "A Közlekedési és Beruházási Minisztérium államtitkára több oldalt is közzétett abból a szándéknyilatkozatból, amit 2022 augusztusában kötött az Orbán-kormány a kínai céggel.",
+          "image": "https://assets.telex.hu/images/20261104/1793781730-temp-7106t8uhf31qelpbnig_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Aradi Hanga Zsófia"
+        }
+      ]
     },
     {
       "id": "444",
@@ -21,7 +247,7 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Szikora Róbert azt mondja, nem jelentet senkiről, miután kiderült, hogy szerepel a neve az ügynökaktákban",
+          "title": "Szikora Róbert azt mondja, nem jelentett senkiről, miután kiderült, hogy szerepel a neve az ügynökaktákban",
           "url": "https://444.hu/2026/11/04/szikora-robert-azt-mondja-nem-jelentet-senkirol-miutan-kiderult-hogy-szerepel-a-neve-az-ugynokaktakban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "published": "2026-11-04T13:00:43+00:00",
           "description": "A zenész elmondása szerint szerették volna, ha jelentéseket ír, de nem kérték rá, és ő nem tett ilyet.",
@@ -284,6 +510,15 @@
           "author": null
         },
         {
+          "title": "Medveczky Ilona Kleopátraként szerepel az akták között",
+          "url": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/medveczky-ilona-kleopatrakent-szerepel/",
+          "published": "2026-11-04T12:59:49+00:00",
+          "description": "",
+          "image": "https://kep.index.hu/1/0/7241/72414/724140/72414051_c9fcd91a18b1fabb0e992643460914b0_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Szijjártó Péter megszólalt az ügynökakták megnyitása után",
           "url": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/szijjarto-peter-megszolalt-az-ugynokaktak-megnyitasa-utan/",
           "published": "2026-11-04T12:52:06+00:00",
@@ -470,15 +705,6 @@
           "description": "",
           "image": "https://kep.index.hu/1/0/7241/72413/724133/72413391_00d626eb1ab68a951887119c2bcdfe5e_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Az utolsó sorokból jutott a világ tetejére a Cirque du Soleil két magyar artistája",
-          "url": "https://index.hu/fomo/2026/11/04/cirque-du-soleil-cirkusz-kapitany-olivia-fulemen-tamas-interju-graz/",
-          "published": "2026-11-04T11:33:00+00:00",
-          "description": "Interjú Kapitány Olíviával és Fülemen Tamással, a Cirque du Soleil első magyar artistáival.",
-          "image": "https://kep.index.hu/1/0/7236/72360/723606/72360673_5332569_09ce92c33d83f2b1ebbe2c5022cae77e_wm.jpg",
-          "category": "Fomo",
           "author": null
         }
       ]
@@ -1302,7 +1528,7 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Szándékosan fertőzött meg 1,3 millió Android-eszközt egy kínai gyártó",
+          "title": "Szándékosan fertőzött meg 1,3 millió androidos készüléket egy kínai gyártó",
           "url": "https://hvg.hu/tudomany/20261104_google-android-eszkozok-videostrong-botnet-fertozes",
           "published": "2026-11-04T13:03:00+00:00",
           "description": "Éveken keresztül adott ki botnetet tartalmazó androidos eszközöket a kínai Videostrong, a Google azonban végül lefülelte a tevékenységet.",
@@ -1540,7 +1766,7 @@
         {
           "title": "Megnézhetjük a szegedi püspök kartonját is az ügynökakták között",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/04/megnezhetjuek-a-szegedi-puespoek-kartonjat-is-az-uegynoekaktak-koezoett",
-          "published": "2026-11-04T13:25:35.177114+01:00",
+          "published": "2026-11-04T13:25:37.175041+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1621,6 +1847,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Nepotizmus a Tisza-párti miniszternél: Kátai-Németh Vilmos a saját barátnőjét ültette be a kabinetjébe",
+          "url": "https://www.origo.hu/belpol/2026/11/katai-nemeth-vilmos-a-baratnojet-beultette-kabinetjebe",
+          "published": "2026-11-04T14:05:00+01:00",
+          "description": "Antal Klára már nemzetközi tárgyalásokon is a tárcavezető jobbján foglal helyet.",
+          "image": "https://cdn.origo.hu/2026/11/g7o0X6vJvzk9NBcJpI5-U1aioo6pXB7EQ4VBgtkHJfQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBkZGM1MmJlYjgxMjQyMWQ5YWZkMTNkYzUzNjA3OWRl.webp",
+          "category": "kátai - németh vilmos",
+          "author": null
+        },
+        {
+          "title": "Olyasmit látott meg a sietős debreceni autós, amitől azonnal lefagyott",
+          "url": "https://www.origo.hu/auto/2026/11/olyasmit-latott-meg-a-sietos-debreceni-autos-amitol-azonnal-lefagyott",
+          "published": "2026-11-04T14:00:00+01:00",
+          "description": "Mindezt pedig felvette videóra egy rendőrségi drón.",
+          "image": "https://cdn.origo.hu/2026/11/DSKa2st_0PaFByOXcxiuuL9b0yuYhD7I2BhBFrKjPjU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NjMTVmYTM0NjUzZDRlZjE4N2I2ZDI3NjNmZGVjNmMw.webp",
+          "category": "autós hír",
+          "author": null
+        },
+        {
           "title": "Jesús de Miguel halála megrázta a futballvilágot",
           "url": "https://www.origo.hu/galeria/jesus-de-miguel-gyasz-mecsesgyujtas-tenerife",
           "published": "2026-11-04T14:00:00+01:00",
@@ -1695,19 +1939,19 @@
         {
           "title": "Újabb fordulat Till Tamás gyilkosának ügyében: 17 másik gyilkosság miatt indult nyomozás",
           "url": "https://www.origo.hu/kek-hirek/2026/11/till-tamas-gyilkos-allitas-nyomozas",
-          "published": "2026-11-04T13:10:00+01:00",
-          "description": "Mutatjuk a részleteket!",
-          "image": "https://cdn.origo.hu/2026/11/FPwcbFxTfRbXVuFq63dZe3trgbm5ek0fmFm8HsUd_Js/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJjNmFmYjdmMTZiYTRhNDg5OTcyNTI3YTg1Y2Y4Mzhm.webp",
-          "category": "Till Tamás",
+          "published": "2026-11-04T12:10:55+00:00",
+          "description": null,
+          "image": null,
+          "category": "Kék hírek",
           "author": null
         },
         {
           "title": "Édesapját is beszervezték, de nem volt ügynök – állítja Tarr Zoltán miniszter",
           "url": "https://www.origo.hu/belpol/2026/11/tarr-zoltan-apjat-is-beszerveztek-de-nem-volt-ugynok",
-          "published": "2026-11-04T13:04:00+01:00",
-          "description": "A családon belül régóta ismert volt az édesapja története.",
-          "image": "https://cdn.origo.hu/2026/11/wY0Kf74I0MMCibZ4hprIeY5oi9hM1K5o69UrPT96sU0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZjZjFmOGNiYWU4OTRiOTg5OTFlMDM4NGNiNzliNTI3.webp",
-          "category": "tarr zoltán",
+          "published": "2026-11-04T12:04:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1825,24 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "Elsüllyedt egy hajó a Fekete-tengeren, miután egy másik hajónak ütközött",
-          "url": "https://www.origo.hu/nagyvilag/2026/11/hajo-elsullyedt-fekete-tenger",
-          "published": "2026-11-04T10:22:08+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Elhunyt a világsztárok fodrásza, aki Mick Jaggernek és Diana hercegnének is dolgozott",
-          "url": "https://www.origo.hu/teve/2026/11/john-frieda-sztarfodrasz-elhunyt",
-          "published": "2026-11-04T10:16:51+00:00",
-          "description": null,
-          "image": null,
-          "category": "TV",
           "author": null
         }
       ]
