@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-04T06:25:32.431121+00:00",
+  "scraped_at": "2026-11-04T06:30:47.030481+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Demokrata cunami: óriási győzelmet arattak a demokraták a félidős választásokon",
+          "url": "https://telex.hu/kulfold/2026/11/04/amerikai-felidos-valasztasok-demokrata-tortenelmi-gyozelmek-eredmenyek-kepviselohaz-szenatus-republikanus-trump-jeffries-texas-kansas",
+          "published": "2026-11-04T06:24:07+00:00",
+          "description": "A demokraták történelmi győzelmeket is aratva átvették a törvényhozás mindkét házában a többséget, olyan államokat is behúztak, mint Texas vagy Kansas, ahol 1932 óta nem nyert demokrata szenátorjelölt. Az amerikai választók ezzel egyértelműen elutasították Trump politikáját, hiába próbálja az eln...",
+          "image": "https://assets.telex.hu/images/20261104/1793773332-temp-erjdmqp84n7l1ppadjn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ferenci Ármin"
+        },
+        {
+          "title": "A Google megengedi az iskoláknak a mesterséges intelligenciájuk letiltását, de ezzel a cég keresőjét is elveszíthetik",
+          "url": "https://telex.hu/techtud/2026/11/04/google-iskola-oktatas-mesterseges-intelligencia-gemini-kereso",
+          "published": "2026-11-04T06:15:52+00:00",
+          "description": "Chris Phillips, a Google oktatásért felelős alelnöke azzal indokolta a kereső korlátozását, hogy a keresés és a mesterséges intelligencia mára szorosan összekapcsolódott.",
+          "image": "https://assets.telex.hu/images/20261104/1793772529-temp-ganb82kqj0im0fgjlnj_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Észak-Korea rakétákat lőtt ki a Japán-tenger felé",
+          "url": "https://telex.hu/kulfold/2026/11/04/eszak-korea-raketa-japan-tenger",
+          "published": "2026-11-04T06:13:20+00:00",
+          "description": "Phenjan a közelmúltban számos fegyverfajtát tesztelt.",
+          "image": "https://assets.telex.hu/images/20261104/1793772790-temp-bfa3nlpm3ec33imoedg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Trump szerint nem ő a hibás, gyengék voltak a republikánus jelöltek",
+          "url": "https://telex.hu/kulfold/2026/11/04/donald-trump-fox-news-interju-felidos-valasztas",
+          "published": "2026-11-04T05:47:19+00:00",
+          "description": "Az amerikai elnök a Fox Newsnak nyilatkozott a félidős választási vereség után.",
+          "image": "https://assets.telex.hu/images/20261104/1793771187-temp-cq7tdh7lljtd9doncoa_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dömötör Bálint"
+        },
+        {
+          "title": "Visszafordítottak egy Moszkvába tartó szerb repülőgépet, amelyen több fontos szerb vezető is utazott",
+          "url": "https://telex.hu/kulfold/2026/11/04/visszaforditottak-egy-moszkvaba-tarto-szerb-repulogepet-amelyen-tobb-magasrangu-szerb-vezeto-is-utazott",
+          "published": "2026-11-04T05:08:08+00:00",
+          "description": "Az egyik utassal kapcsolatban további ellenőrzést tartottak szükségesnek.",
+          "image": "https://assets.telex.hu/images/20261104/1793768877-temp-ku3u5rk8i9il4mbcafg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Holtan találtak egy nőt egy újpesti lakásban, elfogták a feltételezett elkövetőt",
+          "url": "https://telex.hu/belfold/2026/11/04/holtan-talaltak-egy-not-egy-ujpesti-lakasban-elfogtak-a-feltetelezett-elkovetot",
+          "published": "2026-11-04T04:43:08+00:00",
+          "description": "Egy 47 évet nőt gyanúsítanak az emberöléssel.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Egy évtizede éles a bolygómentő mesterterv, de mire mentünk vele?",
+          "url": "https://telex.hu/techtud/2026/11/04/egy-evtizede-eles-a-bolygomento-mesterterv-tenyleg-semmire-sem-mentunk-a-parizsi-megallapodassal",
+          "published": "2026-11-04T04:05:34+00:00",
+          "description": "A párizsi megállapodás a globális klímakatasztrófa elkerülését célozta meg, de a Föld azóta is melegszik. Kruppa Márton klímapolitikai szakértő talált tíz okot, amiért mégis érdemes ünnepelni az egyezményt.",
+          "image": "https://assets.telex.hu/images/20261103/1793709307-temp-jrcaijrqe5k46pmgacm_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Kruppa Márton"
+        },
+        {
+          "title": "Egy kis halolajjal még az óceánt is meg lehet szelídíteni",
+          "url": "https://telex.hu/eszkombajn/2026/11/04/olaj-hullam-vihar-tenger-ocean-hajo-fizika",
+          "published": "2026-11-04T04:05:17+00:00",
+          "description": "Általában nem túl jó, ha valahol ömlik az olaj a vízbe, de ha egy süllyedő hajó legénységét kell kimenteni a tajtékos tengeren, akkor hasznos tud lenni. De miért zabolázza meg a hullámokat az olaj?",
+          "image": "https://assets.telex.hu/images/20261102/1793628668-temp-6q1ksbvv7dgnccdplfl_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Arte: Európa képtelen lenne megvédeni az ökoszisztémát?",
+          "url": "https://telex.hu/kulfold/2026/11/04/arte-cop17-biodiverzitas-eu-okoszisztema-kihalo-fajok-vegyszerek",
+          "published": "2026-11-04T04:04:44+00:00",
+          "description": "A jelek szerint az ipari lobbitevékenység szinte teljesen ellehetetlenítette az előrelépést.",
+          "image": "https://assets.telex.hu/images/20261103/1793715657-temp-6nkp47s7u4bd7cpgfcf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "Arte: Has Europe dropped the ball on biodiversity?",
+          "url": "https://telex.hu/english/2026/11/04/arte-cop17-biodiversity-europe-lobbying-environmental-laws",
+          "published": "2026-11-04T04:04:30+00:00",
+          "description": "Europe once led global efforts to protect biodiversity, but political pressure and industry lobbying have brought progress to a screeching halt.",
+          "image": "https://assets.telex.hu/images/20261103/1793715457-temp-6o7063o4o4vu3akichm_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Bozsó Ágnes"
+        },
+        {
+          "title": "A romagyilkosságok után még népszerűbb lett a Jobbik a megtámadott falvakban",
+          "url": "https://telex.hu/defacto/2026/11/04/romagyilkossagok-jobbik-nepszeruseg-defacto",
+          "published": "2026-11-04T04:04:17+00:00",
+          "description": "Korábbi nyugat-európai kutatások arra utalnak, hogy a szélsőjobboldali terror akár gyengítheti is a kisebbségellenes politikai erők támogatottságát. Milyen reakciót váltottak ki a romagyilkosságok a 2010-es évek elején?",
+          "image": "https://assets.telex.hu/images/20261030/1793373244-temp-prvon902tdobahnheck_cimlap-normal.jpg",
+          "category": "Defacto",
+          "author": "Simonovits Gábor"
+        },
+        {
+          "title": "Az óriásdugók ellenére egyre csak nő az M1-es autópálya forgalma",
+          "url": "https://telex.hu/g7/adat/2026/11/04/m1-autopalya-forgalom-felujitas-dugok-vasut-jegyek",
+          "published": "2026-11-04T03:50:02+00:00",
+          "description": "Az elérhető adatok alapján nem ültek át a térségben közlekedők vonatra, hiába akadályozzák rendszeresen jelentős torlódások az M1-es forgalmát az autópálya javítása és szélesítése alatt.",
+          "image": "https://assets.telex.hu/images/20261027/1793112529-temp-4rspkeanuj9r7lhbeok_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Bucsky Péter"
+        },
+        {
+          "title": "8 perc alatt kapott 4 gólt Gulácsi Péter a PSG-től, 0-2-ről fordított a United a BL-ben",
+          "url": "https://telex.hu/sport/2026/11/03/bajnokok-ligaja-psg-gulacsi-atletico-bayern-barcelona",
+          "published": "2026-11-03T21:58:15+00:00",
+          "description": "A franciák idegenben verték 6-0-ra a Villarrealt, a Barcelona az Aston Villán lépett át, a Bayern az Atlético ellen nyert rangadót.",
+          "image": "https://assets.telex.hu/images/20261103/1793741689-temp-5nb533211d6r3ddopjk_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Lemond a spanyol közlekedési miniszter a 69 halálos áldozatot követelő vonatbaleset után",
+          "url": "https://telex.hu/kulfold/2026/11/03/spanyolorszag-vonatbaleset-kozlekedesi-miniszter-lemondas-halalos-aldozatok",
+          "published": "2026-11-03T21:25:38+00:00",
+          "description": "Szerinte nem maradhat a helyén, miután egy éven belül két komoly vonatbaleset is történt az országban.",
+          "image": "https://assets.telex.hu/images/20261103/1793740979-temp-msjpk19dmhj22eikaml_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Csukd magadra az ajtót, és táncolj meztelenül",
+          "url": "https://telex.hu/kozlemeny/2026/11/03/cuhorka-emese-attax-a-karakter-kortars-minifesztivalon",
+          "published": "2026-11-03T21:20:54+00:00",
+          "description": "Cuhorka Emese Attax című performanszát november 7-én, a Karakter fesztiválján próbálhatod ki a Trafóban.",
+          "image": "https://assets.telex.hu/images/20261103/1793731653-temp-2qgfn72qe0d1edkocfl_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Karakter"
+        },
+        {
+          "title": "Mozgalom? Fidesz-platform? Új párt? Még mindig nem derült ki, mire készül Navracsics Tibor és Ferencz Orsolya",
+          "url": "https://telex.hu/belfold/2026/11/03/polgari-demokratak-pecs-ferencz-orsolya-navracsics-tibor",
+          "published": "2026-11-03T21:14:36+00:00",
+          "description": "Látja a főnök úr, hogy mi van? – kérdezte egy helyi polgármester a Polgári Demokraták pécsi fórumán, aki már évekkel ezelőtt figyelmeztette a Fidesz vezetését, hogy szedjék össze magukat.",
+          "image": "https://assets.telex.hu/images/20261103/1793735671-temp-u31h1te0tb2l4jfkgkn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Gűth Ervin"
+        },
+        {
+          "title": "Leleplezték a The Elder Scrolls-sorozat hatodik részének címét",
+          "url": "https://telex.hu/after/2026/11/03/the-elder-scrolls-videojatek-sorozat-hatodik-resz-sentinel-alcim-bethesda-studio-elozetes",
+          "published": "2026-11-03T20:51:12+00:00",
+          "description": "Azt még nem tudni, hogy mikor érkezik Skyrim folytatása.",
+          "image": "https://assets.telex.hu/images/20261103/1793738924-temp-a12tqs1e54069nngglh_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Hirtelen mindenki a futás matematikusáról kezdett el beszélni",
+          "url": "https://telex.hu/sport/2026/11/03/andreas-almgren-new-york-maraton-gyoztes",
+          "published": "2026-11-03T20:40:21+00:00",
+          "description": "Andreas Almgren úgy nyerte meg a New York Maratont, hogy először versenyzett 42 kilométeren. A svéd futó masszív afrikai dominanciát tört meg, és másokat is inspirálhat erre. Évekig egyik sérülésből a másikba hajszolta magát, de 31 évesen eljött a nyerő szériája.",
+          "image": "https://assets.telex.hu/images/20261103/1793718035-temp-l4seif2kpjr08fpfcpp_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Ami tudható: Orbán Viktorról a katonai elhárításnál készült akta, de a volt kormányfő beszervezésére nincs bizonyíték",
+          "url": "https://telex.hu/ugynokaktak/2026/11/03/orban-viktor-ugynokmult-tarsadalmi-kapcsolat-katonasag-a-karton",
+          "published": "2026-11-03T20:20:34+00:00",
+          "description": "Orbán Viktor mostanra harmadszor tette közzé a katonai titkosszolgálatnál készült A-kartonját, amelyet a nyolcvanas években a társadalmi kapcsolatként regisztrált fiatal sorkatonákról tömegesen állítottak ki. Ez nem számított ügynöki tevékenységnek, másoktól is kértek információt a katonatársakró...",
+          "image": "https://assets.telex.hu/images/20261103/1793719743-temp-q5csd1n1btrc5lkbjni_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Navracsics a Telexnek: Feledy Botondék tárgyilagos szakmai munkát végeztek, a legjobbakkal szoktunk dolgozni",
+          "url": "https://telex.hu/belfold/2026/11/03/navracsics-tibor-feledy-botond-tanacsadoi-szerzodes",
+          "published": "2026-11-03T20:18:35+00:00",
+          "description": "A volt miniszter szerint az európai uniós forrásokról szóló tárgyalások során is hasznosították az anyagokat.",
+          "image": "https://assets.telex.hu/images/20261103/1793736119-temp-jqp5v0uu21csfpembol_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Gűth Ervin"
+        },
+        {
+          "title": "Orvos-Tóth Noémi és Szabó Andrea is helyet kapott az ügynökakták társadalmi hatásainak kezelésére létrehozott új testületben",
+          "url": "https://telex.hu/ugynokaktak/2026/11/03/uj-fuggetlen-interdiszciplinaris-szakertoi-testulet-ugynokaktak-nyilvanossagra-hozasa-tarsadalmi-feldolgozas-tarr-zoltan",
+          "published": "2026-11-03T19:40:10+00:00",
+          "description": "Tarr Zoltán több terület szakértőit is felkérte a közös múltfeldolgozás segítésére.",
+          "image": "https://assets.telex.hu/images/20261103/1793734773-temp-olhg4g066hmvagnibhl_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Trump túl sok Európának (is)? Így veszítette el az USA elnöke az európai jobboldalt",
+          "url": "https://telex.hu/kulfold/2026/11/03/egyesult-allamok-europa-szelsojobboldal-kapcsolat-nemetorszag-olaszorszag-franciaorszag",
+          "published": "2026-11-03T19:23:01+00:00",
+          "description": "Az AfD, Marine Le Pen és Giorgia Meloni egykor büszke volt kapcsolatára a MAGA-mozgalommal, de ma már inkább távolságot tartanak. Mi áll emögött? A DW Magyar elemző videója.",
+          "image": "https://assets.telex.hu/images/20261103/1793733547-temp-ndi2r91o8h3p3gkkapb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Telex"
+        },
+        {
+          "title": "Obama laza mikrofondobásától Trump fenékmániájáig – a félidős választási kampány legemlékezetesebb pillanatai",
+          "url": "https://telex.hu/kulfold/2026/11/03/felidos-valasztas-midterm-egyesult-allamok-emlekezetes-pillanatok-trump-obama",
+          "published": "2026-11-03T19:10:42+00:00",
+          "description": "Az amerikai félidős választások általában nem a legizgalmasabb politikai kampányról szólnak, a mostani azonban kiemelkedik a mezőnyből.",
+          "image": "https://assets.telex.hu/images/20261103/1793697428-temp-agbm0v3us8oo5kecokn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "1989 nem volt igazi töréspont a múlt felvállalásában. Az ügynökkérdés neuralgikus pont maradt",
+          "url": "https://telex.hu/ugynokaktak/2026/11/03/ugynokaktak-csehorszag-szlovakia-romania",
+          "published": "2026-11-03T18:29:34+00:00",
+          "description": "Csehország gyorsan és valódi szankciókkal járó törvényt hozott a rendszerváltáskor a kommunista titkosszolgálat ügynökeivel kapcsolatban, Szlovákia kerülőúton, de szintén eljutott az akták széles nyilvánosságáig. Romániában a folyamat visszafogottabban zajlott, de az EU-csatlakozás igénye ott is ...",
+          "image": "https://assets.telex.hu/images/20261103/1793718477-temp-7ebn0vr4rv3cbkeepem_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "„Ismét egésszé váltunk” – mondta a teljes magyar Erasmus-hozzáférésről az Európai Bizottság alelnöke",
+          "url": "https://telex.hu/kulfold/2026/11/03/eu-europai-bizottsag-minzatu-interju-erasmus-beregyenloseg",
+          "published": "2026-11-03T18:06:16+00:00",
+          "description": "Roxana Mînzatu a magyarországi útja után részletesen beszélt a Telexnek a modellváltó egyetemek visszatéréséről az Erasmus+-ba. Elárulta azt is, mikortól indulhatnak újra erasmusozni a hallgatók.",
+          "image": "https://assets.telex.hu/images/20261030/1793357539-temp-0ea80290egna6aockod_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A spanyolok Gulácsi Pétert sem kímélik csapata történelmi BL-veresége után",
+          "url": "https://index.hu/sport/futball/2026/11/04/gulacsi-peter-villarreal-psg-bajnokok-ligaja-merkozes-tortenelem-vereseg-spanyol-sajto/",
+          "published": "2026-11-04T06:27:00+00:00",
+          "description": "A magyar kapus ekkora vereséget még nem szenvedett el karrierje során.",
+          "image": "https://kep.index.hu/1/0/7241/72410/724104/72410421_5336097_f4b0085bcf1aaec840a4e8eb556127fb_wm.jpg",
+          "category": "Futball",
+          "author": null
+        },
+        {
           "title": "Fegyvert fogott kollégájára egy rendőr, mert halat melegített a kapitányság mikrójában",
           "url": "https://index.hu/kulfold/2026/11/04/egyesult-allamok-rendor-fegyver-rendorors-hal-mikrohullamu-suto/",
           "published": "2026-11-04T06:23:00+00:00",
@@ -467,15 +702,6 @@
           "title": "Újabb republikánus körzetben maradt a republikánus szenátor",
           "url": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/ujabb-republikanus-korzetben-maradt-a-republikanus-szenator/",
           "published": "2026-11-04T03:49:28+00:00",
-          "description": "",
-          "image": null,
-          "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Donald Trump eltolná magáról a vereséget, szerinte nem szerepelt a szavazólapon",
-          "url": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/donald-trump-eltolna-magarol-a-vereseget-szerinte-nem-szerepelt-a-szavazolapon/",
-          "published": "2026-11-04T03:47:28+00:00",
           "description": "",
           "image": null,
           "category": "Külföld",
@@ -1046,6 +1272,15 @@
           "author": "24.hu"
         },
         {
+          "title": "Itt élnek a legtöbbet és a legkevesebbet keresők az országban",
+          "url": "https://sokszinuvidek.24.hu/eletmod/2026/11/04/legtobbet-es-legkevesebbet-keresok-magyarorszag/",
+          "published": "2026-11-04T07:00:00+01:00",
+          "description": "Egy aprócska nógrádi falu is a legtöbbet keresők élvonalában van.",
+          "image": "https://24.hu/app/uploads/sites/11/2026/11/colorful-landscape-view-little-village-kappelrodeck-black-forest-mountains-germany-320x180.jpg",
+          "category": "Életmód",
+          "author": "Sokszínű Vidék"
+        },
+        {
           "title": "Lélegzetelállító fotókon az öreg erdők titokzatos és magányos remetéje",
           "url": "https://sokszinuvidek.24.hu/mozaik/2026/11/04/ragadozo-madar-urali-bagoly-termeszetfoto/",
           "published": "2026-11-04T06:00:00+01:00",
@@ -1053,15 +1288,6 @@
           "image": "https://24.hu/app/uploads/sites/11/2026/11/645192958_26368826256088962_4859205865186681883_n-1-e1793691198140-320x180.jpg",
           "category": "Mozaik",
           "author": "Miskolczi Timea Panny"
-        },
-        {
-          "title": "Annyi patkány él a békési tömbházak alatt, hogy a terriereket sem merték beengedni a járatokba",
-          "url": "https://sokszinuvidek.24.hu/mozaik/2026/11/04/bekes-tombhazak-terrier-jaratok-nem-mertek/",
-          "published": "2026-11-04T05:00:00+01:00",
-          "description": "Olyan látvány fogadta a szakembereket, amelyre egyáltalán nem számítottak. Akár több ezer rágcsáló is élhet a föld alatt.",
-          "image": "https://24.hu/app/uploads/sites/11/2026/11/gettyimages-622206776-e1793738686948-320x180.jpg",
-          "category": "Mozaik",
-          "author": "Sokszínű Vidék"
         },
         {
           "title": "Gulácsiék hatalmas verést kaptak otthon, csoda történt az Old Traffordon",
@@ -1302,6 +1528,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Lemondott a spanyol közlekedési miniszter a 69 halálos áldozattal járó vonatbaleset miatt",
+          "url": "https://hvg.hu/vilag/20261104_spanyol-kozlekedesi-miniszter-vonatbaleset-lemondas",
+          "published": "2026-11-04T06:25:07+00:00",
+          "description": "Óscar Puente a mostani mellett a januári, 46 életet követelő balesettel indokolta a lemondását, egyúttal a következő választástól is visszalépett.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa2ae0b1-83fb-401f-897c-b6a2bb6099ca.jpg",
+          "category": "Világ",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Guardian-kommentár: Még ha meg is menthető az amerikai demokrácia Trumptól, Európának le kell vonnia a tanulságokat",
           "url": "https://hvg.hu/360/20261104_lapszemle-guardian-trump-felidos-valasztas-demokracia-europa",
           "published": "2026-11-04T06:24:03+00:00",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa2a361a-063e-4200-8ffa-44cb2b96f957.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Megvan az Újszínház és a Madách Színház új igazgatója",
-          "url": "https://hvg.hu/kultura/20261103_megvan-az-ujszinhaz-es-a-madach-szinhaz-uj-igazgatoja",
-          "published": "2026-11-03T18:11:20+00:00",
-          "description": "Az új igazgatók 2027. január 31-én állnak munkába.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/34f5bd83-3a9a-470f-940b-f2b59b0b6816.jpg",
-          "category": "Kult",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1621,6 +1847,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Meglepő döntésre készül a Milan a Fradi ellen, Luka Modric is érintett",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/11/milan-ftc-europa-liga-luka-modric",
+          "published": "2026-11-04T07:15:00+01:00",
+          "description": "Meglepetéseket tartogathat a milánóiak kezdőcsapata.",
+          "image": "https://cdn.origo.hu/2026/11/14ABQMlTyrDPoevyxdnTxg-HIkR3wXnels77ZEfopHw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MyYzg3NDY4M2Q2NjQwNWU5MDFhNjk0MjEwZDc4NTA3.webp",
+          "category": "ferencváros",
+          "author": null
+        },
+        {
           "title": "Megfagyott a levegő a teremben, John Cleese állapota sokkolta a rajongókat: így néz ki ma Monty Python sztárja",
           "url": "https://www.origo.hu/filmklub/2026/11/monty-python-john-cleese-2026",
           "published": "2026-11-04T07:00:00+01:00",
@@ -1704,19 +1939,10 @@
         {
           "title": "Mintha egy másik bolygóról érkezett volna: elképesztő élőlényt találtak a tenger mélyén – videó",
           "url": "https://www.origo.hu/tudomany/2026/11/atlatszo-feju-hal-tenger-kulonos-allat",
-          "published": "2026-11-04T05:30:00+01:00",
-          "description": "Bizarr külsejű élőlényt találtak a kutatók.",
-          "image": "https://cdn.origo.hu/2026/11/SaFm2h2K8UHfb4-Qu6p9s0e-OLg4_YJS86Y_lhmRJv0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U2NDM0NWVkNjNhMzQwZTM5ZGMxNmJhNGI4NjM2NzNm.webp",
-          "category": "tenger",
-          "author": null
-        },
-        {
-          "title": "Meglepő döntésre készül a Milan a Fradi ellen, Luka Modric is érintett",
-          "url": "https://www.origo.hu/sport/sport-futball/2026/11/milan-ftc-europa-liga-luka-modric",
-          "published": "2026-11-04T06:15:00+00:00",
+          "published": "2026-11-04T04:30:00+00:00",
           "description": null,
           "image": null,
-          "category": "Sport",
+          "category": "Tudomany",
           "author": null
         },
         {
