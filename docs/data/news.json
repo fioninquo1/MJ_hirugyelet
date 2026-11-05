@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-05T11:35:30.445947+00:00",
+  "scraped_at": "2026-11-05T11:40:35.567451+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Egy héten belül már másodjára kapnak bombafenyegetéseket repülőjáratok Európában",
+          "url": "https://telex.hu/kulfold/2026/11/05/megint-bombafenyegeteseket-kaptak-europai-legitarsasagok",
+          "published": "2026-11-05T11:39:12+00:00",
+          "description": "Több gépnek a tervezettnél korábban vagy kísérettel kellett leszállnia.",
+          "image": "https://assets.telex.hu/images/20261105/1793878482-temp-bc858n069d6f2bioekd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Cristiano Ronaldo bejelentette, hogy visszavonult a portugál válogatottól",
+          "url": "https://telex.hu/sport/2026/11/05/cristiano-ronaldo-bejelentette-hogy-visszavonult-a-portugal-valogatottol",
+          "published": "2026-11-05T11:12:04+00:00",
+          "description": "Huszonhárom év alatt 234 mérkőzésen lépett pályára a portugál válogatottban, ezeken a meccseken 146 gólt szerzett.",
+          "image": "https://assets.telex.hu/images/20261105/1793876884-temp-9muetc4km91qffajhpo_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Elkészült a vízmegtartási akcióterv, 221 milliárdot szán a kormány vízügyi beruházásokra a következő években",
+          "url": "https://telex.hu/belfold/2026/11/05/gajdos-laszlo-orszagos-vizmegtartasi-koncepcio-es-akcioterv",
+          "published": "2026-11-05T11:03:27+00:00",
+          "description": "A 600 oldalas dokumentum kijelöli a stratégiát, meghatározza az ősszel indítható projekteket, és egy önálló vízügyi kutatóintézet felállítását is célul tűzi ki.",
+          "image": "https://assets.telex.hu/images/20261105/1793876588-temp-t5pnk4286f395lombad_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Senki és semmi nem látta jönni Antonelli világbajnoki címét",
+          "url": "https://telex.hu/techtud/2026/11/05/forma-1-kimi-antonelli-mesterseges-intelligencia-joslat",
+          "published": "2026-11-05T10:54:40+00:00",
+          "description": "Tavaly sok más dolog mellett a Forma–1 világbajnoki címét is megjósoltattuk egy sor mesterséges intelligenciával. Fel sem merült egyikükben sem, hogy a Mercedes olasz pilótája akár a dobogóra felkerülne.",
+          "image": "https://assets.telex.hu/images/20261105/1793872273-temp-tkb872q874s90demmhp_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Hungarian government halts subsidy program for Republika Srpska",
+          "url": "https://telex.hu/english/2026/11/05/hungarian-government-terminates-subsidy-program-for-republika-srpska",
+          "published": "2026-11-05T10:52:53+00:00",
+          "description": "The program provided subsidies for farmers from the Serb entity of Bosnia and Herzegovina when purchasing agricultural machinery made in Hungary.",
+          "image": "https://assets.telex.hu/images/20261105/1793875714-temp-ne3mi580kdk2ccpncfo_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Vitézy Dávid volt helyettes államtitkára lesz a HungaroControl új vezérigazgatója",
+          "url": "https://telex.hu/belfold/2026/11/05/hungarocontrol-legiforgalmi-iranyitas-uj-vezerigazgato-kallai-eva-vitezy-david-volt-helyettes-allamtitkar",
+          "published": "2026-11-05T10:46:49+00:00",
+          "description": "Kállai Éva több mint húszéves légiközlekedési tapasztalattal bír, dolgozott a Budapest Fejlesztési Központban és a Technológiai és Ipari Minisztériumban is.",
+          "image": "https://assets.telex.hu/images/20261105/1793875294-temp-7nc2cgmumv1a9ihjgpk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "A médiahatóság elnöke ellenzi a reklámadó bevezetését",
+          "url": "https://telex.hu/gazdasag/2026/11/05/a-mediahatosag-elnoke-ellenzi-a-reklamado-bevezeteset",
+          "published": "2026-11-05T10:45:31+00:00",
+          "description": "Polyák Gábor bejelentette, hogy az NMHH még csütörtökön eljuttatja az Országgyűlésnek a reklámadóval kapcsolatos hivatalos álláspontját.",
+          "image": "https://assets.telex.hu/images/20261105/1793875484-temp-6gble2qb3a8o5eoalfo_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Lemondott Merkely Béla, a Semmelweis Egyetem rektora",
+          "url": "https://telex.hu/belfold/2026/11/05/merkely-bela-rektor-lemondott-semmelweis-egyetem",
+          "published": "2026-11-05T10:42:16+00:00",
+          "description": "Január 1-i hatállyal távozik az egyetem éléről. A lemondás oka, hogy bizalomvesztés áll fenn közte és az egyetemet fenntartó alapítvány kuratóriuma között.",
+          "image": "https://assets.telex.hu/images/20261105/1793876696-temp-h32b981fbh8l5locjkc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bolcsó Dániel"
+        },
+        {
+          "title": "Másodfokon is döntött a bíróság: Matolcsy György letartóztatásban marad",
+          "url": "https://telex.hu/gazdasag/2026/11/05/matolcsy-gyorgy-mnb-letartoztatas-fovarosi-torvenyszek",
+          "published": "2026-11-05T10:27:46+00:00",
+          "description": "A Fővárosi Törvényszék szerint fennáll a veszélye, hogy a jegybank korábbi elnöke szabadlábon vagy házi őrizetben is befolyásolná a nyomozást az MNB-ügyben.",
+          "image": "https://assets.telex.hu/images/20261105/1793874033-temp-6iigh0ng4heeciaobce_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Liptai Claudia 15 év után visszatér a TV2 reggeli műsorába",
+          "url": "https://telex.hu/after/2026/11/05/liptai-claudia-mokka-tv2",
+          "published": "2026-11-05T10:13:06+00:00",
+          "description": "Liptai mellett két új műsorvezetőt is bejelentett a csatorna.",
+          "image": "https://assets.telex.hu/images/20261105/1793873170-temp-jaops0u6sqid2flojek_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bicsérdi-Fülöp Ádám"
+        },
+        {
+          "title": "What exactly are the communist-era secret service files now opened in Hungary?",
+          "url": "https://telex.hu/english/2026/11/05/what-exactly-are-the-communist-era-secret-service-files-now-opened-in-hungary",
+          "published": "2026-11-05T10:11:10+00:00",
+          "description": "Thirty-six years after the fall of communism, the documents commonly referred to as “agent files” have been made public in Hungary. Here's what they might reveal and what their disclosure means for the country.",
+          "image": "https://assets.telex.hu/images/20261105/1793872239-temp-o396fpfac5lv1dpfkgg_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Magyar Péter bocsánatot kért Lezsák Sándortól, amiért bekerült a neve a hálózati személyek nyilvántartásába",
+          "url": "https://telex.hu/ugynokaktak/2026/11/05/magyar-peter-bocsanatkeres-lezsak-sandor-megfigyelt-magnesszalag",
+          "published": "2026-11-05T10:09:00+00:00",
+          "description": "A miniszterelnök azt írta, telefonon nem tudta elérni Lezsákot, így Facebookon kért elnézést tőle.",
+          "image": "https://assets.telex.hu/images/20261105/1793873316-temp-0m7m4polvvlo1nieino_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Szabó Andrea az ügynökaktákról: Az a legrosszabb forgatókönyv, ami szerdán elkezdődött",
+          "url": "https://telex.hu/ugynokaktak/2026/11/05/szabo-andrea-az-ugynokaktakrol-az-a-legrosszabb-forgatokonyv-ami-szerdan-elkezdodott",
+          "published": "2026-11-05T10:04:22+00:00",
+          "description": "A szociológus arra utalt ezzel, hogy „embereket valamiért, valamilyen szempont szerint kitesznek az asztalra, rájuk mutatnak és bűnbakokat képeznek belőlük”.",
+          "image": "https://assets.telex.hu/images/20261105/1793873097-temp-11qfql7j1hk70ilmlbb_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Nem mindig az MI a megoldás: részmunkaidős szoftverrobotokkal is gyorsítható a vállalati működés",
+          "url": "https://telex.hu/g7/tamogatott-tartalom/2026/11/05/nem-mindig-az-mi-a-megoldas-reszmunkaidos-szoftverrobotokkal-is-gyorsithato-a-vallalati-mukodes",
+          "published": "2026-11-05T10:00:49+00:00",
+          "description": "Létezik az MI-nél egy egyszerűbb, olcsóbb és kipróbáltabb technológia, amit a hazai középvállalatok eddig a magas licencdíjak miatt alig tudtak kihasználni – ám ez most megváltozni látszik.",
+          "image": "https://assets.telex.hu/images/20261104/1793794612-temp-ulp4ifum89gr0noeieo_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Órabéres szoftverrobotok váltják ki az ismétlődő adminisztrációs munkát",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/11/05/oraberes-szoftverrobotok-valtjak-ki-az-ismetlodo-adminisztracios-munkat",
+          "published": "2026-11-05T09:55:01+00:00",
+          "description": "Szerződések, megrendelések, adatok rögzítése helyett a magasabb hozzáadott értékű és érdekesebb feladatokra tudnak a vállalatok kollégái koncentrálni.",
+          "image": "https://assets.telex.hu/images/20261030/1793354273-temp-qa02o9q2pig16hmihpb_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Szilveszter este egy Las Vegas-i show? (x)",
+          "url": "https://telex.hu/pr-cikk/2026/11/05/szilveszter-este-egy-las-vegas-i-show-x",
+          "published": "2026-11-05T09:55:01+00:00",
+          "description": "December 31-én Budapestre érkezik a világhírű Frank Sinatra & Friends Live Sow – A tökéletes karácsonyi ajándék.",
+          "image": "https://assets.telex.hu/images/20261022/1792674294-temp-do1qco77ikbc5imdnon_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "Az ÁBTL főigazgatója szerint Lezsák Sándor mellett több ezren lehetnek még, akik megfigyeltként szerepelnek a mágnesszalagokon",
+          "url": "https://telex.hu/ugynokaktak/2026/11/05/abtl-foigazgato-reakcio-lezsak-sandor-informatikai-hiba",
+          "published": "2026-11-05T09:49:31+00:00",
+          "description": "Cseh Gergő Bendegúz azt mondta, arról most folyik vizsgálat, hogy a több ezer névből mennyi került fel az adatbázisba.",
+          "image": "https://assets.telex.hu/images/20261105/1793871328-temp-28de0fuprles9jmmadb_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Oroszországnak való kémkedés miatt hat embert őrizetbe vettek Lengyelországban",
+          "url": "https://telex.hu/kulfold/2026/11/05/lengyelorszag-kemkedes-oroszorszag-hat-embert-orizetbe-vettek-tomasz-siemoniak-titkosszolgalati-miniszter",
+          "published": "2026-11-05T09:44:26+00:00",
+          "description": "A gyanú szerint lőszereket és fegyverekhez való eszközöket csempésztek Kalinyingrádba.",
+          "image": "https://assets.telex.hu/images/20261105/1793871834-temp-k3sq0111p600banhlhi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Szikora János állítja, nem volt ügynök, nem jelentett, de be akarták szervezni",
+          "url": "https://telex.hu/ugynokaktak/2026/11/05/szikora-janos-allitja-nem-volt-ugynok-nem-jelentett-de-be-akartak-szervezni",
+          "published": "2026-11-05T09:13:08+00:00",
+          "description": "Egy színházi buli után részegen vezetett, a jogsiját bevonták. Ezután került kapcsolatba egy belügyi tiszttel – mesélte a volt színházigazgató, rendező.",
+          "image": "https://assets.telex.hu/images/20261105/1793869956-temp-f9uml3ngrp1kbnlhelf_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Tíz olimpiai bajnok, aki a hálózat tagja volt",
+          "url": "https://telex.hu/ugynokaktak/2026/11/05/olimpiai-bajnokok-ugynokaktak",
+          "published": "2026-11-05T09:10:35+00:00",
+          "description": "A felkészülés mellett arról is információkat akartak a pártvezetők, mit hoznak haza külföldről, tudni akarták, kik a hangadók.",
+          "image": "https://assets.telex.hu/images/20261104/1793817029-temp-f18m07o337bh9nfjmbn_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Elkezdtek a zsebükbe nyúlni az NB I.-es csapatok tulajdonosai",
+          "url": "https://telex.hu/g7/vallalat/2026/11/05/tokeemeles-nb-i-ujtpest-debrecen",
+          "published": "2026-11-05T09:05:14+00:00",
+          "description": "Két különböző, NB I.-es labdarúgócsapatot fenntartó cégnél is jelentős tőkeemelést hajtottak végre a tulajdonosok az elmúlt hetekben.",
+          "image": "https://assets.telex.hu/images/20261104/1793781765-temp-jg3o6v634fd10fdbdgo_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Jandó Zoltán"
+        },
+        {
+          "title": "Megtévesztő kuponakciója miatt 69 milliós bírságot kapott az Auchan a GVH-tól",
+          "url": "https://telex.hu/gazdasag/2026/11/05/auchan-gvh-birsag-kiskereskedelem-kuponakcio",
+          "published": "2026-11-05T08:58:26+00:00",
+          "description": "A kiskereskedelmi láncot idén nyáron vásárolta fel Jellinek Dániel cége.",
+          "image": "https://assets.telex.hu/images/20261105/1793868672-temp-ahc540ca1g23ceklgcd_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Nagyot ment a New York-i tőzsde a félidős választások után",
+          "url": "https://telex.hu/gazdasag/2026/11/05/new-york-tozsde-donald-trump-felidos-valasztasok-elon-musk",
+          "published": "2026-11-05T08:26:02+00:00",
+          "description": "Az elemzők viszont óvatosságra intenek Donald Trump kiszámíthatatlansága miatt.",
+          "image": "https://assets.telex.hu/images/20261105/1793867105-temp-fkbtj6bfrf915ehmigm_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "A magyar kormány megszüntette a boszniai Szerb Köztársaságnak szánt támogatási programot",
+          "url": "https://telex.hu/gazdasag/2026/11/05/a-magyar-kormany-megszuntette-a-boszniai-szerb-koztarsasagnak-szant-tamogatasi-programot",
+          "published": "2026-11-05T08:15:53+00:00",
+          "description": "A megállapodás értelmében a gazdák kizárólag Magyarországon gyártott gépeket vásárolhattak.",
+          "image": "https://assets.telex.hu/images/20261105/1793866517-temp-lmetg4bd929kfpiiilm_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Nem volt hajlandó ananászt tenni a pizzára egy olasz séf, kirúgták",
+          "url": "https://telex.hu/kulfold/2026/11/05/nem-volt-hajlando-ananaszt-tenni-a-pizzara-egy-olasz-sef-kirugtak-ausztralia-queensland-la-costa-etterem",
+          "published": "2026-11-05T08:12:18+00:00",
+          "description": "Az ausztrál munkaügyi bizottság elutasította Davide Tamburella panaszát.",
+          "image": "https://assets.telex.hu/images/20261105/1793866205-temp-g40qi7qlvesg2emkpkg_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        }
+      ]
     },
     {
       "id": "444",
@@ -20,6 +246,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "De szép zöld rendszámod van, csak nehogy baja essék!",
+          "url": "https://444.hu/2026/11/05/de-szep-zold-rendszamod-van-csak-nehogy-baja-essek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-05T11:33:43+00:00",
+          "description": "26 ezer hibrid autós a homlokára csap: mindjárt le kell cserélni a rendszámomat!",
+          "image": "https://assets.4cdn.hu/kraken/6uPZNiS3akxqKeDls.jpeg",
+          "category": "zöld rendszám",
+          "author": "Urfi Péter"
+        },
+        {
+          "title": "Közel 150 millió forint közpénzből repült Szijjártó Péter Japánba és Azerbajdzsánba",
+          "url": "https://444.hu/2026/11/05/kozel-150-millio-forint-kozpenzbol-repult-szijjarto-peter-japanba-es-azerbajdzsanba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-05T11:32:22+00:00",
+          "description": "A 2021-es útról szóló információkat két év pereskedés után szerezte meg az Átlátszó.",
+          "image": "https://assets.4cdn.hu/kraken/81JaidLFDm9vX2Ocs.jpeg",
+          "category": "közpénz",
+          "author": "Mohos Máté"
+        },
         {
           "title": "A 17 napra beszervezett kőszegi alpolgármesternek tiszta a lelkiismerete",
           "url": "https://444.hu/2026/11/05/a-17-napra-beszervezett-koszegi-alpolgarmesternek-tiszta-a-lelkiismerete?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -226,24 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8KLcz4u8oGS712Wh1s.jpeg",
           "category": "osztalékjövedelem",
           "author": "Bódog Bálint"
-        },
-        {
-          "title": "Holtan találták berlini hotelszobájában a bajor miniszterelnök-helyettest",
-          "url": "https://444.hu/2026/11/05/holtan-talaltak-berlini-hotelszobajaban-a-bajor-miniszterelnok-helyettest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-05T05:08:01+00:00",
-          "description": "Halálának körülményeit vizsgálják a hatóságok.",
-          "image": "https://assets.4cdn.hu/kraken/8PbmyZdxt4Zo29A1Qms.jpeg",
-          "category": "Szabad Választók",
-          "author": "Urfi Péter"
-        },
-        {
-          "title": "A rendszerváltáshoz olyan szobákban is fel kell kapcsolni a villanyt, ahol eddig természetes volt a sötétség",
-          "url": "https://444.hu/2026/11/05/a-rendszervaltashoz-olyan-szobakban-is-fel-kell-kapcsolni-a-villanyt-ahol-eddig-termeszetes-volt-a-sotetseg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-05T04:59:14+00:00",
-          "description": "Feledy Botond kirúgása, ügynökakták, NKA-ügy, a NER-t olajozó ügyvédek. Mi a közös bennük?",
-          "image": "https://assets.4cdn.hu/kraken/8G7mgYmgGjF8mOWHs.jpeg",
-          "category": "orbán-kormány",
-          "author": "Rovó Attila"
         }
       ]
     },
@@ -256,6 +482,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Családi okok miatt az idény végén távozik a Győr dán sztárjátékosa",
+          "url": "https://index.hu/sport/kezilabda/2026/11/05/helena-elver-gyori-audi-eto-tavozas/",
+          "published": "2026-11-05T11:34:00+00:00",
+          "description": "Tavaly nyáron érkezett a klubhoz.",
+          "image": "https://kep.index.hu/1/0/7242/72429/724290/72429055_5337489_82e8b324136969cf194d3b78dea551fa_wm.jpg",
+          "category": "Kézilabda",
+          "author": null
+        },
         {
           "title": "Három új tévécsatorna érkezik Magyarországra",
           "url": "https://index.hu/belfold/2026/11/05/televizio-csatorna-one-magyarorszag-network4-media-group-megallapodas/",
@@ -469,15 +704,6 @@
           "published": "2026-11-05T09:49:00+00:00",
           "description": "A volt miniszter „tömegszórakoztatásnak″ tartja az ügynökakták ilyen formában történő nyilvánosságra hozatalát.",
           "image": "https://kep.index.hu/1/0/6172/61720/617202/61720287_4565977_1af3422dabfb2530996a9d3ecfe182b8_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "A Tisza-kormány leállította a Fidesz által elindított mezőgazdasági támogatási programot",
-          "url": "https://index.hu/belfold/2026/11/05/boszniai-szerb-koztarsasag-orban-viktor-milorad-dodik-tamogatas/",
-          "published": "2026-11-05T09:43:00+00:00",
-          "description": "Egyelőre azt sem tudni, mi lesz a 100 millió eurós csomag még fel nem használt forrásaival.",
-          "image": "https://kep.index.hu/1/0/7242/72428/724284/72428473_5337447_33f61a2f2589be3d56f731ebed2a8ad2_wm.jpg",
           "category": "Belföld",
           "author": null
         }
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "ÁBTL-főigazgató: több ezren nem ügynökként, hanem megfigyeltként szerepelhetnek a mágnesszalagokon",
+          "url": "https://24.hu/belfold/2026/11/05/abtl-lezsak-ugynokaktak-hiba/",
+          "published": "2026-11-05T12:36:00+01:00",
+          "description": "Cseh Gergő Bendegúz szerint „valóban úgy tűnik, hogy egy kisebb hiba csúszott a rendszerbe”.",
+          "image": "https://s.24.hu/app/uploads/2026/11/d__hr20261104030-320x180.jpg",
+          "category": "Belföld",
+          "author": "Dienes Gábriel"
+        },
+        {
           "title": "Elfogtak egy toplistás bűnözőt",
           "url": "https://24.hu/belfold/2026/11/05/elfogtak-egy-toplistas-bunozot/",
           "published": "2026-11-05T12:27:00+01:00",
@@ -1091,13 +1326,13 @@
           "author": "Tamásné Szabó Zsuzsanna"
         },
         {
-          "title": "Magyar Péter bocsánatot kért Lezsák Sándortól",
-          "url": "https://24.hu/belfold/2026/11/05/magyar-peter-bocsanatot-kert-lezsak-sandortol/",
-          "published": "2026-11-05T10:55:00+01:00",
-          "description": "Mivel telefonon nem érte el, a Facebookon.",
-          "image": "https://s.24.hu/app/uploads/2026/11/central-1149303704-e1793872486455-320x180.jpg",
-          "category": "Belföld",
-          "author": "Rugli Tamás"
+          "title": "Az Aranylabda után Európa legjobb fizetését is megkaphatta Harry Kane",
+          "url": "https://24.hu/sport/foci/2026/11/05/bayern-munchen-harry-kane-szerzodeshosszabbitas/",
+          "published": "2026-11-05T10:42:00+01:00",
+          "description": "További három évre írt alá a német kirakatcsapatban.",
+          "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2302869772-e1793871656417-320x180.jpg",
+          "category": "Foci",
+          "author": "24.hu"
         },
         {
           "title": "„Három percig tartottam a baba száján és orrán a kezem. Másnap úgy mentem dolgozni, mintha semmi sem történt volna”",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/central-0757943817-e1793868640109-320x180.jpg",
           "category": "Kultúra",
           "author": "Csontos Kata"
-        },
-        {
-          "title": "„A sportban nem azt kell nézni, hogy az ember mit gondol, hanem leginkább azt, hogyan teljesít” – Sipos Adriánra nem számít az új kapitány",
-          "url": "https://24.hu/sport/2026/11/05/kezilabda-valogatott-sipos-adrian-kihagyas-nyilatkozat/",
-          "published": "2026-11-05T09:51:00+01:00",
-          "description": "A 112-szeres válogatott beálló helyett fiatalokra építene az új kapitány. Bár nem zárta ki, hogy a jövőben meghívja a védekezőspecialistát Sótonyi László, könnyen lehet, hogy többször nem képviseli már hazánkat.",
-          "image": "https://s.24.hu/app/uploads/2026/11/d__hr20260117002-e1793868459717-320x180.jpg",
-          "category": "Sport",
-          "author": "24.hu"
         }
       ]
     },
@@ -1540,7 +1766,7 @@
         {
           "title": "Idén november 4. sokkal izgalmasabb volt, mint október 23.",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/05/iden-november-4-sokkal-izgalmasabb-volt-mint-oktober-23",
-          "published": "2026-11-05T12:17:30.337675+01:00",
+          "published": "2026-11-05T12:17:35.565092+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
