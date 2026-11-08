@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-08T12:25:28.800297+00:00",
+  "scraped_at": "2026-11-08T12:30:47.424864+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "„Futásnak eredtünk, nem néztem hátra, annyira féltem” – sokkolta Lengyelországot a krakkói lövöldözés",
+          "url": "https://telex.hu/kulfold/2026/11/08/lengyelorszag-krakko-lovoldozes-tamado-halalos-aldozatok-sokk-reakciok",
+          "published": "2026-11-08T12:26:55+00:00",
+          "description": "Hat ember meghalt, tizenöten pedig megsérültek, miután szombaton egy fegyveres autójából válogatás nélkül lövöldözni kezdett a Krakkó főterén sétálókra. A támadót, egy 24 éves lengyel férfit elfogták, lakásában később megtalálták családtagjai holttestét is. A gyászoló ország hősként ünnepli azoka...",
+          "image": "https://assets.telex.hu/images/20261108/1794135328-temp-kue6l0ipi196ebepaho_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Drónokkal vadászik a MÁV a betörőkre és a vagonok tetején mászkálókra",
+          "url": "https://telex.hu/belfold/2026/11/08/mav-dronos-megfigyeles-uzemi-teruletek-teszt",
+          "published": "2026-11-08T11:59:13+00:00",
+          "description": "Mesterséges intelligencia segítségével azonosítják be a mozgást.",
+          "image": "https://assets.telex.hu/images/20261108/1794138907-temp-1vbc891jh4dj0hkhkel_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Zelenszkij további elbocsátásokat ígért az ukrán titkosszolgálatot érintő korrupciós botrány miatt",
+          "url": "https://telex.hu/kulfold/2026/11/08/volodimir-zelenszkij-tovabbi-elbocsatasok-ukran-titkosszolgalat-korrupcios-botrany",
+          "published": "2026-11-08T11:54:23+00:00",
+          "description": "Magas rangú titkosszolgálati és rendőrségi vezetők segíthettek egy csalásokkal, drogkereskedelemmel és emberrablásokkal összefüggésbe hozott bűnszervezetnek Ukrajnában.",
+          "image": "https://assets.telex.hu/images/20261108/1794138296-temp-4f1n7eidudak6nmjlbl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "A Marina partra jár vacsorázni egy vaddisznó",
+          "url": "https://telex.hu/belfold/2026/11/08/vaddiszno-duna-marina-part-onkormanyzat",
+          "published": "2026-11-08T11:12:53+00:00",
+          "description": "Az állat egy hete rendszeresen megjelenik a Duna mellett, a lakók egy kutyafuttató és egy játszótér közelében is látták.",
+          "image": "https://assets.telex.hu/images/20261108/1794132702-temp-c8t435jf17th0gelfcf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "A K-Monitor szerint öt év alatt több mint 73 millió forintnyi pluszjuttatást fizetett az Operaház Ókovács Szilveszternek",
+          "url": "https://telex.hu/karakter/kultura/2026/11/08/73-millio-forintnyi-pluszjuttatas-operahaz-okovacs-szilveszter-ot-ev-alapberen-tul",
+          "published": "2026-11-08T11:10:50+00:00",
+          "description": "Csak 2023-ban több mint 19 millió forintot fizettek ki neki szabadságmegváltásra.",
+          "image": "https://assets.telex.hu/images/20261108/1794136192-temp-7i2vtejt6hub8boeonh_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Nagy Ervin Kolozsváron megígérte, hogy újraosztanak 1,3 milliárd forintnyi kulturális támogatást Erdélyben",
+          "url": "https://telex.hu/transtelex/2026/11/08/nagy-ervin-erdely-nka-atvilagitas-kolozsvar-kultura-mattyasovszky",
+          "published": "2026-11-08T11:02:58+00:00",
+          "description": "A kulturális államtitkár és az NKA alelnöke teljesítményalapú finanszírozásról beszélt.",
+          "image": "https://assets.telex.hu/images/20261108/1794128499-temp-3pck1bmvvqudfcomfaa_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Tamás Zsófia (Transtelex)"
+        },
+        {
+          "title": "Mitől lesz láthatatlan egy almatorta?",
+          "url": "https://telex.hu/gasztro/2026/11/08/lathatatlan-almatorta-sharlotka",
+          "published": "2026-11-08T10:30:34+00:00",
+          "description": "Szuperegyszerű, de nagyon látványos almás sütemény, aminek kulturális összefonódásai annyira bonyolultak, hogy angol-francia gyökerei és orosz rokonai is vannak.",
+          "image": "https://assets.telex.hu/images/20261106/1793958281-temp-hsfvp12r22rsechckak_cimlap-normal.jpg",
+          "category": "Gasztro",
+          "author": "Ács Bori"
+        },
+        {
+          "title": "Az igazi Róbert Gida csak élete végén bocsátotta meg az apjának, hogy világhírűvé tette őt és a plüssmaciját",
+          "url": "https://telex.hu/eszkombajn/2026/11/08/christopher-robin-milne-micimacko-robert-gida",
+          "published": "2026-11-08T10:22:30+00:00",
+          "description": "A Micimackó minden idők egyik legkedveltebb olvasmánya lett, Christopher Robin Milne gyerekkorát viszont épp az apja gyerekkönyve lopta el. Hogy dolgozta fel a traumát, és hogy lett egy Harrodsban vásárolt játék bocsból regényalak?",
+          "image": "https://assets.telex.hu/images/20261030/1793366833-temp-4u4n658nkcfudgoknom_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "A Közlekedési Múzeumba kerülhet a Tisza kampányából ismert Ricsi",
+          "url": "https://telex.hu/zacc/2026/11/08/a-kozlekedesi-muzeumba-kerulhet-a-tisza-kampanyabol-ismertte-valt-piros-feher-zold-platos-auto",
+          "published": "2026-11-08T10:19:20+00:00",
+          "description": "Magyar Péter szerint a kisbusz az újkori magyar történelem egyik szimbólumává vált, ezért megérdemli, hogy oda kerüljön a többi ikonikus jármű mellé.",
+          "image": "https://assets.telex.hu/images/20261108/1794132971-temp-ser1or2c8aen9fcbneo_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Számozási hiba miatt függesztették fel az óvodások fejlődését mérő kérdőív használatát",
+          "url": "https://telex.hu/belfold/2026/11/08/szamozasi-hiba-felfuggesztettek-ovodasok-fejlodeset-mero-kerdoiv",
+          "published": "2026-11-08T09:58:37+00:00",
+          "description": "A minisztérium szerint nem kell 229 kérdést kitölteni minden óvodásról.",
+          "image": "https://assets.telex.hu/images/20261108/1794130711-temp-k88igjv7ir8iegioggm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Magyar Péter 57 milliárd forintos országfásítási és települészöldítési programot jelentett be",
+          "url": "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany",
+          "published": "2026-11-08T09:38:33+00:00",
+          "description": "12 millió csemetefát akarnak elültetni, 1300 hektár erdőt létrehozni, de jut forrás új közparkokra és a hőszigethatás csökkentésére is.",
+          "image": "https://assets.telex.hu/images/20261108/1794130623-temp-ehsvqj8frlgddagiogh_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Az Egyesült Államok húszmillió dollár jutalmat ajánl annak, aki információval rendelkezik az iráni atomprogramról",
+          "url": "https://telex.hu/kulfold/2026/11/08/huszmillio-dollar-ajanlat-egyesult-allamok-irani-atomprogram-informacio",
+          "published": "2026-11-08T09:16:44+00:00",
+          "description": "Trump többször is azt állította, hogy megsemmisítették Irán nukleáris képességeit, az amerikai külügyminisztérium most mégis jelentős jutalmat kínál az atomprogramról szóló információkért.",
+          "image": "https://assets.telex.hu/images/20261108/1794128474-temp-72eq3kk29o2cfcglpkh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Vitézy bejelentette, hogy Zalaegerszeg nem kap Sármellék felől közvetlen gyorsforgalmi kapcsolatot az M7-essel",
+          "url": "https://telex.hu/belfold/2026/11/08/nem-epitik-tovabb-m76-gyorsforgalmi-ut-zalaegerszeg-m7-vitezy-david",
+          "published": "2026-11-08T08:37:10+00:00",
+          "description": "A Kis-Balaton védelmére hivatkozva nem építik tovább az M76-ost, a félbehagyott szakaszt egy új úttal kötnék össze a 760-as főúttal.",
+          "image": "https://assets.telex.hu/images/20261108/1794126654-temp-7dcrsqeoq79jeghfjnn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Major Veronika ezüstérmes lett a dohai sportlövő-világbajnokságon",
+          "url": "https://telex.hu/sport/2026/11/08/doha-sportlovo-vb-major-veronika",
+          "published": "2026-11-08T08:34:25+00:00",
+          "description": "A Major Veronika, Domsits Olívia, Fábián Sára Ráhel összeállítású csapat pedig bronzérmet nyert vasárnap.",
+          "image": "https://assets.telex.hu/images/20261108/1794126850-temp-dsfl8kvl7plmfobmebd_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Vida Gábor: A zsarnok bukása utáni első nap a legszebb",
+          "url": "https://telex.hu/transtelex/2026/11/08/vida-gabor-regeny-bukfenc-beszelgetes-podcast-transtelex",
+          "published": "2026-11-08T07:58:26+00:00",
+          "description": "A diktatúra leomlása utáni reggelen mindenki azt hiszi, hogy mostantól minden jóra fordul, pedig a politika soha nem teszi boldoggá az embert – az egy teljesen más szakma. Vida Gábor legújabb nagyregénye, A bukfenc a Ceaușescu-rendszer végóráit és az 1989-es fordulat utáni káoszt sűríti egy határ...",
+          "image": "https://assets.telex.hu/images/20261108/1794121665-temp-52f3gsu05j7jdfbbhfp_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Vig Emese (Transtelex)"
+        },
+        {
+          "title": "A rendőrség megerősítette, hogy a krakkói lövöldöző szüleit és testvérét találták holtan az otthonában",
+          "url": "https://telex.hu/kulfold/2026/11/08/azonosit-krakko-merenylo-sportlovesz-lofegyver",
+          "published": "2026-11-08T07:24:37+00:00",
+          "description": "Az elsődleges vizsgálatok szerint a krakkói merénylet feltételezett elkövetője, a lengyel sajtó által Michał Oksińskiként azonosított férfi agyonlőhette a saját családtagjait. A 24 éves férfi sportlövészettel foglalkozhatott, két saját lőfegyvere is lehetett, apja pedig 11 legálisan tartott fegyv...",
+          "image": "https://assets.telex.hu/images/20261108/1794121711-temp-b4suq2e3gtol0gckjfd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Túl vagyunk az idei szezon első zord éjszakáján",
+          "url": "https://telex.hu/belfold/2026/11/08/tul-vagyunk-az-idei-szezon-elso-zord-ejszakajan",
+          "published": "2026-11-08T06:58:48+00:00",
+          "description": "Az Időkép három állomásán is mínusz 10 fok alá csökkent a hőmérséklet.",
+          "image": "https://assets.telex.hu/images/20261108/1794120765-temp-fdnn8rvmkgcv5neclfn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "A férjem nem tudhatja meg, hogy ügynök vagyok",
+          "url": "https://telex.hu/after/2026/11/08/streamingajanlo-the-paper-fekete-galamb-stick",
+          "published": "2026-11-08T06:57:00+00:00",
+          "description": "Heti streamingajánlónkban helyet kapott Keira Knightley ügynökdrámája, a Paper legújabb évada, Owen Wilson nagy visszatérése, és egy megható történet a Tourette-szindrómás John Davidsonról.",
+          "image": "https://assets.telex.hu/images/20261106/1793966984-temp-7peojkmjh8rqbdogfdd_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "Félmillió liter kőolaj ömlött ki a Janaf vezetékének megsérülésekor",
+          "url": "https://telex.hu/gazdasag/2026/11/08/janaf-olaj-baleset-olajszennyezodes",
+          "published": "2026-11-08T06:36:10+00:00",
+          "description": "Eddig 200 ezer litert sikerült visszagyűjteniük, 6600 négyzetméternyi terület szennyeződött be.",
+          "image": "https://assets.telex.hu/images/20261108/1794119427-temp-3rd3q0133bs90acepmh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Még darabosan nyitják a kólát, de letarolhatják-e a világot a kínai robotok?",
+          "url": "https://telex.hu/g7/tech/2026/11/08/humanoid-robotok-kina-kihivasok-bemutatok-kereskedelmi-bevezetes",
+          "published": "2026-11-08T03:56:00+00:00",
+          "description": "A kínai humanoid robotok látványos bemutatói mögött még rengeteg kudarc van, de ez nem jelenti azt, hogy a technológia feltétlenül messze járna a kereskedelmi bevezetéstől.",
+          "image": "https://assets.telex.hu/images/20261107/1794037355-temp-a5084n44m6c21ipmpib_cimlap-normal.jpg",
+          "category": "Tech",
+          "author": "Al-Hilal István"
+        },
+        {
+          "title": "Két nő és egy férfi holttestét találták meg a krakkói merénylő otthonában",
+          "url": "https://telex.hu/kulfold/2026/11/07/krakko-lovoldozes-halottak-nemzeti-gyasz-lengyelorszag",
+          "published": "2026-11-07T21:05:42+00:00",
+          "description": "Valószínűleg a legközelebbi családtagokról van szó. A 24 éves elkövető szélsőjobboldali ideológiák megszállottja volt. Krakkóban hat embert lőtt le, 16-ot megsebesített.",
+          "image": "https://assets.telex.hu/images/20261107/1794083715-temp-giahhueu22r95kfaimk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Az UFC-vezér Dana White-ot kérte fel Trump a Fehér Ház szóvivőjének",
+          "url": "https://telex.hu/kulfold/2026/11/07/dana-white-donald-trump-ufc-szovivo",
+          "published": "2026-11-07T20:55:35+00:00",
+          "description": "Az elnök arra kérte White-ot, hogy hozzon magával „néhány harcost” is asszisztensnek, „még akkor is, ha néhányan nem a mi országunkból származnak”.",
+          "image": "https://assets.telex.hu/images/20261107/1794084862-temp-1ccmju41ch0t6dheadl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Eső miatt 1,5 órát állt a brazil időmérő, Norris nagy csatában nyert",
+          "url": "https://telex.hu/sport/2026/11/07/forma-1-f1-brazilia-sao-paulo-i-nagydij",
+          "published": "2026-11-07T20:30:03+00:00",
+          "description": "Norris sorban harmadszor nyerte az interlagosi időmérőt, ezúttal hatalmas esőben.",
+          "image": "https://assets.telex.hu/images/20261107/1794080736-temp-1gscpnoo6iasbjgjabe_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Péli-Koroknai Gergely"
+        },
+        {
+          "title": "Már látszik, hogyan nyomta a víz alá Elon Musk az ukránokat, és bármikor újra megteheti",
+          "url": "https://telex.hu/kulfold/2026/11/07/starlink-musk-ukrajna-starshield-korlatozas-atlantic-forditas",
+          "published": "2026-11-07T20:12:56+00:00",
+          "description": "A Putyin által körbeudvarolt milliárdos Ukrajna nagylelkű támogatásától odáig jutott, hogy szinte ellenségesen áll a megtámadott országhoz. Úgy tűnik, hogy a létfontosságú Starlink esetében csak saját anyagi érdekei tarthatják vissza Muskot attól, hogy teljesen hátat fordítson az ukránoknak. Az A...",
+          "image": "https://assets.telex.hu/images/20261106/1793981645-temp-ju72at99af0a7hmadok_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Simon Shuster"
+        },
+        {
+          "title": "Netanjahu legnagyobb riválisát bízta meg új kormány alakításával az izraeli elnök",
+          "url": "https://telex.hu/kulfold/2026/11/07/gadi-ejzenkot-kormanyalakitas-izrael-benjamin-netanjahu",
+          "published": "2026-11-07T20:07:44+00:00",
+          "description": "Gadi Ejzenkot alakíthat kormányt.",
+          "image": "https://assets.telex.hu/images/20261107/1794081865-temp-jt6410lra61h9kimlgm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,24 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Érkezik a fordulat Szerbiában, napokon belül megalakul az új parlament",
+          "url": "https://index.hu/kulfold/2026/11/08/szerbia-parlament-alakulo-ules-egyetemista-lista-alekszandar-vucsics/",
+          "published": "2026-11-08T12:27:00+00:00",
+          "description": "Bejelentette az alakuló ülés időpontját a házelnök.",
+          "image": "https://kep.index.hu/1/0/7247/72474/724748/72474821_5340651_69ce394932ab6994390cd8305662baba_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Alvó kislányával stoppolta a helyét a sorban egy férfi, nehogy lemaradjon a Pokémon-kártyákról",
+          "url": "https://index.hu/kulfold/2026/11/08/john-michael-dooley-pokemon-gyamhatosag/",
+          "published": "2026-11-08T12:25:00+00:00",
+          "description": "Az apa hazament, ezt követően a bolt előtt várakozók értesítették a rendőröket.",
+          "image": "https://kep.index.hu/1/0/7247/72471/724716/72471669_5340417_37d47f09770e5ddcb543c16192735e03_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
           "title": "Nagykorúvá válásáig támogatja a Tenerife Jesús de Miguel lányát",
           "url": "https://index.hu/sport/futball/2026/11/08/tenerife-vezerigazgato-antonio-manuel-porro-granados-jesus-de-miguel-kislany-tamogatas/",
           "published": "2026-11-08T11:59:00+00:00",
@@ -460,24 +704,6 @@
           "published": "2026-11-08T08:53:00+00:00",
           "description": "Megnéztük, mennyit érnek Oroszország biztonsági garanciái.",
           "image": "https://kep.index.hu/1/0/7246/72468/724683/72468307_5340229_1d97b0d1dc20260887c4f7e5e741f18f_wm.jpg",
-          "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Magyar Péter csaknem 60 milliárd forintos beruházást jelentett be",
-          "url": "https://index.hu/belfold/2026/11/08/zoldpolitika-magyar-peter-fasitas-zoldterulet/",
-          "published": "2026-11-08T08:52:00+00:00",
-          "description": "Jelentősen átalakítanák a városokat.",
-          "image": "https://kep.index.hu/1/0/7247/72472/724727/72472793_5340501_149758880aabc2d35587f8a79a12ca33_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Megrázó részletek a krakkói lövöldözés elkövetőjéről, akinek a lakásában megtalálták a szülei és testvére holttestét",
-          "url": "https://index.hu/kulfold/2026/11/08/lengyelorszag-lovoldozes-merenylet-merenylo-tamado/",
-          "published": "2026-11-08T08:33:00+00:00",
-          "description": "Többször jelezte, hogy merénylő szeretne lenni, már iskolásként felakasztott embereket és fegyveres támadásokat rajzolt.",
-          "image": "https://kep.index.hu/1/0/7247/72472/724726/72472685_5340493_302de9edec6685c86f60c747007a9027_wm.jpg",
           "category": "Külföld",
           "author": null
         }
@@ -1540,7 +1766,7 @@
         {
           "title": "Közzétette a minisztérium a hivatalos egészségügyi bértáblát, miután téves verzió kezdett terjedni az interneten",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/08/koezzetette-a-miniszterium-a-hivatalos-egeszseguegyi-bertablat-miutan-teves-verzio-kezdett-terjedni-az-interneten",
-          "published": "2026-11-08T12:31:28.798521+01:00",
+          "published": "2026-11-08T11:30:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1620,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Megrendítő vallomást tett Hegedűs D. Géza: színpadra kellett állnia édesanyja halálának estéjén",
+          "url": "https://www.origo.hu/teve/2026/11/hegedus-d-geza-edesanya-tragedia",
+          "published": "2026-11-08T13:15:00+01:00",
+          "description": "Korán elveszítette az édesanyját a Nemzet Színésze.",
+          "image": "https://cdn.origo.hu/2026/11/O4ON9eVnJisVGZKwo1W_BWGL85fqUPQc_PcS4n9gTXI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI5MmMxYzlkMDJjODQ1NDU4NmY5YjY3ZDNhMzZhZjAz.webp",
+          "category": "Hegedűs D. Géza",
+          "author": null
+        },
         {
           "title": "A szomszéd csirkéivel tömte magát a lusta ragadozó madár, végül túl kövér lett a repüléshez",
           "url": "https://www.origo.hu/nagyvilag/2026/11/kover-madar-olyv-szomszed-csirkeivel-tomte-magat",
@@ -1704,16 +1939,7 @@
         {
           "title": "Takács Nikolasból szinte teljesen új embert faragott a Sztárban Sztár: ki nem találod, kivel áll színpadra a döntőben",
           "url": "https://www.origo.hu/teve/2026/11/sztarban-sztar-takacs-nikolas-donto",
-          "published": "2026-11-08T11:30:00+01:00",
-          "description": "Az énekes egy számára fontos személlyel fog színpadra lépni.",
-          "image": "https://cdn.origo.hu/2026/11/IzQbrjEsBU-V6-rbml5lK4DUYcRVQ0gWmnQVFFO4nmU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmYzc3MzE5NmY2YzQxNjE5MDYyMjVmMjcxZGZkZjI5.webp",
-          "category": "sztárban sztár",
-          "author": null
-        },
-        {
-          "title": "Megrendítő vallomást tett Hegedűs D. Géza: színpadra kellett állnia édesanyja halálának estéjén",
-          "url": "https://www.origo.hu/teve/2026/11/hegedus-d-geza-edesanya-tragedia",
-          "published": "2026-11-08T12:15:00+00:00",
+          "published": "2026-11-08T10:30:00+00:00",
           "description": null,
           "image": null,
           "category": "TV",
