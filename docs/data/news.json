@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-08T08:30:49.082455+00:00",
+  "scraped_at": "2026-11-08T08:35:28.585151+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Major veronika ezüstérmes lett a dohai sportlövő világbajnokságon",
+          "url": "https://telex.hu/sport/2026/11/08/doha-sportlovo-vb-major-veronika",
+          "published": "2026-11-08T08:34:25+00:00",
+          "description": "A Major Veronika, Domsits Olívia, Fábián Sára Ráhel összeállítású csapat pedig bronzérmet nyert vasárnap.",
+          "image": "https://assets.telex.hu/images/20261108/1794126850-temp-dsfl8kvl7plmfobmebd_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Vida Gábor: A zsarnok bukása utáni első nap a legszebb",
+          "url": "https://telex.hu/transtelex/2026/11/08/vida-gabor-regeny-bukfenc-beszelgetes-podcast-transtelex",
+          "published": "2026-11-08T07:58:26+00:00",
+          "description": "A diktatúra leomlása utáni reggelen mindenki azt hiszi, hogy mostantól minden jóra fordul, pedig a politika soha nem teszi boldoggá az embert – az egy teljesen más szakma. Vida Gábor legújabb nagyregénye, A bukfenc a Ceaușescu-rendszer végóráit és az 1989-es fordulat utáni káoszt sűríti egy határ...",
+          "image": "https://assets.telex.hu/images/20261108/1794121665-temp-52f3gsu05j7jdfbbhfp_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Vig Emese (Transtelex)"
+        },
+        {
+          "title": "A rendőrség megerősítette, hogy a krakkói lövöldöző szüleit és testvérét találták holtan az otthonában",
+          "url": "https://telex.hu/kulfold/2026/11/08/azonosit-krakko-merenylo-sportlovesz-lofegyver",
+          "published": "2026-11-08T07:24:37+00:00",
+          "description": "Az elsődleges vizsgálatok szerint a krakkói merénylet feltételezett elkövetője, Michał Oksiński agyonlőhette a saját családtagjait. A 24 éves férfi sportlövészettel foglalkozhatott, két saját lőfegyvere is lehetett, apja pedig 11 legálisan tartott fegyverrel rendelkezett. Közben egyre több részle...",
+          "image": "https://assets.telex.hu/images/20261108/1794121711-temp-b4suq2e3gtol0gckjfd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Túl vagyunk az idei szezon első zord éjszakáján",
+          "url": "https://telex.hu/belfold/2026/11/08/tul-vagyunk-az-idei-szezon-elso-zord-ejszakajan",
+          "published": "2026-11-08T06:58:48+00:00",
+          "description": "Az Időkép három állomásán is mínusz 10 fok alá csökkent a hőmérséklet.",
+          "image": "https://assets.telex.hu/images/20261108/1794120765-temp-fdnn8rvmkgcv5neclfn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "A férjem nem tudhatja meg, hogy ügynök vagyok",
+          "url": "https://telex.hu/after/2026/11/08/streamingajanlo-the-paper-fekete-galamb-stick",
+          "published": "2026-11-08T06:57:00+00:00",
+          "description": "Heti streamingajánlónkban helyet kapott Keira Knightley ügynökdrámája, a Paper legújabb évada, Owen Wilson nagy visszatérése, és egy megható történet a Tourette-szindrómás John Davidsonról.",
+          "image": "https://assets.telex.hu/images/20261106/1793966984-temp-7peojkmjh8rqbdogfdd_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "Félmillió liter kőolaj ömlött ki a Janaf vezetékének megsérülésekor",
+          "url": "https://telex.hu/gazdasag/2026/11/08/janaf-olaj-baleset-olajszennyezodes",
+          "published": "2026-11-08T06:36:10+00:00",
+          "description": "Eddig 200 ezer litert sikerült visszagyűjteniük, 6600 négyzetméternyi terület szennyeződött be.",
+          "image": "https://assets.telex.hu/images/20261108/1794119427-temp-3rd3q0133bs90acepmh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Thüringer Barbara"
+        },
+        {
+          "title": "Még darabosan nyitják a kólát, de letarolhatják-e a világot a kínai robotok?",
+          "url": "https://telex.hu/g7/tech/2026/11/08/humanoid-robotok-kina-kihivasok-bemutatok-kereskedelmi-bevezetes",
+          "published": "2026-11-08T03:56:00+00:00",
+          "description": "A kínai humanoid robotok látványos bemutatói mögött még rengeteg kudarc van, de ez nem jelenti azt, hogy a technológia feltétlenül messze járna a kereskedelmi bevezetéstől.",
+          "image": "https://assets.telex.hu/images/20261107/1794037355-temp-a5084n44m6c21ipmpib_cimlap-normal.jpg",
+          "category": "Tech",
+          "author": "Al-Hilal István"
+        },
+        {
+          "title": "Két nő és egy férfi holttestét találták meg a krakkói merénylő otthonában",
+          "url": "https://telex.hu/kulfold/2026/11/07/krakko-lovoldozes-halottak-nemzeti-gyasz-lengyelorszag",
+          "published": "2026-11-07T21:05:42+00:00",
+          "description": "Valószínűleg a legközelebbi családtagokról van szó. A 24 éves elkövető szélsőjobboldali ideológiák megszállottja volt. Krakkóban hat embert lőtt le, 16-ot megsebesített.",
+          "image": "https://assets.telex.hu/images/20261107/1794083715-temp-giahhueu22r95kfaimk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Az UFC-vezér Dana White-ot kérte fel Trump a Fehér Ház szóvivőjének",
+          "url": "https://telex.hu/kulfold/2026/11/07/dana-white-donald-trump-ufc-szovivo",
+          "published": "2026-11-07T20:55:35+00:00",
+          "description": "Az elnök arra kérte White-ot, hogy hozzon magával „néhány harcost” is asszisztensnek, „még akkor is, ha néhányan nem a mi országunkból származnak”.",
+          "image": "https://assets.telex.hu/images/20261107/1794084862-temp-1ccmju41ch0t6dheadl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Eső miatt 1,5 órát állt a brazil időmérő, Norris nagy csatában nyert",
+          "url": "https://telex.hu/sport/2026/11/07/forma-1-f1-brazilia-sao-paulo-i-nagydij",
+          "published": "2026-11-07T20:30:03+00:00",
+          "description": "Norris sorban harmadszor nyerte az interlagosi időmérőt, ezúttal hatalmas esőben.",
+          "image": "https://assets.telex.hu/images/20261107/1794080736-temp-1gscpnoo6iasbjgjabe_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Péli-Koroknai Gergely"
+        },
+        {
+          "title": "Már látszik, hogyan nyomta a víz alá Elon Musk az ukránokat, és bármikor újra megteheti",
+          "url": "https://telex.hu/kulfold/2026/11/07/starlink-musk-ukrajna-starshield-korlatozas-atlantic-forditas",
+          "published": "2026-11-07T20:12:56+00:00",
+          "description": "A Putyin által körbeudvarolt milliárdos Ukrajna nagylelkű támogatásától odáig jutott, hogy szinte ellenségesen áll a megtámadott országhoz. Úgy tűnik, hogy a létfontosságú Starlink esetében csak saját anyagi érdekei tarthatják vissza Muskot attól, hogy teljesen hátat fordítson az ukránoknak. Az A...",
+          "image": "https://assets.telex.hu/images/20261106/1793981645-temp-ju72at99af0a7hmadok_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Simon Shuster"
+        },
+        {
+          "title": "Netanjahu legnagyobb riválisát bízta meg új kormány alakításával az izraeli elnök",
+          "url": "https://telex.hu/kulfold/2026/11/07/gadi-ejzenkot-kormanyalakitas-izrael-benjamin-netanjahu",
+          "published": "2026-11-07T20:07:44+00:00",
+          "description": "Gadi Ejzenkot alakíthat kormányt.",
+          "image": "https://assets.telex.hu/images/20261107/1794081865-temp-jt6410lra61h9kimlgm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Száraz Eszter: Mirelit csirke",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/07/karakter-novellapalyazat-szaraz-eszter-mirelit-csirke-telekom-hello-szulo-kulondij",
+          "published": "2026-11-07T20:05:42+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261105/1793885137-temp-72gpidcie8ekdemjmei_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Közutas kánaán: hóekék, lámpajavító kocsik, ágaprítók, tömörítőgépek kerülhetnek a fa alá",
+          "url": "https://telex.hu/belfold/2026/11/07/tobbletforrast-kap-a-magyar-kozut-az-eszkozparkjanak-megujitasara",
+          "published": "2026-11-07T19:34:14+00:00",
+          "description": "Ötmilliárd forintos többletforrást biztosít a kormány a Magyar Közút eszközparkjának megújítására még idén.",
+          "image": "https://assets.telex.hu/images/20261107/1794079663-temp-greuqvvu41td5eihipa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "A kezdése napján visszalépett az észak-budai tankerület új vezetője",
+          "url": "https://telex.hu/belfold/2026/11/07/eszak-budapesti-tankerulet-visszalepes",
+          "published": "2026-11-07T19:24:17+00:00",
+          "description": "A Klebelsberg Központ új pályázatot ír ki a posztra.",
+          "image": "https://assets.telex.hu/images/20261107/1794079379-temp-vm7t61ts51nb6mjmgmi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Emberi maradványokat találtak annak a tartályhajónak a fedélzetén, amelyet két hete ért dróntámadás Románia területi vizein",
+          "url": "https://telex.hu/kulfold/2026/11/07/emberi-maradvanyokat-talaltak-annak-a-tartalyhajonak-a-fedelzeten-amelyet-droncsapas-ert-romania-teruleti-vizein",
+          "published": "2026-11-07T19:08:21+00:00",
+          "description": "A hatóság szerint a maradványok állapota miatt egyelőre nem lehet pontosan megállapítani, hány emberről van szó.",
+          "image": "https://assets.telex.hu/images/20261023/1792759619-temp-2shq6ogergkh1kcnabb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Rászáll az USA az iráni csempészútvonalakra",
+          "url": "https://telex.hu/kulfold/2026/11/07/iron-gate-munkacsoport-iran-usa-egyesult-allamok",
+          "published": "2026-11-07T18:31:30+00:00",
+          "description": "Az amerikai középső parancsnokság új egységet állított fel, hogy megakadályozza a szankcionált áruk és fegyverek Iránba jutását.",
+          "image": "https://assets.telex.hu/images/20261107/1794076214-temp-av1att1q2gor3miilhh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Piros Vera: Názsi, nági, nagy",
+          "url": "https://telex.hu/karakter/telextarcak/2026/11/07/piros-vera-nazsi-nagi-nagy-tarcanovella-irodalom",
+          "published": "2026-11-07T18:09:23+00:00",
+          "description": "„Egyre többen vagyunk, nagy a jövés-menés, talán hazamegyek, gondolom, bár nem tudom, hogyan, a legapróbb mozdulat is fáj, mikor végre meghallom a nevem.” E heti novellánk egy portugál kórházban játszódik.",
+          "image": "https://assets.telex.hu/images/20261105/1793878108-temp-tuteundap4sk8odomkl_cimlap-normal.jpg",
+          "category": "Telextárcák",
+          "author": "Piros Vera"
+        },
+        {
+          "title": "Atlanti kék tarisznyarák integetett ki a Rákos-patakból Zuglóban",
+          "url": "https://telex.hu/belfold/2026/11/07/atlanti-kek-tarisznyarak-rakos-patak-zuglo",
+          "published": "2026-11-07T18:08:35+00:00",
+          "description": "Az ollós a biciklis fahíd mellett, közvetlenül a mederbe vezető beton lépcső alatt kandikált ki a vízből.",
+          "image": "https://assets.telex.hu/images/20261107/1794074655-temp-offloof39i0kfjmlmlg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Magyar Péter a krakkói támadásról: Magyarország a lengyel nép mellett áll",
+          "url": "https://telex.hu/kulfold/2026/11/07/magyar-peter-a-krakkoi-tamadasrol-magyarorszag-a-lengyel-nep-mellett-all",
+          "published": "2026-11-07T16:59:46+00:00",
+          "description": "A miniszterelnök részvétét fejezte ki Lengyelország felé.",
+          "image": "https://assets.telex.hu/images/20261107/1794070675-temp-bd7vpjih30c5dncahbb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "A felmérések jól mutatták a demokraták győzelmét, de egyben nagyot tévedtek",
+          "url": "https://telex.hu/kulfold/2026/11/07/felidos-valasztas-egyesult-allamok-kozvelemeny-kutatasok-demokrata-part-republikanus-part-tevedes",
+          "published": "2026-11-07T16:55:05+00:00",
+          "description": "A félidős választásokon demokrata fölényre lehetett számítani, de a tarolás mértéke mindenkit meglepett. Köztük a közvélemény-kutatókat is, akik látták a hullámot, de a cunamit nem.",
+          "image": "https://assets.telex.hu/images/20261105/1793887637-temp-5ndm3k2j1vo5bhkaecp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ignácz Péter"
+        },
+        {
+          "title": "9 milliárd forintot kell visszafizetnünk az EU-nak egy olyan program miatt, amiben Matolcsy Ádám bútorgyára is nyertes volt",
+          "url": "https://telex.hu/gazdasag/2026/11/07/9-milliard-brexit-program-visszafizetes-eu",
+          "published": "2026-11-07T16:44:26+00:00",
+          "description": "A forrásra elvileg azok a cégek pályázhattak, amelyek igazolni tudták, hogy káruk keletkezett a brexitből.",
+          "image": "https://assets.telex.hu/images/20261107/1794069821-temp-f78oudhn4iqg8gjafae_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Endrey-Nagy Ágoston nyerte a Karakter első novellapályázatának fődíját",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/07/karakter-novellapalyazat-fodij-endrey-nagy-agoston-kozonsegdij-horvath-tamas",
+          "published": "2026-11-07T16:00:03+00:00",
+          "description": "A zsűri 1510 jeligés írásból választotta ki a kedvencét. A közönségdíjat Horváth Tamás kapta, a Telekom Hello Szülő Különdíját pedig Száraz Eszter nyerte el.",
+          "image": "https://assets.telex.hu/images/20261106/1793967642-temp-eshinf0ti3tc1gfpcbd_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Sodródó energetika: csodafegyverre vár a kormány?",
+          "url": "https://telex.hu/g7/kozelet/2026/11/07/energetika-kormany-rezsicsokkentes-foldgaz-kapitany",
+          "published": "2026-11-07T15:59:06+00:00",
+          "description": "Kapitány István szerint nem a rezsicsökkentés átalakítása a cél, hanem az, hogy Magyarország olcsóbban és több forrásból tudjon energiát beszerezni. A részletek azonban homályban maradnak.",
+          "image": "https://assets.telex.hu/images/20261106/1793980837-temp-4q01ftp5rf6c1jpgmag_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Jolsvai Zoltán"
+        },
+        {
+          "title": "Hatra nőtt a halálos áldozatok száma Krakkóban, ahol egy álarcos lövöldözni kezdett a főtéren egy autóból",
+          "url": "https://telex.hu/kulfold/2026/11/07/lovoldozes-krakko-lengyelorszag-meghalt",
+          "published": "2026-11-07T15:27:38+00:00",
+          "description": "Tizenöten megsérültek, köztük két rendőr is. A támadót meglőtték és elfogták, az autójában több fegyvert és rengeteg lőszert találtak. Magyar sérültről nem tudni.",
+          "image": "https://assets.telex.hu/images/20261107/1794065899-temp-bigeplm7ok6ldenmnng_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,11 +483,20 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Megrázó részletek a krakkói lövöldözés elkövetőjéről, akinek a lakásában megtalálták a szülei és testvére holttestét",
+          "url": "https://index.hu/kulfold/2026/11/08/lengyelorszag-lovoldozes-merenylet-merenylo-tamado/",
+          "published": "2026-11-08T08:33:00+00:00",
+          "description": "Többször jelezte, hogy merénylő szeretne lenni, már iskolásként felakasztott embereket és fegyveres támadásokat rajzolt.",
+          "image": "https://kep.index.hu/1/0/7247/72472/724726/72472685_5340493_302de9edec6685c86f60c747007a9027_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
           "title": "Vaddisznó kószál a pesti Duna-parton, egy kutyafuttató és játszótér közelében is felbukkant",
           "url": "https://index.hu/belfold/2026/11/08/budapest-marina-part-vaddiszno-kiloves-foldvari-attila-orszagos-magyar-vadaszkamara-xiii-kerulet-rendorseg/",
           "published": "2026-11-08T08:27:00+00:00",
           "description": "Több szemtanú először kutyának vagy medvének nézte az állatot.",
-          "image": null,
+          "image": "https://kep.index.hu/1/0/7247/72472/724728/72472851_5340505_bc5253b8529758cede4c01c68181ea3e_wm.jpg",
           "category": "Belföld",
           "author": null
         },
@@ -470,15 +705,6 @@
           "description": "Egykor csapattársak voltak, de ma már hűvös a viszonya Kemény Dénessel.",
           "image": "https://kep.index.hu/1/0/7246/72468/724685/72468507_5340243_9bdc15bf894f5fc998d46a0424fbf993_wm.png",
           "category": "Vízilabda",
-          "author": null
-        },
-        {
-          "title": "A világ legszebb férfija volt, szabályos arca és jéghideg tekintete ikonná tette",
-          "url": "https://index.hu/kultur/2026/11/08/alain-delon-szinesz-szuletesnap-kviz/",
-          "published": "2026-11-08T05:05:00+00:00",
-          "description": "Három testőre is rejtélyes körülmények között halt meg.",
-          "image": "https://kep.index.hu/1/0/7242/72424/724243/72424363_5337139_4f615b88a96b4961e8a1a421764bc842_wm.jpg",
-          "category": "Kultúr",
           "author": null
         }
       ]
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Török Gábor pontosította, hogy mi volt valójában az Orbán-korszak",
+          "url": "https://24.hu/belfold/2026/11/08/torok-gabor-autokracia-diktatura-abszolut-koztarsasag/",
+          "published": "2026-11-08T09:31:00+01:00",
+          "description": "A politológus szerint az elmúlt 16 év sok ponton eltért a normális demokráciától, és az Orbán-korban valójában egy parlamentáris abszolút köztársaság épült ki Magyarországon.",
+          "image": "https://s.24.hu/app/uploads/2026/11/tg-e1794125701295-320x180.jpg",
+          "category": "Belföld",
+          "author": "24.hu"
+        },
+        {
           "title": "New Yorkban kapott modellszerződést Görög Zita 19 éves fia",
           "url": "https://24.hu/elet-stilus/2026/11/08/gorog-zita-fia-seres-milan-modell-new-york/",
           "published": "2026-11-08T09:14:00+01:00",
@@ -1091,12 +1326,12 @@
           "author": "24.hu"
         },
         {
-          "title": "Egy éve ilyenkor: Michelle Wild mesélt az első forgatási napjáról",
-          "url": "https://24.hu/elet-stilus/2026/11/08/egy-eve-ilyenkor-michelle-wild-forgatas/",
-          "published": "2026-11-08T05:57:00+01:00",
-          "description": "Richard Gere interjú, Orbánék repülős kalandjai és a radiátortisztítás fortélyai – nézzük, mik voltak a legolvasottabb tartalmaink pontosan egy évvel ezelőtt.",
-          "image": "https://s.24.hu/app/uploads/2026/11/michelle-wild-320x180.jpg",
-          "category": "Kikapcs",
+          "title": "Félbeszakadt a Real Madrid meccse, mert rosszul lett egy néző",
+          "url": "https://24.hu/sport/foci/2026/11/08/la-liga-valencia-real-madrid/",
+          "published": "2026-11-08T03:36:00+01:00",
+          "description": "A focisták rohantak a hordággyal.",
+          "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2304026246-e1794091240877-320x180.jpg",
+          "category": "Foci",
           "author": "24.hu"
         },
         {
@@ -1109,12 +1344,12 @@
           "author": "Sokszínű Vidék"
         },
         {
-          "title": "Félbeszakadt a Real Madrid meccse, mert rosszul lett egy néző",
-          "url": "https://24.hu/sport/foci/2026/11/08/la-liga-valencia-real-madrid/",
-          "published": "2026-11-08T03:36:00+01:00",
-          "description": "A focisták rohantak a hordággyal.",
-          "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2304026246-e1794091240877-320x180.jpg",
-          "category": "Foci",
+          "title": "Egy éve ilyenkor: Michelle Wild mesélt az első forgatási napjáról",
+          "url": "https://24.hu/elet-stilus/2026/11/08/egy-eve-ilyenkor-michelle-wild-forgatas/",
+          "published": "2026-11-08T05:57:00+01:00",
+          "description": "Richard Gere interjú, Orbánék repülős kalandjai és a radiátortisztítás fortélyai – nézzük, mik voltak a legolvasottabb tartalmaink pontosan egy évvel ezelőtt.",
+          "image": "https://s.24.hu/app/uploads/2026/11/michelle-wild-320x180.jpg",
+          "category": "Kikapcs",
           "author": "24.hu"
         },
         {
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/000_d6rt4we-e1794081858313-320x180.jpg",
           "category": "Nagyvilág",
           "author": "D. Kovács Ildikó"
-        },
-        {
-          "title": "Krakkói lövöldözés: 25 éves lengyel férfi az elkövető, akit vélhetőleg szélsőjobboldali ideológiák vezéreltek",
-          "url": "https://24.hu/kulfold/2026/11/07/krakkoi-lovoldozes-sajtotajekoztato-merenylo-elkoveto/",
-          "published": "2026-11-07T20:52:00+01:00",
-          "description": "Marcin Kierwiński lengyel belügyminiszter sajtótájékoztatón jelentette be, hogy azonosították az elkövetőt, és minden jel arra utal, hogy a férfit „szélsőjobboldali ideológiák” vezérelték.",
-          "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303509975-1-e1794081154454-320x180.jpg",
-          "category": "Nagyvilág",
-          "author": "Birkás Péter"
         }
       ]
     },
@@ -1540,7 +1766,7 @@
         {
           "title": "Török Gábor szerint áprilisban nem forradalom történt és az Orbán-rendszer nem autokrácia volt",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/08/toeroek-gabor-szerint-aprilisban-nem-forradalom-toertent-es-az-orban-rendszer-nem-autokracia-volt",
-          "published": "2026-11-08T09:18:48.907079+01:00",
+          "published": "2026-11-08T09:18:28.582574+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1620,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Ezek a legnépszerűbb használt autók: meglepő, melyik import modell áll az élen",
+          "url": "https://www.origo.hu/auto/2026/11/ezek-a-legnepszerubb-hasznalt-autok-meglepo-melyik-import-modell-all-az-elen",
+          "published": "2026-11-08T09:30:00+01:00",
+          "description": "Októberben 14 195 import használt autó kapott hazai rendszámot, közel 13 százalékkal több, mint tavaly.",
+          "image": "https://cdn.origo.hu/2026/11/42q7Vyb6krIAGm-i3iY7oPbyeu3AOnj3SfJIrrjOOg4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk1NDdjZGYxYmM3MDRmNDQ5ZGNlNTExNjNmYWE3ZDY0.webp",
+          "category": "autós hír",
+          "author": null
+        },
         {
           "title": "Nyomot hagyott a Föld légkörén a NASA történelmi holdmissziója",
           "url": "https://www.origo.hu/tudomany/2026/11/holdmisszio-nyomot-hagyott-fold-legkoren",
@@ -1704,10 +1939,10 @@
         {
           "title": "Pánikolva menekültek az emberek, három perc alatt állították meg az ámokfutót – minden, amit eddig tudni lehet a krakkói lövöldözésről",
           "url": "https://www.origo.hu/nagyvilag/2026/11/krakko-lovoldozes-minden-amit-eddig-tudni-lehet",
-          "published": "2026-11-08T08:00:00+01:00",
-          "description": "Összegyűjtöttük, mit lehet eddig tudni a krakkói támadásról.",
-          "image": "https://cdn.origo.hu/2026/11/lWyEXaKw47EBYNfNEPQfwMEvBXBn37pv39lpPgWLMQo/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U3Mzc4YzNhZTMyMjQ4NDc4NTBhNGI5NjQ0YmE3OGVm.webp",
-          "category": "Krakkó",
+          "published": "2026-11-08T07:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Szoboszlait szóra sem méltatták a liverpooli kezdőcsapat kapcsán",
-          "url": "https://www.origo.hu/sport/sport-futball/2026/11/crystal-palace-liverpool-premier-league",
-          "published": "2026-11-08T04:00:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
           "author": null
         }
       ]
