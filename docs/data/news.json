@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-09T12:31:06.438300+00:00",
+  "scraped_at": "2026-11-09T12:35:32.848334+00:00",
   "portals": [
     {
       "id": "telex",
@@ -7,7 +7,7 @@
       "url": "https://telex.hu",
       "color": "#2ec4b6",
       "status": "error",
-      "error": "TimeoutError: ",
+      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
       "article_count": 0,
       "articles": []
     },
@@ -20,6 +20,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Még nem dőlt el, hogy jönnek-e a használt svájci vonatok, új közbeszerzést írtak ki a karbantartásukra",
+          "url": "https://444.hu/2026/11/09/meg-nem-dolt-el-hogy-jonnek-e-a-hasznalt-svajci-vonatok-uj-kozbeszerzest-irtak-ki-a-karbantartasukra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-09T12:29:16+00:00",
+          "description": "Lázár János aláírta, Vitézy Dávid visszavonta, 93 vonattal 14 ezer új ülőhely érkezne, de a karbantartás költségein múlik minden.",
+          "image": "https://assets.4cdn.hu/kraken/8O8KLlPuVY1PmOWHs.jpeg",
+          "category": "máv-csoport",
+          "author": "Gazda Albert"
+        },
         {
           "title": "Bizalmi szavazást kért maga ellen a debreceni színház igazgatója, a térség tiszás képviselője már a lemondását követeli",
           "url": "https://444.hu/2026/11/09/bizalmi-szavazast-kert-maga-ellen-a-debreceni-szinhaz-igazgatoja-a-terseg-tiszas-kepviseloje-mar-a-lemondasat-koveteli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -235,15 +244,6 @@
           "image": "https://assets.4cdn.hu/kraken/8HqgTJfTAd2u1QGwqs.jpeg",
           "category": "amerikai-izraeli háború",
           "author": "Gazda Albert"
-        },
-        {
-          "title": "Vizsgálatot indít a Trump-tanácsadó vezérigazgatója ellen az Nvidia, miután kiderült, hogy kínai kémnővel volt viszonya",
-          "url": "https://444.hu/2026/11/09/vizsgalatot-indit-a-trump-tanacsado-vezerigazgatoja-ellen-az-nvidia-miutan-kiderult-hogy-kinai-kemnovel-volt-viszonya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-09T05:22:20+00:00",
-          "description": "Jensen Huang elismerte a kapcsolatát Alice Huanggal, és azt írta: „teljes felelősséget vállalok a tetteimért”.",
-          "image": "https://assets.4cdn.hu/kraken/8GGzPsH8nxE6GWB0s.jpeg",
-          "category": "Nvidia",
-          "author": "Haász János"
         }
       ]
     },
@@ -256,6 +256,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Magyar Péter Berlinben mond beszédet",
+          "url": "https://index.hu/belfold/2026/11/09/orszaggyules-parlament-magyar-peter-miniszterelnok-beszed-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-berlinben-mond-beszedet/",
+          "published": "2026-11-09T12:30:26+00:00",
+          "description": "",
+          "image": null,
+          "category": "Belföld",
+          "author": null
+        },
         {
           "title": "Magyar Péter bejelentette: jön az oktatási stratégia, újragondolják a Nemzeti Alaptantervet",
           "url": "https://index.hu/belfold/2026/11/09/orszaggyules-parlament-magyar-peter-miniszterelnok-beszed-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-bejelentette-jon-az-oktatasi-strategia-ujragondoljak-a-nemzeti-alaptantervet/",
@@ -469,15 +478,6 @@
           "published": "2026-11-09T10:44:00+00:00",
           "description": "Véleményük szerint az eddigiek nem elegek.",
           "image": "https://kep.index.hu/1/0/7214/72146/721460/72146045_5317523_490cd88b2bfbb3f2d839f0f4baf0e440_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Magyar Péter Orbán Áron őrizetbe vételéről: Ki mint vetett, azonképpen arat…",
-          "url": "https://index.hu/belfold/2026/11/09/magyar-peter-orban-aron-orban-viktor-testver-orizetbe-vetel-reakcio-hatosagok/",
-          "published": "2026-11-09T10:29:00+00:00",
-          "description": "Ismét posztolt a miniszterelnök.",
-          "image": "https://kep.index.hu/1/0/7186/71868/718686/71868639_5297913_9853fcc4cd76e079179a325733b35b8b_wm.jpg",
           "category": "Belföld",
           "author": null
         }
@@ -965,6 +965,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Magyar: Több mint kormányváltás, rendszerváltás történt márciusban",
+          "url": "https://24.hu/belfold/2026/11/09/parlament-elo-kozvetites-magyar/#magyar-tobb-mint-kormanyvaltas-rendszervaltas-tortent-marciusban",
+          "published": "2026-11-09T13:29:00+01:00",
+          "description": "„Megfogadtuk, hogy ami április 12-dike után történik, az több lesz, mint kormányváltás.",
+          "image": "https://s.24.hu/app/uploads/2026/11/central-11118606392-e1794222163161-320x180.jpg",
+          "category": "Élő",
+          "author": "24.hu"
+        },
+        {
           "title": "Meghalt egy dolgozó a kazincbarcikai gázüzemben",
           "url": "https://24.hu/belfold/2026/11/09/tragedia-baleset-kazincbarcika-gazuzem/",
           "published": "2026-11-09T13:25:00+01:00",
@@ -1091,13 +1100,13 @@
           "author": "24.hu"
         },
         {
-          "title": "Orbán Viktor: A célpont én vagyok, az öcsém csak eszköz",
-          "url": "https://24.hu/belfold/2026/11/09/orban-viktor-orban-aron-orizetbe-vetel/",
-          "published": "2026-11-09T10:57:00+01:00",
-          "description": "A volt miniszterelnök szerint egypártrendszer kiépítése a cél.",
-          "image": "https://s.24.hu/app/uploads/2026/11/central-1109949482-e1794218195764-320x180.jpg",
-          "category": "Belföld",
-          "author": "Papp Atilla"
+          "title": "„Nincs kedvem ehhez az interjúhoz, egy szar” – mondta a Real Madrid elleni meccs félidejében a Valencia védője",
+          "url": "https://24.hu/sport/foci/2026/11/09/valencia-real-madrid-pablo-maffeo-felidei-nyilatkozat/",
+          "published": "2026-11-09T10:56:00+01:00",
+          "description": "Nagy visszhangot váltott ki.",
+          "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301812560-e1794218004723-320x180.jpg",
+          "category": "Foci",
+          "author": "24.hu"
         },
         {
           "title": "Nem az a cél, hogy robotok vegyék át az emberek munkáját, hanem hogy megszabadítsák őket a felesleges feladatoktól",
@@ -1179,15 +1188,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/central-0803252717-2026-11-09t092739-810-320x180.jpg",
           "category": "Belföld",
           "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "Keresi a NASA azokat, akik készen állnak a Holdon élni",
-          "url": "https://24.hu/tech/2026/11/09/nasa-urhajosfelvetel-holdbazis-holdi-elet/",
-          "published": "2026-11-09T09:16:00+01:00",
-          "description": "A NASA hosszú idő után ismét megnyitotta a jelentkezést űrhajós alakulatába. Az új asztronauták közül kerülhetnek ki az első emberek, akik huzamosabb ideig a Holdon élhetnek.",
-          "image": "https://s.24.hu/app/uploads/2026/11/ezgif-3a8fc2c781abafd6-e1794211799121-320x180.jpg",
-          "category": "Tech",
-          "author": "Stéger Dávid"
         }
       ]
     },
@@ -1302,6 +1302,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Tragédia a gázüzemben: meghalt egy dolgozó Kazincbarcikán",
+          "url": "https://hvg.hu/kkv/20261109_tragedia-a-gazuzemben-egy-dolgozo-meghalt-kazincbarcikan",
+          "published": "2026-11-09T12:30:33+00:00",
+          "description": "Halálos baleset történt a Linde Gáz Magyarország kazincbarcikai telephelyén.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/53578854-48d7-44fe-b80c-d6f9024475ac.jpg",
+          "category": "Vállalkozás",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Túlteljesítették a makkszedési tervet a gyulai iskolások, így nemcsak városukban, hanem az ország más részein is ültetnek erdőt",
           "url": "https://hvg.hu/zhvg/20261109_gyula-makkgyujtes-erdotelepites",
           "published": "2026-11-09T12:28:23+00:00",
@@ -1320,7 +1329,7 @@
           "author": "szerzo@hvg.hu (HVG)"
         },
         {
-          "title": "Vita nélkül ül ma össze a parlament – élő közvetítés",
+          "title": "„Nem leszünk többé következmények nélküli ország” – élőben a parlament üléséről",
           "url": "https://hvg.hu/itthon/20261109_parlament-elo-kozvetites-magyar-peter-napirend-elott",
           "published": "2026-11-09T12:08:31+00:00",
           "description": "Magyar Péter felszólal, aztán lehet kérdezni, de semmilyen javaslatról nem tárgyal ma az Országgyűlés. Percről percre közvetítésünk.",
@@ -1335,7 +1344,7 @@
           "description": "Tíz megye lakosságának egy része áram nélkül maradt.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/58d6c11e-c3c2-4132-87f5-c3832478143e.jpg",
           "category": "Világ",
-          "author": "MTI (szerzo@hvg.hu (HVG))"
+          "author": "HVG (szerzo@hvg.hu (MTI))"
         },
         {
           "title": "Ügyesedhet az Apple okoskijelzője, új módon lehet majd beszélni hozzá",
@@ -1488,7 +1497,7 @@
           "description": "A Liverpool edzője nagyon nem szeretné, ha pályára lépne a Nemzetek Ligájában.",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9d525327-df05-44da-aff7-b4eb2b440e33.jpg",
           "category": "Sport",
-          "author": "MTI (szerzo@hvg.hu (HVG))"
+          "author": "HVG (szerzo@hvg.hu (MTI))"
         },
         {
           "title": "Egy hackercsapat kiderítette, milyen brutális veszteségeket szenvedtek eddig az oroszok Ukrajnában",
@@ -1516,15 +1525,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d84315d7-e8e1-4c3a-96ca-296094b715ef.jpg",
           "category": "Élet+Stílus",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Panyi: Az Orbán állambiztonsági adatait 1989-ben megismerő III/IV-es tisztből tanácsadó lett a 4iG-nél",
-          "url": "https://hvg.hu/itthon/20261109_panyi-orban-allambiztonsag-1989-iii-iv-es-tiszt-tanacsado-4ig",
-          "published": "2026-11-09T10:06:35+00:00",
-          "description": "Nagy Imre újratemetése után „prioráltatta” Orbán Viktort az a III/IV-es Tarján István, aki később a katonai titkosszolgálat főigazgató-helyettese, majd Jászai Gellért 4iG-vezér tanácsadója lett – állítja Panyi Szabolcs oknyomozó újságíró.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/958f69a1-d3b9-44e6-bdd0-ba7ddccb9dc8.jpg",
-          "category": "Itthon",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "title": "Kiakadtak a kisbefektetők a NER-cégek miatt elfogadott törvényen, az államfőhöz fordultak",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/09/kiakadtak-a-kisbefektetok-a-ner-cegek-miatt-elfogadott-toervenyen-az-allamfohoez-fordultak",
-          "published": "2026-11-09T12:40:52.628854+01:00",
+          "published": "2026-11-09T12:41:32.846046+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1621,6 +1621,33 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Magyar sérültje is van a horvát buszbalesetnek, őrizetbe vették a sofőrt",
+          "url": "https://www.origo.hu/kek-hirek/2026/11/horvat-buszbaleset-magyar-serult",
+          "published": "2026-11-09T13:31:00+01:00",
+          "description": "A balesetben ketten életüket vesztették.",
+          "image": "https://cdn.origo.hu/2026/11/fSaypP38rnC_ykWNzV9CP_YFAxnEOFLYmpFBR_pfWFM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU1MGFlMmI2M2YyYTQ0NDE4ZjBkMmZmZTYyMTlmN2Qz.webp",
+          "category": "buszbaleset",
+          "author": null
+        },
+        {
+          "title": "Egyetlen éjszaka alatt változott meg Berlin – fotókon, hogyan ért véget 28 év megosztottság",
+          "url": "https://www.origo.hu/nagyvilag/2026/11/berlini-fal-ledontese-hideghaboru-1989-november-9",
+          "published": "2026-11-09T13:30:00+01:00",
+          "description": "Tömegek indultak az utcákra azon az estén.",
+          "image": "https://cdn.origo.hu/2026/11/784R0j2Y3ztMqPVWkaY_BsIlvOAcYYAHDiArgeX-Lbw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3YmM4NWEzYWZkNDQ2NjFhNjU4OTQzZTE4NWNhZTAx.webp",
+          "category": "berlini fal",
+          "author": null
+        },
+        {
+          "title": "Így érkeztek meg Telkibe a magyar válogatott játékosai",
+          "url": "https://www.origo.hu/sport/galeria/magyar-valogatott-jatekosok-telki",
+          "published": "2026-11-09T13:30:00+01:00",
+          "description": "Megérkeztek Telkibe a magyar labdarúgó-válogatott tagjai, hogy megkezdjék a felkészülést a Nemzetek Ligája-mérkőzésekre.",
+          "image": "https://cdn.origo.hu/2026/11/YLrPVwwvVESCW10BOUJKinTbt1huJ0uHmYMFTq3F9hA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MyZDdlMTU2YzdiYjQzOWU4MTRhMDJiMjg0NDk4OWFh.webp",
+          "category": "Sport",
+          "author": null
+        },
+        {
           "title": "Tömegek lepték el a francia városok utcáit – képeken a hétvégi zavargások",
           "url": "https://www.origo.hu/nagyvilag/2026/11/francia-tuntetesek-zavargasok-bordeaux-strasbourg-kepek",
           "published": "2026-11-09T13:24:00+01:00",
@@ -1652,7 +1679,7 @@
           "url": "https://www.origo.hu/galeria/zavargasok-franciaorszagban-3",
           "published": "2026-11-09T13:19:00+01:00",
           "description": "",
-          "image": "https://cdn.origo.hu/2026/11/B-lZY4RJkVcFxj2-47UNBk6VpEu531FnkmOZN7MLqrQ/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVjMWVjYWM1NjJiYjQ3YTg4NTM4ZTgwYzk4YWM0Nzc5.webp",
+          "image": "https://cdn.origo.hu/2026/11/GtB_35hglSdbKxueHZQx5b8c_BnOOIC7QEo9EaSB-w4/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFlMjNhMWViZjQyZTQ3NzFiMDMwZmZlZjlmMDliMjUy.webp",
           "category": "Galeria",
           "author": null
         },
@@ -1686,28 +1713,28 @@
         {
           "title": "Kéregetőtől loptak a győri aluljáróban, majd jött a nem várt fordulat - videó",
           "url": "https://www.origo.hu/kek-hirek/2026/11/lopas-gyor-aluljaro-video",
-          "published": "2026-11-09T12:50:00+01:00",
-          "description": "A győri aluljáró kamerája rögzítette a történteket.",
-          "image": "https://cdn.origo.hu/2026/11/uEf-Ut1dpPQ8nM-ztP8FGiSO4jTlb0h7dt4dt2ZgEnc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAzYjNkZDM5ZjE2MzQ3ZWQ4ZGFjMjM4NGU5OGE3ZTkx.webp",
-          "category": "győri aluljáró",
+          "published": "2026-11-09T11:50:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Kék hírek",
           "author": null
         },
         {
           "title": "Magyar Péter rövidesen kamerák elé áll",
           "url": "https://www.origo.hu/belpol/2026/11/magyar-peter-felszolalasaval-kezdodik-a-parlament-ulese",
-          "published": "2026-11-09T12:49:00+01:00",
-          "description": "A miniszterelnök várhatóan 13 óra után mondja el beszédét.",
-          "image": "https://cdn.origo.hu/2026/11/7Kt5tSVuE3aGfDD2lWi1se7L2WyDrctfHW77_NGeer0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MzMjkxMTQ3NjE5MzQ0ZjM5OWEwYzhhMjdjYTMwODFm.webp",
-          "category": "Magyar Péter",
+          "published": "2026-11-09T11:49:02+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
           "title": "Búcsút inthetünk a ketchup- és majonézes tasakoknak, nagy változás jön az éttermekben",
           "url": "https://www.origo.hu/nagyvilag/2026/11/ketchup-majonezes-tasak-valtozas",
-          "published": "2026-11-09T12:45:00+01:00",
-          "description": "Nem a ketchup tűnik el, hanem a kis műanyag tasakja.",
-          "image": "https://cdn.origo.hu/2026/11/CEv9OjH0D1lx5jpl_OWKD7Sq2IoBwZwJ0YPEQGEZlIc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IxYzExNGRkNjkxNDQ5MzhiN2I5MGU4NjNkNGU1NjU4.webp",
-          "category": "műanyag",
+          "published": "2026-11-09T11:45:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1816,33 +1843,6 @@
           "description": null,
           "image": null,
           "category": "Itthon",
-          "author": null
-        },
-        {
-          "title": "Wekerle+ az Otthon Start után: sokaknak okozhat csalódást az új hitelprogram",
-          "url": "https://www.origo.hu/gazdasag/2026/11/wekerle-plusz-lakashitel-otthon-start-feltetelek",
-          "published": "2026-11-09T10:05:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Gazdaság",
-          "author": null
-        },
-        {
-          "title": "Orbán Viktor: A célpont én vagyok, az öcsém csak eszköz",
-          "url": "https://www.origo.hu/belpol/2026/11/orban-aron-orban-viktor-nvvh-tisza",
-          "published": "2026-11-09T10:02:06+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
-          "author": null
-        },
-        {
-          "title": "Jó hír az autósoknak: így változott a KGFB-szerződések átlagdíja – pár okos lépéssel komoly összeget spórolhatunk meg",
-          "url": "https://www.origo.hu/auto/2026/11/kgfb-szerzodesek-atlagdija",
-          "published": "2026-11-09T10:00:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Autó",
           "author": null
         }
       ]
