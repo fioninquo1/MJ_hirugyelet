@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-11T15:05:32.174182+00:00",
+  "scraped_at": "2026-11-11T15:10:40.168558+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Áron Orbán, former Hungarian PM's brother arrested",
+          "url": "https://telex.hu/english/2026/11/11/aron-orban-former-hungarian-pm-s-brother-arrested",
+          "published": "2026-11-11T15:09:05+00:00",
+          "description": "They are suspected of people smuggling carried out as part of a criminal conspiracy. The decision is not yet final.",
+          "image": "https://assets.telex.hu/images/20261111/1794391207-temp-a75f6gr3vb0d7ldjoef_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Letartóztatták Orbán Áront és az élettársát",
+          "url": "https://telex.hu/belfold/2026/11/11/orban-aron-es-tarsai-letartoztatas-birosag-embercsempeszet",
+          "published": "2026-11-11T15:00:30+00:00",
+          "description": "A bíróság egy hónapra rendelte el a volt miniszterelnök öccsének és az élettársának a letartóztatását. Üzletszerűen, bűnszövetségben elkövetett embercsempészés bűntettével gyanúsítják őket. A vízumbizniszben érintett harmadik gyanúsítottat bűnügyi felügyelet alá helyezték, a negyedik férfi pedig ...",
+          "image": "https://assets.telex.hu/images/20261111/1794409312-temp-jg6ecug24r8q0diokag_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Szijjártó a BYD-nál: az AH és az Információs Hivatal vezetőit is meghallgatta a Nemzetbiztonsági Bizottság",
+          "url": "https://telex.hu/belfold/2026/11/11/nemzetbiztonsagi-bizottsag-zart-ules-szijjarto-peter-byd-alkotmanyvedelmi-hivatal-informacios-hivatal",
+          "published": "2026-11-11T14:50:55+00:00",
+          "description": "Velkey György a zárt ülés után azt mondta, számára is voltak új és meglepő információk.",
+          "image": "https://assets.telex.hu/images/20261111/1794407462-temp-q0covqmvkk8u2blbabb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "BCG-tanulmányok: már 2024-ben jelezték az Orbán-kormánynak, hogy válság van az egészségügyi alapellátásban",
+          "url": "https://telex.hu/belfold/2026/11/11/bcg-tanulmany-titkositott-nyilvanossag-egeszsegugyi-iranyitas-2024",
+          "published": "2026-11-11T14:48:48+00:00",
+          "description": "Kedden a kormány nyilvánosságra hozta azt a hat darab tanulmányt, amelyeket a Boston Consulting Group készített a magyar egészségügy átalakításáról 2020 és 2024 között. Az egészségügyi intézmények több feladatot azért nem tudtak elvégezni, mert nem volt elég forrásuk, munkaerejük és megfelelő jog...",
+          "image": "https://assets.telex.hu/images/20261111/1794408279-temp-96h0f2137sa42ionlpg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Németh-Halász Nikolett"
+        },
+        {
+          "title": "A Mercedes vezérigazgatója Németországban csökkentené a munkaerőköltséget, de a magyar szintre nem akar süllyedni",
+          "url": "https://telex.hu/gazdasag/2026/11/11/mercedes-benz-munkaerokoltseg-csokkentese-kallenius",
+          "published": "2026-11-11T14:48:18+00:00",
+          "description": "Ola Källenius szerint Németország hosszú távú ipari versenyképessége forog kockán.",
+          "image": "https://assets.telex.hu/images/20261111/1794408084-temp-rujjbmvv1guq5cjhlad_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Varga Judit: Ne hagyják, hogy a Magyar Péterből áradó gyűlölet átvegye a szeretet helyét",
+          "url": "https://telex.hu/belfold/2026/11/11/varga-judit-patriota-magyar-peter",
+          "published": "2026-11-11T14:37:25+00:00",
+          "description": "A volt miniszter volt férjéről beszélt a parlamenti meghallgatás előtt.",
+          "image": "https://assets.telex.hu/images/20261111/1794407403-temp-2r59j8kdnu7h6jdncan_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Vagy cicás",
+          "url": "https://telex.hu/napirajz/2026/11/11/vagy-cicas",
+          "published": "2026-11-11T14:37:13+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261111/1794406909-temp-hpai6dr3vun64mfcdib_cimlap-normal.jpg",
+          "category": "Napirajz",
+          "author": "Grafitember"
+        },
+        {
+          "title": "Legalább hárman meghaltak, miután orosz dróncsapás ért egy piacot Odessza megyében",
+          "url": "https://telex.hu/kulfold/2026/11/11/odessza-csornomorszk-piac-drontamadas-halalos-aldozatok-sebesultek",
+          "published": "2026-11-11T14:14:23+00:00",
+          "description": "A régió kormányzója szerint további nyolcan megsérültek a szerda napközben történt támadásban.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Krasznahorkai kiadója szerint a kormánynak nincs kultúrpolitikája",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/11/karakter-konferencia-magveto-pagony-l-harmattan-konyvpiac",
+          "published": "2026-11-11T14:02:25+00:00",
+          "description": "A könyvpiac meghatározó szereplői azt várnák az államtól, hogy legyen tudása arról, mi az, ami piaci alapon működik, és ott avatkozzon be, ahol érték teremtődik, de üzletileg nem tud sikeres lenni.",
+          "image": "https://assets.telex.hu/images/20261111/1794403975-temp-0ojbt57vb77k3jeogco_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Elfogadja a Közlekedési Múzeum a felajánlást, oda kerül a Tisza országjáró kocsija, Ricsi",
+          "url": "https://telex.hu/belfold/2026/11/11/nagy-ervin-magyar-peter-auto-kozlekedesi-muzeum",
+          "published": "2026-11-11T13:44:33+00:00",
+          "description": "Szakmai szempontok alapján döntenek majd, hogyan állítják ki.",
+          "image": "https://assets.telex.hu/images/20261111/1794403756-temp-3capqe18s468bhhlieo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Öt éve még Matolcsy rendelte meg 197 millióért, csak most állították ki a NER kedvenc művészének újabb gigantikus állatszobrát",
+          "url": "https://telex.hu/karakter/kultura/2026/11/11/szoke-gabor-miklos-harcolo-medve-bika-budapesti-ertektozsde-matolcsy-mnb",
+          "published": "2026-11-11T13:39:16+00:00",
+          "description": "Szőke Gábor Miklós harcoló medve-bika párosa a Krisztina körúti Budapesti Értéktőzsde épülete elé került.",
+          "image": "https://assets.telex.hu/images/20261111/1794404039-temp-0iih0rbsaish6fgkmke_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Egy országot is meg lehet bénítani a rendszerein keresztül, Magyarország mégis hiányosan ismeri a sajátjait",
+          "url": "https://telex.hu/gazdasag/2026/11/11/kibertamadasok-digitalis-allam-vedekezes-biztonsag-manifeszto-magyarorszag",
+          "published": "2026-11-11T13:32:22+00:00",
+          "description": "Három szakember 12 pontos vitaindítóban sürgeti a hazai kibervédelem megerősítését és a digitális államba vetett bizalom helyreállítását.",
+          "image": "https://assets.telex.hu/images/20261110/1794329381-temp-7c90ie1crafp1fadnfk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Az elmúlt évek kínai és koreai beruházásdömpingje sem törte meg itthon a német dominanciát",
+          "url": "https://telex.hu/g7/adat/2026/11/11/azsiai-beruhazas-nemet-dominancia-fdi-mukodotoke-kina-del-korea",
+          "published": "2026-11-11T13:32:04+00:00",
+          "description": "Kína és Dél-Korea részesedése még a komoly növekedés ellenére is elmarad a némettől a külföldi működőtőke-állományon belül. Ezért is volt fontos Magyar Péter és Kapitány István berlini útja.",
+          "image": "https://assets.telex.hu/images/20261111/1794400017-temp-3s61u1tufp5i1ogenoi_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Stubnya Bence"
+        },
+        {
+          "title": "Seszták-ügy: az NVVH is reagált a nyomkövető kutya miatt kért szakvéleményre",
+          "url": "https://telex.hu/belfold/2026/11/11/nvvh-reakcio-sesztak-miklos-szakvelemeny-szef-nyomkoveto-kutya",
+          "published": "2026-11-11T13:18:51+00:00",
+          "description": "A nyomozó hatóság szerint a kriminálkinológus nem szakkérdésben, hanem jogkérdésben nyilatkozott. Rosszul.",
+          "image": "https://assets.telex.hu/images/20261111/1794399485-temp-n4s01vr31eiffahfnag_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Távozik az egészségügyi miniszter főtanácsadója, Gilly Gyula",
+          "url": "https://telex.hu/belfold/2026/11/11/tavozik-az-egeszsegugyi-miniszter-fotanacsadoja-gilly-gyula",
+          "published": "2026-11-11T13:10:46+00:00",
+          "description": "Egyelőre nem tudni, kapcsolatban marad-e a kormánypárttal.",
+          "image": "https://assets.telex.hu/images/20261111/1794402155-temp-v2ipd4dav3pcfefkfcf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Varga Judit Magyar Péterről kezdett beszélni a vizsgálóbizottságban, Toroczkai többször is félbeszakította, hogy nem ez a téma",
+          "url": "https://telex.hu/belfold/2026/11/11/varga-judit-repassy-robert-meghallgatas-vegrehajtoi-visszaeleseket-feltaro-vizsgalobizottsag-parlament",
+          "published": "2026-11-11T13:06:14+00:00",
+          "description": "Varga Juditot és Völner Pál utódját, Répássy Róbertet hallgatja meg a végrehajtói ügyeket feltáró vizsgálóbizottság. A volt miniszter bocsánatkérést vár a sajtótól, és a Magyar Péterrel való válásának körülményeiről is beszélt. A helyszínről követjük az ülést.",
+          "image": "https://assets.telex.hu/images/20261111/1794403657-temp-63v24e0v7ndi6jldnma_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Kushner és Witkoff Moszkvában Putyinnal találkozik, Oroszország és Ukrajna nagyszabású fogolycseréről állapodott meg",
+          "url": "https://telex.hu/kulfold/2026/11/11/oroszorszag-ukrajna-nagyszabasu-fogolycsere-allapodott-meg-abu-dzabi-beketargyalasok",
+          "published": "2026-11-11T12:59:28+00:00",
+          "description": "Véget ért az Abu-Dzabiban zajló béketárgyalás második napja.",
+          "image": "https://assets.telex.hu/images/20261111/1794401170-temp-49daem932eelfmhnlhc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Több száz olasz és északír iskola kapott bombafenyegetéseket",
+          "url": "https://telex.hu/kulfold/2026/11/11/olaszorszag-fenyegeto-emailek-bomba-nagy-britannia",
+          "published": "2026-11-11T12:55:01+00:00",
+          "description": "Az üzenetekben Giorgia Meloni miniszterelnök meggyilkolására is utaltak.",
+          "image": "https://assets.telex.hu/images/20261111/1794400522-temp-0vvpbv1u3fij1klpnga_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Már az izraeli parlament alakuló ülésén egymásnak esett Netanjahu és a leváltására készülő ellenzéke",
+          "url": "https://telex.hu/kulfold/2026/11/11/izrael-torvenyhozas-kneszet-alakulo-ules-netanjahu-ejzenkot-tobbseg",
+          "published": "2026-11-11T12:35:38+00:00",
+          "description": "A kneszetben már elkezdődött a Netanjahu-korszak örökségének felszámolása, pedig még azt sem tudni, milyen koalícióval lehet leváltani Izrael rekordminiszterelnökét.",
+          "image": "https://assets.telex.hu/images/20261111/1794400376-temp-44apaq7s211o8ammkkc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tóth Gergely"
+        },
+        {
+          "title": "Az SZFE-blokád hatéves évfordulóján újra körbeszalagozták az egyetem épületét, este megemlékezést tartanak",
+          "url": "https://telex.hu/belfold/2026/11/11/szfe-egyetemfoglalas-hateves-evfordulo-blokad-bodo-viktor-megemlekezes",
+          "published": "2026-11-11T12:24:28+00:00",
+          "description": "A megemlékezés egyik szervezője, Bodó Viktor szerint az elmúlt években nem volt példa hasonló gesztusra, és a traumákat sem beszélték még ki rendesen.",
+          "image": "https://assets.telex.hu/images/20261111/1794399169-temp-i1am1i1lg0vu9fcdpao_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "A lombkoronasétányról elhíresült polgármester szerint egy erdő akkor is erdő, ha kivágják a fákat",
+          "url": "https://telex.hu/belfold/2026/11/11/lombkorona-setany-targyalas-debrecen-jarasbirosag-filemon-mihaly",
+          "published": "2026-11-11T12:10:55+00:00",
+          "description": "Filemon Mihály szerdai bírósági tárgyalásán azt mondta, nem követett el bűncselekményt, a nyomozás pedig a vele szembeni „sajtóhadjárat” miatt indult.",
+          "image": "https://assets.telex.hu/images/20261111/1794396286-temp-bu4pdql1ur86cigomlb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Bárki lesz is az új James Bond, hatalmas teher lesz rajta",
+          "url": "https://telex.hu/after/2026/11/11/a-kovetkezo-james-bond-kozuluk-kerulhet-ki",
+          "published": "2026-11-11T12:10:37+00:00",
+          "description": "A jelek szerint öt színész van még versenyben James Bond szerepére, és akár már az idén kiderülhet, ki alakítja legközelebb a brit titkos ügynököt. Az új Bond-film alkotóinak a főszereplő kiválasztása azonban csak egy részfeladat, hiszen szinte az alapoktól újra kell gondolniuk a karaktert.",
+          "image": "https://assets.telex.hu/images/20261110/1794322876-temp-gro5k6m1ilbubpgijme_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "Hamarosan érkezik Charles, és hoz egy csomó esőt",
+          "url": "https://telex.hu/belfold/2026/11/11/idojaras-eso-csapadek-charles-ciklon",
+          "published": "2026-11-11T11:34:13+00:00",
+          "description": "Péntekig több hullámban esik majd, 20 milliméter fölötti csapadékmennyiség várható.",
+          "image": "https://assets.telex.hu/images/20261111/1794396135-temp-ma7027a6rmocbnnmbjb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Hankó Balázs börtönben tölti a karácsonyt és a szilvesztert",
+          "url": "https://telex.hu/belfold/2026/11/11/hanko-balazs-marad-letartoztatasban-bortonben-tolti-karacsonyt-szilvesztert",
+          "published": "2026-11-11T11:31:45+00:00",
+          "description": "Február 1-jéig biztosan letartóztatásban marad a volt fideszes miniszter és az államtitkára is, miután elutasították a fellebbezésüket.",
+          "image": "https://assets.telex.hu/images/20261111/1794396445-temp-st2j5pnhfl892pbilba_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Son of former Fidesz state secretary detained",
+          "url": "https://telex.hu/english/2026/11/11/son-of-former-fidesz-state-secretary-taken-into-custody",
+          "published": "2026-11-11T11:19:41+00:00",
+          "description": "The man is suspected of having led a criminal organization which caused a loss of more than €4.1 million to the state.",
+          "image": "https://assets.telex.hu/images/20261111/1794395166-temp-quj2ocqoi8uq8ajmehp_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Dezső András"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,10 +483,37 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Egy brit DJ is életét vesztette a krakkói lövöldözésben",
+          "url": "https://index.hu/kulfold/2026/11/11/lengyelorszag-krakko-lovoldozes-aldozat-brit-dj/",
+          "published": "2026-11-11T15:09:00+00:00",
+          "description": "A 32 éves James Campbell a skóciai Prestwickből származott.",
+          "image": "https://kep.index.hu/1/0/7252/72520/725207/72520787_5343851_24041fcb4454fb7296d8e601ca66a50e_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
+        {
+          "title": "Különleges csapatversenyen kezdheti a magyar válogatott a 2027-es szezont",
+          "url": "https://index.hu/sport/tenisz/2026/11/11/tenisz-united-cup-2027-vegyes-csapatverseny-magyar-valogatott/",
+          "published": "2026-11-11T15:09:00+00:00",
+          "description": "Sosem fordult még ilyen elő a sportág történetében.",
+          "image": "https://kep.index.hu/1/0/7252/72520/725208/72520815_5343853_91266860c546ff64ebafafbf27527414_wm.jpg",
+          "category": "Tenisz",
+          "author": null
+        },
+        {
+          "title": "Nevet változtatott Ivancsics Ilona",
+          "url": "https://index.hu/mindekozben/poszt/2026/11/11/nevet-valtoztatott-ivancsics-ilona/",
+          "published": "2026-11-11T15:07:20+00:00",
+          "description": "",
+          "image": "https://kep.index.hu/1/0/7251/72516/725168/72516889_ee93ca1132232c841288de4c6573c2a1_wm.jpg",
+          "category": "Mindeközben",
+          "author": null
+        },
+        {
           "title": "Letartóztatták Orbán Viktor öccsét, egy hónapig biztosan rácsok mögött marad",
           "url": "https://index.hu/belfold/2026/11/11/orban-viktor-aron-letartoztatas-birosag-dontes-magyar-peter-nyomozas/",
           "published": "2026-11-11T14:54:00+00:00",
-          "description": "A nyomozási bíró Orbán Áron letartóztatása mellett  élettársa, és további a két társa sorsáról is döntött.",
+          "description": "A nyomozási bíró Orbán Áron letartóztatása mellett  élettársa és további két társa sorsáról is döntött.",
           "image": "https://kep.index.hu/1/0/7251/72513/725133/72513337_5343319_ac71b283bbf7014d9c700ff6ace6528e_wm.jpg",
           "category": "Belföld",
           "author": null
@@ -437,10 +690,10 @@
           "author": null
         },
         {
-          "title": "Varga Judit: Ki fog tőlem bocsánatot kérni? Tudják önök egyáltalán, hogy én ki vagyok?",
+          "title": "Varga Judit: Engem Magyar Pétertől kellett megvédeni, ahogy bejelentettem a válást, elkezdődött a pokol",
           "url": "https://index.hu/belfold/2026/11/11/orszaggyules-parlament-varga-judit-repassy-robert-vegrehajtas-volner-schadl-ugy-vizsgalobizottsag/",
           "published": "2026-11-11T12:51:00+00:00",
-          "description": "Vizsgálóbizottság hallgatja meg a volt minisztert.",
+          "description": "„Ki kér tőlem bocsánatot? Tudják önök egyáltalán, hogy én ki vagyok?“ – kérdezte.",
           "image": "https://kep.index.hu/1/0/7251/72517/725179/72517903_5343651_d6e8537af36a288f6b87f4665fd6ffa9_wm.jpg",
           "category": "Belföld",
           "author": null
@@ -451,33 +704,6 @@
           "published": "2026-11-11T12:50:00+00:00",
           "description": "A többség jónak tartja a kormány fél évét, az anyagi kilátásait már kevésbé.",
           "image": "https://kep.index.hu/1/0/7251/72517/725170/72517045_5343591_47a09beb6602eaf72417f293a7f3597e_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Kilencedik műtétén esett át az amerikaiak olimpiai bajnoka",
-          "url": "https://index.hu/sport/2026/11/11/lindsey-vonn-alpesi-si-kilencedik-mutet-teli-olimpia/",
-          "published": "2026-11-11T12:19:00+00:00",
-          "description": "Pályafutása során 48 világkupa-győzelmet aratott.",
-          "image": "https://kep.index.hu/1/0/7251/72516/725164/72516409_5343541_74d5ac040c6cbb4ca9fd87ea6985b474_wm.jpg",
-          "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "„Véletlen lenne?” – Magyar Péter újra üzent, miután vezetőszáron vitték Orbán Viktor testvérét",
-          "url": "https://index.hu/belfold/2026/11/11/magyar-peter-orban-viktor-aron-letartoztatas-embercsempeszet-csempeszet-dontes-rendelet-fidesz/",
-          "published": "2026-11-11T12:17:00+00:00",
-          "description": "A kormányfő egy 2023-as rendeletre emlékeztetett, amely nyomán ezrek szabadultak.",
-          "image": "https://kep.index.hu/1/0/7251/72516/725164/72516435_5343543_46b6d864fb2a5f8ab70df2893bde0598_wm.jpg",
-          "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Oszlopot döntött és áramszünetet okozott a tömegkarambol az M4-esen, videón a baleset",
-          "url": "https://index.hu/belfold/2026/11/11/mkif-kozlekedesbiztonsag-autopalya-baleset-m4-autout-cegled/",
-          "published": "2026-11-11T12:11:00+00:00",
-          "description": "Egyelőre nem tudni, mi vezetett a balesethez.",
-          "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
           "category": "Belföld",
           "author": null
         }
@@ -1302,6 +1528,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Letartóztatták Orbán Áront",
+          "url": "https://hvg.hu/itthon/20261111_letartoztatas-orban-aron-elettars-vizumugy",
+          "published": "2026-11-11T15:07:53+00:00",
+          "description": "A kényszerintézkedést egy hónapra rendelték el a volt miniszterelnök öccsével és annak élettársával szemben.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d0900108-ed75-495d-b1f7-513803159e5d.jpg",
+          "category": "Itthon",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
+        {
           "title": "Game over: megszűnik a PlayStation PC-s változata",
           "url": "https://hvg.hu/tudomany/20261111_sony-playstation-pc-alkalmazas-megszunes",
           "published": "2026-11-11T15:03:00+00:00",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/38091874-3f36-4888-aab7-7110a9a1ffeb.jpg",
           "category": "Gazdaság",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Négy grizzly medve végzett egy anyával és lányával Kanadában",
-          "url": "https://hvg.hu/elet/20261111_negy-grizzly-olt-meg-ket-not-kanadaban",
-          "published": "2026-11-11T12:22:51+00:00",
-          "description": "A halálos támadást elkövető medvéket a lakosság védelme érdekében megölték.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f242ccf0-9dda-4aef-a29b-c76ff57c468a.jpg",
-          "category": "Élet+Stílus",
-          "author": "HVG (szerzo@hvg.hu (MTI))"
         }
       ]
     },
@@ -1621,6 +1847,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Georgiában sem hagyták szó nélkül a Szoboszlai Dominikkal történteket",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/11/szoboszlai-dominik-magyar-valogatott-georgia",
+          "published": "2026-11-11T16:00:00+01:00",
+          "description": "Georgiában is figyelemmel követik a helyzet alakulását.",
+          "image": "https://cdn.origo.hu/2026/11/DAFJtU7qMmwG8oSAH4y3ECw1YuVlxwzqSFHbI_TgYcE/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RjMjc3MzUxYTVmOTQyNjI4MDQ1ODA5OTE1ZTk4N2Zj.webp",
+          "category": "Szoboszlai Dominik",
+          "author": null
+        },
+        {
           "title": "Záróvonalon előzte a rendőrautót Ford Mustanggal, a büntetés nem maradt el + videó",
           "url": "https://www.origo.hu/auto/2026/11/zarovonalon-elozte-a-rendorautot-ford-mustanggal-a-buntetes-nem-maradt-el-video",
           "published": "2026-11-11T15:50:00+01:00",
@@ -1699,15 +1934,6 @@
           "description": "Tragédiába torkollott a séta.",
           "image": "https://cdn.origo.hu/2026/11/5VSmmsfeUJDpVimCVuZCwdtyUQyFoxfrsg_GsNAOJW4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiMjRkNmMzMWI1ZTRmNjk4NDY3YjUxMmZiYjgzODI5.webp",
           "category": "medvetámadás",
-          "author": null
-        },
-        {
-          "title": "64 éves lett Demi Moore: emlékszel ezekre a dögös szerepeire?",
-          "url": "https://www.origo.hu/galeria/demi-moore-szuletesnap",
-          "published": "2026-11-11T14:50:00+01:00",
-          "description": "Hogy mennyi? Nem, senkinek a készülékében sincs hiba, Demi Moore tényleg 64 éves lett, de valószínűleg senki sem lepődne meg azon, ha fele ennyit írtunk volna. A Sztriptíz szexbombájának születésnapja alkalmából pedig összegyűjtöttük a legforróbb pillanatait.",
-          "image": "https://cdn.origo.hu/2026/11/qJ2tmbu3XBQ1oHU78kS2V8VcY7oLCTgtVI1th-jn5Xw/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmNzZlNmNhMzY4NDRhYzJhZmNkMzI3MjAwYjdiNTM2.webp",
-          "category": "Galeria",
           "author": null
         },
         {
