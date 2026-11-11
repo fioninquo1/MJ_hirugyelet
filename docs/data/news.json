@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-11T12:40:38.481458+00:00",
+  "scraped_at": "2026-11-11T12:45:38.558485+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Már az izraeli parlament alakuló ülésén egymásnak esett Netanjáhu és a leváltására készülő ellenzéke",
+          "url": "https://telex.hu/kulfold/2026/11/11/izrael-torvenyhozas-kneszet-alakulo-ules-netanjahu-ejzenkot-tobbseg",
+          "published": "2026-11-11T12:35:38+00:00",
+          "description": "A kneszetben már elkezdődött a Netanjáhu-korszak örökségének felszámolása, pedig még azt sem tudni, milyen koalícióval lehet leváltani Izrael rekordminiszterelnökét.",
+          "image": "https://assets.telex.hu/images/20261111/1794400376-temp-44apaq7s211o8ammkkc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Tóth Gergely"
+        },
+        {
+          "title": "Az SZFE-blokád hatéves évfordulóján újra körbeszalagozták az egyetem épületét, este megemlékezést tartanak",
+          "url": "https://telex.hu/belfold/2026/11/11/szfe-egyetemfoglalas-hateves-evfordulo-blokad-bodo-viktor-megemlekezes",
+          "published": "2026-11-11T12:24:28+00:00",
+          "description": "A megemlékezés egyik szervezője, Bodó Viktor szerint az elmúlt években nem volt példa hasonló gesztusra, és a traumákat sem beszélték még ki rendesen.",
+          "image": "https://assets.telex.hu/images/20261111/1794399169-temp-i1am1i1lg0vu9fcdpao_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "A lombkoronasétányról elhíresült polgármester szerint egy erdő akkor is erdő, ha kivágják a fákat",
+          "url": "https://telex.hu/belfold/2026/11/11/lombkorona-setany-targyalas-debrecen-jarasbirosag-filemon-mihaly",
+          "published": "2026-11-11T12:10:55+00:00",
+          "description": "Filemon Mihály szerdai bírósági tárgyalásán azt mondta, nem követett el bűncselekményt, a nyomozás pedig a vele szembeni „sajtóhadjárat” miatt indult.",
+          "image": "https://assets.telex.hu/images/20261111/1794396286-temp-bu4pdql1ur86cigomlb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Bárki lesz is az új James Bond, hatalmas teher lesz rajta",
+          "url": "https://telex.hu/after/2026/11/11/a-kovetkezo-james-bond-kozuluk-kerulhet-ki",
+          "published": "2026-11-11T12:10:37+00:00",
+          "description": "A jelek szerint öt színész van még versenyben James Bond szerepére, és akár már az idén kiderülhet, ki alakítja legközelebb a brit titkos ügynököt. Az új Bond-film alkotóinak a főszereplő kiválasztása azonban csak egy részfeladat, hiszen szinte az alapoktól újra kell gondolniuk a karaktert.",
+          "image": "https://assets.telex.hu/images/20261110/1794322876-temp-gro5k6m1ilbubpgijme_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "Hamarosan érkezik Charles, és hoz egy csomó esőt",
+          "url": "https://telex.hu/belfold/2026/11/11/idojaras-eso-csapadek-charles-ciklon",
+          "published": "2026-11-11T11:34:13+00:00",
+          "description": "Péntekig több hullámban esik majd, 20 milliméter fölötti csapadékmennyiség várható.",
+          "image": "https://assets.telex.hu/images/20261111/1794396135-temp-ma7027a6rmocbnnmbjb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Hankó Balázs börtönben tölti a karácsonyt és a szilvesztert",
+          "url": "https://telex.hu/belfold/2026/11/11/hanko-balazs-marad-letartoztatasban-bortonben-tolti-karacsonyt-szilvesztert",
+          "published": "2026-11-11T11:31:45+00:00",
+          "description": "Február 1-jéig biztosan letartóztatásban marad a volt fideszes miniszter és az államtitkára is, miután elutasították a fellebbezésüket.",
+          "image": "https://assets.telex.hu/images/20261111/1794396445-temp-st2j5pnhfl892pbilba_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Son of former Fidesz state secretary detained",
+          "url": "https://telex.hu/english/2026/11/11/son-of-former-fidesz-state-secretary-taken-into-custody",
+          "published": "2026-11-11T11:19:41+00:00",
+          "description": "The man is suspected of having led a criminal organization which caused a loss of more than €4.1 million to the state.",
+          "image": "https://assets.telex.hu/images/20261111/1794395166-temp-quj2ocqoi8uq8ajmehp_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Megszüntette a rendőrség az eljárást a pedagógus ellen, aki folyóírással firkált a letépett gyűlöletkeltő plakát helyére",
+          "url": "https://telex.hu/belfold/2026/11/11/nem-kovetett-el-buncselekmenyt-pedagogus-plakat-atiras",
+          "published": "2026-11-11T11:15:10+00:00",
+          "description": "„Love is stronger than hate” – februárban többek között ezt írta a plakátra a tanárnő, akit aztán rongálással gyanúsított meg a rendőrség.",
+          "image": "https://assets.telex.hu/images/20261111/1794393583-temp-q4sm0bacudgafpcoclj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Meghalt Stumpf Árpád, akit a pécsiek csak Zsiráfként ismertek",
+          "url": "https://telex.hu/karakter/kultura/2026/11/11/stumpf-arpad-zsiraf-pecs-muvesz-halalhir",
+          "published": "2026-11-11T11:14:06+00:00",
+          "description": "A képzőművész, szobrász és énekes évtizedeken át meghatározó része volt Pécs kulturális és közösségi életének.",
+          "image": "https://assets.telex.hu/images/20261111/1794394288-temp-s2m2rg7rh90d3jlokjl_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Új? Felújítandó? 20 millióval drágább új lakás is megérheti a Wekerle Plusszal",
+          "url": "https://telex.hu/biztos-dontes/2026/11/11/uj-vagy-felujitando-lakas-akar-20-millioval-dragabb-uj-lakas-is-megerheti-a-wekerle-plusszal",
+          "published": "2026-11-11T10:56:51+00:00",
+          "description": "A BiztosDöntés.hu szakértője három jellemző helyzetre számolta ki, mennyibe kerül a vásárlás és a felújítás együtt, és mit változtat ezen a jövőre induló Wekerle felújítási program.",
+          "image": "https://assets.telex.hu/images/20261110/1794310610-temp-cpduv7lgo9he0anddam_cimlap-normal.jpg",
+          "category": "Biztos Döntés",
+          "author": "Hargitai-Szabó Kata"
+        },
+        {
+          "title": "„Az első éjszaka nagyon kemény volt”: 36 órát gubbasztott törött lábbal egy síelő egy szakadékban, ahova lavina sodorta be",
+          "url": "https://telex.hu/szepkilatas/2026/11/11/franciaorszag-alpok-lavina-mentes-emeric-ossette",
+          "published": "2026-11-11T10:48:03+00:00",
+          "description": "A történtek ellenére, amint lehet, visszatér a hegyekbe, mert mágnesként vonzzák, ott érzi jól magát, mondta a 39 éves Emeric Ossatte.",
+          "image": "https://assets.telex.hu/images/20261111/1794393599-temp-rdplt1qrefv79monhda_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Ruff Bálint rendkívüli parlamenti ülést kezdeményez jövő hétre a kormány nevében",
+          "url": "https://telex.hu/belfold/2026/11/11/ruff-balint-rendkivuli-ules-parlament-kezdemenyez-jovo-hetre-a-kormany-neveben",
+          "published": "2026-11-11T10:29:25+00:00",
+          "description": "Hétfőn, kedden és szerdán is ülésezik majd az országgyűlés a költségvetés miatt.",
+          "image": "https://assets.telex.hu/images/20261111/1794392222-temp-f4is61jjlbtoffmhjap_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Rendőri összecsapásokkal indult az országos sztrájk Spanyolországban",
+          "url": "https://telex.hu/kulfold/2026/11/11/spanyolorszag-sztrajk-utcai-osszecsapas-rendorok-lakhatas",
+          "published": "2026-11-11T10:15:52+00:00",
+          "description": "A lakhatási problémák miatt sztrájkoló munkavállalók torlaszokat építettek és forgalomlassító akciókat tartottak.",
+          "image": "https://assets.telex.hu/images/20261111/1794392864-temp-jj69p44r2aqt0hgncmh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "A 4iG bekebelezett egy műholdgyártó céget, 2027-ben megnyitja az űrtechnológiai központját",
+          "url": "https://telex.hu/gazdasag/2026/11/11/4ig-uripar-remred-muholdgyartas-tranzakcio-tulajdon",
+          "published": "2026-11-11T10:13:16+00:00",
+          "description": "A 4iG eddig 45 százalékos részesedéssel rendelkezett a cégben, most ötmillió forintért vásárolta meg a maradék tulajdonrészt.",
+          "image": "https://assets.telex.hu/images/20261111/1794391940-temp-2cm7r872rr5j1dgnlkb_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "És azt a viccet ismerik, hogy két ló felszáll a buszra?",
+          "url": "https://telex.hu/zacc/2026/11/11/lo-busz-detroit",
+          "published": "2026-11-11T10:07:34+00:00",
+          "description": "Detroitban ez nem csak egy vicc, hanem a valóság.",
+          "image": "https://assets.telex.hu/images/20261111/1794387886-temp-c14o0826baku2jfmaai_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "A pénzügyi tudatosságot most tanulom – Bongor az Extázis Uncut kapcsán",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/11/11/a-penzugyi-tudatossagot-most-tanulom-bongor-az-extazis-uncut-kapcsan",
+          "published": "2026-11-11T10:00:19+00:00",
+          "description": "",
+          "image": "https://assets.telex.hu/images/20261111/1794391699-temp-6oen3qlb7bmu1kecgkf_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Régiós alapkezelők felvásárlásával gyorsít Oszkó Péter O3 Partners befektetési cége",
+          "url": "https://telex.hu/g7/tamogatott-tartalom/2026/11/11/regios-alapkezelok-felvasarlasaval-gyorsit-oszko-peter-o3-partners-befektetesi-cege",
+          "published": "2026-11-11T10:00:13+00:00",
+          "description": "Az O3 Partners 15 millió euró tőke bevonását tervezi a Budapesti Értéktőzsdén kibocsátott friss részvények segítségével.",
+          "image": "https://assets.telex.hu/images/20261109/1794226190-temp-pb42mc639cso3aglhpe_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Bucsky Péter"
+        },
+        {
+          "title": "2035-re a felére kellene csökkentenünk a szén-dioxid-kibocsátást, hogy legalább az 1,7-es maximumot ne lépjük túl",
+          "url": "https://telex.hu/techtud/2026/11/11/klimajelentes-1-7-fok-globalis-felmelegedes-2035",
+          "published": "2026-11-11T09:45:02+00:00",
+          "description": "A friss klímajelentés szerint ehhez a kormányoknak nagyon gyors lépéseket kellene tenniük.",
+          "image": "https://assets.telex.hu/images/20261111/1794390202-temp-qlvcr7ntvqunckogiij_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Az Nvidia az egyik legnagyobb amerikai ügyvédi irodát bízta meg az állítólagos kínai kémügy kivizsgálásával",
+          "url": "https://telex.hu/gazdasag/2026/11/11/nvidia-kembotrany-jensen-huang-alice-huang-egyesult-allamok-kina",
+          "published": "2026-11-11T09:44:26+00:00",
+          "description": "Az ügyben az FBI is saját nyomozást folytat.",
+          "image": "https://assets.telex.hu/images/20261111/1794389983-temp-0oneu4irdi4d2mpekln_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Áron Orbán's group continued to defraud Vietnamese nationals even after authorities were onto them",
+          "url": "https://telex.hu/english/2026/11/11/aron-orban-s-group-continued-to-defraud-vietnamese-nationals-even-after-authorities-were-onto-them",
+          "published": "2026-11-11T09:35:52+00:00",
+          "description": "The former prime minister’s brother continued to promise visas and jobs to Vietnamese nationals—for a fee, of course—even after the activities of his circle had been exposed, according to documents obtained by Telex. The scammed individuals did not dare notify the police.",
+          "image": "https://assets.telex.hu/images/20261111/1794389172-temp-8a0t8d1n71770gfgemi_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Dezső András"
+        },
+        {
+          "title": "Térképre tette az erdészet a Mátrában és a Bükkben, hogy hol és miért vágnak ki fákat",
+          "url": "https://telex.hu/szepkilatas/2026/11/11/egererdo-fakivagas-terkep-nyilvanossag-matra-bukk",
+          "published": "2026-11-11T09:14:21+00:00",
+          "description": "Az adatokat heti rendszerességgel frissítik, így bárki nyomon követheti az aktuális fakitermelési munkákat.",
+          "image": "https://assets.telex.hu/images/20261111/1794388309-temp-d599l7iodofd3dbpmgo_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "A bíróság főbejáratán, vezetőszáron vitték be az épületbe Orbán Áront",
+          "url": "https://telex.hu/belfold/2026/11/11/orban-aron-embercsempeszet-birosag-letartoztatas-nvvh-nni",
+          "published": "2026-11-11T08:54:44+00:00",
+          "description": "Külön-külön, rendőrségi kisbuszokkal szállították a Budai Központi Kerületi Bíróságra a volt miniszterelnök öccsét, élettársát és a vízumbiznisz másik két gyanúsítottját. A nyomozási bíró szerdán 10 órától dönt Orbán és társai letartóztatásáról, akiket embercsempészettel gyanúsítanak.",
+          "image": "https://assets.telex.hu/images/20261111/1794387237-temp-2sum5a4r7iidcahfmcg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Felülmúlta a várakozásokat az OTP negyedéves teljesítménye",
+          "url": "https://telex.hu/gazdasag/2026/11/11/otp-bank-q3-arfolyam-nyereseg",
+          "published": "2026-11-11T08:52:19+00:00",
+          "description": "Egyszerű magyarázatot adott a bank arra, mi okozta a nagy különbséget.",
+          "image": "https://assets.telex.hu/images/20261111/1794387022-temp-hjrtdqk230fl9ilhafa_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Bírósággal akadályoztatná meg a Kennedy család Trump gigantikus washingtoni diadalívének megépítését",
+          "url": "https://telex.hu/kulfold/2026/11/11/birosaghoz-fordult-kennedy-csalad-trump-gigantikus-washingtoni-diadalive",
+          "published": "2026-11-11T08:48:09+00:00",
+          "description": "A 76 méteresre tervezett építmény szerintük eltakarná a kilátást nemcsak Kennedy, de az Arlington nemzeti temető veteránjainak sírjára is.",
+          "image": "https://assets.telex.hu/images/20261111/1794386777-temp-tuu7j3ngohq52aenlml_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Jóval később kezdtük el fogyasztani a földgáztartalékot, mint tavaly",
+          "url": "https://telex.hu/g7/adat/2026/11/11/oktober-vegeig-toltottek-a-tarolokat",
+          "published": "2026-11-11T08:44:30+00:00",
+          "description": "Bár a korábbi években megszokottól elmarad a hazai gáztárolók telítettsége, az egy évvel ezelőtti szintet azonban így is közel félmilliárd köbméterrel haladja meg.",
+          "image": "https://assets.telex.hu/images/20261110/1794320342-temp-hmeugjv01v171jmpeco_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Jandó Zoltán"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1540,7 +1766,7 @@
         {
           "title": "Februárban rendezik a 46. Magyar Filmszemlét, már lehet nevezni az alkotásokat",
           "url": "https://kontroll.hu/cikk/kultura/2026/11/11/februarban-rendezik-a-46-magyar-filmszemlet-mar-lehet-nevezni-az-alkotasokat",
-          "published": "2026-11-11T12:43:38.227175+01:00",
+          "published": "2026-11-11T11:42:00+01:00",
           "description": null,
           "image": null,
           "category": "Kultura",
@@ -1549,7 +1775,7 @@
         {
           "title": "Magyar Péter is reagált arra, hogy őrizetbe vették Pintér Sándor egykori államtitkárának fiát",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/11/magyar-peter-is-reagalt-arra-hogy-orizetbe-vettek-pinter-sandor-egykori-allamtitkaranak-fiat-1",
-          "published": "2026-11-11T12:42:38.227337+01:00",
+          "published": "2026-11-11T11:42:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1620,6 +1846,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Végleges, hogy 2027. február 1-ig letartóztatásban marad Hankó Balázs és Varga-Bajusz Veronika",
+          "url": "https://www.origo.hu/belpol/2026/11/hanko-balazs-varga-bajusz-veronika-letartoztatas-marad",
+          "published": "2026-11-11T13:42:00+01:00",
+          "description": "Bizonyossá vált, hogy mindketten a családjuktól távol töltik az ünnepeket.",
+          "image": "https://cdn.origo.hu/2026/11/aOKXnvQA5kdobqP5nYJMNETa9wGiXSOVTbM4NpcYUEY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA1MmE0Y2RlYmRhZTRjMDFhYTMzY2YwMzlkM2I3NDkx.webp",
+          "category": "hankó balázs",
+          "author": null
+        },
+        {
+          "title": "Alig ítélték el, máris újabb nő vádolja Russell Brandet",
+          "url": "https://www.origo.hu/teve/2026/11/russell-brand-szexualis-bantalmazas-ujabb-no-jelentkezett",
+          "published": "2026-11-11T13:40:00+01:00",
+          "description": "A feltételezett áldozat az egyik legismertebb amerikai sztárügyvédhez fordult.",
+          "image": "https://cdn.origo.hu/2026/11/CMi0f0lrXlrsJUIh9FLDJ4G4AcSumo3IrBJpnIBDs38/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBlMWIxZmYxZGFlMTQ0YmFiMDJmYjZmZTliY2Y5MDFi.webp",
+          "category": "russell brand",
+          "author": null
+        },
         {
           "title": "Kiderült, mennyit költenek idén karácsonyra a magyarok – a Yettel nagy változásokat jelentett be",
           "url": "https://www.origo.hu/techbazis/2026/11/karacsonyi-ajandekok-2026-yettel-felmeres",
@@ -1695,19 +1939,19 @@
         {
           "title": "Autóakkumulátorba rejtették a drogokat – két embert fogtak el a rendőrök Budaörsön",
           "url": "https://www.origo.hu/kek-hirek/2026/11/kabitoszer-autoakkumulatorba-rejtve-budaorsi-panzio",
-          "published": "2026-11-11T12:40:00+01:00",
-          "description": "Több mint kétmillió forint is előkerült.",
-          "image": "https://cdn.origo.hu/2026/11/W5Of0aVNX_wD2nStWhPRTMgrpgzmBsOpIfI1C7GJfTs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxYmU2MDVlZjlkZjQ1MTE5NGQ5ZjI4YjVlZmRkYWVm.webp",
-          "category": "kábítószer",
+          "published": "2026-11-11T11:40:39+00:00",
+          "description": null,
+          "image": null,
+          "category": "Kék hírek",
           "author": null
         },
         {
           "title": "Rendkívüli parlamenti ülés jöhet: mutatjuk, milyen ügyek kerülhetnek napirendre",
           "url": "https://www.origo.hu/belpol/2026/11/koltsegvetes-rendkivuli-parlamenti-ules",
-          "published": "2026-11-11T12:35:00+01:00",
-          "description": "A képviselők három napon keresztül tárgyalhatják a 2027-es költségvetést.",
-          "image": "https://cdn.origo.hu/2026/11/linfv1X75sMd3QYOGxTkgXfwcY8Mhpz78CQutYAIfeM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJkNzY3N2RlOTE4NzQzMDBhOWVmOGVjN2NlNDQ5MWVj.webp",
-          "category": "költségvetés",
+          "published": "2026-11-11T11:35:58+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1825,24 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Kék hírek",
-          "author": null
-        },
-        {
-          "title": "Ricciardo visszatekintett a Verstappen melletti évekre – nagy kijelentést tett",
-          "url": "https://www.origo.hu/sport/f1/2026/11/ricciardo-verstappen-f1",
-          "published": "2026-11-11T10:10:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Elszabadult egy busz a reggeli csúcsforgalomban: több tucat autót tarolt le",
-          "url": "https://www.origo.hu/nagyvilag/2026/11/buszbaleset-del-korea-32-jarmu-57-serult",
-          "published": "2026-11-11T10:05:47+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
