@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-13T01:20:41.294239+00:00",
+  "scraped_at": "2026-11-13T01:25:46.067897+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "NL: az olaszok elverték a franciákat, a rekorddöntő Kane gólt lőtt a Wembleyben",
+          "url": "https://telex.hu/sport/2026/11/12/nemzetek-ligaja-olasz-francia-angol-horvat-spanyol-cseh-meccsek",
+          "published": "2026-11-12T22:22:53+00:00",
+          "description": "Már negyeddöntőbe jutott csapatok is vannak a futball Nemzetek Ligájában.",
+          "image": "https://assets.telex.hu/images/20261112/1794522069-temp-fm8r6vrk6qsl1bfhnop_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Szállítás közben elakadt Eger karácsonyfája, és még egy villanyoszlopot is kidöntött",
+          "url": "https://telex.hu/zacc/2026/11/12/eger-karacsonyfa-villanyoszlop",
+          "published": "2026-11-12T22:01:35+00:00",
+          "description": "Közeleg az ünnep.",
+          "image": "https://assets.telex.hu/images/20261112/1794520673-temp-1ao97p997c7sdfjhnhn_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Sarkadi Zsolt"
+        },
+        {
+          "title": "Trump embere behozná az európaiakat az orosz-ukrán tárgyalásokra, Putyin nem repes az örömtől",
+          "url": "https://telex.hu/kulfold/2026/11/12/kusnher-witkoff-orosz-ukran-amerikai-targyalasok-europa-szerepe",
+          "published": "2026-11-12T21:56:58+00:00",
+          "description": "Steve Witkoff és Jared Kushner Moszkvában egyeztettek az oroszokkal a háború lezárási folyamatáról.",
+          "image": "https://assets.telex.hu/images/20261112/1794520523-temp-doho7am8ah0v9glgmgb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Charles megrázhatja puttonyát, hó eshet a hegyekben",
+          "url": "https://telex.hu/belfold/2026/11/12/charles-ciklon-ho-havazas-zemplen-hegyek-idojaras-tel",
+          "published": "2026-11-12T21:26:51+00:00",
+          "description": "Még ne rohanjunk hóláncért, nem valószínű, hogy megmarad a csúcsokon hulló hó.",
+          "image": "https://assets.telex.hu/images/20261112/1794518787-temp-ahhpnr4lshe83dbfpjn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Szeretők, afférok: harminchárom év alatt felépítette a világ egyik legértékesebb cégét, aztán pillanatok alatt belebukott a botrányokba",
+          "url": "https://telex.hu/gazdasag/2026/11/12/jensen-huang-nvidia-vezerigazgato-lemondas-kinai-kem-szerelmi-viszonyok-kovetkezmenyek-mi",
+          "published": "2026-11-12T21:16:24+00:00",
+          "description": "Jensen Huang két kínos szerelmi viszonya hatalmas károkat okozott az Nvidiának. A lemondása után aztán lelepleződött egy harmadik házasságon kívüli kapcsolata is. A Szílicium-völgyben szinte példátlan karriert lezáró vezető távozását az egész piac megérezheti, de az Nvidiának az is fejtörést okoz...",
+          "image": "https://assets.telex.hu/images/20261112/1794501065-temp-b1jqce4lhvf9fahbhae_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Zelenszkij szerint megint problémáik vannak a Starshield rendszerrel",
+          "url": "https://telex.hu/kulfold/2026/11/12/ukrajna-zelenszkij-oroszorszag-haboru-starshield",
+          "published": "2026-11-12T21:01:37+00:00",
+          "description": "A rendszert Elon Musk cége üzemelteti, és Ukrajnának nagyon fontos ahhoz, hogy megvédje magát az orosz támadásokkal szemben.",
+          "image": "https://assets.telex.hu/images/20261112/1794517276-temp-7qm11g0nsmlf9cblloa_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Sarkadi Zsolt"
+        },
+        {
+          "title": "Zelenszkij: Biztosítanunk kell, hogy Európa az Ukrajnáról szóló tárgyalások rendszeres részévé válik",
+          "url": "https://telex.hu/kulfold/2026/11/12/eu-europai-politikai-kozosseg-ukrajna-ormenyorszag",
+          "published": "2026-11-12T20:43:47+00:00",
+          "description": "A nagyjából ötven európai vezető találkozóján az ukrán béke volt a központi téma az egyik házigazda szerint.",
+          "image": "https://assets.telex.hu/images/20261112/1794515638-temp-btlu7lp7e1v45npdjaf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Nem találja a rendőrség azokat a nőket, akik fenyegettek és kifosztottak egy vak férfit egy plázában",
+          "url": "https://telex.hu/belfold/2026/11/12/klavacsek-daniel-vakvezeto-kutyas-ferfit-megtamadtak-egy-plazaban",
+          "published": "2026-11-12T20:20:31+00:00",
+          "description": "Klavacsek Dániel többszörösen fogyatékkal élő férfit azzal fenyegették egy liftben, ha ellenáll, beleverik a fejét a falba.",
+          "image": "https://assets.telex.hu/images/20261112/1794514780-temp-07pvfefchpuj4hebffo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Izrael kitiltotta területéről a francia radikális baloldal elnökjelöltjét",
+          "url": "https://telex.hu/kulfold/2026/11/12/jean-luc-melenchon-franciaorszag-izrael",
+          "published": "2026-11-12T20:11:30+00:00",
+          "description": "Jean-Luc Mélenchon úgy reagált: nem is kérte, hogy beléphessen.",
+          "image": "https://assets.telex.hu/images/20261112/1794513966-temp-8tl7p7qog3jt6gdimcl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Sarkadi Zsolt"
+        },
+        {
+          "title": "Egy olajcég méréseket végez Kiskunhalas környékén, a helyiek már több száz fúrótornyot vizionálnak, a polgármesterek is közbelépnének",
+          "url": "https://telex.hu/gazdasag/2026/11/12/kiskunhalas-koolaj-foldgaz-kitermeles-szenhidrogen-kutatas-cancambria-hungary-kft",
+          "published": "2026-11-12T20:07:36+00:00",
+          "description": "Kiskunhalas környékén szeizmikus mérésekben kezdett a CanCambria Kft., amely hosszú közleményben igyekszik eloszlatni a helyiek félelmeit, Kiskunhalas és Soltvadkert vezetői viszont a kutatás felfüggesztését akarják.",
+          "image": "https://assets.telex.hu/images/20261112/1794513992-temp-anfetmr94nc3cjajnep_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Véletlenül maszturbálást élőzött az amerikai neonáci vezető",
+          "url": "https://telex.hu/zacc/2026/11/12/maszturbalas-neonaci-vezeto-amerika-livestream",
+          "published": "2026-11-12T19:49:04+00:00",
+          "description": "Christopher Pohlhaus több órányi World of Warcraft után kívánt rá egy kis erotikára, de a videómegosztást elfelejtette kikapcsolni.",
+          "image": "https://assets.telex.hu/images/20261112/1794512909-temp-hbj4d9nqasrjcofgakn_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Sarkadi Zsolt"
+        },
+        {
+          "title": "Rozgonyi-Kulcsár Viktória: A kulturális kormányzatból ezt mindenkinek el kéne olvasnia",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/12/rozgonyi-kulcsar-viktoria-eletem-konyve-kristof-luca",
+          "published": "2026-11-12T19:34:37+00:00",
+          "description": "Hogy látja egy szociológus a kulturális szféra és a politika viszonyát, és mit eredményezett a felülről irányított elitcsere? Az NKA Előadó-művészeti Kollégiuma vezetőjének legkedvesebb könyvéből kiderül.",
+          "image": "https://assets.telex.hu/images/20261112/1794477986-temp-3rg46baf270o7gbaicc_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Lakóparkok, akkugyár, lövészközpont: újabb beruházásoktól veszi el a kormány a kiemelt státuszt",
+          "url": "https://telex.hu/gazdasag/2026/11/12/kiemelt-beruhazasok-elvetele-kormanyrendelet-lakoparkok-uzemek",
+          "published": "2026-11-12T19:31:24+00:00",
+          "description": "Az érv több projekt ellen: a helyi és országos szintű előírásokkal szembeni túlterjeszkedés, a hangsúlyos lakossági ellenállás, az önkormányzatokkal való csekély együttműködés.",
+          "image": "https://assets.telex.hu/images/20261112/1794511863-temp-5rv69ipr8mch1gkpgoj_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Egy büntetőeljárás keretében nyomozott a NAV Lezsák Sándor alapítványánál",
+          "url": "https://telex.hu/belfold/2026/11/12/lezsak-sandor-nepfoiskola-alapitvany-nav-nyomozas",
+          "published": "2026-11-12T19:05:12+00:00",
+          "description": "Az adóhatóság szerint senki nem vitatta a helyszínen, hogy jogszerű és szakszerű volt.",
+          "image": "https://assets.telex.hu/images/20261112/1794510233-temp-vm0i4fgguvng5obljbj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Művészek, negyvennyolcasok és ötvenhatosok sírjai is bekerültek a nemzeti panteonba",
+          "url": "https://telex.hu/belfold/2026/11/12/nemzeti-emlekhely-es-kegyeleti-bizottsag-nemzeti-sirkert-uj-sirok",
+          "published": "2026-11-12T18:48:48+00:00",
+          "description": "A Nemzeti Emlékhely és Kegyeleti Bizottság 46 sírhelyet nyilvánított a nemzeti sírkert részévé, és új magyar emlékpontokat is kijelölt.",
+          "image": "https://assets.telex.hu/images/20261112/1794509126-temp-su9umf9qmrnv8bdajle_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Két évbe telt, de kiderült: hazudott a Fidesz-kormány a sürgősségi fogamzásgátlók vénykötelezettségéről",
+          "url": "https://telex.hu/belfold/2026/11/12/surgossegi-fogamzasgatlas-esemeny-utani-tabletta-egeszsegugyi-szakmai-kollegium-szakertoi-allasfoglalas-retvari-bence-adatigenyles-per",
+          "published": "2026-11-12T18:24:21+00:00",
+          "description": "Rétvári Bence 2024-ben azt állította, a szakmára hallgatnak, ezért maradnak Európában párját ritkító módon vénykötelesek az esemény utáni tabletták. Adatigénylés, NAIH-vizsgálat és hosszú pereskedés után most megtudtuk: a szakértők már akkor is épp az ellenkezőjét mondták ennek, kifejezetten az á...",
+          "image": "https://assets.telex.hu/images/20261110/1794322841-temp-n3gd0pd7n5uucgnbdel_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bolcsó Dániel"
+        },
+        {
+          "title": "Elérte a Charles csapadékzónája az ország déli részét, a java csak most jön",
+          "url": "https://telex.hu/belfold/2026/11/12/elerte-a-charles-csapadekzonaja-az-orszag-deli-reszet-az-eso-a-java-csak-most-jon",
+          "published": "2026-11-12T18:16:28+00:00",
+          "description": "Az ország északi felén pénteken kisebb körzetekben 24 óra alatt akár 40-45 milliméter eső is eshet.",
+          "image": "https://assets.telex.hu/images/20261112/1794507356-temp-pa0csl71hds21gejmag_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "Már nyolc halálos áldozata van a New York-i házomlásnak",
+          "url": "https://telex.hu/kulfold/2026/11/12/new-york-brooklyn-hazomlas-mar-nyolc-halalos-aldozat",
+          "published": "2026-11-12T18:12:43+00:00",
+          "description": "A szóbeszéd ellenére nem adják fel a kutatás-mentést a tűzoltók, bár szakadni fog az eső.",
+          "image": "https://assets.telex.hu/images/20261112/1794506936-temp-1dtg9i5bv95v4olgimi_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Évtizedes adósságát törleszti a kormányzat – nőjogi civil szervezetek Magyar Péter bejelentéseiről",
+          "url": "https://telex.hu/belfold/2026/11/12/patent-nane-emma-amnesty-international-magyar-peter-nok-elleni-eroszak-intezkedesek-isztambuli-egyezmeny",
+          "published": "2026-11-12T17:59:03+00:00",
+          "description": "A nők jogaival foglalkozó civil szervezetek üdvözölték a nők elleni erőszak visszaszorítása érdekében bejelentett lépéseket, de felhívták a figyelmet, hogy még sok munka áll a kormány és a társadalom előtt.",
+          "image": "https://assets.telex.hu/images/20261112/1794506308-temp-lakj1un8if4d9maodjf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Meredeken beesett az ügynökaktás honlap látogatottsága november 4. óta",
+          "url": "https://telex.hu/ugynokaktak/2026/11/12/nyitottaktak-hu-latogatottsag-nezettseg-ugynokaktak-abtl",
+          "published": "2026-11-12T17:31:27+00:00",
+          "description": "Az első napon 1,1 millióan néztek rá a nyitottaktak.hu-ra, szerdán már csak ennek töredéke volt a nézettség.",
+          "image": "https://assets.telex.hu/images/20261112/1794503397-temp-qjuugb7niapb4hkopha_cimlap-normal.jpg",
+          "category": "Ügynökakták",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Nem akartam, hogy a kormánymédia összetiszázzon engem, és a Tiszát összekrúbizzák – erős idézetek a Krúbi-interjúnkból",
+          "url": "https://telex.hu/after/2026/11/12/krubi-telex-after-interju-idezetek-temak",
+          "published": "2026-11-12T17:13:28+00:00",
+          "description": "A Fidesz szerinte vakon volt, Magyar Péter későn kapcsolt, a Valmar zenéjén pedig a közönségével együtt nevet. Egy időben az is felmerült benne, hogy családjával elhagyja Magyarországot. Krúbi interjújának legfontosabb és legszemélyesebb gondolatait gyűjtöttük össze.",
+          "image": "https://assets.telex.hu/images/20261112/1794503149-temp-7fcloh6r3uvr3lkbjje_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Krúbi: Minden összeállt, minden a helyére hullott, és közben szarabbul voltam, mint valaha",
+          "url": "https://telex.hu/after/2026/11/12/krubi-interju-magyar-tenger-kalozai-szavjatek-kutya-2-telex-after",
+          "published": "2026-11-12T17:12:44+00:00",
+          "description": "Krúbi nagyobb kihagyás után a Telex Afternek adta első interjúját. Beszélt a titokban készült új lemezéről, a Tisza kétharmados győzelméről, a BSW-ről, a Vini és Bruno-féle szexrap körüli felháborodásról, a feljelentéséről és a Magyar Tenger Kalózai írása közben átélt mélypontjáról.",
+          "image": "https://assets.telex.hu/images/20261111/1794391049-temp-cuaojv9mt3ue4mienna_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Sajó Dávid"
+        },
+        {
+          "title": "Orbán Viktor: Engem nem fog a golyó",
+          "url": "https://telex.hu/belfold/2026/11/12/interju-orban-viktor-uktrahang-orban-aron",
+          "published": "2026-11-12T17:01:09+00:00",
+          "description": "Örülne a média egy olyan képnek, amikor éppen bemegyek a börtönbe – mondta az Ultrahangnak, és ezért nem is megy be az öccséhez, nehogy lefényképezzék.",
+          "image": "https://assets.telex.hu/images/20261112/1794501975-temp-ckfqa9gc496h5eimplp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Sarkadi Zsolt"
+        },
+        {
+          "title": "„Tényleg azért élek én így, mert az egyiknek Ferrari kellett, a másiknak meg Rolls-Royce?” – mondta Gabriella, aki Varga Judit meghallgatása alatt szörnyülködött",
+          "url": "https://telex.hu/belfold/2026/11/12/varga-judit-meghallgatasa-vegrehajtasi-bizottsagban-gabriella-szornyulkodott",
+          "published": "2026-11-12T16:53:17+00:00",
+          "description": "A devizakárosult 67 éves nőt a 444 találta meg, nekik elmesélte, miért látogatott el a végrehajtásokat vizsgáló bizottságba.",
+          "image": "https://assets.telex.hu/images/20261112/1794502332-temp-c3hunprms9418pddicl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Turi Tímea lesz a Magvető kiadó új igazgatója",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/12/turi-timea-magveto-igazgato-kiado",
+          "published": "2026-11-12T16:20:29+00:00",
+          "description": "Elődje, Dávid Anna a Líra-csoport kiadói igazgatójaként folytatja.",
+          "image": null,
+          "category": "Könyvespolc",
+          "author": "Sarkadi Zsolt"
+        }
+      ]
     },
     {
       "id": "444",
