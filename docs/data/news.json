@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-14T18:55:33.935642+00:00",
+  "scraped_at": "2026-11-14T19:00:59.157536+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Trükkök és fohászok a pucolható házi sült gesztenyéhez",
+          "url": "https://telex.hu/gasztro/2026/11/14/trukkok-es-fohaszok-a-pucolhato-hazi-sult-gesztenyehez",
+          "published": "2026-11-14T18:57:31+00:00",
+          "description": "Unatkozik? Ne mosómedvét vásároljon, hanem hámozzon sült gesztenyét, türelemjátéknak is remek, és finom is. Összeszedtünk mindent, amit meg lehet tenni a pucolható gesztenyéért.",
+          "image": "https://assets.telex.hu/images/20261110/1794316606-temp-ptpdcbfqmobdffgblec_cimlap-normal.jpg",
+          "category": "Gasztro",
+          "author": "Ács Bori"
+        },
+        {
+          "title": "Kétgólos győzelem Grúziában, Magyarország kedden visszajuthat az NL elit divíziójába",
+          "url": "https://telex.hu/sport/2026/11/14/gruzia-magyarorszag-nemzetek-ligaja",
+          "published": "2026-11-14T18:54:36+00:00",
+          "description": "A grúzok egy öngóllal besegítettek a magyar fociválogatottnak, ami a második találatát egy nagyszerű kontratámadás végén érte el. Az északírek jönnek kedden a Puskás Arénába.",
+          "image": "https://assets.telex.hu/images/20261114/1794681909-temp-hl6ffds73tmobohgida_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Vidnyánszky Attila bocsánatot kért az SZFE elfoglalásáért, de nem úgy",
+          "url": "https://telex.hu/belfold/2026/11/14/vidnyanszky-attila-bocsanatot-kert-az-szfe-elfoglalasaert-de-nem-ugy",
+          "published": "2026-11-14T17:54:26+00:00",
+          "description": "Friss nyílt levelében a modellváltás eredményeit sorolta Vidnyánszky Attila. A rendező manipulációról, lélekmérgezésről és a propaganda veszélyeiről is írt.",
+          "image": "https://assets.telex.hu/images/20261114/1794678838-temp-p2q3niakm38kdlchohh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Magyar Tudományos Akadémia Kutatóhálózat néven fog tovább működni a HUN-REN",
+          "url": "https://telex.hu/techtud/2026/11/14/magyar-tudomanyos-akademia-kutatohalozat-neven-mukodik-tovabb-a-hun-ren",
+          "published": "2026-11-14T17:52:07+00:00",
+          "description": "A korábban az ELTE-hez kiszervezett humán kutatóintézeteket visszaintegrálják.",
+          "image": "https://assets.telex.hu/images/20261114/1794678686-temp-6ll81njdpa4k7peaeio_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Beköszöntött a tökéletes társasjáték-időjárás, használjuk ki!",
+          "url": "https://telex.hu/after/2026/11/14/bekoszontott-a-tokeletes-tarsasjatek-idojaras-hasznaljuk-ki",
+          "published": "2026-11-14T17:12:20+00:00",
+          "description": "Adunk hozzá néhány ajánlatot a tudományos környezetű, megfontolt stratégiázástól, a rajzfilmes körítésben elszabaduló, végtelenül szórakoztató káoszig.",
+          "image": "https://assets.telex.hu/images/20261109/1794231793-temp-4rbokhcvjilsflojjbi_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Nádori Gergely"
+        },
+        {
+          "title": "805 millió euróra büntették a Metát Olaszországban, mert engedély nélkül fért hozzá a felhasználók fotóihoz",
+          "url": "https://telex.hu/techtud/2026/11/14/805-millio-eurora-buntettek-a-metat-olaszorszagban-mert-engedely-nelkul-fert-hozza-a-felhasznalok-fotoihoz",
+          "published": "2026-11-14T17:05:51+00:00",
+          "description": "A jogsértés mintegy 20 millió olaszországi androidos felhasználót érinthetett.",
+          "image": "https://assets.telex.hu/images/20261114/1794675492-temp-01u2rraec8sq5okedie_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Schrödinger macskájának állapotában van a Seszták-ügyben lefoglalt készpénz",
+          "url": "https://telex.hu/belfold/2026/11/14/nvvh-sesztak-miklos-keszpenz-allamkincstar-bizonyitek",
+          "published": "2026-11-14T16:49:06+00:00",
+          "description": "Sokan gyanakodva fogadták, hogy az NVVH pillanatok alatt „befizette” a pénzt az államkincstárnak. A Telexnek nyilatkozó ügyvéd szerint ez a bevett gyakorlat, és a pénz később még felhasználható bizonyítékként. Az, hogy mi lesz vele, a büntetőeljárás és a bizonyítási eljárás függvényében dől majd el.",
+          "image": "https://assets.telex.hu/images/20261114/1794674828-temp-l3rs1lb3m59c8kdldlf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Simor Dániel"
+        },
+        {
+          "title": "Történelmi lehetőség, vagy drága és veszélyes részvény érkezik jövő héten a tőzsdére?",
+          "url": "https://telex.hu/g7/penz/2026/11/14/athropic-ipo-bevetelek-vesztesegek-tozsde-nasdaq",
+          "published": "2026-11-14T16:25:40+00:00",
+          "description": "Az Anthropic jó pozícióból indulhat az MI-piac következő szakaszában, de azt egyelőre nehéz megmondani, hogy a jelenlegi értékelés mellett jó befektetés lesz-e.",
+          "image": "https://assets.telex.hu/images/20261114/1794642558-temp-5np7r5ubp58tcjnobfl_cimlap-normal.jpg",
+          "category": "Pénz",
+          "author": "Szitás Lóránt"
+        },
+        {
+          "title": "Fegyelmi eljárást indít Seszták ellen a KDNP, felfüggesztik a tagságát",
+          "url": "https://telex.hu/belfold/2026/11/14/a-kdnp-ugyvezeto-alelnoke-kizarna-a-partbol-sesztak-miklost-fegyelmit-eljarast-kezdemenyez",
+          "published": "2026-11-14T16:12:43+00:00",
+          "description": "„A mai napon a bizalmam megszűnt” – mondta Latorcai Csaba, a KDNP ügyvezető alelnöke.",
+          "image": "https://assets.telex.hu/images/20261114/1794672741-temp-iap8jed1gokgcomdphb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Baka András: Az ügyvédnek akkor is helyt kell állnia, amikor ügyfele ügye népszerűtlen",
+          "url": "https://telex.hu/belfold/2026/11/14/baka-andras-koztarsasagi-elnok-ugyvedek-napja-beszed-artatlansag-velelme-jogrend-alkotmanyozas",
+          "published": "2026-11-14T16:00:10+00:00",
+          "description": "A köztársasági elnök a jogállami átmenetről és az alkotmányozásról is elmondta a véleményét.",
+          "image": "https://assets.telex.hu/images/20261114/1794671720-temp-0rva1bb2l4g97lgaend_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "A BBC-től a Reutersig bejárta a nemzetközi sajtót Seszták Miklós ügye és az elásott milliárdok híre",
+          "url": "https://telex.hu/belfold/2026/11/14/a-bbc-tol-a-reutersig-bejarta-a-nemzetkozi-sajtot-sesztak-miklos-ugye-es-az-erdokben-elasott-milliardok-hire",
+          "published": "2026-11-14T15:47:35+00:00",
+          "description": "Sajtószemle: a Guardian, a német Die Zeit, az osztrák ORF és a francia Le Parisien is beszámolt Seszták ügyéről.",
+          "image": "https://assets.telex.hu/images/20261114/1794670763-temp-5ahnp5kp00h37odkdjg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Nem drogellenes, hanem felépülésbarát – újraindul a Felvonó",
+          "url": "https://telex.hu/podcast/2026/11/14/felvono-ujraindul-pandi-szaraz-november",
+          "published": "2026-11-14T15:27:04+00:00",
+          "description": "Elindult a Telex függőségekkel és felépüléssel foglalkozó műsorsorozatának, a Felvonónak a második évada. A rendhagyó nyitóepizódban a két műsorvezető, Pándi Balázs és Bajzáth Sándor egymással beszélgetnek, megosztva saját leszokásuk és felépülésük történetét.",
+          "image": "https://assets.telex.hu/images/20261106/1793956788-temp-8n6asrh6oa3hbiodmkl_cimlap-normal.jpg",
+          "category": "Podcast",
+          "author": "Pataki Gábor"
+        },
+        {
+          "title": "A bűnügyi nyomozók rá sem ismertek Magyarországra a rendszerváltás után",
+          "url": "https://telex.hu/after/2026/11/14/az-igazsag-maniakusai-hbo-sorozat-true-crime-kritika",
+          "published": "2026-11-14T15:26:41+00:00",
+          "description": "Az HBO első magyar gyártású true crime sorozatában a kilencvenes évek legendás nyomozói idézik fel életük legmeghatározóbb ügyeit. Az igazság mániákusaiból sajnos pont az nem derül ki, hogyan lettek megszállottak, de nem ez az egyetlen baj vele.",
+          "image": "https://assets.telex.hu/images/20261113/1794557640-temp-861vnp8rmfa24nagplb_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Évek óta terrorizálják a környékbeli tehenek az észak-macedón kisvárost",
+          "url": "https://telex.hu/kulfold/2026/11/14/evek-ota-terrorizaljak-a-kornyekbeli-tehenek-az-eszak-macedon-kisvarost",
+          "published": "2026-11-14T15:01:10+00:00",
+          "description": "A csorda mára több mint ezer állatból áll és rendszeresen kárt tesz a környékbeliek földjein.",
+          "image": "https://assets.telex.hu/images/20261114/1794668423-temp-h904kcffes46eiafcgo_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "„Ez vállalhatatlan” – Bóka János lemondásra szólította fel Seszták Miklóst",
+          "url": "https://telex.hu/belfold/2026/11/14/boka-janos-sesztak-ugyerol-es-az-elasott-penzekrol-sajat-szememmel-lattam-a-fenykepeket-es-a-felveteleket-mint-sokan-kozulunk-en-sem-hittem-el-amit-latok",
+          "published": "2026-11-14T15:01:04+00:00",
+          "description": "A Fidesz frakcióvezetője is látta a felvételeket a kiásott milliárdokról, és nem hitt a szemének.",
+          "image": "https://assets.telex.hu/images/20261114/1794668446-temp-9ir871e48hsbdpcfabo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "A telefonok sugárzásáról és a nemi szervekről viccelődött az ausztrál miniszterelnök, csak éppen bekapcsolva maradt a mikrofonja",
+          "url": "https://telex.hu/kulfold/2026/11/14/bekapcsolva-maradt-a-mikrofon-mikozben-az-ausztral-miniszterelnok-a-klimacsucson-viccelodott-ferfi-nemi-szervrol-es-telefon-sugarzasarol",
+          "published": "2026-11-14T14:38:03+00:00",
+          "description": "Az ellenzéki pártszövetség szerint Anthony Albanese és klímaügyi minisztere közti párbeszéd furcsa és visszataszító volt, a politikusok pedig úgy viselkedtek, mint két 14 éves iskolás fiú.",
+          "image": "https://assets.telex.hu/images/20261114/1794666388-temp-bu7fjuki76go4lecojh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kersner Máté"
+        },
+        {
+          "title": "Rühfertőzés ütötte fel a fejét a Szent János kórházban",
+          "url": "https://telex.hu/belfold/2026/11/14/janos-korhaz-pszichiatria-ruh",
+          "published": "2026-11-14T14:13:15+00:00",
+          "description": "A kórház elindította a járványügyi intézkedéseket.",
+          "image": "https://assets.telex.hu/images/20261114/1794665489-temp-ma06i73bov5b4hjgdki_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "László Róbert a Seszták-ügyről: Orbán Viktor nélkül a Fidesz értelmezhetetlen, vele pedig lehetetlen feledtetni a kormányzásának az örökségét",
+          "url": "https://telex.hu/belfold/2026/11/14/laszlo-robert-political-capital-sesztak-miklos-ugy-penzkotegek-elasott-penz-elemzes",
+          "published": "2026-11-14T14:03:15+00:00",
+          "description": "A Political Capital elemzője szerint az áprilisi választási vereség óta nem látszik olyan forgatókönyv, amiben a Fidesz visszakapaszkodhatna.",
+          "image": "https://assets.telex.hu/images/20261114/1794664723-temp-tq2p37p6lmkp2cdpcpn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Csodálatra méltónak tartja Orbán Viktor kreativitását a Seszták- és az Orbán Áron-ügy miatt Donald Tusk",
+          "url": "https://telex.hu/kulfold/2026/11/14/donald-tusk-is-megszolalt-sesztak-ugyeben-orbannak-uzent",
+          "published": "2026-11-14T13:29:46+00:00",
+          "description": "Orbán Áron letartóztatására is reagált a lengyel miniszterelnök.",
+          "image": "https://assets.telex.hu/images/20261114/1794662285-temp-7n07hr3ht51m5eebpje_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Újabb videót posztolt az NVVH a Seszták-ügyben megtalált készpénzkötegekről",
+          "url": "https://telex.hu/gazdasag/2026/11/14/nvvh-sesztak-miklos-ugye-megtalalt-keszpenz",
+          "published": "2026-11-14T13:29:32+00:00",
+          "description": "5 071 632 000 forint, 2 658 350 euró, 1 257 100 USA dollár, írta posztjában az NVVH.",
+          "image": "https://assets.telex.hu/images/20261114/1794662712-temp-p86ufrhddemoahkchjn_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "Az aszály már stresszelte az élővilágot, miért kell még inváziós halakat is rakni egy hortobágyi tóba?",
+          "url": "https://telex.hu/techtud/2026/11/14/miert-telepit-valaki-termeszetvedelem-cimen-invazios-halakat-a-hortobagy-egyik-tavaba",
+          "published": "2026-11-14T12:45:49+00:00",
+          "description": "Egy vízmegtartással foglalkozó videóival népszerűvé vált vadőr a törvényi tilalom ellenére a hazai halakra veszélyes ezüstkárászokat és razbórákat telepített a tavába, tudománytalan érveit sokan a magukévá tehették a közösségi médiában. Ökológussal vettük végig az ügyet.",
+          "image": "https://assets.telex.hu/images/20261113/1794579980-temp-kfumi0bbhuhh9gikojm_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Az egész éjjel 50 fokon fűtő fagyasztók és rengeteg romlott étel után a routerek, majd a háztartási gépek következhetnek",
+          "url": "https://telex.hu/kulfold/2026/11/14/kibertamadas-szupermarketek-hutok-franciaorszag-europa-iran-vadak",
+          "published": "2026-11-14T12:43:44+00:00",
+          "description": "Az elmúlt hetekben Nyugat-Európa több országában visszatérően meghekkelt bolti hűtők elleni akciókkal már Iránt gyanúsítja Franciaország. Ez azonban csak a jéghegy csúcsát jelenti, sokkal nagyobb bajt is okozhatnak az ellenséges kibertámadások. De hogyan jutnak be a hekkerek egy hűtőbe?",
+          "image": "https://assets.telex.hu/images/20261112/1794480754-temp-rogi282icpkk0bldpmp_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Szalonnába csomagolta nyomkövetőjét, öt emeletet ereszkedett, majd megszökött a házi őrizetből a 74 éves olasz férfi",
+          "url": "https://telex.hu/kulfold/2026/11/14/leonardo-bertulazzi-voros-brigadok-argentina-szokes-nyomkoveto-disznozsir",
+          "published": "2026-11-14T12:18:30+00:00",
+          "description": "Leonardo Bertulazzit 2024-ben tartóztatták le Argentínában, korábban az egykori olasz szélsőbaloldali terrorszervezet, a Vörös Brigádok tagja volt.",
+          "image": "https://assets.telex.hu/images/20261113/1794595704-temp-v04661djr8db3apmdol_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Rétvári Bence arra kéri Seszták Miklóst, hogy adja vissza a mandátumát",
+          "url": "https://telex.hu/belfold/2026/11/14/retvari-bence-sesztak-miklos-mandatum-visszaadasa",
+          "published": "2026-11-14T12:15:06+00:00",
+          "description": "A KDNP frakcióvezetője szerint Magyar Péter arra akarja használni az ügyet, hogy az egész jobboldalt bűnszervezetként állítsa be.",
+          "image": "https://assets.telex.hu/images/20261114/1794658343-temp-m66pdgjuveb4baepghc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bánáti Anna"
+        },
+        {
+          "title": "A csökkentés után is az európai élmezőnyben marad a magyar sport állami támogatása",
+          "url": "https://telex.hu/g7/adat/2026/11/14/sportfinanszirozas-koltsegvetes-tao-ekho-posfai",
+          "published": "2026-11-14T11:57:04+00:00",
+          "description": "Az Orbán-kormányok GDP-arányos rekordjaitól már távol vagyunk, de az idei finanszírozáshoz képest érdemben jövőre sem esik vissza a támogatás mértéke.",
+          "image": "https://assets.telex.hu/images/20261113/1794585952-temp-hkjidk9kiobm6kndmpo_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Szabó Milán"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 14,
       "articles": [
         {
+          "title": "Góllal tért vissza Varga Barnabás a válogatottba, fontos győzelmet arattak Georgiában a kétarcú magyarok",
+          "url": "https://index.hu/sport/futball/2026/11/14/nemzetek-ligaja-2026-2027-georgia-magyarorszag-b-divizo-otodik-fordulo-osszefoglalo/",
+          "published": "2026-11-14T18:56:00+00:00",
+          "description": "A remek második félidő hozta el a sikert Marco Rossiék számára.",
+          "image": "https://kep.index.hu/1/0/7255/72552/725529/72552939_5346047_908c3e6957fe8b50f38fc4364d6aaa79_wm.jpg",
+          "category": "Futball",
+          "author": null
+        },
+        {
           "title": "Robert Pattinson alaposan megkéri az árát, hogy ő legyen a következő James Bond",
           "url": "https://index.hu/mindekozben/poszt/2026/11/14/robert-pattinson-felteteleket-szabna-hogy-o-legyen-a-kovetkezo-james-bond/",
           "published": "2026-11-14T18:48:11+00:00",
@@ -338,10 +573,10 @@
           "author": null
         },
         {
-          "title": "Varga villanása után már kettővel vezet Rossi csapata: Georgia–Magyarország - Hatalmasat javult nemzeti csapatunk a második félidőre",
+          "title": "Idegenben folytatta győzelmi sorozatát a magyar labdarúgó-válogatott - Teljesen megérdemelt győzelmet aratott Marco Rossi legénysége",
           "url": "https://index.hu/sport/futball/2026/11/14/georgia-magyarorszag-magyar-valogatott-nemzetek-ligaja-marco-rossi/",
           "published": "2026-11-14T16:45:00+00:00",
-          "description": "Hatalmasat javult nemzeti csapatunk a második félidőre.",
+          "description": "Teljesen megérdemelt győzelmet aratott Marco Rossi legénysége.",
           "image": "https://kep.index.hu/1/0/7255/72552/725528/72552803_5346037_564e8bb8159a451808b94eee79864127_wm.jpg",
           "category": "Futball",
           "author": null
@@ -371,15 +606,6 @@
           "description": "A 34 éves férfi anyagilag segítené a gyászoló családot.",
           "image": "https://kep.index.hu/1/0/7248/72480/724800/72480083_5341045_5c2f084fff6ef83ca3a6a3ec3faa6e33_wm.jpg",
           "category": "Belföld",
-          "author": null
-        },
-        {
-          "title": "Beigazolódtak Marco Rossi szavai, Szoboszlai Dominik is kezd Georgia ellen a Nemzetek Ligájában",
-          "url": "https://index.hu/sport/futball/2026/11/14/szoboszlai-dominik-magyar-valogatott-serules-allapot-georgia-kezdocsapat/",
-          "published": "2026-11-14T16:11:00+00:00",
-          "description": "Több kulcsjátékos is visszatért a támadósorba.",
-          "image": "https://kep.index.hu/1/0/7187/71873/718738/71873869_5298269_8148c68a55afcd62bd233bc4c004563a_wm.jpg",
-          "category": "Futball",
           "author": null
         }
       ]
@@ -520,10 +746,10 @@
           "author": null
         },
         {
-          "title": "Az exfradista védő öngóljával vezetett Magyarország, Varga is betalált – élő",
+          "title": "Az exfradista védő öngólt vétett, Szoboszlai–Varga-összjáték biztosította be a magyar győzelmet",
           "url": "https://magyarnemzet.hu/sport/2026/11/szoboszlai-georgia-magyarorszag-nemzetek-ligaja-b-elo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
           "published": "2026-11-14T15:48:08+00:00",
-          "description": "Orbán és Vitális lapja még sokba kerülhet. Kövesse velünk a mérkőzést!",
+          "description": "Orbán és Vitális lapja még sokba kerülhet.",
           "image": "https://cdn.magyarnemzet.hu/2026/11/wHPypNt9_evJJhoB7wrB9mTH5XIaBZbqyMMRIcs5hT8/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTQvOGQxMDVmNDBjMjMwZjk0ZDM1OWNmMjkwNDFmMTczMzMyMzhiZDgwN2MwN2RhNmUyYTI3MDA5ZTdhNDFjMzEzYg.jpg",
           "category": "sport",
           "author": null
@@ -866,6 +1092,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Jobban bírta a hajrát, Georgiában nyert a Rossi-csapat",
+          "url": "https://24.hu/sport/foci/2026/11/14/nemzetek-ligaja-georgia-magyarorszag/#jobban-birta-a-hajrat-georgiaban-nyert-a-rossi-csapat",
+          "published": "2026-11-14T19:53:00+01:00",
+          "description": "A magyar labdarúgó-válogatott 2-0-ra nyerni tudott Georgiában, így továbbra is esélye van a csoportgyőzelemre és a közvetlen feljutásra a Nemzetek Ligája elitdivíziójába.",
+          "image": "https://s.24.hu/app/uploads/2026/11/szoboszlai-d__yt20261114013-320x180.jpg",
+          "category": "Élő",
+          "author": "Futó Csaba"
+        },
+        {
           "title": "Elgázolt egy 17 éves fiatalt a villamos péntek este a Körúton",
           "url": "https://24.hu/belfold/2026/11/14/villamos-gazolas-budapest-17-eves-fiatal/",
           "published": "2026-11-14T19:24:00+01:00",
@@ -929,10 +1164,10 @@
           "author": "Ősze András"
         },
         {
-          "title": "Nemzetek Ligája: Georgia – Magyarország 0-2 (élő)",
+          "title": "Felőrölte Georgiát, fontos meccset nyert meg a Rossi-csapat",
           "url": "https://24.hu/sport/foci/2026/11/14/nemzetek-ligaja-georgia-magyarorszag/",
           "published": "2026-11-14T17:30:00+01:00",
-          "description": "Az utolsó előtti fordulójához érkezett a labdarúgó Nemzetek Ligája csoportköre, a magyar válogatott pedig Tbilisziben, Georgia ellen kezdi meg a hajrát.",
+          "description": "A magyar labdarúgó-válogatott 2-0-ra nyerni tudott Georgiában, így továbbra is esélye van a csoportgyőzelemre és a közvetlen feljutásra a Nemzetek Ligája elitdivíziójába.",
           "image": "https://s.24.hu/app/uploads/2026/11/szoboszlai-d__yt20261114013-320x180.jpg",
           "category": "Élő",
           "author": "Futó Csaba"
@@ -992,13 +1227,13 @@
           "author": "Schultz Antal"
         },
         {
-          "title": "Díszdoktorrá avatták a Nobel-díjas Krasznahorkai Lászlót Szegeden",
-          "url": "https://24.hu/kultura/2026/11/14/krasznahorkai-laszlo-szeged-diszdoktor/",
-          "published": "2026-11-14T15:55:00+01:00",
-          "description": "Az író itt kezdte tanulmányait, ám diplomát végül Budapesten szerzett.",
-          "image": "https://s.24.hu/app/uploads/2026/11/dbzol20260918019-e1794668022863-320x180.jpg",
-          "category": "Kultúra",
-          "author": "Ősze András"
+          "title": "Ronaldo mezszámát nem vonultathatja vissza, trükkös megoldást választott Portugália",
+          "url": "https://24.hu/sport/foci/2026/11/14/cristiano-ronaldo-7-es-mez-portugal-valogatott/",
+          "published": "2026-11-14T15:42:00+01:00",
+          "description": "Új korszak kezdődik a csapat életében.",
+          "image": "https://s.24.hu/app/uploads/2026/11/cristiano-ronaldo-gettyimages-2284975828-320x180.jpg",
+          "category": "Foci",
+          "author": "Futó Csaba"
         },
         {
           "title": "Egy több évtizedes technológia béníthatta meg az amerikai légteret",
@@ -1080,15 +1315,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/tarjanyi_sesztak_central-1060166178-e1794657519478-320x180.jpg",
           "category": "Belföld",
           "author": "Török László"
-        },
-        {
-          "title": "Hiába Vinícius bombagóljai, kikapott a brazil válogatott, Raphinhát a kispadról állították ki",
-          "url": "https://24.hu/sport/foci/2026/11/14/brazilia-japan-felkeszulesi-merkozes-vinicius-jr-raphinha/",
-          "published": "2026-11-14T13:25:00+01:00",
-          "description": "0-2-ről még visszakapaszkodott Carlo Ancelotti csapata, amely végül 3-2-es vereséget szenvedett Japán ellen.",
-          "image": "https://s.24.hu/app/uploads/2026/11/vinicius-gettyimages-2305078394-320x180.jpg",
-          "category": "Foci",
-          "author": "Futó Csaba"
         }
       ]
     },
@@ -1202,6 +1428,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Megvannak az ötös lottó nyerőszámai",
+          "url": "https://hvg.hu/elet/20261114_megvannak-az-otos-lotto-nyeroszamai",
+          "published": "2026-11-14T18:56:51+00:00",
+          "description": "460 millió forint a tét",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/52bbc1df-07a1-4fdc-bf7f-d8639c178c4c.jpg",
+          "category": "Élet+Stílus",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Videón, ahogy a katasztrófavédelem kiszabadítja a villamos alól a Nagykörúton elgázolt 17 éves fiatalt",
           "url": "https://hvg.hu/itthon/20261114_video-katasztrofavedelem-villamosgazolas-budapest-nagykorut-mentes",
@@ -1417,15 +1652,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/58d6c11e-c3c2-4132-87f5-c3832478143e.jpg",
           "category": "Világ",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Sam Altmant bosszantó kódot írt egy programozó, de kéri, mindenki csak óvatosan használja",
-          "url": "https://hvg.hu/tudomany/20261114_sam-altmant-bosszanto-kod-openai-ram-altman",
-          "published": "2026-11-14T13:03:00+00:00",
-          "description": "Egy brit fejlesztő Ram-Altman nevű kis programja egy aktuális netes felháborodási hullámot lovagol meg. Az OpenAI első embere nemrégiben tett néhány (meggondolatlan?) kijelentést a számítógépekben lévő RAM-okkal kapcsolatban, és a szkript erre válaszol egy bosszantó e-maillel.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/861ee941-b47d-46a2-9494-9a45337262d2.jpg",
-          "category": "Tech",
-          "author": "szerzo@hvg.hu (HVG)"
         }
       ]
     },
@@ -1522,6 +1748,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Öngól és egy álomszép támadás döntött, fontos győzelmet aratott a magyar válogatott",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/11/georgia-magyarorszag-nemzetek-ligaja-gyozelem",
+          "published": "2026-11-14T19:55:00+01:00",
+          "description": "Sorozatban harmadik meccsét nyerte meg a magyar válogatott.",
+          "image": "https://cdn.origo.hu/2026/11/IQsKm3axH2i0A3DYKszC4tYqhYPVBEp7jjv-wCgeTnA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhlYzlhZmI4YzZjNzQ2ZDM5Njg1ZTUyMGYwY2I1YmUy.webp",
+          "category": "magyarország",
+          "author": null
+        },
+        {
           "title": "Mindössze 10 másodperc kell hozzá: ez az egyszerű teszt sokat elárulhat az egészségedről",
           "url": "https://www.origo.hu/eletmod/2026/11/hosszu-elet-otthoni-tesztek-egeszseges-oregedes",
           "published": "2026-11-14T19:45:00+01:00",
@@ -1605,10 +1840,10 @@
         {
           "title": "Újabb gyermek halt meg a kanyarójárványban: évtizedek óta nem volt ilyen súlyos a helyzet",
           "url": "https://www.origo.hu/nagyvilag/2026/11/kanyarojarvany-wisconsin-new-york",
-          "published": "2026-11-14T18:00:00+01:00",
-          "description": "Wisconsin államban már a második gyermek életét követelte.",
-          "image": "https://cdn.origo.hu/2026/11/-dQnjxF7hsSAz5ZYbIc9BSFUpzDWdaPM71eVz1muviI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiMDcwOGZjMGE1MzQ2NTBiNTdkOTU2OGFhMDk0NzQy.webp",
-          "category": "haláleset",
+          "published": "2026-11-14T17:00:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Nagyvilág",
           "author": null
         },
         {
@@ -1735,15 +1970,6 @@
           "description": null,
           "image": null,
           "category": "Külpolitika",
-          "author": null
-        },
-        {
-          "title": "Zelenszkij kikérné az ukránok véleményét a területfeladásról",
-          "url": "https://www.origo.hu/nagyvilag/2026/11/zelenszkij-ukrajna-teruletfeladas",
-          "published": "2026-11-14T14:36:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Nagyvilág",
           "author": null
         }
       ]
