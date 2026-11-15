@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-15T14:00:58.409129+00:00",
+  "scraped_at": "2026-11-15T14:05:30.095870+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Vitézy bejelentette a budai fonódó meghosszabbítására kiírt tendert",
+          "url": "https://telex.hu/belfold/2026/11/15/vitezy-david-budai-fonodo-budafoki-ut-del-buda-kozlekedesi-es-beruhazasi-miniszterium",
+          "published": "2026-11-15T13:57:12+00:00",
+          "description": "Kiírta a közbeszerzést a Közlekedési és Beruházási Minisztérium a fonódó villamoshálózat folytatására a Budafoki úton, Dél-Buda felé.",
+          "image": "https://assets.telex.hu/images/20261115/1794750911-temp-h0f3hq1pgi0v9ljkkgm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Három olajtanker is iráni aknára futott a Hormuzi-szorosban",
+          "url": "https://telex.hu/kulfold/2026/11/15/iran-hormuzi-szoros-harom-tanker-hajo-aknara-futott",
+          "published": "2026-11-15T13:20:51+00:00",
+          "description": "Irán továbbra is képes arra, hogy a világ kőolajkereskedelmének ötödét áteresztő szűk szoroson jelentősen korlátozza az áthaladást. Mindezt az Egyesült Államok által indított katonai csapások után érvényesítette, Trump a fenyegetései ellenére a zárlatot felszámolni nem tudta.",
+          "image": "https://assets.telex.hu/images/20261115/1794748157-temp-mervpg0rmh7ceeilgnn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "A tánctéri, közös olvasás a legújabb drog, amit minden figyelemzavarral küzdőnek ki kéne próbálnia",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/15/reading-rave-turbina-kozos-olvasas-ambient",
+          "published": "2026-11-15T13:14:29+00:00",
+          "description": "Kispárnák, könyvjelzők és puttyogó ambient. Ott voltunk a Reading Rave-en, és megtapasztaltuk, hogy a social media által rosszra tanított figyelmet nagyon is lehet edzeni, az elmélyült olvasásnak pedig gyógyító ereje van.",
+          "image": "https://assets.telex.hu/images/20261113/1794575930-temp-mvjdil9u6sofeombfcg_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Vass Norbert"
+        },
+        {
+          "title": "Autóstul rontottak egy németországi ékszerüzletbe, kirámolták majd elmenekültek",
+          "url": "https://telex.hu/kulfold/2026/11/15/nemetorszag-bayreuth-ekszeruzlet-betores-rablas-menekules",
+          "published": "2026-11-15T13:07:16+00:00",
+          "description": "A három elkövető autóval törte be a kirakatot, majd egy másikkal menekült el a helyszínről.",
+          "image": "https://assets.telex.hu/images/20261115/1794747840-temp-2mv0eh61ncrf5dbddab_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A Hamász újabb kulcsemberét likvidálta Izrael a Gázai övezetben",
+          "url": "https://telex.hu/kulfold/2026/11/15/hamasz-rafahi-dandar-uj-vezeto-izraeli-likvidalasa-abu-junisz-gaza",
+          "published": "2026-11-15T12:49:46+00:00",
+          "description": "A Hamász október 7-i véres támadásának egyik kitervelője halt meg egy izraeli légicsapásban, két hónappal azután, hogy a terrorista szervezet őt tette meg a rafahi dandár új vezetőjének. Egyelőre azonban mindig van újabb vezető, akivel a Hamász pótolja az előzőt.",
+          "image": "https://assets.telex.hu/images/20261115/1794744169-temp-nqtrm7j346g95gahkkf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Deutsch Tamás szerint minden kétséget kizáróan bizonyítani kellene, hogy az NVVH valóban találta és Seszták Miklóshoz köthetők a milliárdok",
+          "url": "https://telex.hu/belfold/2026/11/15/deutsch-tamas-sesztak-miklos-ugy-milliardok-nvvh-magyar-peter-tisza-tereles-egypartrendszer",
+          "published": "2026-11-15T12:40:23+00:00",
+          "description": "„Követeljük, hogy a dodonai, sejtető szövegek helyett haladéktalanul bizonyítsák, mi az igazság” – mondta a fideszes politikus.",
+          "image": "https://assets.telex.hu/images/20261115/1794746309-temp-5hag4p14plfj3lbhimc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A visszavonult Ronaldo nevét skandálták a portugál szurkolók a dán pofon után",
+          "url": "https://telex.hu/sport/2026/11/15/cristiano-ronaldo-utan-portugalia-valogatott-dania-vereseg",
+          "published": "2026-11-15T11:47:03+00:00",
+          "description": "A portugál válogatott nagy vereséget szenvedett el Cristiano Ronaldo nélkül a Nemzetek Ligájában, de a csapat edzője szerint nem a legenda hiányán múlt az eredmény.",
+          "image": "https://assets.telex.hu/images/20261115/1794741562-temp-ucua1u24go9tchfheah_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "A siófoki Tescóban fotózták le Schadl Györgyöt, Toroczkai elküldte neki az idézést, hogy személyesen jelenjen meg a vizsgálóbizottság előtt",
+          "url": "https://telex.hu/belfold/2026/11/15/schadl-gyorgy-siofok-tesco-foto-toroczkai-laszlo-idezes-parlamenti-vizsgalobizottsag",
+          "published": "2026-11-15T11:33:49+00:00",
+          "description": "A bizottság mi hazánkos elnöke szerint, ha Schadl kijárhat a házi őrizetből, a parlamentben is megjelenhet személyesen.",
+          "image": "https://assets.telex.hu/images/20261115/1794742328-temp-v7i8s8696rqncncdgbl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Egyetlen hibás router is okozhatta az USA légi közlekedésének megbénulását, de lehet, hogy a karbantartók hibáztak",
+          "url": "https://telex.hu/kulfold/2026/11/15/egyesult-allamok-legi-kozlekedes-rendszer-frissites",
+          "published": "2026-11-15T11:02:58+00:00",
+          "description": "Vizsgálják, mi okozhatta a pénteki leállást az Egyesült Államokban, ami utasok tízezreinek utazását szakította meg.",
+          "image": "https://assets.telex.hu/images/20261115/1794740295-temp-dgmjiu4ciuvmbcnfeaj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Magyar Péternek az elásott talentumról szóló vasárnapi evangéliumról is Seszták jutott az eszébe",
+          "url": "https://telex.hu/zacc/2026/11/15/vasarnapi-evangelium-szegeny-ember-elasott-talentum-sesztak-magyar-peter",
+          "published": "2026-11-15T11:01:51+00:00",
+          "description": "Földbe ásott talentum és földbe ásott milliárdok. A vasárnapi evangélium áthallásossága Magyar Péternek is feltűnt.",
+          "image": "https://assets.telex.hu/images/20261115/1794739896-temp-3t4lpuiit0ss2gkmbgm_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Miért? – még mindig nem érti a dél-karolinai anya, mi motiválhatta a gyereke apját, aki élve elásta az alig egy éves fiukat",
+          "url": "https://telex.hu/kulfold/2026/11/15/egyesult-allamok-del-karolina-eltemetes-csecsemo-megmenekules",
+          "published": "2026-11-15T10:01:02+00:00",
+          "description": "A 11 hónapos Koah 24 órát töltött a föld alatt, csodával határos módon sértetlenül találták meg a rendőrök.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Svájci színvonal a magyar magán ortopédiai ellátásban (x)",
+          "url": "https://telex.hu/pr-cikk/2026/11/15/svajci-szinvonal-a-magyar-magan-ortopediai-ellatasban-x",
+          "published": "2026-11-15T09:55:02+00:00",
+          "description": "Ízületi fájdalom miatt nem kell lemondania az aktív életről! Ismerje meg, hogyan segít a modern ortopédia visszanyerni a mozgás szabadságát.",
+          "image": "https://assets.telex.hu/images/20261113/1794563209-temp-00ltv7bmbf0t8oloipi_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "Black Friday: a fiatalokat csábítják az akciók, az idősebbek tudatosabbak (x)",
+          "url": "https://telex.hu/pr-cikk/2026/11/15/black-friday-generacios-szemmel-a-fiatalokat-csabitjak-az-akciok-az-idosebbek-tudatosabban-vasarolnak-x",
+          "published": "2026-11-15T09:55:02+00:00",
+          "description": "Míg a Z generáció tagjait könnyebben magukkal ragadják az akciók, addig az idősebb korosztályok inkább a praktikus beszerzésekre és a megtakarításra koncentrálnak.",
+          "image": "https://assets.telex.hu/images/20261111/1794392470-temp-i6b5956pk7j1bojmklo_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Ez itt egy PR-cikk"
+        },
+        {
+          "title": "A Seszták-ügyben megtalált „bin Ladeneket” a bűnözők miatt már nem nyomják, de az átlagember előtte se találkozott velük",
+          "url": "https://telex.hu/eszkombajn/2026/11/15/eu-500-euro-penzmosas-bunozes-terrorizmus",
+          "published": "2026-11-15T09:54:52+00:00",
+          "description": "Új 500 eurósokat 2019 óta nem adtak ki a „tiltott tevékenységekben” betöltött szerepük miatt. Az eurót nem használó britek valutaváltóitól már rég nem lehetett kapni egy nagy pénzmosási ügy után. Fizetni viszont már előtte is nehézkes volt a nagy címlettel.",
+          "image": "https://assets.telex.hu/images/20261114/1794660327-temp-6madoc6lihbh7gibnaa_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Terézváros betiltotta a MI-képek és – videók használatát az önkormányzati intézményekben",
+          "url": "https://telex.hu/belfold/2026/11/15/soproni-tamas-betiltotta-a-mesterseges-intelligenciat-az-onkormanyzati-intezmenyekben",
+          "published": "2026-11-15T09:51:21+00:00",
+          "description": "Soproni Tamás szerint lassan mindent elárasztanak a silány, lélektelen MI-tartalmak.",
+          "image": "https://assets.telex.hu/images/20261115/1794735773-temp-1r9avoumqa237ogjikf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Most egy énekes perelte be Kanye Westet, azt állítja, hogy a rapper bezárta egy iskolába, hogy írja meg az operáját",
+          "url": "https://telex.hu/after/2026/11/15/kanye-west-ye-beperel-zenesz-opera-iskola-bezar",
+          "published": "2026-11-15T09:36:34+00:00",
+          "description": "Chase Taylor szerint négy napja volt befejezni a művet.",
+          "image": "https://assets.telex.hu/images/20261115/1794734159-temp-orh8pepkkjdn4jlmphb_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A gimis buli, amiről senki nem beszélhet",
+          "url": "https://telex.hu/after/2026/11/15/heti-streamingajanlo-the-body-a-gyuruk-ura-rivalisok",
+          "published": "2026-11-15T08:58:15+00:00",
+          "description": "Egy dokumentumfilm Sofia Coppoláról a Marie Antoinette rendezése közben, egy 2000-es években játszódó szektás horror, illetve a Riválisok és a Gyűrűk Ura-sorozat folytatása a streamingajánlónkban.",
+          "image": "https://assets.telex.hu/images/20261113/1794578501-temp-1727pj9odkut3gjjema_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "Váratlanul bejelentette, hogy elindul a francia elnökválasztáson az ötszörös olimpiai bajnok dzsúdós",
+          "url": "https://telex.hu/kulfold/2026/11/15/franciaorszag-elnokvalasztas-jelolt-teddy-riner-sportolo-bejelentes",
+          "published": "2026-11-15T08:28:22+00:00",
+          "description": "Teddy Riner zéró közéleti múlttal és egyelőre kevés politikai üzenettel szállt be a versenybe.",
+          "image": "https://assets.telex.hu/images/20261115/1794731033-temp-688evvia00oo6mkdden_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A Riot megvillantotta a League of Legends jövőjét",
+          "url": "https://telex.hu/after/2026/11/15/riot-games-league-of-legends-videojatek-frissites",
+          "published": "2026-11-15T08:23:10+00:00",
+          "description": "Tavaly év végén elkezdett terjedni a pletyka, hogy készül a LoL 2. A Riot erre azt mondta, még mindig nem, de lesznek nagy változások. Most először megmutatták, hogy mik.",
+          "image": "https://assets.telex.hu/images/20261115/1794697314-temp-fp8rs1k6e9bs8bchfmc_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "LoL-vb: Az utolsó koreai titánt is letarolta, óriási döntőben lett világbajnok a kínai BLG",
+          "url": "https://telex.hu/after/2026/11/15/videojatek-lol-vb-riot-games-esport-blg-geng-worlds-2026",
+          "published": "2026-11-15T08:19:21+00:00",
+          "description": "A kínai csapat nem kezdte jól a tornát, de fel tudott pörögni, és sorra ütötte ki a koreai riválisait. A döntőben a negyedik is meglett, a tavaly triplázó T1 után az addig az egész vb-n egyetlen meccset veszítő Gen.G-t verték meg.",
+          "image": "https://assets.telex.hu/images/20261115/1794730039-temp-5edu7h6ud10cdkfiakm_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Jövő héten is ázni fogunk",
+          "url": "https://telex.hu/belfold/2026/11/15/idojaras-eso-csapadek-enyhe-ido",
+          "published": "2026-11-15T08:03:03+00:00",
+          "description": "De legalább fázni nem.",
+          "image": "https://assets.telex.hu/images/20261115/1794729761-temp-18nvqc6dv4gc6kohnfo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Vitézy Dávid bejelentette, hogy szigorítják a balatoni építkezések szabályait",
+          "url": "https://telex.hu/belfold/2026/11/15/vitezy-david-balaton-epitkezesek-szigoritas-beepites-balatoni-epiteszeti-tervtanacs",
+          "published": "2026-11-15T07:38:46+00:00",
+          "description": "A Balaton nem egyszerűen ingatlanfejlesztési terület – írta a miniszter.",
+          "image": "https://assets.telex.hu/images/20261115/1794727769-temp-7drkt3o8no444hmopid_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Tuzson Bence a Seszták-ügyben előásott milliárdokról: Meseszerű történet, terelés a valóságról",
+          "url": "https://telex.hu/belfold/2026/11/15/tuzson-bence-sesztak-miklos-milliardok-erdo-nvvh-meseszeru-tortenet",
+          "published": "2026-11-15T07:33:21+00:00",
+          "description": "A volt igazságügyi miniszter szerint nem tűnnek „teljes egészében igaznak” a hatmilliárd forintnyi készpénz előkerüléséről szóló hírek.",
+          "image": "https://assets.telex.hu/images/20261115/1794727974-temp-jaumvudhsgtb4mnbgpi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Nona Fernández: Chilean Electric (részlet)",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/15/nona-fernandez-chilean-electric-reszlet-beleolvaso",
+          "published": "2026-11-15T07:23:33+00:00",
+          "description": "Nona Fernández az irodalom bűvészmutatványán át hív a múlt árnyainak eloszlatására. Olvasson bele!",
+          "image": "https://assets.telex.hu/images/20261113/1794566559-temp-rijonm01eah2dladepi_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Navracsics Tibor: A tagadás, a szembenézés elkerülése senkit nem tesz alkalmassá a választói érdemi képviseletére",
+          "url": "https://telex.hu/belfold/2026/11/15/navracsics-tibor-fidesz-polgari-demokratak-sesztak-miklos",
+          "published": "2026-11-15T07:20:04+00:00",
+          "description": "A Seszták-ügyre reagálva azt írta, a Fidesz tagjai megérdemlik, hogy egy hiteles, erőt mutatni képes közösség tagjai legyenek.",
+          "image": "https://assets.telex.hu/images/20261115/1794727147-temp-5ku09qc6fiuf6jfapkn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1540,7 +1766,7 @@
         {
           "title": "Az ellenőr felelőssége - Biró Ferenc Pál az új közpénzgazdálkodási kultúra szükségéről",
           "url": "https://kontroll.hu/cikk/velemeny/2026/11/15/az-ellenor-felelossege-biro-ferenc-pal-az-uj-koezpenzgazdalkodasi-kultura-szueksegerol",
-          "published": "2026-11-15T14:36:58.173882+01:00",
+          "published": "2026-11-15T14:36:30.093566+01:00",
           "description": null,
           "image": null,
           "category": "Velemeny",
@@ -1620,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "„Soha nem voltam jogosult” – végleg bezárult az ajtó, a Fradi játékosa már nem lehet magyar válogatott",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/11/corbu-mariusz-ferencvaros-roman-valogatott",
+          "published": "2026-11-15T15:00:00+01:00",
+          "description": "Corbu Máriusz szíve mindig is a román válogatottba húzott.",
+          "image": "https://cdn.origo.hu/2026/11/a7cn9BmuYRIfYqVvAMdXP2wDMGkIAfe4uf8AzSBHBJA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1YjkwNzRmYzJmODRjYTY4NDZiMmM4OWJmNGJmNWYw.webp",
+          "category": "magyar válogatott",
+          "author": null
+        },
         {
           "title": "Súlyos veszteség érte a magyar válogatottat, a Fradi sztárja lemarad az Eb-ről",
           "url": "https://www.origo.hu/sport/sport-csapat/2026/11/fradi-magyar-valogatott-simon-petra-serules",
@@ -1704,10 +1939,10 @@
         {
           "title": "Megindult az árhullám, közel két métert emelkedett a Tisza vízszintje",
           "url": "https://www.origo.hu/itthon/2026/11/tisza-megindult-az-arhullam",
-          "published": "2026-11-15T13:50:00+01:00",
-          "description": "Látványosan megemelkedet a folyó vízszintje.",
-          "image": "https://cdn.origo.hu/2026/11/vY6jj0IWrzAURUvg5dP8KrFTCMoT-0r2O0hlibqy30k/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZjZDZiODQwYWRkZTQ1MzBhNzlkZGY2ZjI2NjUyNmNk.webp",
-          "category": "tisza",
+          "published": "2026-11-15T12:50:49+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Óriási razzia lesz az utakon – egy héten át tart az akció",
-          "url": "https://www.origo.hu/itthon/2026/11/rendorsegi-ellenorzes-roadpol-teherautok-buszok",
-          "published": "2026-11-15T09:20:10+00:00",
-          "description": null,
-          "image": null,
-          "category": "Itthon",
           "author": null
         }
       ]
