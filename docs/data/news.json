@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-16T05:10:41.352270+00:00",
+  "scraped_at": "2026-11-16T05:15:37.473001+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Háromnapos rendkívüli ülés kezdődik hétfőn, 30 órán keresztül tárgyalják majd a költségvetést a parlamentben",
+          "url": "https://telex.hu/gazdasag/2026/11/16/2027-es-koltsegvetes-parlament-vita-rendkivuli-ules",
+          "published": "2026-11-16T05:03:47+00:00",
+          "description": "Hétfőn Magyar Péter miniszterelnök napirend előtti felszólalásával indul a parlament.",
+          "image": "https://assets.telex.hu/images/20261116/1794804135-temp-lrmb5s27s5hh1jjnlag_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Olaszország lemaradt a negyeddöntőről, a spanyolok többéves veretlensége is megszakadt a Nemzetek Ligájában",
+          "url": "https://telex.hu/sport/2026/11/16/nemzetek-ligaja-negyeddonto-francia-belga-valogatott",
+          "published": "2026-11-16T04:33:46+00:00",
+          "description": "A vasárnapi, angoloktól elszenvedett vereség előtt a spanyol válogatott tétmérkőzésen legutóbb 2023. márciusában kapott ki.",
+          "image": "https://assets.telex.hu/images/20261116/1794803541-temp-k5vtfq80f2981jpeadk_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "A Buddha-szobor, amiről 200 éven át senki nem tudta, hogy 5 tonna aranyból van",
+          "url": "https://telex.hu/eszkombajn/2026/11/16/a-buddha-szobor-amirol-200-ev-utan-derult-ki-hogy-ot-tonna-aranybol-van",
+          "published": "2026-11-16T04:02:30+00:00",
+          "description": "Agyaggal vonták be, hogy megőrizzék az értékét, és megvédjék a fosztogatóktól, a valódi értékével csak jóval később szembesültek a kutatók és a vallási közösség.",
+          "image": "https://assets.telex.hu/images/20261111/1794408580-temp-191p6dd8n1k15onhkhh_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Bányász Dorka"
+        },
+        {
+          "title": "„Úgy tekintenek ránk, mintha egy gyarmat lennénk” – hiába nyereséges a reptér, a magyar állam és a francia Vinci viszonya megromlott",
+          "url": "https://telex.hu/gazdasag/2026/11/16/budapest-airport-repter-vitezy-david-tisza-kormany",
+          "published": "2026-11-16T04:00:43+00:00",
+          "description": "Milyen terminál épüljön, kik üzemeltessék a boltokat, és hogyan valósuljon meg a reptéri vasút? A Budapest Airport jó együttműködésről beszél, de a Telexnek háttérinformációkat adó érintettek szerint ezekben a kérdésekben komoly viták vannak a tulajdonosok között, a látványos üzleti eredmények el...",
+          "image": "https://assets.telex.hu/images/20261112/1794498528-temp-f4k6o4s8fbtq9mbpjgh_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Több száz embert küldtek el április óta a korábban szárnyaló NER-es építőcégek",
+          "url": "https://telex.hu/g7/vallalat/2026/11/16/epitoipar-ner-leepites-bayer-construct-meszaros-garancsi-paar",
+          "published": "2026-11-16T03:55:02+00:00",
+          "description": "Április óta hetedével csökkent az alkalmazottak száma a legnagyobb NER-es cégeknél. A legtöbb embert a Bayer Constructtól küldtek el, de Mészáros és Garancsi vállalatainál is leépítettek.",
+          "image": "https://assets.telex.hu/images/20261112/1794496956-temp-dtn18kl25i972eocfmp_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Jandó Zoltán"
+        },
+        {
+          "title": "Kármán András szerint a 2027-es költségvetés sok társadalmi csoportnak jelent igazságtételt",
+          "url": "https://telex.hu/gazdasag/2026/11/15/karman-andras-koltsegvetes-parlamenti-vita",
+          "published": "2026-11-15T22:19:02+00:00",
+          "description": "A pénzügyminiszter ide sorolta a kisnyugdíjasokat, a családokat és a közszférában dolgozókat is.",
+          "image": "https://assets.telex.hu/images/20261115/1794780449-temp-aciok1km41m83ekgegl_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Zelenszkij szerint a SpaceX továbbra is korlátozza a Starshieldet, ezért nem tudják lelőni az orosz drónokat",
+          "url": "https://telex.hu/kulfold/2026/11/15/volodimir-zelenszkij-ukran-elnok-starshield-muhold-lassu-spacex-dronok-oroszorszag",
+          "published": "2026-11-15T22:09:28+00:00",
+          "description": "Az ukrán elnök arra kéri az Egyesült Államokat és Elon Muskot, hogy álljanak a történelem jó oldalára.",
+          "image": "https://assets.telex.hu/images/20261115/1794780347-temp-1dif7973c9h2fmkachm_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Egyetlen szavazat döntött a gyöngyösmelléki időközi választáson",
+          "url": "https://telex.hu/belfold/2026/11/15/idokozi-onkormanyzati-valasztasok-2026-november-15-egyetlen-szavazat-kulonbseg-gyongyosmellek-borsodbota-uj-polgarmester",
+          "published": "2026-11-15T21:23:39+00:00",
+          "description": "Négy településen is független jelöltek csatáztak a polgármesteri székért.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "A salvadori elnök katonai műveletet indított az anarchiába süllyedt Haitin, ahol bandavezérekre vadásznak ENSZ-erők és amerikai zsoldosok is",
+          "url": "https://telex.hu/kulfold/2026/11/15/haiti-bunbandak-salvadori-csapatok-bevetese-zsoldosok",
+          "published": "2026-11-15T21:19:09+00:00",
+          "description": "Egy lelkes és agresszív új szereplő jelent meg a karibi országban, ahol évek óta nincs erős központi állam. Kétezer salvadori katona vonult be Haitira, helikopterekről és szárazföldi csapatokkal támadták az ország egy részét uraló bűnbanda központját. A külföldi katonai beavatkozás szabályai tisz...",
+          "image": "https://assets.telex.hu/images/20261111/1794404281-temp-rhv49nob0a1jaedicic_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "A Fidesz szerint Unger Anna nevetségessé és hiteltelenné tette Magyar Péter politikai színházát a Seszták-ügyben",
+          "url": "https://telex.hu/belfold/2026/11/15/fidesz-sesztak-ugy-unger-anna-nvvh",
+          "published": "2026-11-15T21:18:46+00:00",
+          "description": "Ezt arra reagálták, hogy az NVVH elnöke szerint még nem tudják, kinek a pénze volt a rejtekhelyekről előkerült 6,5 milliárdnyi készpénz.",
+          "image": "https://assets.telex.hu/images/20261115/1794777170-temp-3nkuhpsc8p6p3oolfgp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Észtország decembertől lezárja az összes határátkelőt Oroszország felé a GRU szabotázsakciója miatt",
+          "url": "https://telex.hu/kulfold/2026/11/15/esztorszag-oroszorszag-szabotazsakciok-vedelmi-ipari-vallalat-hataratkelok-lezarasa-margus-tsahkna-kulugyminiszter",
+          "published": "2026-11-15T20:34:49+00:00",
+          "description": "Az észt kormány szerint az orosz katonai hírszerzés támadást rendelt el egy védelmi ipari vállalat ellen.",
+          "image": "https://assets.telex.hu/images/20261115/1794774653-temp-2gh9igoh067n2acjojl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "Nyomoznak, mert egy óvónő fizikailag bántalmazhatta a gyerekeket a kecskeméti piarista óvodában",
+          "url": "https://telex.hu/belfold/2026/11/15/ovoda-kecskemet-bantalmazas",
+          "published": "2026-11-15T20:01:59+00:00",
+          "description": "A fenntartó szerint „valószínű, hogy ismétlődően előfordulhatott erős testi fogás”.",
+          "image": "https://assets.telex.hu/images/20261115/1794772548-temp-6g57id5cauu20fkbkoi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "A legolcsóbb Renault villanyautó tökéletesen eleveníti fel a régi Twingo szerethető karakterét",
+          "url": "https://telex.hu/techtud/2026/11/15/autoteszt-villanyauto-renault-twingo-e-tech-electric",
+          "published": "2026-11-15T19:55:56+00:00",
+          "description": "A franciák rájöttek, hogy ha nagyobb akkumulátort és erősebb motort szerelnek be, azzal elvész a lényeg. Mindenben visszafogták magukat, de még így is öröm vezetni az új Twingót.",
+          "image": "https://assets.telex.hu/images/20261109/1794236370-temp-t4r6rs06kp1t4mhkhah_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "autóMAGAZIN"
+        },
+        {
+          "title": "A 46 éves Ronaldinho visszatért a pályára, debütált az olasz harmadosztályban",
+          "url": "https://telex.hu/sport/2026/11/15/ronaldinho-brazil-vilagbajnok-foci-visszateres-serie-c-olasz-harmadosztaly-ravenna-forli-2-0",
+          "published": "2026-11-15T19:45:43+00:00",
+          "description": "A világbajnok brazil klasszis egy félidőt játszott a Ravennában.",
+          "image": "https://assets.telex.hu/images/20261115/1794771723-temp-656rapfhok6g5ladofl_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Pál Tamás"
+        },
+        {
+          "title": "A kutyapárti Kovács Gergely Gyurcsány egykori miniszterét, Lamperth Mónikát kérte fel polgármesteri tanácsadónak",
+          "url": "https://telex.hu/belfold/2026/11/15/lamperth-monika-hegyvidek-tanacsado-kovacs-gergely",
+          "published": "2026-11-15T19:05:46+00:00",
+          "description": "Újabb csavar a Hegyvidék önkormányzatának mozgalmas életében: Lamperth Mónika egykori belügyminiszter, aki a szocialistákkal Gyurcsány alatt szakított, később a Fideszhez közeledett, majd attól is eltávolodott. A Telexnek elmondta, most Kovács Gergely kérésére a polgármester munkáját fogja segíteni.",
+          "image": "https://assets.telex.hu/images/20261115/1794769835-temp-oosbqa93udam1cabhch_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Unger Anna: A nyomozók pontosan tudták, hol keressék a Seszták-ügyben előkerült pénzeket",
+          "url": "https://telex.hu/belfold/2026/11/15/sesztak-miklos-nvvh-unger-anna-hazon-kivul",
+          "published": "2026-11-15T18:41:38+00:00",
+          "description": "Az NVVH elnöke nem árulta el, honnan szerezték meg ezeket az információkat. Annyit azért elmondott, hogy madáretetőben is voltak elrejtve pénzek.",
+          "image": "https://assets.telex.hu/images/20261115/1794767924-temp-i0lfag4mte1jdebmnbo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "A magyar jövedelmek tíz év alatt csaknem megháromszorozódtak, a lakásárak mégis elhúztak mellettük",
+          "url": "https://telex.hu/gazdasag/2026/11/15/eurostat-ingatlan-vasarlas-jovedelemhez-kepest-felmeres-magyarorszag",
+          "published": "2026-11-15T18:33:53+00:00",
+          "description": "Az Eurostat azt nézte meg, hogyan változtak a lakásárak a háztartások jövedelméhez képest. Magyarországon az unióban a harmadik legnagyobb mértékben nőtt a kettő aránya 2015 és 2025 között.",
+          "image": "https://assets.telex.hu/images/20261114/1794655639-temp-jofncs6vr6kibnielmn_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "Megalázó helyzet volt eddig, ez majd könnyíteni fog a nők fájdalmán – nők a vény nélküli esemény utáni tablettáról",
+          "url": "https://telex.hu/video/2026/11/15/esemeny-utani-tabletta-venykotelesseg-eltorles-tisza-kormany",
+          "published": "2026-11-15T18:30:23+00:00",
+          "description": "Eddig sokan előre tartottak tőle, hogy egyszer majd szükségük lesz rá, de a bejelentés után szabadabbnak érzik magukat. Takács Péter cukorkás reakcióján többen felháborodtak.",
+          "image": "https://assets.telex.hu/images/20261115/1794765647-temp-qorn779g1s127okfcfb_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Strbka Anna"
+        },
+        {
+          "title": "Kétnapos kihelyezett frakcióülést tart a Tisza",
+          "url": "https://telex.hu/belfold/2026/11/15/magyar-peter-tisza-frakcio-frakcioules",
+          "published": "2026-11-15T18:21:38+00:00",
+          "description": "Csütörtökön és pénteken tanácskoznak a tiszás képviselők.",
+          "image": "https://assets.telex.hu/images/20261115/1794766207-temp-1sv09l23lri42mianjd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Begyűjtötték a nedves törlőkendőket, aztán cseszegetik a csatornázási műveket",
+          "url": "https://telex.hu/belfold/2026/11/15/budapest-ujpest-duna-part-nedves-torlokendok-szennyezes-szemet-gyujtes-aktivistak-nagy-david",
+          "published": "2026-11-15T18:08:03+00:00",
+          "description": "A kutyapártos Nagy Dávid önkéntes takarítást szervezett az újpesti Duna-parton, ahol tömegével gyűltek össze a fertőző hulladéknak számító törlőkendők.",
+          "image": "https://assets.telex.hu/images/20261115/1794759178-temp-tbd8he3dhguldmnleeg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Csatáruk tragikus halála óta először lépett pályára a Tenerife",
+          "url": "https://telex.hu/sport/2026/11/15/tenerife-jesus-de-miguel-megemlekezes",
+          "published": "2026-11-15T17:34:21+00:00",
+          "description": "Jesús de Miguel azt követően halt meg, hogy az ellenfél kapusa mellkasba térdelte egy ütközés során.",
+          "image": "https://assets.telex.hu/images/20261115/1794763679-temp-jjnbvrbct8e89nnbhef_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Inkább atomerőművet akarnak a szomszédba az amerikaiak, mint adatközpontot",
+          "url": "https://telex.hu/kulfold/2026/11/15/midterm-gazdasag-ai-adossag-allamkotveny-dollar-elektor",
+          "published": "2026-11-15T17:18:47+00:00",
+          "description": "Megrángatta a piacokat az amerikai félidős választások eredménye. Mit hozhat a demokraták előretörése az Egyesült Államok és a világgazdaság számára? Az Elektor című műsorunkban szakértőket kérdeztünk.",
+          "image": "https://assets.telex.hu/images/20261113/1794591582-temp-q8ralulmp1qjcgdldac_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Csurgó Dénes"
+        },
+        {
+          "title": "Eddig veretlen ellenfelét fojtotta ájultra a ketrecharcos Borics Ádám",
+          "url": "https://telex.hu/sport/2026/11/15/mma-ketrecharc-borics-adam",
+          "published": "2026-11-15T17:03:22+00:00",
+          "description": "Az első percben padlóra küldték a magyar MMA-csillagot, de végül Borics dagesztáni ellenfele ájult bele egy trükkös fojtásba.",
+          "image": "https://assets.telex.hu/images/20261115/1794762187-temp-7i3prcb3jrj87obhjfl_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Több százezren tüntettek Prágában a közszolgálati tévé függetlenségének védelmében",
+          "url": "https://telex.hu/kulfold/2026/11/15/tobb-szazezren-tuntettek-pragaban-a-kozszolgalati-teve-fuggetlensegenek-vedelmeben",
+          "published": "2026-11-15T16:53:46+00:00",
+          "description": "A kormánypárt eltörölné az üzembentartási díjat és szerényebb költségvetési forrásból finanszírozná a cseh közszolgálati adókat. Andrej Babiš kormánya az eddigi legnagyobb tüntetéssel nézett szembe vasárnap.",
+          "image": "https://assets.telex.hu/images/20261115/1794761524-temp-ht5nm2cevo6m2dkjiid_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "3,8 milliárdot kap az ELTE a hozzá csatolt kutatóközpontok dolgozóinak elmaradt béremelésére",
+          "url": "https://telex.hu/techtud/2026/11/15/hun-ren-magyar-kutatasi-halozatt-beremeles-elte",
+          "published": "2026-11-15T16:40:06+00:00",
+          "description": "Miután a dolgozók nem kapták meg a beígért 30 százalékos átlagos béremelést tavaly.",
+          "image": "https://assets.telex.hu/images/20261115/1794761146-temp-kcbtu3tjb59a8pnlaea_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Mizsur András"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "November 27-én nyit a budai Vár adventi vására, másnap a jégpálya is elindul",
+          "url": "https://index.hu/belfold/2026/11/16/budavari-adventi-vasar-karacsony-advent-programok/",
+          "published": "2026-11-16T05:11:00+00:00",
+          "description": "Az ünnepélyes megnyitón a Duka Elemér & Gipsy Chamber Orchestra ad koncertet.",
+          "image": "https://kep.index.hu/1/0/7256/72560/725603/72560371_5346581_927f89b15c4c0efe37faa1b46e70d2c4_wm.jpg",
+          "category": "Belföld",
+          "author": null
+        },
+        {
           "title": "Ahol a Vörös Apáca megjelenik, a rémálom valósággá válik",
           "url": "https://index.hu/tech/godmode/2026/11/16/remothered-red-nun-s-legacy-horror-szeria-videojatek-teszt/",
           "published": "2026-11-16T05:03:00+00:00",
@@ -470,15 +705,6 @@
           "description": "",
           "image": "https://kep.index.hu/1/0/7255/72559/725591/72559171_42016ed53869c9575a5d8d23044fc855_wm.png",
           "category": "Mindeközben",
-          "author": null
-        },
-        {
-          "title": "„Meg is haltam, újjá is születtem” – Lengyel Johanna a magyar könnyűzene reménysugara",
-          "url": "https://index.hu/fomo/2026/11/15/lengyel-johanna-koncert-mom-kult-interju/",
-          "published": "2026-11-15T17:30:00+00:00",
-          "description": "Az énekesnő exkluzív interjút adott lapunknak lemezbemutató koncertje után.",
-          "image": "https://kep.index.hu/1/0/7254/72546/725468/72546829_5345599_92c50ef4d67bc672e8af9e36d68d5028_wm.jpg",
-          "category": "Fomo",
           "author": null
         }
       ]
@@ -1201,6 +1427,15 @@
       "article_count": 10,
       "articles": [
         {
+          "title": "Vélemény: A Houellebecq elleni eljárás már maga a behódolás",
+          "url": "https://neokohn.hu/2026/11/16/houellebecq-eljaras-behodolas-iszlamizacio-iszlamkritika-ertelmiseg-birosag/",
+          "published": "2026-11-16T05:13:58+00:00",
+          "description": "Ha az írónak nincs joga kényelmetlen, sértő és sztereotip dolgokat mondani, akkor a szólásszabadság koncepciójának nincsen értelme. A Vélemény: A Houellebecq elleni eljárás már maga a behódolás bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/behodolas.jpg",
+          "category": "Kultúra",
+          "author": "Seres László"
+        },
+        {
           "title": "Pikáns információ derült ki Putyin titkos unokájáról",
           "url": "https://neokohn.hu/2026/11/15/pikans-informacio-derult-ki-putyin-titkos-unokajarol/",
           "published": "2026-11-15T19:30:18+00:00",
@@ -1279,15 +1514,6 @@
           "description": "Zuhan Javier Milei népszerűsége Argentínában. A Bajban Izrael egyik legnagyobb szövetségese bejegyzés először Neokohn -én jelent meg.",
           "image": "https://neokohn.hu/files/2026/11/000_D77M2VV.jpg",
           "category": "Külföld",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Netanjahu időt nyer, de fogynak a lehetőségei: az ultraortodox pártok dönthetnek Izrael következő kormányáról",
-          "url": "https://neokohn.hu/2026/11/15/netanjahu-idot-nyer-de-fogynak-a-lehetosegei-az-ultraortodox-partok-donthetnek-izrael-kovetkezo-kormanyarol/",
-          "published": "2026-11-15T09:00:02+00:00",
-          "description": "Friss hírek az izraeli kormányalakítási törekvésekről. A Netanjahu időt nyer, de fogynak a lehetőségei: az ultraortodox pártok dönthetnek Izrael következő kormányáról bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/11/Knesset-Power-Players-at-Sunset-1024x576.jpg",
-          "category": "Izrael",
           "author": "Neokohn"
         }
       ]
