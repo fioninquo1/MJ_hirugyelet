@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-17T16:20:55.752969+00:00",
+  "scraped_at": "2026-11-17T16:25:43.071375+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Jensen Huang bejelentette, hogy szívesen visszatérne az Nvidia élére",
+          "url": "https://telex.hu/gazdasag/2026/11/17/jensen-huang-kozlemeny-nvidia",
+          "published": "2026-11-17T16:24:21+00:00",
+          "description": "Huang múlt héten mondott le az Nvidia vezetéséről, most nyilatkozatban közölte álláspontját.",
+          "image": null,
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Már nyáron megpecsételődött a most kirúgott paksi vezérigazgató sorsa",
+          "url": "https://telex.hu/gazdasag/2026/11/17/paks-zrt-vezerigazgato-levaltas-kapitany-istvan-horvath-peter-janos",
+          "published": "2026-11-17T16:09:05+00:00",
+          "description": "Horváth Péter János már hónapok óta nem élvezhette a kormány bizalmát. A nyári paksi válság idején pedig egyre inkább más vezető került előtérbe.",
+          "image": "https://assets.telex.hu/images/20261117/1794931346-temp-d0li57i2nerp9gkphlk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Elásott milliárdok: a korrumpáló is megérdemli a tisztítótüzet",
+          "url": "https://telex.hu/g7/kozelet/2026/11/17/elasott-milliardok-korrupcio-tamogatasok-visszaosztas-felelosseg",
+          "published": "2026-11-17T15:53:44+00:00",
+          "description": "Sokak szerint a korrupció természetes velejárója az üzleti világnak. Ennek a szemléletnek a következménye legalább olyan káros, mint a korrupció kikényszerítése. Reszegi László véleménycikke.",
+          "image": "https://assets.telex.hu/images/20261117/1794924827-temp-2vgb5pldnuftdphamgm_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Reszegi László"
+        },
+        {
+          "title": "Schadl György mindenképp elmenne az őt meghallgató bizottság ülésére, ha a bíróság elengedné",
+          "url": "https://telex.hu/belfold/2026/11/17/schadl-gyorgy-parlamenti-vizsgalobizottsag",
+          "published": "2026-11-17T15:44:58+00:00",
+          "description": "A végrehajtói visszaéléseket feltáró bizottság december 16-án hallgatná meg Schadlt.",
+          "image": "https://assets.telex.hu/images/20261117/1794930270-temp-qtf57l1uapcp0lnmekk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Egyszerre tizenhárom intenzíves ápoló mondott fel az Országos Baleseti Intézetben",
+          "url": "https://telex.hu/belfold/2026/11/17/orszagos-baleseti-intezet-felmondas-apolo-egeszsegugy",
+          "published": "2026-11-17T15:35:32+00:00",
+          "description": "Az Országos Baleseti Intézet intenzív osztályán dolgozó ápolók fizetésemelést kértek, de elfogyott a türelmük.",
+          "image": "https://assets.telex.hu/images/20261117/1794928347-temp-l9ssf1t7pimn5joakhb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Barnóczki Brigitta"
+        },
+        {
+          "title": "Soron kívüli ügyintézést kértek Szijjártóék Orbán Áron cégeinek a vietnámi konzuloktól",
+          "url": "https://telex.hu/belfold/2026/11/17/velkey-kulugyminiszterium-orban-aron-kiemelt-figyelem",
+          "published": "2026-11-17T15:12:45+00:00",
+          "description": "Indokul csak annyit írtak, hogy ez „a KKM felsővezetői elvárása”.",
+          "image": "https://assets.telex.hu/images/20261117/1794927842-temp-bp8msn4skb9m5lmobdg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Csak két napig volt letartóztatásban Seszták bizalmasa",
+          "url": "https://telex.hu/belfold/2026/11/17/volanbusz-ugy-sesztak-miklos-gyanusitottak-szabadlabra-helyezes",
+          "published": "2026-11-17T15:07:59+00:00",
+          "description": "Amióta előásták a közel 6,5 milliárd forintnyi készpénzt, elkezdődött a találgatás és az utalgatás, ki és milyen információval segíthette a nyomozókat.",
+          "image": "https://assets.telex.hu/images/20261117/1794924611-temp-4duss75oir7b6ahiakb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Az ENSZ-t aggasztja, hogy elutasított uniós menedékkérőknek terveznek kitoloncolási központot Ruandában",
+          "url": "https://telex.hu/kulfold/2026/11/17/eu-ensz-migracio-ruanda",
+          "published": "2026-11-17T15:04:09+00:00",
+          "description": "Öt uniós ország és Ruanda kormánya egyezett meg az első központról az uniós „migrációs paktum” visszaküldési rendelete alapján.",
+          "image": "https://assets.telex.hu/images/20261117/1794927351-temp-plvu8dcn32gcbeakagk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "A fideszes Hidvéghi Balázs is elítélte a munkácsi dróntámadást, és felszólította Magyar Pétert, hogy térjen vissza az előző kormány „békepárti politikájához”",
+          "url": "https://telex.hu/belfold/2026/11/17/kdnp-hidveghi-balazs-reakcio-munkacs-drontamadas",
+          "published": "2026-11-17T14:54:40+00:00",
+          "description": "A KDNP-s Rétvári Bence szerint fontos, hogy a kárpátaljai magyarok érezzék, mögöttük állnak.",
+          "image": "https://assets.telex.hu/images/20261117/1794927249-temp-o2q7bb9otkmn0mkbdbb_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Kapitány István: Azonnali hatállyal megszűnt a paksi atomerőmű vezérigazgatójának munkaviszonya",
+          "url": "https://telex.hu/gazdasag/2026/11/17/horvath-peter-janos-mvm-paks-kapitany",
+          "published": "2026-11-17T14:34:34+00:00",
+          "description": "Az új vezérigazgató az eddigi üze​mviteli igazgató, Vigh Károly lett.",
+          "image": "https://assets.telex.hu/images/20261117/1794926593-temp-gclslccu1vm09icjepg_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Ügyes húzással megy a magyar gyógyszercég Ausztrálián keresztül Amerikába",
+          "url": "https://telex.hu/g7/vallalat/2026/11/17/richter-gyogyszer-felvasarlas-ausztralia-amerika-eli-lilly",
+          "published": "2026-11-17T14:33:17+00:00",
+          "description": "Egyre jobban kirajzolódik a Richter Gedeon középtávú stratégiája, amelynek fontos része lehet az amerikai piaci jelenlét.",
+          "image": "https://assets.telex.hu/images/20261117/1794920847-temp-qfrfo08eid8kcjglgde_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Torontáli Zoltán"
+        },
+        {
+          "title": "Vučić beült a kedden megalakult szerb parlamentbe, és rögtön maratoni beszéddel nyitott",
+          "url": "https://telex.hu/kulfold/2026/11/17/vucic-szerb-parlament-beszed-alakulo-ules-egyetemista-lista",
+          "published": "2026-11-17T14:27:42+00:00",
+          "description": "Borzasztóan lassan halad a tisztviselők megválasztása, mivel többórás szüneteket tartanak a képviselők.",
+          "image": "https://assets.telex.hu/images/20261117/1794925609-temp-i69o7v5sjaqg2picpkd_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "5,5 százalékon hagyta az alapkamatot az MNB",
+          "url": "https://telex.hu/gazdasag/2026/11/17/alapkamat-kamatdontes-monetaris-tanacs-5-5-szazalek",
+          "published": "2026-11-17T14:07:56+00:00",
+          "description": "Az elemzői várakozásoknak megfelelően nem változtattak az alapkamat mértékén.",
+          "image": "https://assets.telex.hu/images/20261117/1794924443-temp-uummu09u5k66chpegfa_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Továbbra is vásárolhat orosz kőolajat és földgázt a Mol és az MVM",
+          "url": "https://telex.hu/gazdasag/2026/11/17/magyarorszag-egyesult-allamok-orosz-koolaj-foldgaz-szankcio-mentesseg",
+          "published": "2026-11-17T13:57:47+00:00",
+          "description": "Az Egyesült Államok meghosszabbította az orosz kőolaj és földgáz vásárlását sújtó szankciók alóli magyar mentességet.",
+          "image": "https://assets.telex.hu/images/20261117/1794923851-temp-6ao07pbo0r8rfkfagao_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A lengyel ügyészség európai elfogatóparancs kiadását kéri az augusztusi buszbaleset sofőrje ellen",
+          "url": "https://telex.hu/kulfold/2026/11/17/lengyel-buszsofor-nemzetkozi-korozes-ugyeszseg",
+          "published": "2026-11-17T13:49:21+00:00",
+          "description": "A lengyel hatóságok hazaszállítanák a férfit, hogy ott állíthassák bíróság elé.",
+          "image": "https://assets.telex.hu/images/20261117/1794923293-temp-hoofc5difv973afaeio_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Tanács Zoltán: Az ADF nem hivatalos szakszervezet, nincs felhatalmazása a teljes kutatói közösség képviseletére",
+          "url": "https://telex.hu/belfold/2026/11/17/tanacs-zoltan-reakcio-akademiai-dolgozok-foruma-kovetelesek",
+          "published": "2026-11-17T13:39:49+00:00",
+          "description": "A tudományos és technológiai miniszter a szervezet kedden közzétett közleményére reagált, amelyben többek között Tanács azonnali lemondását követelték.",
+          "image": "https://assets.telex.hu/images/20261117/1794921590-temp-6p3u5o6rrb9v1bcbnge_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Továbbra sem javított Magyarország az egyik fontos szegénységi mutatóban",
+          "url": "https://telex.hu/g7/adat/2026/11/17/joleti-szegenysegimutato-varatlan-kiadasok-kke",
+          "published": "2026-11-17T13:32:04+00:00",
+          "description": "Magyarországon 2017 óta nem sikerült érdemben csökkenteni azoknak a háztartásoknak az arányát, amelyek saját erőből nem tudnak fedezni egy váratlan, nagyobb összegű kiadást.",
+          "image": "https://assets.telex.hu/images/20261117/1794920307-temp-ahrv6bfdr5tr7kmmgpp_cimlap-normal.jpg",
+          "category": "Adat",
+          "author": "Torontáli Zoltán"
+        },
+        {
+          "title": "Vitézy Dávid: A Kárpátalja felé induló járatok csak a csapi ukrán határátkelőig járnak",
+          "url": "https://telex.hu/belfold/2026/11/17/vitezy-david-mav-vonat-kozlekedes-ukran-hatar",
+          "published": "2026-11-17T13:21:48+00:00",
+          "description": "A MÁV minden lehetséges segítséget megad azoknak az utasoknak, akik haza szeretnének jutni a történtek után – írta a közlekedési miniszter.",
+          "image": "https://assets.telex.hu/images/20261117/1794921685-temp-d5glss19armu2icgkie_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Dörner Györgyöt jelöli a Független Közmédia Testületbe a Mi Hazánk",
+          "url": "https://telex.hu/belfold/2026/11/17/dorner-gyorgyot-jeloli-a-fuggetlen-kozmedia-testuletbe-a-mi-hazank",
+          "published": "2026-11-17T13:14:01+00:00",
+          "description": "A tiszások korábban két mi hazánkos jelöltet is leszavaztak.",
+          "image": "https://assets.telex.hu/images/20261117/1794921199-temp-5lret617kgoa0gbhibo_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "A fideszes Panyi Miklós a legfőbb ügyészhez fordul Magyar Péterék tavalyi tarnazsadányi videója miatt, amiben egy 11 éves fiúval interjúztak",
+          "url": "https://telex.hu/belfold/2026/11/17/panyi-miklos-pocs-janos-hegedus-barbara-sajtotajekoztato-tisza-part-forum-tarnazsadany",
+          "published": "2026-11-17T13:05:39+00:00",
+          "description": "A Fidesz-frakció szerint politikai célokra használhatták fel a gyerekotthonból megszökött gyereket, ezért pedig Bódis Krisztának és Magyar Péternek is vállalnia kell a politikai felelősséget.",
+          "image": "https://assets.telex.hu/images/20261117/1794916370-temp-chngtno2rotd1lieamn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pupli Anna Sára"
+        },
+        {
+          "title": "Magyar Péter azzal oltotta le Németh Balázst, hogy soha nem volt szüksége esemény utáni tablettára, a tiszások meg csak röhögtek",
+          "url": "https://telex.hu/belfold/2026/11/17/magyar-peter-esemeny-utani-tabletta-nemeth-balazs-fiatal-par",
+          "published": "2026-11-17T13:03:09+00:00",
+          "description": "Magyar Péter a parlamentben beszélt arról, hogy egyszer neki is szüksége volt esemény utáni tablettára, mire Németh Balázs kikérte magának, hogy neki aztán nem.",
+          "image": "https://assets.telex.hu/images/20261117/1794920032-temp-jpl41a63elljclakcfm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Uniós jogot sért a Temu, mert nem lép fel eléggé az illegális termékek ellen az Európai Bizottság szerint",
+          "url": "https://telex.hu/gazdasag/2026/11/17/eu-europai-bizottsag-temu-dsa",
+          "published": "2026-11-17T13:02:56+00:00",
+          "description": "Ha beigazolódnak az uniós testület előzetes megállapításai, jöhet a büntetés. A Temu egyszer már kapott több mint 70 milliárd forintnyi bírságot.",
+          "image": "https://assets.telex.hu/images/20261117/1794920559-temp-e94ceh59vg8nafjincb_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Márton Balázs"
+        },
+        {
+          "title": "Forsthoffer Ágnes: Én nem ástam el semmit, de persze nem is éltem közpénzből",
+          "url": "https://telex.hu/belfold/2026/11/17/forsthoffer-agnes-en-nem-astam-el-semmit-de-persze-nem-is-eltem-kozpenzbol-1",
+          "published": "2026-11-17T12:59:41+00:00",
+          "description": "Az Országgyűlés elnöke a Facebookján utasította vissza Németh Balázs fideszes képviselő támadásait.",
+          "image": "https://assets.telex.hu/images/20261117/1794920344-temp-vk6rhsc3qj4vbgdlhhh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Iván-Nagy Szilvia"
+        },
+        {
+          "title": "Unger Anna találkozott az új legfőbb ügyésszel",
+          "url": "https://telex.hu/belfold/2026/11/17/unger-anna-nvvh-fejes-peter-legfobb-ugyesz-talalkozo-egyeztetes",
+          "published": "2026-11-17T12:58:24+00:00",
+          "description": "Az együttműködés irányáról, feltételeiről és konstruktív munkakapcsolat kialakításáról egyeztetett Fejes Péterrel.",
+          "image": "https://assets.telex.hu/images/20261117/1794920285-temp-enai5g18m5jablnloch_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "Panyi Szabolcs, Rácz András és mások is kaptak Jeszenszky Géza nevével visszaélő orosz adathalász emailt, a volt külügyminiszter attól tart, több érintett is lehet",
+          "url": "https://telex.hu/belfold/2026/11/17/panyi-szabolcs-racz-andras-jeszenszky-geza-adathalasz-email-fszb-hekker",
+          "published": "2026-11-17T12:50:41+00:00",
+          "description": "A volt külügyminiszter a Telexnek azt mondta, a nevével kiküldött adathalász emailek is bizonyítják, hogy az oroszok nagyon is jelen vannak.",
+          "image": "https://assets.telex.hu/images/20261117/1794918078-temp-g68ceml1equo4edjced_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Aradi Hanga Zsófia"
+        }
+      ]
     },
     {
       "id": "444",
@@ -257,6 +483,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Kiara Lord Dávid Petrával is összerúgta a port az \"alomtakarítás\" után az Ázsia Expresszben: „Nem tolerálom ezt a viselkedést!”",
+          "url": "https://index.hu/mindekozben/poszt/2026/11/17/azsia-expressz-kiara-lord-david-petra-veszekedes/",
+          "published": "2026-11-17T16:20:52+00:00",
+          "description": "",
+          "image": "https://kep.index.hu/1/0/7258/72588/725880/72588061_97ca463bd88f5759a69fe5d012b07578_wm.png",
+          "category": "Mindeközben",
+          "author": null
+        },
+        {
           "title": "Bitskey Botondot választotta főtitkárának az Alkotmánybíróság",
           "url": "https://index.hu/belfold/2026/11/17/bitskey-botond-alkotmanybirosag-fotitkar-kinevezes/",
           "published": "2026-11-17T16:18:00+00:00",
@@ -470,15 +705,6 @@
           "description": "Állítása szerint azért távozik, hogy a korrupciós vádak után helyreállítsa a hírnevét.",
           "image": "https://kep.index.hu/1/0/7258/72582/725828/72582845_5348147_2b9f3bddc064653b145f09d3b12ba3a9_wm.jpg",
           "category": "Külföld",
-          "author": null
-        },
-        {
-          "title": "Az Indamedia márkái októberben is az élen",
-          "url": "https://index.hu/szolgalati-kozlemeny/2026/11/17/indamedia-oktober-eredmdenyek-index-glamour-totalcar-divany/",
-          "published": "2026-11-17T13:46:00+00:00",
-          "description": "Az Index továbbra is őrzi piacvezető szerepét.",
-          "image": "https://kep.index.hu/1/0/6744/67443/674438/67443875_4979609_61813f4585c8bd877744cf92f85b129c_wm.jpg",
-          "category": "Szolgálati közlemény",
           "author": null
         }
       ]
@@ -1540,7 +1766,7 @@
         {
           "title": "Velkey György: Szijjártó minisztériuma kiemelt bánásmódot kért Orbán Áron cégeinek a vietnámi konzulátusoktól",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/17/velkey-gyoergy-szijjarto-miniszteriuma-kiemelt-banasmodot-kert-orban-aron-cegeinek-a-vietnami-konzulatusoktol",
-          "published": "2026-11-17T17:11:55.716271+01:00",
+          "published": "2026-11-17T17:12:42.960503+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1775,7 @@
         {
           "title": "Piszkos pénzeket kezelt a Deutsche Bank, befolyásos ügyfelek miatt a saját szabályait is félretette",
           "url": "https://kontroll.hu/cikk/gazdasag-tech/2026/11/17/piszkos-penzeket-kezelt-a-deutsche-bank-befolyasos-uegyfelek-miatt-a-sajat-szabalyait-is-felretette",
-          "published": "2026-11-17T17:06:55.716426+01:00",
+          "published": "2026-11-17T17:06:42.960689+01:00",
           "description": null,
           "image": null,
           "category": null,
@@ -1558,7 +1784,7 @@
         {
           "title": "Béremelés helyett felmondási hullám az Országos Baleseti Intézetben",
           "url": "https://kontroll.hu/cikk/egeszseg/2026/11/17/beremeles-helyett-felmondasi-hullam-az-orszagos-baleseti-intezetben-1",
-          "published": "2026-11-17T17:03:55.716478+01:00",
+          "published": "2026-11-17T17:04:42.960758+01:00",
           "description": null,
           "image": null,
           "category": "Egeszseg",
@@ -1620,6 +1846,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Ennek sokan örülni fognak: pénztárcabarát döntést hozott az egyik hazai mobilszolgáltató",
+          "url": "https://www.origo.hu/techbazis/2026/11/magyar-telekom-inflaciokoveto-dijemeles-elmarad-2027",
+          "published": "2026-11-17T17:20:00+01:00",
+          "description": "Az Magyar Telekom 2027-ben nem hajt végre inflációkövető díjemelést.",
+          "image": "https://cdn.origo.hu/2026/11/2X4ldHDHpP-d5x_8_6nTY0kxEn5kdeNot_7SmYT5we0/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE2OTIwYmNmOThiNzQ5Njc4NzM2OTIxMmE0MjlkNTNk.webp",
+          "category": "magyar telekom",
+          "author": null
+        },
         {
           "title": "Átadták Budapest rangos elismeréseit, itt a díjazottak névsora",
           "url": "https://www.origo.hu/kultura/2026/11/budapest-egyesitese-153-evfordulo-fovarosi-kituntetesek",
@@ -1693,21 +1928,21 @@
           "author": null
         },
         {
-          "title": "2027-es költségvetés: drasztikusan megvágnák a külhoni magyar programok támogatását",
-          "url": "https://www.origo.hu/belpol/2026/11/koltsegvetes-2027-kulhoni-magyar-karpatalja-nemzetpolitika",
-          "published": "2026-11-17T16:41:00+01:00",
-          "description": "Nacsa Lőrinc szerint a büdzsé egyik legnagyobb vesztese a nemzetpolitika lehet.",
-          "image": "https://cdn.origo.hu/2026/11/dep7P8v26kGq6OY77nSbAQZC-bBU5frafR5ovMHVDaA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ0YTYzMTY3OTVlODQxYzQ5NWFiNTdmZjI2ZjQ1Yzc4.webp",
-          "category": "költségvetés",
-          "author": null
-        },
-        {
           "title": "Károly király sem hagyta szó nélkül az új James Bondot: ezt üzente Robert Pattinsonnak",
           "url": "https://www.origo.hu/teve/2026/11/james-bondot-karoly-kiraly-sem-hagyta-szo-nelkul",
           "published": "2026-11-17T16:40:00+01:00",
           "description": "Édesanyja után most Károly királyon volt a sor, hogy üdvözölje az új 007-es ügynököt.",
           "image": "https://cdn.origo.hu/2026/11/z__eOXSo5w6nVr05_0O4scZqGSqireH-fdEk-LSNCAI/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzNTRhOTQyNGRmYjQ2MDdhNzNkZjBjNDg0YjE3Y2Rj.webp",
           "category": "James Bond",
+          "author": null
+        },
+        {
+          "title": "2027-es költségvetés: drasztikusan megvágnák a külhoni magyar programok támogatását",
+          "url": "https://www.origo.hu/belpol/2026/11/koltsegvetes-2027-kulhoni-magyar-karpatalja-nemzetpolitika",
+          "published": "2026-11-17T15:41:58+00:00",
+          "description": null,
+          "image": null,
+          "category": "Belpolitika",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Nagyvilág",
-          "author": null
-        },
-        {
-          "title": "Magyar Péter a nők elleni erőszakról beszélt, de súlyos kritikával szembesült",
-          "url": "https://www.origo.hu/belpol/2026/11/magyar-peter-nok-eroszak-varga-judit-szentkiralyi",
-          "published": "2026-11-17T14:05:54+00:00",
-          "description": null,
-          "image": null,
-          "category": "Belpolitika",
           "author": null
         }
       ]
