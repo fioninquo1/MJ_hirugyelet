@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-18T04:10:41.994445+00:00",
+  "scraped_at": "2026-11-18T04:15:41.590863+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A kiéhezett Vörös Hadseregnek a kolbászháború okozta a vesztét Finnországban",
+          "url": "https://telex.hu/eszkombajn/2026/11/18/a-kiehezett-voros-hadsereg-a-kolbaszhaboruban-lelte-vesztet-finnorszagban",
+          "published": "2026-11-18T03:37:01+00:00",
+          "description": "1939-ben a Szovjetunió lerohanta a finneket, villámháborúra készültek, de kemény ellenállásba ütköztek. A téli háború legabszurdabb epizódjában a finnek kolbászlevese demoralizálta őket.",
+          "image": "https://assets.telex.hu/images/20261113/1794583068-temp-i04c4a1g0umsaglnbei_cimlap-normal.jpg",
+          "category": "Észkombájn",
+          "author": "Fehér János"
+        },
+        {
+          "title": "Reagált Hegedűs Zsolt a 13 szakápoló felmondására",
+          "url": "https://telex.hu/belfold/2026/11/17/hegedus-zsolt-orszagos-baleseti-intezet-felmondas-reakcio",
+          "published": "2026-11-17T22:54:02+00:00",
+          "description": "A miniszter a jövő évre tervezett bértáblával tartaná meg a szakdolgozókat.",
+          "image": "https://assets.telex.hu/images/20261117/1794956000-temp-704dtak7qncg5cfmdpg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Logót vált a Fidesz, szürkére cserélik a narancssárgát",
+          "url": "https://telex.hu/belfold/2026/11/17/fidesz-frakcio-logo-valtas",
+          "published": "2026-11-17T22:18:32+00:00",
+          "description": "A párt klasszikus színe már csak nyomokban lelhető fel az új logóban.",
+          "image": "https://assets.telex.hu/images/20261117/1794953292-temp-1rff1l8i2h129kfbdnl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "A Független Közmédia Testület szerint nem jelent előnyt, hogy a később sorra kerülő pályázók megismerhetik a többiek érvelését az élő adásból",
+          "url": "https://telex.hu/belfold/2026/11/17/eloben-kozvetitik-az-mrtv-vezerigazgatoi-posztjara-palyazok-meghallgatasait",
+          "published": "2026-11-17T21:46:28+00:00",
+          "description": "Ugyanis élőben közvetítik az MRTV vezérigazgatói posztjára pályázók meghallgatásait.",
+          "image": "https://assets.telex.hu/images/20261117/1794951707-temp-4m7cd7hrii2b2addpkn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Döntetlen az északírekkel, nincs meg a feljutás az elit divízióba",
+          "url": "https://telex.hu/sport/2026/11/17/magyar-eszakir-nemzetek-ligaja-befejezes",
+          "published": "2026-11-17T21:42:53+00:00",
+          "description": "Az első félidőben Varga góljával előnybe került a tartalékos magyar válogatott, de a másodikban nem tudta ezt megtartani. A feljutásért osztályozó jön: Dánia, Wales, Szerbia vagy Horvátország lesz az ellenfél.",
+          "image": "https://assets.telex.hu/images/20261117/1794950187-temp-n8kp46gt841uaejcjgo_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Fideszes képviselők vagyonnyilatkozatai is előkerültek Forsthoffer Ágnes és Németh Balázs keddi csörtéjében",
+          "url": "https://telex.hu/belfold/2026/11/17/forsthoffer-agnes-nemeth-balazs-vagyonnyilatkozas-csorte",
+          "published": "2026-11-17T21:22:39+00:00",
+          "description": "A házelnök szerint Németh olyannal támadja, amiben ő is hibázott korábban.",
+          "image": "https://assets.telex.hu/images/20261117/1794950503-temp-v0r9i0l2kftedcpdlaf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Kikúrálták a fejbe kólintott hódot, hálából felzabálta az ajtófélfát",
+          "url": "https://telex.hu/zacc/2026/11/17/kikuraltak-a-fejbe-kolintott-hodot-halabol-felzabalta-az-ajtofelfat",
+          "published": "2026-11-17T21:14:54+00:00",
+          "description": "A jóllakott állat visszatérhetett a természetbe, és elúszhatott a naplementébe.",
+          "image": "https://assets.telex.hu/images/20261117/1794949889-temp-89e2pdh4n3op9ckpdcd_cimlap-normal.jpg",
+          "category": "Zacc",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Az oroszok új taktikájuk részeként támadtak Kijevben, Ukrajna viszont presztízsveszteséget jelentő csapást mért a krími hídra",
+          "url": "https://telex.hu/kulfold/2026/11/17/ukrajna-nato-tagsag-eselye-orosz-ukran-haboru-rendezesi-tervek-kijev-kercsi-hid-csapas-zelenszkij-putyin",
+          "published": "2026-11-17T20:42:04+00:00",
+          "description": "Ukrajnát érő dróntámadások, orosz hidat is megrongáló ukrán csapások követték az Abu-Dzabiban amerikai közvetítéssel tartott orosz–ukrán megbeszéléseket. Így is új szakasz jöhet a háború lezárását célzó tárgyalásokon. Európai részvétellel Putyin a kontinens biztonsági rendszerét is bedobná a kala...",
+          "image": "https://assets.telex.hu/images/20261117/1794932514-temp-jlnsfh11mlchdpplfkj_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "Lezuhant egy orosz katonai repülőgép Szibériában, a teljes legénység meghalt",
+          "url": "https://telex.hu/kulfold/2026/11/17/oroszorszag-sziberia-repulo-baleset",
+          "published": "2026-11-17T19:56:31+00:00",
+          "description": "19-en tartózkodtak a repülőn, ami már a becsapódás előtt lángolt.",
+          "image": "https://assets.telex.hu/images/20261117/1794945277-temp-9jnp16nl2li80febcdk_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "A mezőkövesdi plébánia szekrényéből előkerült egy lábszárcsont, ami szinte biztos, hogy Szent László királyé",
+          "url": "https://telex.hu/techtud/2026/11/17/mezokovesd-szent-laszlo-ereklye-valodisag-sipcsont",
+          "published": "2026-11-17T19:46:08+00:00",
+          "description": "Nagyon úgy néz ki, hogy egy valódi ereklye került elő a plébánia egyik fémdobozából.",
+          "image": "https://assets.telex.hu/images/20261117/1794944437-temp-bhnmd6i8q2tnboeaacg_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Az összes lehetséges kategóriában jelölték a GTA VI-ot az idei Game Awardson, pedig még meg sem jelent",
+          "url": "https://telex.hu/after/2026/11/17/videojatek-game-awards-jeloles-gta-6-resident-evil-control-phantom-blade-zero",
+          "published": "2026-11-17T19:23:49+00:00",
+          "description": "Nyolc jelölést kapott, természetesen esélyes az év játéka címre is, bár szinte senki nem tudja még, hogy amúgy milyen.",
+          "image": "https://assets.telex.hu/images/20261117/1794943047-temp-5pr9msugen187pbhadl_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Flachner Balázs"
+        },
+        {
+          "title": "Pattinsonnak semmi szüksége Bondra. A Bond-univerzumnak viszont nagyon kell Pattinson",
+          "url": "https://telex.hu/after/2026/11/17/james-bond-robert-pattinson-szereposztas-amazon",
+          "published": "2026-11-17T19:17:29+00:00",
+          "description": "Robert Pattinson szerződtetését szélsőséges reakciók kísérik az interneten, pedig épp ő adhat új lendületet a franchise-nak. Ha az új Bond-filmet rendező Denis Villeneuve tényleg kegyetlen és sötét humorú bérgyilkost akar 007-esként, akkor teljesen érthető a döntés.",
+          "image": "https://assets.telex.hu/images/20261117/1794943793-temp-om4kldqlq4uo6ohddjl_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Orbánék szerint az ő idejükben hiába is hivatkozott volna bárki személyes vagy rokoni kapcsolatokra",
+          "url": "https://telex.hu/belfold/2026/11/17/orban-viktor-orban-aron-vizum-kulugyminiszterium",
+          "published": "2026-11-17T19:01:35+00:00",
+          "description": "A nemzeti kormány alatt ilyesmivel nem lehetett a kormányzati döntéseket befolyásolni – reagált Orbán Viktor titkársága Velkey György államtitkár Orbán Áronra vonatkozó állításaira.",
+          "image": "https://assets.telex.hu/images/20261117/1794941601-temp-ep9i3c17ns968fpdpio_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "A légi irányítás és a bankrendszer után most az amerikai nemzetbiztonság belső kommunikációja halt le",
+          "url": "https://telex.hu/techtud/2026/11/17/nsa-belso-rendszere",
+          "published": "2026-11-17T18:56:47+00:00",
+          "description": "Elérhetetlenné vált az amerikai Nemzetbiztonsági Ügynökség belső kommunikációs platformja.",
+          "image": "https://assets.telex.hu/images/20261117/1794941744-temp-bpcse54e7435cojicdj_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Wellnessrészleggel és borospincével felszerelt bugaci ingatlanokat vásárolt a kecskeméti egyetemi alapítvány",
+          "url": "https://telex.hu/gazdasag/2026/11/17/mnb-ugy-neumann-janos-egyetemert-alapitvany-bugaci-ingatlanok",
+          "published": "2026-11-17T18:39:27+00:00",
+          "description": "Az MNB-ügyből ismert alapítvány új vezetése átvilágítaná a régi vezetés döntéseit.",
+          "image": "https://assets.telex.hu/images/20261117/1794940709-temp-oler46lnii7h2ihfhcn_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Lemondott Ruszin-Szendi Romulusz egyik helyettes államtitkára",
+          "url": "https://telex.hu/belfold/2026/11/17/szonyegi-janos-honvedelmi-miniszterium-helyettes-allamtitkar-lemondas-ruszin-szendi-romulusz",
+          "published": "2026-11-17T18:39:09+00:00",
+          "description": "Szőnyegi János még a múlt héten kérte felmentését, de távozását eddig nem jelentették be nyilvánosan.",
+          "image": "https://assets.telex.hu/images/20261117/1794940635-temp-4r6nuvfj6adc0cjcdek_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Munkácsi orosz dróntámadás: ilyen még nem volt, hogy a magyar–ukrán vasúti közlekedést is felfüggesszék",
+          "url": "https://telex.hu/kulfold/2026/11/17/karpatalja-ukrajna-munkacs-orosz-dron-becsapodas-orosz-ukran-haboru",
+          "published": "2026-11-17T18:01:29+00:00",
+          "description": "Munkácson drón csapódott be a vasútállomástól nem messze egy gyár udvarán. Kárpátalját ritkábban érik támadások, mint Ukrajna más részeit, legutóbb a Tisza-kormány hivatalba lépése után történt hasonló, most Magyar és Zelenszkij találkozójának szervezése közepén. Magyar a Fideszt, az ellenzéki pá...",
+          "image": "https://assets.telex.hu/images/20261117/1794930354-temp-rf3ig655tmcb7ehococ_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Nyilas Gergely"
+        },
+        {
+          "title": "A Szentkirályi-tulaj Balogh Levente lett a Kincsem Park új ügyvezető igazgatója",
+          "url": "https://telex.hu/belfold/2026/11/17/balogh-levente-kincsem-park-ugyvezeto-igazgato-kinevezes",
+          "published": "2026-11-17T17:40:42+00:00",
+          "description": "Az agrárminisztérium új cégvezetőt is kinevezett, a volt Szerencsejáték Zrt.-s Brenkus Krisztián személyében.",
+          "image": "https://assets.telex.hu/images/20261117/1794937205-temp-53eceqptg524bighfkf_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "Az Egyesült Államok 25 év után elvesztette a „kanyarómentes ország” státuszt",
+          "url": "https://telex.hu/kulfold/2026/11/17/kanyaro-egyesult-allamok",
+          "published": "2026-11-17T17:10:46+00:00",
+          "description": "Egy éve folyamatosan terjed a kanyaró Amerikában.",
+          "image": "https://assets.telex.hu/images/20261117/1794935341-temp-948acd6h5ncd1dekeaf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Leváltották a TV2 Híradó főszerkesztőjét",
+          "url": "https://telex.hu/after/2026/11/17/tv2-tenyek-hirado-foszerkeszto-kirugas",
+          "published": "2026-11-17T16:58:29+00:00",
+          "description": "A cégcsoport szerint Adler László ezután is a TV2-nél marad. Két felelős szerkesztőt is leváltottak a műsornál.",
+          "image": "https://assets.telex.hu/images/20261117/1794934681-temp-f6idv1ifin8l6gmijhi_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Világi Máté"
+        },
+        {
+          "title": "„Küzdeni kell a hatalmi viszonyok ellen, hogy egyenlőek tudjunk maradni” – erős idézetek Dragomán György interjújából",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/17/dragoman-gyorgy-nyary-krisztian-bukso-eros-idezetek",
+          "published": "2026-11-17T16:51:32+00:00",
+          "description": "Az író a történetmondásról, a hazugságról, az igazságról, a szeretetről, a szerelemről, az emlékezésről és a diktatúráról is beszélt. Íme a legfontosabb gondolatok.",
+          "image": "https://assets.telex.hu/images/20261117/1794922872-temp-cfvs0s5h3oqt1geldjo_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Regényi Eszter"
+        },
+        {
+          "title": "Dragomán György: Az igazán durva diktatúrában a diktátor apafiguraként jelenik meg",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/17/bukso-nyary-krisztian-dragoman-gyorgy",
+          "published": "2026-11-17T16:51:18+00:00",
+          "description": "Ha muszáj hatalomról írni, akkor ő próbál felelős hatalomról írni – vallja Dragomán György, akivel Nyáry Krisztián a legújabb novelláskötetéről és az írás természetéről beszélgetett a Buksó legújabb adásában.",
+          "image": "https://assets.telex.hu/images/20261116/1794823680-temp-6m4t1gnbkd9c4gbgbdh_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Nyáry Krisztián"
+        },
+        {
+          "title": "Jensen Huang bejelentette, hogy szívesen visszatérne az Nvidia élére",
+          "url": "https://telex.hu/gazdasag/2026/11/17/jensen-huang-kozlemeny-nvidia",
+          "published": "2026-11-17T16:24:21+00:00",
+          "description": "Huang múlt héten mondott le az Nvidia vezetéséről, most nyilatkozatban közölte álláspontját.",
+          "image": "https://assets.telex.hu/images/20261117/1794932918-temp-krpgsn4rh896egjmomn_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Már nyáron megpecsételődött a most kirúgott paksi vezérigazgató sorsa",
+          "url": "https://telex.hu/gazdasag/2026/11/17/paks-zrt-vezerigazgato-levaltas-kapitany-istvan-horvath-peter-janos",
+          "published": "2026-11-17T16:09:05+00:00",
+          "description": "Horváth Péter János már hónapok óta nem élvezhette a kormány bizalmát. A nyári paksi válság idején pedig egyre inkább más vezető került előtérbe.",
+          "image": "https://assets.telex.hu/images/20261117/1794931346-temp-d0li57i2nerp9gkphlk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Brückner Gergely"
+        },
+        {
+          "title": "Elásott milliárdok: a korrumpáló is megérdemli a tisztítótüzet",
+          "url": "https://telex.hu/g7/kozelet/2026/11/17/elasott-milliardok-korrupcio-tamogatasok-visszaosztas-felelosseg",
+          "published": "2026-11-17T15:53:44+00:00",
+          "description": "Sokak szerint a korrupció természetes velejárója az üzleti világnak. Ennek a szemléletnek a következménye legalább olyan káros, mint a korrupció kikényszerítése. Reszegi László véleménycikke.",
+          "image": "https://assets.telex.hu/images/20261117/1794924827-temp-2vgb5pldnuftdphamgm_cimlap-normal.jpg",
+          "category": "Közélet",
+          "author": "Reszegi László"
+        }
+      ]
     },
     {
       "id": "444",
@@ -1477,6 +1703,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "„Meglepődnék, ha kirúgnának” – Marco Rossi a jövőjéről is beszélt a fájó döntetlen után",
+          "url": "https://www.origo.hu/sport/sport-futball/2026/11/marco-rossi-magyarorszag-eszak-irorszag-nl-sajtaj",
+          "published": "2026-11-18T05:00:00+01:00",
+          "description": "A kapitány az egész éves teljesítményt is értékelte.",
+          "image": "https://cdn.origo.hu/2026/11/qJfjB3ClImz_ZhY-rCR7vsrxLgGp6sXLgUIk5j3uSFs/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU0MDc5MmE5OTIyZjQzODJhMDIyNGRhMDBiOTI0NTA2.webp",
+          "category": "Marco Rossi",
+          "author": null
+        },
+        {
           "title": "Képeken a drámai magyar-északír Nemzetek Ligája-meccs",
           "url": "https://www.origo.hu/sport/galeria/kepeken-a-dramai-magyar-eszakir-nemzetek-ligaja-meccs",
           "published": null,
@@ -1560,10 +1795,10 @@
         {
           "title": "Négy holttestet exhumáltak Dunapatajon: emberölés miatt nyomoz a rendőrség",
           "url": "https://www.origo.hu/kek-hirek/2026/11/emberoles-negy-holttestet-exhumaltak-dunapatajon",
-          "published": null,
-          "description": "A településen történt rejtélyes halálesetek ügyében november 16-án hallgattak ki egy férfit.",
-          "image": "https://cdn.origo.hu/2026/11/BxzjSbOd74scFbUyJubJMPV_QL5qvOEDeXAP-BcDo7c/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNmZDM0ZjFiNzlkYjRkOGU4OTZkOGRkNjJiYTNmMWRm.webp",
-          "category": "rendőrség",
+          "published": "2026-11-17T20:15:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Kék hírek",
           "author": null
         },
         {
@@ -1687,15 +1922,6 @@
           "title": "Marco Rossi fontos változtatásai: így kezd a magyar válogatott az északírek ellen",
           "url": "https://www.origo.hu/sport/sport-futball/2026/11/magyarorszag-eszak-irorszag-nemzetek-ligaja-kezdo",
           "published": "2026-11-17T18:40:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Sport",
-          "author": null
-        },
-        {
-          "title": "Rosszul sült el a Fradi-játékos megtréfálása: ordibálás, szitkozódás lett belőle",
-          "url": "https://www.origo.hu/sport/sport-futball/2026/11/botka-endre-szivatas-tortenet",
-          "published": "2026-11-17T18:30:00+00:00",
           "description": null,
           "image": null,
           "category": "Sport",
