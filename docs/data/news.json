@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-20T13:45:46.189618+00:00",
+  "scraped_at": "2026-11-20T13:50:40.720834+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "A kulturális kormányzat azt ígéri, a szakmával folytatott párbeszédet a jövőben is számon lehet kérni rajtuk",
+          "url": "https://telex.hu/belfold/2026/11/20/kultura2028-konferencia-szakma-parbeszed-szamon-ehet-kerni",
+          "published": "2026-11-20T13:45:49+00:00",
+          "description": "Erről beszélt Nagy Ervin a kulturális finanszírozás jövőjéről, Kultúra2028 címmel rendezett kétnapos konferencián.",
+          "image": "https://assets.telex.hu/images/20261120/1795182091-temp-lerio0o28eb7ffcchkp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Texasban kivégezték a magyar származású gyémántkereskedő, Szűcs „Johnny” János gyilkosát",
+          "url": "https://telex.hu/kulfold/2026/11/20/egyesult-allamok-texas-gyilkos-kivegzes-gyemant",
+          "published": "2026-11-20T13:38:29+00:00",
+          "description": "A férfi 29 évet töltött a halálsoron, kivégzése nem volt zökkenőmentes.",
+          "image": "https://assets.telex.hu/images/20261120/1795181776-temp-ut3iadqurnr39fillgl_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Nyíregyházán nyílik kiállítás a Telex fotósainak díjnyertes képeiből",
+          "url": "https://telex.hu/kozlemeny/2026/11/20/telex-fotokiallitas",
+          "published": "2026-11-20T13:11:28+00:00",
+          "description": "November 25-én a Váci Mihály Kulturális Központban indul fotókiállításunk országos körútja. A megnyitón Huszti Istvánnal, a Telex fotósával Klág Dávid beszélget.",
+          "image": "https://assets.telex.hu/images/20261120/1795175266-temp-j2v30tlhbbg27oafami_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Arnótszky Judit Janka"
+        },
+        {
+          "title": "Mészárosék konzorciuma reagált arra, hogy a kormány megszünteti a 35 éves autópálya-koncessziót",
+          "url": "https://telex.hu/gazdasag/2026/11/20/reagalt-az-mkif-arra-hogy-a-kormany-megszunteti-a-35-eves-autopalya-koncessziot",
+          "published": "2026-11-20T13:10:53+00:00",
+          "description": "Az MKIF közölte, hogy konstruktív egyeztetéseket folytatott a magyar állammal.",
+          "image": "https://assets.telex.hu/images/20261120/1795180111-temp-h3rf1gb822h4dfbgcle_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Havi 1 millióért bérlik a 461 lóerős autót Mészáros Lőrinc cégétől az agrárkutató intézet vezetőjének",
+          "url": "https://telex.hu/belfold/2026/11/20/havi-791-ezer-forintert-berel-autot-az-egyik-miniszteriumi-hatterintezmeny-meszaros-lorinc-cegetol",
+          "published": "2026-11-20T13:10:10+00:00",
+          "description": "A nagyméretű, prémium kategóriás Volvo XC90-ért a háttérintézmény három év alatt 36 millió forintot fizet. Pár nappal az új kormány felállása után aztán még újabb szerződést kötöttek további négy autó tartós bérletére. A Telexnek azt írták: nyilvános közbeszerzésen, tiszta versenyben választották...",
+          "image": "https://assets.telex.hu/images/20261119/1795095257-temp-lgdbi4a1avmi6emfllm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Munkára kényszerített, és megalázó körülmények között tartott kiszolgáltatott embereket egy család Kecskeméten",
+          "url": "https://telex.hu/belfold/2026/11/20/emberkereskedelem-kenyszermunka-orizetbe-vettek-negytagu-csaladot-kecskemeten",
+          "published": "2026-11-20T13:00:15+00:00",
+          "description": "Emberkereskedelem és kényszermunka miatt vették őket őrizetbe, a házukban 8,6 millió forintot és kilenc járművet találtak.",
+          "image": "https://assets.telex.hu/images/20261120/1795179449-temp-h3a698ujvs1u1apgkic_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Huszonnyolc helyen állandóan rendőr posztol Budapest utcáin, a főkapitány szerint értek el eredményeket a közbiztonság javításában",
+          "url": "https://telex.hu/belfold/2026/11/20/budapest-kozbiztonsag-baricska-norbert-tamas-kabitoszer",
+          "published": "2026-11-20T12:53:55+00:00",
+          "description": "Több mint 900 eljárást indítottak drog miatt, de 90 százalékban fogyasztók ellen, derült ki Baricska Norbert Tamás tájékoztatóján. Kétezer rendőr hiányzik Budapestről, vidékről is jöttek polgárőrök, hogy a járőrök munkáját segítsék.",
+          "image": "https://assets.telex.hu/images/20261120/1795177019-temp-9cs7beamfn8pcocphkd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Csalás miatt indított nyomozást a NAV az Apáthy-sziklára épült NER-közeli ingatlan miatt",
+          "url": "https://telex.hu/belfold/2026/11/20/csalas-miatt-inditott-nyomozast-a-nav-az-apathy-sziklara-indult-ner-kozeli-ingatlan-miatt",
+          "published": "2026-11-20T12:46:44+00:00",
+          "description": "Az ügyben Tordai Bence tett feljelentést. Tiborcz István cégcsoportja tagadja, hogy köze lenne az ingatlanhoz.",
+          "image": "https://assets.telex.hu/images/20261120/1795178527-temp-9khl7cmbj0pl0lncfkl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Észtország legalább hat hónapra lezárja a határait Oroszország felé",
+          "url": "https://telex.hu/kulfold/2026/11/20/esztorszag-legalabb-hat-honapra-lezarja-hatarait-oroszorszag-fele",
+          "published": "2026-11-20T12:40:04+00:00",
+          "description": "A balti állam biztonsági okokra hivatkozik, miután néhány napja szabotázsakcióval vádolták meg az orosz biztonsági szolgálatokat.",
+          "image": "https://assets.telex.hu/images/20261120/1795177919-temp-pqsi6otq40i33pdmajf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Havasi Bertalan Orbán több tízmilliós luxusútjairól: A volt miniszterelnök ilyenkor napidíjat sosem vett fel",
+          "url": "https://telex.hu/belfold/2026/11/20/havasi-bertalan-orban-luxusutjai-kulfoldi-utazasai-soran-napidijat-nem-vett-fel",
+          "published": "2026-11-20T12:07:20+00:00",
+          "description": "A Fidesz sajtófőnöke hangsúlyozta, hogy a volt miniszterelnök az európai kollégáival azonos szintű szállásokat vett igénybe.",
+          "image": "https://assets.telex.hu/images/20261120/1795178715-temp-3gfeon54pddrehjhohp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Trump háborúja mostanra a tőzsdéket és az aranyat is szétverte, és a forint is szenved",
+          "url": "https://telex.hu/g7/penz/2026/11/20/trump-haboru-arfolyam-arany-tozsde-forint",
+          "published": "2026-11-20T11:58:39+00:00",
+          "description": "Az iráni háború inflációt gerjesztett, az erre reagáló kamatemelések pedig lekaszálják a részvényeket, a nemesfémeket és a dolláron kívüli devizákat. Ezt a kört már a választás óta kiemelkedően teljesítő forint sem úszta meg esés nélkül.",
+          "image": "https://assets.telex.hu/images/20261120/1795168279-temp-bj1vbf19a0pvfjafkif_cimlap-normal.jpg",
+          "category": "Pénz",
+          "author": "Hajdu Miklós"
+        },
+        {
+          "title": "Dánia legidősebb embereként köszöntötték, aztán egyszer csak kiderült, hogy náci volt",
+          "url": "https://telex.hu/kulfold/2026/11/20/dania-unnepelte-a-legidosebb-polgarat-majd-kiderult-rola-hogy-naci-volt",
+          "published": "2026-11-20T11:49:04+00:00",
+          "description": "A 112 éves Kirsten Schwalbe életrajzi könyvéből ezt a részletet kihagyták, a kiadó azonban közölte, hogy a későbbi kiadásokat majd kiegészítik ezzel.",
+          "image": "https://assets.telex.hu/images/20261120/1795174383-temp-0tarotuv3lf00mjcojf_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Fekete Giorgióval és David Szalay Booker-díjas regényével folytatódik a Telex Olvasóklubja",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/20/telex-olvasoklub-fekete-giorgio-david-szalay-test-flesh",
+          "published": "2026-11-20T11:25:12+00:00",
+          "description": "Ingázás két világ között, kifürkészhetetlen kanyarok és otthonos magány. December 1-én a Carson Coma frontembere lesz a vendégünk, akivel a Testről beszélgetünk.",
+          "image": "https://assets.telex.hu/images/20261120/1795172213-temp-8uvmr34demil7cdmnng_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Karakter"
+        },
+        {
+          "title": "Nemzetek Ligája: Szerbiával játszik a magyar válogatott a feljutásért",
+          "url": "https://telex.hu/sport/2026/11/20/nemzetek-ligaja-sorsolas-osztalyozo",
+          "published": "2026-11-20T11:21:53+00:00",
+          "description": "Marco Rossi csapata itthon kezd, a visszavágót Belgrádban rendezik.",
+          "image": "https://assets.telex.hu/images/20261120/1795172943-temp-p00p0ief1m45cannmdf_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Lövést adott le egy férfi egy székesfehérvári buszmegállóban még szerdán, azóta beismerő vallomást tett",
+          "url": "https://telex.hu/belfold/2026/11/20/buszmegalloban-adott-le-lovest-egy-ferfi-szekesfehervaron",
+          "published": "2026-11-20T11:19:03+00:00",
+          "description": "Átvizsgálásakor egy gáz- és riasztófegyvert is találtak nála, aminek közterületi viselésére nem volt engedélye.",
+          "image": "https://assets.telex.hu/images/20261120/1795172977-temp-lamp34d4aovp0badhgd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Orbán 29-szer vette be az ötcsillagos brüsszeli hotelt, ami összesen 120 millió adóforintba került",
+          "url": "https://telex.hu/belfold/2026/11/20/orban-29-szer-otcsillagos-brusszeli-hotelt-120-millio-forint",
+          "published": "2026-11-20T11:17:54+00:00",
+          "description": "Újabb részletek derültek ki az Orbán Viktor külföldi utazásairól szóló 444-es adatigénylésekből. Egy koppenhágai éjszaka például 55,1 millióba került.",
+          "image": "https://assets.telex.hu/images/20261120/1795173016-temp-vs8p4a3kgai82cchjmp_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Beismerő vallomást tett a meggyilkolt japán állampolgárságú nő volt férje a bíróságon",
+          "url": "https://telex.hu/belfold/2026/11/20/beismero-vallomast-tett-meggyilkolt-japan-no-volt-ferje-birosagon",
+          "published": "2026-11-20T10:52:25+00:00",
+          "description": "Az ír férfi a gyilkosságot korábban balesetnek próbálta beállítani, és sokáig tagadta a bűnösségét.",
+          "image": "https://assets.telex.hu/images/20261120/1795172103-temp-njmsk1p9nmbkcmhjnpl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Feltérképezte Orbán és Vučić bizniszeit egy szerb lap",
+          "url": "https://telex.hu/gazdasag/2026/11/20/orban-viktor-aleksandar-vucic-szerbia-kapcsolatok",
+          "published": "2026-11-20T10:51:27+00:00",
+          "description": "Tiborcz István üzleti érdekeltségei is megjelentek a szerbiai ingatlanpiacon a szoros szerb–magyar politikai együttműködés éveiben.",
+          "image": "https://assets.telex.hu/images/20261120/1795171291-temp-qbr649j3n53kcabnnpk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "Rejtély, hogy Rogán embere mit csinált havi 3,9 millió forintért az állami cég tanácsadójaként, a rendőrség nyomoz a szerződés miatt",
+          "url": "https://telex.hu/belfold/2026/11/20/siroki-attila-jozsef-digitalis-kormanyzati-ugynokseg-tanacsadoi-szerzodes-nyomozas",
+          "published": "2026-11-20T10:47:50+00:00",
+          "description": "Siroki Attila Józsefet 2023-ban leváltották a Digitális Kormányzati Ügynökség éléről, majd másnap tanácsadóként kezdték foglalkoztatni.",
+          "image": "https://assets.telex.hu/images/20261120/1795172277-temp-2p054a2tjn029galalj_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Erőszakos támadásokat terveztek Revolut-ügyfelek ellen, tíz gyanúsítottat tartóztatott le a holland rendőrség",
+          "url": "https://telex.hu/gazdasag/2026/11/20/revolut-kiszivargott-adatok-letartoztatas-eroszak",
+          "published": "2026-11-20T10:33:39+00:00",
+          "description": "A csalók adatlopással fértek hozzá a bank ügyfeleinek adataihoz, egy olasz város rendőrségének nevében írtak a Revolutnak.",
+          "image": "https://assets.telex.hu/images/20261120/1795170290-temp-pi5pt1ghgo91fjhafkb_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Madzin Emília"
+        },
+        {
+          "title": "Orosz robotrepülőgép zuhant le egy lengyel településen, Tusk szerint külföldi provokációval állnak szemben",
+          "url": "https://telex.hu/kulfold/2026/11/20/ismeretlen-targy-zuhant-le-egy-lengyel-telepulesen",
+          "published": "2026-11-20T10:18:30+00:00",
+          "description": "A lengyel belügyminiszter pedig közölte, hogy három helyszínen folytatnak nyomozást légtérsértés ügyében az Ukrajna elleni orosz csapások után.",
+          "image": "https://assets.telex.hu/images/20261120/1795170593-temp-lpntme002lfbelealej_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Vida Benjámin"
+        },
+        {
+          "title": "35 éve fejleszti a magyar ipart és energetikát az ABB, hogy hatékonyabbá és környezetkímélőbbé váljon",
+          "url": "https://telex.hu/g7/tamogatott-tartalom/2026/11/20/35-eve-fejleszti-a-magyar-ipart-es-energetikat-az-abb-hogy-hatekonyabba-es-kornyezetkimelobbe-valjon",
+          "published": "2026-11-20T10:02:52+00:00",
+          "description": "Több mint 200 milliárd forint értékű hazai projekt megvalósításában vett részt a svájci-svéd elektrifikációs és automatizálási nagyvállalat, amely 1991 óta gyártási, mérnöki és regionális szolgáltatási tevékenységet is kiépített Magyarországon.",
+          "image": "https://assets.telex.hu/images/20261119/1795078609-temp-kpao2au8betk2peajlh_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Bucsky Péter"
+        },
+        {
+          "title": "Négymillió Tisza-szavazót mért a Fidesz-közeli Nézőpont Intézet",
+          "url": "https://telex.hu/belfold/2026/11/20/nezopont-intezet-partpreferencia-mraz-agoston-samuel",
+          "published": "2026-11-20T09:57:48+00:00",
+          "description": "A Facebook megelőzte az internetet címmel publikálta új elemzését Mráz Ágoston Sámuel intézete, amely az önvizsgálat után azt ígérte: a jövőben elsősorban nem pártpreferenciákat fog mérni.",
+          "image": "https://assets.telex.hu/images/20261120/1795168377-temp-6mcremq7b20r5ehiobl_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "800 gyereket küldtek haza a budaörsi iskolából egy elvágott gázcső miatt",
+          "url": "https://telex.hu/belfold/2026/11/20/800-gyerek-kuldtek-haza-budaorsi-iskolabol-elvagott-gazcso",
+          "published": "2026-11-20T09:55:47+00:00",
+          "description": "A Hársfa utcai iskola épületét és a szomszédos területet a tűzoltók lezárták.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Patakfalvi Dóra"
+        },
+        {
+          "title": "Mit tudunk valójában a nikotinról? Egy friss kutatás szerint vegyes a kép",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/11/20/mit-tudunk-valojaban-a-nikotinrol-egy-friss-kutatas-szerint-vegyes-a-kep",
+          "published": "2026-11-20T09:55:02+00:00",
+          "description": "A nikotin függőséget okoz, arról azonban jóval kevesebb szó esik, milyen szerepet játszik a dohányzás egészségügyi kockázataiban, és miben különbözik a hatása a dohány égése során keletkező füsttől.",
+          "image": "https://assets.telex.hu/images/20260803/1785759450-temp-jdevm8suie3dcfhgahm_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        }
+      ]
     },
     {
       "id": "444",
@@ -20,6 +246,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Észtország hat hónapra zárja le a közös határát Oroszországgal",
+          "url": "https://444.hu/2026/11/20/esztorszag-hat-honapra-zarja-le-a-kozos-hatarat-oroszorszaggal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-20T13:47:49+00:00",
+          "description": "Az észtek részéről ez nem egyetlen incidensre adott válasz.",
+          "image": "https://assets.4cdn.hu/kraken/8Ps5ImqujLgNGWB0s.jpeg",
+          "category": "határzár",
+          "author": "Székely Sarolta"
+        },
+        {
+          "title": "Megvan, miért nem esett teherbe az állatkerti elefánt: van egy kis túlsúlya, 500 kiló",
+          "url": "https://444.hu/2026/11/20/megvan-miert-nem-esett-teherbe-az-allatkerti-elefant-van-egy-kis-tulsulya-500-kilo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-20T13:42:08+00:00",
+          "description": "Donna Tonna!",
+          "image": "https://assets.4cdn.hu/kraken/8Pzh9ap913mSG8DEs.png",
+          "category": "túlsúly",
+          "author": "Szily László"
+        },
         {
           "title": "Dánia valaha volt legidősebb polgáraként egy ország ünnepelte, aztán kiderült valami a múltjából",
           "url": "https://444.hu/2026/11/20/dania-valaha-volt-legidosebb-polgarakent-egy-orszag-unnepelte-aztan-kiderult-valami-a-multjabol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -226,24 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8PyLMP7GJj3SWQLcs.jpeg",
           "category": "kijev",
           "author": "Haász János"
-        },
-        {
-          "title": "Hiába állt körözés alatt Stofa György, az ő cége adta a legkedvezőbb ajánlatot a Honvédelmi Minisztériumnak",
-          "url": "https://444.hu/2026/11/20/hiaba-allt-korozes-alatt-stofa-gyorgy-az-o-cege-adta-a-legkedvezobb-ajanlatot-a-honvedelmi-miniszteriumnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-20T07:19:42+00:00",
-          "description": "A minisztérium pedig állítja, nem szólhatott bele a közbeszerzési főigazgatóság döntésébe.",
-          "image": "https://assets.4cdn.hu/kraken/8PF49ajT07nTHF9Ns.png",
-          "category": "mnb-ügy",
-          "author": "Bódog Bálint"
-        },
-        {
-          "title": "Nem hiába kéri a szurkolást Kubatov Gábor, felülvizsgálja az állami MVM a Fradival kötött szponzorációs szerződést",
-          "url": "https://444.hu/2026/11/20/nem-hiaba-keri-a-szurkolast-kubatov-gabor-felulvizsgalja-az-allami-mvm-a-fradival-kotott-szponzoracios-szerzodest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-20T07:11:55+00:00",
-          "description": "November 26-án tárgyalnak a most a Fradinak évi 4,5 milliárd forintot jelentő szerződés sorsáról.",
-          "image": "https://assets.4cdn.hu/kraken/8L3PoHyZj69tJMAts.jpeg",
-          "category": "szponzori megállapodások",
-          "author": "Haász János"
         }
       ]
     },
@@ -256,6 +482,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "4,4-es erősségű földrengés rázta meg Los Angeles térségét",
+          "url": "https://index.hu/kulfold/2026/11/20/egyesult-allamok-los-angeles-foldrenges-kalifornia/",
+          "published": "2026-11-20T13:46:00+00:00",
+          "description": "A tűzoltóság megkezdte a kritikus infrastruktúra felmérését.",
+          "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
+          "category": "Külföld",
+          "author": null
+        },
         {
           "title": "Tízezer rohingya menekültet telepítene át Malajzia Törökországba",
           "url": "https://index.hu/kulfold/2026/11/20/mianmar-rohingja-menekultek-attelepites-torokorszag/",
@@ -471,15 +706,6 @@
           "image": "https://kep.index.hu/1/0/7262/72621/726217/72621721_5350579_4d8f274d2bb85b91a75935582d0c1cff_wm.jpg",
           "category": "Kézilabda",
           "author": null
-        },
-        {
-          "title": "Sencsenben megmutatták, hogyan néz ki a világ, amelyben Európa nincs benne",
-          "url": "https://index.hu/kulfold/vilagjatszma/2026/11/20/vilagjatszma-vilagrend-sencsen-kina-orszorszag-usa-europai-unio-gazdasag-csucstalalkozo/",
-          "published": "2026-11-20T09:59:00+00:00",
-          "description": "Súlyos üzenetet hordoz Donald Trump, Hszi Csin-ping és Vlagyimir Putyin történelmi találkozója.",
-          "image": "https://kep.index.hu/1/0/7262/72621/726210/72621011_5350549_7dae59d16f984cb4bc08152247f2512a_wm.jpg",
-          "category": "Világjátszma",
-          "author": null
         }
       ]
     },
@@ -492,6 +718,33 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Titokzatos világ tárul fel Budapesten – egy fiú hosszasan szemlélte az otthonukban függő festményeket, és képzeletben belépett az ábrázolt tájakba",
+          "url": "https://magyarnemzet.hu/kultura/2026/11/titokzatos-vilag-tarul-fel-budapesten-egy-fiu-hosszasan-szemlelte-az-otthonukban-fuggo-festmenyeket-es-kepzeletben-belepett-az-abrazolt-tajakba?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-11-20T13:49:46+00:00",
+          "description": "A festő, akinek képei nem kínálnak könnyen megfejthető történetet.",
+          "image": "https://cdn.magyarnemzet.hu/2026/11/le9zxXZnpk_IXbLC4Y_9M4R4wqj6CEi-QFhpPDh8dWM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvMjZjMTQ1OTc3ZjQ0YTMwZmNkMzhkOGIxODhlMjMzYmU3YjJkZmIxNWEyNmViZDk2YTViOTM5NWY1OTEyMTk0Ng.jpg",
+          "category": "kultúra",
+          "author": null
+        },
+        {
+          "title": "Új módszer fedheti fel az atomokon belüli világ titkait",
+          "url": "https://magyarnemzet.hu/tudomany/2026/11/uj-modszerrel-az-elektonok-nyomaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-11-20T13:47:04+00:00",
+          "description": "Rekordot döntő attoszekundumos röntgenimpulzusokkal az elektronok mozgása is pontosan megfigyelhetővé válik.",
+          "image": "https://cdn.magyarnemzet.hu/2026/11/PFhPDZYxRckM5Dyx0tBpUzJ7JPz6oUYyXMO0WZS674M/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvYWM1NGQ0ZmVkN2YxMjZjYzU1OTNiNTU4OWU1OTJhMmQ0ZmE1NzUyOTllNmMwMDBlZDllODkxZjcwNGRlMDM0MQ.jpg",
+          "category": "alapértelmezett",
+          "author": null
+        },
+        {
+          "title": "Megszólalt az MKIF az autópálya-koncesszió megszűnéséről",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/11/megszolalt-az-mkif-az-autopalya-koncesszio-megszuneserol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "published": "2026-11-20T13:44:52+00:00",
+          "description": "Az M1-es bővítéséről is fontos részletek derültek ki.",
+          "image": "https://cdn.magyarnemzet.hu/2026/11/Cs6JPoi8SqUmW2JLWDTbJhZrQ1iUQ2vaSH_AgTpr1cs/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvZWJlOGY5YWY0YTZjNmVkZTdkOWI1NzJlNzllNDEwMzUxNjVhNWU4MWYyOWEwMDM3MTk1Y2RhMzYwNjJmYTYzMg.jpg",
+          "category": "gazdaság",
+          "author": null
+        },
         {
           "title": "Összefogásra szólítják fel az egészségügyi szakdolgozókat: ne hagyják magukra a felmondó ápolókat!",
           "url": "https://magyarnemzet.hu/belfold/2026/11/osszefogasra-szolitjak-fel-az-egeszsegugyi-szakdolgozokat-ne-hagyjak-magukra-a-felmondo-apolokat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
@@ -688,33 +941,6 @@
           "description": "A felmérésből az is kiderül, hogy jelentős különbségek vannak az egyes korosztályok médiafogyasztási szokásai között.",
           "image": "https://cdn.magyarnemzet.hu/2026/08/SWXjDPbRrWqiKGNY-xP3QnwXaNsWSX28Ek1JYbvNlfU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkzZTRiNGZiZDQzMTQ0NmE4N2NhY2ZjYzA4ODY1OWM1.jpg",
           "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "Négymillió Tisza-szimpatizánssal számol a Nézőpont",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/negymillio-tisza-szimpatizanssal-szamol-a-nezopont?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-11-20T08:05:21+00:00",
-          "description": "A 2026-os választási becslés korrekciója szerint készítették el.",
-          "image": "https://cdn.magyarnemzet.hu/2026/11/sEosLWseOK_oRytD0KKso0HoK1X6LWqZw5yexpQ99k4/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvZTkzNWNjNjZlOTZjOTc4OGVlZDEwZWUzNTE0YzYxM2NkOWQxZTY4ZDMyNmU0MDE5NDhlM2MzYzQ1ODRiZDRlZQ.jpg",
-          "category": "belföld",
-          "author": null
-        },
-        {
-          "title": "Tungsram-gyár Nagykanizsán: az árverés is elmaradt, továbbra sincs vevő",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/11/senkinek-sem-kell-a-legendas-nagykanizsai-gyar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-11-20T08:01:21+00:00",
-          "description": "Hasonlóképpen járt az újpesti üzem is.",
-          "image": "https://cdn.magyarnemzet.hu/2026/11/CAB9dRD_765KMXtCdMkuBKqgBxim_2J185VaPaDN_o4/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvNTc4MjhiYzE0NWE4ZTQ5NmU0NjMzNmNkNzA4NGU0YmYzMmFhOTYzMTU5MzMzOTAxZmVmYmU0NjVkM2JhMjQyZQ.jpg",
-          "category": "gazdaság",
-          "author": null
-        },
-        {
-          "title": "Rákkal küzd a BL-győztes magyar kézilabdaedző – gyűjtést szerveznek neki",
-          "url": "https://magyarnemzet.hu/sport/2026/11/zsiga-gyula-hasnyalmirigyrak-gyujtes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "published": "2026-11-20T07:51:05+00:00",
-          "description": "Zsiga Gyula óriási harcot vív a gyilkos kórral, most sokan segítenének rajta.",
-          "image": "https://cdn.magyarnemzet.hu/2026/11/mmZBeb4NkNo4pbMu2VFLWAVuE4YWzdAElOzy23FjYac/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvMjNlYTQ2OGYyOTYwYTkzOGEyOWJiOTZmZDU0MzBmMzgyZDEyY2ViODc3N2QyMTBlM2Y4NTdhNDU3MTdhMTY4MA.jpg",
-          "category": "sport",
           "author": null
         }
       ]
@@ -1540,7 +1766,7 @@
         {
           "title": "New Yorkból Leányfalura – Az amerikai, aki beleszeretett Magyarországba",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/20/new-yorkbol-leanyfalura-az-amerikai-aki-beleszeretett-magyarorszagba",
-          "published": "2026-11-20T13:51:46.187566+01:00",
+          "published": "2026-11-20T13:51:40.718677+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
