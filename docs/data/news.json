@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-25T14:10:51.089231+00:00",
+  "scraped_at": "2026-11-25T14:15:53.523149+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Megtépázott a szél egy függőhidat a rajta kapaszkodó túrázóval együtt Chilében",
+          "url": "https://telex.hu/szepkilatas/2026/11/25/chile-torres-del-paine-fuggohid-szelvihar-turazo",
+          "published": "2026-11-25T14:07:12+00:00",
+          "description": "A 45 méter mély szurdok feletti életveszélyes jelenetet egy túratársa rögzítette telefonjával.",
+          "image": "https://assets.telex.hu/images/20261125/1795615320-temp-tuigar3rsn3h6jnacog_cimlap-normal.jpg",
+          "category": "Szépkilátás",
+          "author": "Tenczer Gábor"
+        },
+        {
+          "title": "Trump új vámokkal csapott le az EU-ra, Kínára, Japánra",
+          "url": "https://telex.hu/gazdasag/2026/11/25/donald-trump-uj-vamok-kina-vietnam-japan-eu",
+          "published": "2026-11-25T13:47:38+00:00",
+          "description": "Kína járt a legrosszabbul az akár 40 százalékos vámmal, pedig úgy volt, hogy január 10-ig kereskedelmi tűzszünet van érvényben.",
+          "image": "https://assets.telex.hu/images/20261125/1795614043-temp-o4luhnkl6r3q1cefope_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Több tonnányi mérgező, ólomtartalmú vegyi anyagot kénytelen felrobbantani az amerikai hadsereg Iowában",
+          "url": "https://telex.hu/kulfold/2026/11/25/egyesult-allamok-iowa-olom-robbantas-mergezo-szennyezes",
+          "published": "2026-11-25T13:38:58+00:00",
+          "description": "A helyi lakosok aggódnak a környezeti és egészségügyi ártalmak miatt. A hadsereg szerint nincs más megoldás.",
+          "image": "https://assets.telex.hu/images/20261125/1795612239-temp-lj791k7dmu935mflbeh_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Matolcsy György elmenne a Parlamentbe, ha tiszteletben tartják az emberi méltóságát, és nem mutatják bilincsben",
+          "url": "https://telex.hu/belfold/2026/11/25/matolcsy-gyorgy-letartoztatas-parlament-meghallgatas-ugyved-bemegy",
+          "published": "2026-11-25T13:33:40+00:00",
+          "description": "A volt jegybankelnök ügyvédje szerint nem szükséges, hogy az MNB ügyeit vizsgáló parlamenti bizottság a börtönben keresse fel Matolcsyt.",
+          "image": "https://assets.telex.hu/images/20261125/1795611919-temp-46nr9r3r38g1abjpiob_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Pintér Luca"
+        },
+        {
+          "title": "Karácsony száz állást szüntetne meg a Főpolgármesteri Hivatalnál, hogy teljesítse a kormány felé vállalt milliárdos kiadáscsökkentést",
+          "url": "https://telex.hu/belfold/2026/11/25/fopolgarmesteri-hivatal-allashelyek-10-szazalek-csokkentes",
+          "published": "2026-11-25T13:30:25+00:00",
+          "description": "A Főpolgármesteri Hivatal vállalta, hogy 2027-ben egymilliárd forinttal csökkenti személyi jellegű kiadásait.",
+          "image": "https://assets.telex.hu/images/20261125/1795613181-temp-123nmb89g8pd2kgmnco_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Csak félgőzzel megy, de a cég szerint nincs napirenden az utolsó magyar cukorgyár bezárása",
+          "url": "https://telex.hu/g7/vallalat/2026/11/25/utolso-magyar-cukorgyar-bezaras-mezogazdasag",
+          "published": "2026-11-25T13:22:04+00:00",
+          "description": "A rendszerváltáskor 12 cukorgyár üzemelt Magyarországon, most az utolsót is veszélyben látják a cukorrépa-termesztők. A vállalat szóvivője szerint ugyanakkor jelenleg nincs napirenden a bezárás.",
+          "image": "https://assets.telex.hu/images/20261124/1795519136-temp-sc7euk2ovpjdajklnnf_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Torontáli Zoltán"
+        },
+        {
+          "title": "Egyre kevesebb a szálló por az európai városokban, de még mindig százezrek halnak meg miatta",
+          "url": "https://telex.hu/techtud/2026/11/25/eea-szennyezett-levego-varosokban-budapest-pm-2-5-szallo-por",
+          "published": "2026-11-25T13:19:31+00:00",
+          "description": "Budapest a légszennyezettségi rangsor nem túl előkelő, harmincadik helyén van.",
+          "image": "https://assets.telex.hu/images/20261125/1795612718-temp-13os5lclfrij8aohmll_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Magyarországnak nagyobb szüksége lehet most az ukrán kukoricára, mint az ukránoknak a magyar piacra",
+          "url": "https://telex.hu/video/2026/11/25/ukrajna-magyar-peter-zelenszkij-talalkozo-karpatalja-elemzes",
+          "published": "2026-11-25T13:19:27+00:00",
+          "description": "Magyar Péter és Volodimir Zelenszkij kedden Kárpátalján egyeztettek. Magyar miniszterelnök több mint egy évtizede nem is járt arrafelé. A történelmi találkozó új fejezetet nyithat az ukrán-magyar kapcsolatokban.",
+          "image": "https://assets.telex.hu/images/20261125/1795604602-temp-70tppkgj9outbokanhk_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Rédli Balázs"
+        },
+        {
+          "title": "Meleg víz sincs ügyvédje szerint Varga-Bajusz Veronika cellájában, nem érti a szigorúbb elhelyezést",
+          "url": "https://telex.hu/belfold/2026/11/25/varga-bajusz-veronika-nka-ugy-letartoztatas-ugyved-enyhebb-intezkedes",
+          "published": "2026-11-25T13:13:20+00:00",
+          "description": "Nemrég Kiskunhalasra szállították az NKA-ügyben érintett volt államtitkárt, ahol zordabbak a körülményei.",
+          "image": "https://assets.telex.hu/images/20261125/1795612161-temp-h0k1o5llqcu74bfpknk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Több ezer magyar lakóház kerülhet veszélybe az egyre durvább aszályok miatt",
+          "url": "https://telex.hu/belfold/2026/11/25/aszaly-agyag-talaj-hazak-repedes-epitoipar",
+          "published": "2026-11-25T12:05:47+00:00",
+          "description": "Az ország több pontjáról hallani beszámolókat az aszály miatt megsüllyedő és szétrepedő házakról. A jelenség hátterében a talajban található agyagásványok állnak, amik a tartós szárazság hatására összezsugorodhatnak. Szakemberek szerint több ezer házat érinthet a probléma, a károsultakat tömörítő...",
+          "image": "https://assets.telex.hu/images/20261117/1794934391-temp-oarb95gprli2bidoffa_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "Már a Telex appban is játszhatsz a Telex Puzzle-lel, és az eredményedet is könnyebb megosztani",
+          "url": "https://telex.hu/kozlemeny/2026/11/25/mar-a-telex-appban-is-jatszhatsz-a-telex-puzzle-lel-es-az-eredmenyedet-is-konnyebb-megosztani",
+          "published": "2026-11-25T12:01:10+00:00",
+          "description": "Megnézheted, hány játékosnál voltál gyorsabb, visszanézheted a megoldott pályát, vasárnap pedig extra nyereményekért is játszhatsz. Mutatjuk, mi minden változott a Puzzle-ben a kéréseitek alapján.",
+          "image": "https://assets.telex.hu/images/20261125/1795607492-temp-l96hq7q445pucmdmmen_cimlap-normal.jpg",
+          "category": "Közlemény",
+          "author": "Telex"
+        },
+        {
+          "title": "Ingyenessé tenné a közlekedést a magyar fociválogatott meccsére érkezőknek Zugló polgármestere",
+          "url": "https://telex.hu/belfold/2026/11/25/futball-meccs-magyar-valogatott-ingyenes-tomegkozlekedes-zuglo-polgarmester-rozsa-andras",
+          "published": "2026-11-25T12:00:29+00:00",
+          "description": "Rózsa András levelet írt Vitézy Dávidnak, Pósfai Gábornak és Karácsony Gergely főpolgármesternek.",
+          "image": "https://assets.telex.hu/images/20261125/1795607703-temp-db415npaf42a0ckkbme_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Olcsóbb lesz az áram a vállalkozásoknak, de a számla nem tűnik el",
+          "url": "https://telex.hu/g7/vallalat/2026/11/25/ipari-rezsicsokkentes-aramar-lakossag-kompenzacio-kerdesek",
+          "published": "2026-11-25T11:58:30+00:00",
+          "description": "A rendszerhasználati díjakat módosító tarifacsomag segíthet az iparnak, de nyitott kérdés, hogy a kedvezmények árát végül ki fizeti meg, és hogy közben nem okoz-e újabb torzulásokat a rendszerben.",
+          "image": "https://assets.telex.hu/images/20261125/1795602538-temp-8odk2osadjb46dnailb_cimlap-normal.jpg",
+          "category": "Vállalat",
+          "author": "Jolsvai Zoltán"
+        },
+        {
+          "title": "80 embert küldtek el a jakuzzikirály cégétől",
+          "url": "https://telex.hu/gazdasag/2026/11/25/wellis-magyarorszag-jakuzzikiraly-elbocsatas-80-dolgozo-czafik-zsolt",
+          "published": "2026-11-25T11:46:17+00:00",
+          "description": "A leépítés elsősorban a gyártásban részt vevő dolgozókat érintette a cég két hazai telephelyén.",
+          "image": "https://assets.telex.hu/images/20261125/1795606557-temp-ds0rfp5472129admhei_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Egészen kicsi és praktikus a legújabb Suzuki, de nem lesz mindenki autója",
+          "url": "https://telex.hu/techtud/2026/11/25/auto-suzuki-villanyauto-ignis-japan",
+          "published": "2026-11-25T11:31:13+00:00",
+          "description": "Az új Ignisszel nem lesz gond a parkolás, minimalista megoldásai teljesen megfelelnek a városi használathoz, de nem öt-, hanem négyszemélyes.",
+          "image": "https://assets.telex.hu/images/20261125/1795603599-temp-uf6ra64dqmec1bepgdo_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Zách Dániel"
+        },
+        {
+          "title": "100 milliót szedtek le egy áldozat számlájáról a csalók, a TEK ment értük",
+          "url": "https://telex.hu/belfold/2026/11/25/tek-rendorseg-nyomozas-szazmillios-csalas-elfogas-lofegyver",
+          "published": "2026-11-25T11:18:36+00:00",
+          "description": "Több százmilliót szereztek illegálisan, alapos nyomozás után fogták el a két férfit.",
+          "image": "https://assets.telex.hu/images/20261125/1795604672-temp-kin092cjctpt7eifafh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Túl kell élnünk és reménykedünk – a történelmi találkozó napja Kárpátalján",
+          "url": "https://telex.hu/video/2026/11/25/magyar-peter-volodimir-zelenszkij-beregszasz-ketoldalu-talalkozo-beregszasz",
+          "published": "2026-11-25T10:37:37+00:00",
+          "description": "A magyar miniszterelnök új fejezetet nyitna Ukrajnával, röplabdáztak is egyet Zelenszkijjel, de Magyarország a humanitárius segítségen túl továbbra sem támogatja Ukrajnát. A két ország közeledése viszont minden bizonnyal folytatódni fog.",
+          "image": "https://assets.telex.hu/images/20261125/1795602337-temp-vpt9duisc2fo8cfikbl_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Simor Dániel"
+        },
+        {
+          "title": "Király Nóra nyugodt lelkiismerettel áll a másfél milliárdos állami támogatás ügyében indult vizsgálat elé",
+          "url": "https://telex.hu/belfold/2026/11/25/kiraly-nora-fidesz-hazkutatas-civil-szervezetek-nyomozas-nyugodt-lelkiismeret",
+          "published": "2026-11-25T10:28:48+00:00",
+          "description": "Hét, hozzá köthető civil szervezetnél tartottak házkutatást kedden a Miniszterelnökség feljelentése után. Meggyőződése, hogy a lefoglalt dokumentumok cáfolni fogják a feltételezéseket.",
+          "image": "https://assets.telex.hu/images/20261125/1795602185-temp-d3q502agafqd6apdklk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Külföldiek és politikai ellenfeleik meggyilkolását tervezték 14 és 15 éves német fiatalok, letartóztatták őket",
+          "url": "https://telex.hu/kulfold/2026/11/25/kulfoldiek-es-politikai-ellenfeleik-meggyilkolasat-terveztek-14-es-15-eves-nemet-fiatalok-letartoztattak-oket",
+          "published": "2026-11-25T10:27:16+00:00",
+          "description": "Fel akartak gyújtani egy menekültszállót, és más erőszakos cselekményeket is terveztek.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Így tesznek adómentessé ezermilliárdokat a magyarok, beindult a hajrá a még idei tbsz-ekért",
+          "url": "https://telex.hu/g7/pr-cikk/2026/11/25/igy-tesznek-adomentesse-ezer-milliardokat-a-magyarok-beindult-a-hajra-a-meg-idei-tbsz-ekert",
+          "published": "2026-11-25T10:00:27+00:00",
+          "description": "Egyetlen év alatt több mint a negyedével emelkedett a bankoknál és befektetési szolgáltatóknál vezetett tartós befektetési számlák száma és az azokon tartott értékpapírok értéke is.",
+          "image": "https://assets.telex.hu/images/20261124/1795523916-temp-ijprh1gn12aj6gpccip_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Barát Mihály Tamás"
+        },
+        {
+          "title": "Magyar: Reconciliation means not allowing the wounds of the past to generate further hostility",
+          "url": "https://telex.hu/english/2026/11/25/magyar-reconciliation-means-not-allowing-the-wounds-of-the-past-to-generate-further-hostility",
+          "published": "2026-11-25T10:00:22+00:00",
+          "description": "The Hungarian PM spoke about the legacy of the 20th century and reconciliation at the annual commemoration for Hungarian political prisoners and forced laborers deported to the Soviet Union.",
+          "image": "https://assets.telex.hu/images/20261125/1795600413-temp-q1c7f9mg81v34mkjabh_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Napenergia, szélenergia, tárolás: erre épít a MOL",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/11/25/napenergia-szelenergia-tarolas-erre-epit-a-mol",
+          "published": "2026-11-25T09:55:02+00:00",
+          "description": "2018 óta a MOL a megújulóenergia-termelésben is nagy lépéseket tett.",
+          "image": "https://assets.telex.hu/images/20261125/1795600459-temp-ho634m82u3ttdkkhinj_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Szállingózik a hó Budapesten, nagy pelyhekkel közelít a tél",
+          "url": "https://telex.hu/belfold/2026/11/25/idojaras-havazas-budapest",
+          "published": "2026-11-25T09:53:56+00:00",
+          "description": "Van, ahol akár 5-10 centi hó is eshet.",
+          "image": "https://assets.telex.hu/images/20261125/1795600311-temp-gg7kvljcvhfrdgknfob_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Gyengül a forint, 373 felett az euró",
+          "url": "https://telex.hu/gazdasag/2026/11/25/euro-forint-arfolyam-gyengul-miert",
+          "published": "2026-11-25T09:48:32+00:00",
+          "description": "Az újabb amerikai vámfenyegetések és a kamatpályákkal kapcsolatos várakozások sem kedveznek a magyar fizetőeszköznek.",
+          "image": "https://assets.telex.hu/images/20261125/1795599986-temp-gk8it5i7qkp62ohoobp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "A szomszédos építkezés miatt veszélybe került egy 103 éves gesztenyefa Szombathelyen, tüntetést szerveznek a városháza elé",
+          "url": "https://telex.hu/belfold/2026/11/25/szombathelyi-gesztenyefa-kivagasa-kormanyhivatal",
+          "published": "2026-11-25T09:48:12+00:00",
+          "description": "A fának nincs helyi védelme, így a kormányhivatal szerint semmi jogi akadálya az építkezésnek. A tulajdonos évek óta küzd a fa megmentéséért.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        }
+      ]
     },
     {
       "id": "444",
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A Szolnoki Ipari Park elbukott 1,4 milliárdos pályázata miatt tett feljelentést az alpolgármester",
+          "url": "https://24.hu/fn/gazdasag/2026/11/25/toth-aron-feljelentes-szolnok-ipari-park-palyazat/",
+          "published": "2026-11-25T15:10:00+01:00",
+          "description": "A Szolnoki Ipari Park Kft. pályázata már a beadáskor sem felelt meg az alapfeltételeknek. A pénz visszakerül a központi költségvetésbe.",
+          "image": "https://s.24.hu/app/uploads/2026/11/825336807_1685064656966759_7400707276554223115_n-e1795615753143-320x180.jpg",
+          "category": "Gazdaság",
+          "author": "D. Kovács Ildikó"
+        },
+        {
           "title": "Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren",
           "url": "https://24.hu/kulfold/2026/11/25/ukran-vezerkar-megsemmisitettek-ot-katonai-repulogepet-az-ukran-erok-egy-oroszorszagi-repteren/",
           "published": "2026-11-25T15:03:00+01:00",
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/hekker-e1795605315711-320x180.jpg",
           "category": "Nagyvilág",
           "author": "Ürmös Dániel"
-        },
-        {
-          "title": "Hiába tért vissza Jensen Huang, az Nvidia körüli bizonytalanságnak még nincs vége",
-          "url": "https://24.hu/tech/2026/11/25/jensen-huang-nvidia-reszvenyek-bizonytalansag/",
-          "published": "2026-11-25T12:15:00+01:00",
-          "description": "A cégvezér visszatérése után a befektetői bizalom helyreállítása mellett komoly vállalatirányítási, szabályozási és üzleti kihívások várnak a vállalatra.",
-          "image": "https://s.24.hu/app/uploads/2026/11/jensen-huang-nvidia-reszvenyek-bizonytalansag_3389138-e1795605151917-320x180.jpg",
-          "category": "Tech",
-          "author": "Birkás Péter"
         }
       ]
     },
@@ -1200,6 +1426,15 @@
       "error": null,
       "article_count": 10,
       "articles": [
+        {
+          "title": "Palesztinpárti aktivisták tiltakoznak Raáb Gáborék hanukai koncertje ellen",
+          "url": "https://neokohn.hu/2026/11/25/palesztinparti-aktivistak-tiltakoznak-raab-gaborek-hanukai-koncertje-ellen/",
+          "published": "2026-11-25T14:11:17+00:00",
+          "description": "Zsidógyűlölő aktivisták próbálják megakadályozni a magyar származású kántor fellépését. A Palesztinpárti aktivisták tiltakoznak Raáb Gáborék hanukai koncertje ellen bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/WhatsApp-Image-2026-10-20-at-21.00.04-e1795608964629-1024x572.jpeg",
+          "category": "Belföld",
+          "author": "Hende Olivér"
+        },
         {
           "title": "Izraeli védelmet kapnak az orosz tengeralattjárók ellen épülő német hadihajók",
           "url": "https://neokohn.hu/2026/11/25/izraeli-vedelem-orosz-tengeralattjarok-nemet-hadihajok/",
@@ -1278,15 +1513,6 @@
           "published": "2026-11-24T18:05:15+00:00",
           "description": "A Hamász \"bűnös merényletről\" és a \"nemzetközi jog megsértéséről\" beszélt. A Izrael likvidálta a Hamász biztonsági főnökét, az elődjét két hónapja kapták el bejegyzés először Neokohn -én jelent meg.",
           "image": "https://neokohn.hu/files/2026/11/screenshot-1.jpg",
-          "category": "Izrael",
-          "author": "Neokohn"
-        },
-        {
-          "title": "Felháborodott az erőszakos telepesek akcióin az izraeli legfelsőbb bíróság elnöke",
-          "url": "https://neokohn.hu/2026/11/24/eroszakos-telepesek-izraeli-legfelsobb-birosag-elnoke-palesztin-falu/",
-          "published": "2026-11-24T17:05:01+00:00",
-          "description": "Az egyre terjedő erőszak szerinte „halálos csapást mér a zsidó és az egyetemes értékekre, valamint a cionizmus alapjaira”. A Felháborodott az erőszakos telepesek akcióin az izraeli legfelsőbb bíróság elnöke bejegyzés először Neokohn -én jelent meg.",
-          "image": "https://neokohn.hu/files/2026/11/068_AA_22112026_3057693.jpg",
           "category": "Izrael",
           "author": "Neokohn"
         }
@@ -1621,6 +1847,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "A külföldieknek kedvez, a magyarok adóját emeli a kormány",
+          "url": "https://www.origo.hu/gazdasag/2026/11/arreskorlatozas-felszamolasa-boka-janos",
+          "published": "2026-11-25T15:05:00+01:00",
+          "description": "Bóka János ezt nem nevezné igazságos költségvetésnek.",
+          "image": "https://cdn.origo.hu/2026/11/dNTUTpNOVbmCDdIIVqsOrPKuDtB_H8LNYOOhdU8JRnc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY3M2U0MTkwY2YzYTQ3OTJiMTQ2MjlkODgwN2Y2MmFm.webp",
+          "category": "bóka jános",
+          "author": null
+        },
+        {
           "title": "Tényleg nem volt meglepetés a Milan elleni győzelem? A Fradi újabb sikerre készül",
           "url": "https://www.origo.hu/sport/sport-futball/2026/11/miha-blazic-fradi-celje-europa-liga",
           "published": "2026-11-25T15:00:00+01:00",
@@ -1704,10 +1939,10 @@
         {
           "title": "Hatalmas pelyhekben hullott a hó Csobánkán, mesébe illő a látvány - videó",
           "url": "https://www.origo.hu/itthon/2026/11/ho-csobanka-hoeses-havazas",
-          "published": "2026-11-25T14:05:00+01:00",
-          "description": "Ez már az igazi tél!",
-          "image": "https://cdn.origo.hu/2026/11/vBYrQm_aOmSH_aXmonAiBTNpvnE-lKGKBJ5UBgKLbJw/fill/1347/758/no/1/czM6Ly9jbXMtcHJvZC1vcmlnby9pbWFnZXMvMjAyNi8xMS8yNS85YjU5Njg3NWZhYWMwYmI3ZTQ0YWVjZWVlZDRjODQ2M2IyOTRmOTc2MTg4MzFiZWZkMjFkYjZhNDM0ZTVjZDAz.webp",
-          "category": "havazás",
+          "published": "2026-11-25T13:05:00+00:00",
+          "description": null,
+          "image": null,
+          "category": "Itthon",
           "author": null
         },
         {
@@ -1834,15 +2069,6 @@
           "description": null,
           "image": null,
           "category": "Külpolitika",
-          "author": null
-        },
-        {
-          "title": "Black Friday: új módszerrel támadnak a csalók, a Facebookon is veszélyben lehetünk",
-          "url": "https://www.origo.hu/techbazis/2026/11/black-friday-csalasok-igy-vernek-at-a-facebookon",
-          "published": "2026-11-25T11:30:00+00:00",
-          "description": null,
-          "image": null,
-          "category": "Tech",
           "author": null
         }
       ]
