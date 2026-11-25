@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-25T11:15:49.216865+00:00",
+  "scraped_at": "2026-11-25T11:20:52.036801+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "100 milliót szedtek le egy áldozat számlájáról a csalók, a TEK ment értük",
+          "url": "https://telex.hu/belfold/2026/11/25/tek-rendorseg-nyomozas-szazmillios-csalas-elfogas-lofegyver",
+          "published": "2026-11-25T11:18:36+00:00",
+          "description": "Több százmilliót szereztek illegálisan, alapos nyomozás után fogták el a két férfit.",
+          "image": "https://assets.telex.hu/images/20261125/1795604672-temp-kin092cjctpt7eifafh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "Túl kell élnünk és reménykedünk – a történelmi találkozó napja Kárpátalján",
+          "url": "https://telex.hu/video/2026/11/25/magyar-peter-volodimir-zelenszkij-beregszasz-ketoldalu-talalkozo-beregszasz",
+          "published": "2026-11-25T10:37:37+00:00",
+          "description": "A magyar miniszterelnök új fejezetet nyitna Ukrajnával, röplabdáztak is egyet Zelenszkijjel, de Magyarország a humanitárius segítségen túl továbbra sem támogatja Ukrajnát. A két ország közeledése viszont minden bizonnyal folytatódni fog.",
+          "image": "https://assets.telex.hu/images/20261125/1795602337-temp-vpt9duisc2fo8cfikbl_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Simor Dániel"
+        },
+        {
+          "title": "Király Nóra nyugodt lelkiismerettel áll a másfél milliárdos állami támogatás ügyében indult vizsgálat elé",
+          "url": "https://telex.hu/belfold/2026/11/25/kiraly-nora-fidesz-hazkutatas-civil-szervezetek-nyomozas-nyugodt-lelkiismeret",
+          "published": "2026-11-25T10:28:48+00:00",
+          "description": "Hét, hozzá köthető civil szervezetnél tartottak házkutatást kedden a Miniszterelnökség feljelentése után. Meggyőződése, hogy a lefoglalt dokumentumok cáfolni fogják a feltételezéseket.",
+          "image": "https://assets.telex.hu/images/20261125/1795602185-temp-d3q502agafqd6apdklk_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Külföldiek és politikai ellenfeleik meggyilkolását tervezték 14 és 15 éves német fiatalok, letartóztatták őket",
+          "url": "https://telex.hu/kulfold/2026/11/25/kulfoldiek-es-politikai-ellenfeleik-meggyilkolasat-terveztek-14-es-15-eves-nemet-fiatalok-letartoztattak-oket",
+          "published": "2026-11-25T10:27:16+00:00",
+          "description": "Fel akartak gyújtani egy menekültszállót, és más erőszakos cselekményeket is terveztek.",
+          "image": null,
+          "category": "Külföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Így tesznek adómentessé ezermilliárdokat a magyarok, beindult a hajrá a még idei tbsz-ekért",
+          "url": "https://telex.hu/g7/pr-cikk/2026/11/25/igy-tesznek-adomentesse-ezer-milliardokat-a-magyarok-beindult-a-hajra-a-meg-idei-tbsz-ekert",
+          "published": "2026-11-25T10:00:27+00:00",
+          "description": "Egyetlen év alatt több mint a negyedével emelkedett a bankoknál és befektetési szolgáltatóknál vezetett tartós befektetési számlák száma és az azokon tartott értékpapírok értéke is.",
+          "image": "https://assets.telex.hu/images/20261124/1795523916-temp-ijprh1gn12aj6gpccip_cimlap-normal.jpg",
+          "category": "PR-cikk",
+          "author": "Barát Mihály Tamás"
+        },
+        {
+          "title": "Magyar: Reconciliation means not allowing the wounds of the past to generate further hostility",
+          "url": "https://telex.hu/english/2026/11/25/magyar-reconciliation-means-not-allowing-the-wounds-of-the-past-to-generate-further-hostility",
+          "published": "2026-11-25T10:00:22+00:00",
+          "description": "The Hungarian PM spoke about the legacy of the 20th century and reconciliation at the annual commemoration for Hungarian political prisoners and forced laborers deported to the Soviet Union.",
+          "image": "https://assets.telex.hu/images/20261125/1795600413-temp-q1c7f9mg81v34mkjabh_cimlap-normal.jpg",
+          "category": "English",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Napenergia, szélenergia, tárolás: erre épít a MOL",
+          "url": "https://telex.hu/tamogatott-tartalom/2026/11/25/napenergia-szelenergia-tarolas-erre-epit-a-mol",
+          "published": "2026-11-25T09:55:02+00:00",
+          "description": "2018 óta a MOL a megújulóenergia-termelésben is nagy lépéseket tett.",
+          "image": "https://assets.telex.hu/images/20261125/1795600459-temp-ho634m82u3ttdkkhinj_cimlap-normal.jpg",
+          "category": "Támogatott tartalom",
+          "author": "Támogatott Tartalom"
+        },
+        {
+          "title": "Szállingózik a hó Budapesten, nagy pelyhekkel közelít a tél",
+          "url": "https://telex.hu/belfold/2026/11/25/idojaras-havazas-budapest",
+          "published": "2026-11-25T09:53:56+00:00",
+          "description": "Van, ahol akár 5-10 centi hó is eshet.",
+          "image": "https://assets.telex.hu/images/20261125/1795600311-temp-gg7kvljcvhfrdgknfob_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Gyengül a forint, 373 felett az euró",
+          "url": "https://telex.hu/gazdasag/2026/11/25/euro-forint-arfolyam-gyengul-miert",
+          "published": "2026-11-25T09:48:32+00:00",
+          "description": "Az újabb amerikai vámfenyegetések és a kamatpályákkal kapcsolatos várakozások sem kedveznek a magyar fizetőeszköznek.",
+          "image": "https://assets.telex.hu/images/20261125/1795599986-temp-gk8it5i7qkp62ohoobp_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "A szomszédos építkezés miatt veszélybe került egy 103 éves gesztenyefa Szombathelyen, tüntetést szerveznek a városháza elé",
+          "url": "https://telex.hu/belfold/2026/11/25/szombathelyi-gesztenyefa-kivagasa-kormanyhivatal",
+          "published": "2026-11-25T09:48:12+00:00",
+          "description": "A fának nincs helyi védelme, így a kormányhivatal szerint semmi jogi akadálya az építkezésnek. A tulajdonos évek óta küzd a fa megmentéséért.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Rendőrök mentek a győri városházára, mert a volt fideszes képviselő feljelentette a polgármestert és a csapatát",
+          "url": "https://telex.hu/belfold/2026/11/25/gyor-pinter-bence-hajto-peter-fidesz-rendorseg-kozgyules-onkormanyzat",
+          "published": "2026-11-25T09:16:01+00:00",
+          "description": "Augusztusban épp a polgármester tett feljelentést Hajtó Péter ellen.",
+          "image": "https://assets.telex.hu/images/20261125/1795597815-temp-1rb74vlmta2c6kjeiia_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A 67 milliárdos kérdés, hogy ki áll a gázmaffia élén",
+          "url": "https://telex.hu/video/2026/11/25/vezeto-dezso-andras-gazmaffia-afacsalas",
+          "published": "2026-11-25T09:11:40+00:00",
+          "description": "A mai napig be nem azonosított kör állhat a „gázmaffia” néven elhíresült ügy mögött, de a valódi felelősök úgy körülbástyázták magukat strómanokkal, hogy nagyon nehéz a közelükbe férkőzni. A lengyel panelrengetegben élő iskolázatlan stróman és egy indiai házaspár is feltűnik a Telex nyomozásában.",
+          "image": "https://assets.telex.hu/images/20261123/1795449670-temp-5qhrrkjqu6tb0ddcgmj_cimlap-normal.jpg",
+          "category": "Videó",
+          "author": "Joób Sándor"
+        },
+        {
+          "title": "Feljelentést tehet a Külügyminisztérium Orbán Viktor utazásainak költségei miatt",
+          "url": "https://telex.hu/belfold/2026/11/25/feljelentest-tehet-a-kulugyminiszterium-orban-viktor-utazasainak-koltsegei-miatt",
+          "published": "2026-11-25T08:57:30+00:00",
+          "description": "Velkey György államtitkár szerint Orbán az „ötcsillagos luxust szerette, luxusszállodákban szállt meg, luxuséttermekben étkezett” adófizetői pénzekből.",
+          "image": "https://assets.telex.hu/images/20261125/1795596424-temp-388497b63sio5dagihd_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "A Spar vezetője szerint az árrésstop kivezetése még nem jelenti, hogy fellélegezhetnének",
+          "url": "https://telex.hu/gazdasag/2026/11/25/spar-vezeto-peter-manhartsberger-arrestop-kivezetes-magyarorszag",
+          "published": "2026-11-25T08:55:17+00:00",
+          "description": "Üdvözölte a döntést, de bírálta, hogy Magyarország továbbra is megtartotta a kiskereskedelmi különadót.",
+          "image": "https://assets.telex.hu/images/20261125/1795596871-temp-ngsseklvpl15bdcekge_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Magyar Péter: A megbékélés azt jelenti, hogy nem engedjük, hogy a múlt sebei újabb ellenségeskedést szüljenek",
+          "url": "https://telex.hu/belfold/2026/11/25/magyar-peter-megemlekezes-a-szovjetunioba-kenyszermunkarahurcolt-politikai-foglyokrol-malenkij-robot",
+          "published": "2026-11-25T08:50:16+00:00",
+          "description": "A Szovjetunióba hurcolt magyar politikai rabok és kényszermunkások emléknapján a 20. század örökségéről és a megbékélésről beszélt a miniszterelnök.",
+          "image": "https://assets.telex.hu/images/20261125/1795596276-temp-gj8d96132r101mglnkm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Elkészült a 120 millió forinttal támogatott Curtis-dokumentumfilm, de még nem tudni, mikor mutatják be",
+          "url": "https://telex.hu/after/2026/11/25/elkeszult-120-millio-forint-tamogatas-curtis-dokumentumfilm-bemutato-mediapartner",
+          "published": "2026-11-25T08:46:49+00:00",
+          "description": "A bemutatót eredetileg az idei év második felére tervezték, de a produkciónak jelenleg nincs médiapartnere. A vezető producer szerint az összes állami támogatást gond nélkül le tudták hívni és a filmintézettel a vezetőségváltás után is zökkenőmentes az együttműködésük.",
+          "image": "https://assets.telex.hu/images/20261125/1795596279-temp-thh0skl8lrqn3jkghkk_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Dévai László"
+        },
+        {
+          "title": "Fél év alatt szabná át Bukarest Románia hatvanéves térképét, az erdélyi magyaroknak nem elég a tiltakozás, saját tervre is szükségük lesz",
+          "url": "https://telex.hu/transtelex/2026/11/25/romania-terkep-kozigazgatas-atszervezes-erdelyi-magyarok-tiltakozas-sajat-terv",
+          "published": "2026-11-25T08:26:40+00:00",
+          "description": "Ha összevonják a 3000 főnél kisebb községeket, akkor olyan emblematikus magyar településeken, mint Kalotaszentkirály, Körösfő vagy éppenséggel Torockó, megszűnhet a magyar többség.",
+          "image": "https://assets.telex.hu/images/20261125/1795593869-temp-ic9mdmopl7ag1miidfk_cimlap-normal.jpg",
+          "category": "Transtelex",
+          "author": "Cseke Péter"
+        },
+        {
+          "title": "Csődvédelmet kért a Szatmári Konzervgyár, amit 2021 óta több milliárd forinttal segített az állam",
+          "url": "https://telex.hu/gazdasag/2026/11/25/tyukod-szatmari-konzervgyar-csodvedelem-tobb-milliard-forint-allami-tamogatas",
+          "published": "2026-11-25T08:07:46+00:00",
+          "description": "Az elmúlt években komoly pénzügyi nehézségei akadtak a konzervgyárnak, így az MFB 2021-ben tulajdonosként szállt be, majd a cég hitelezését is átvette.",
+          "image": "https://assets.telex.hu/images/20261125/1795594042-temp-j00757ke3utb9gklefc_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Krász Zsombor"
+        },
+        {
+          "title": "Volt sorkatona? Imádni fogja a Magyar Néphadsereg időszakában készült filmeket",
+          "url": "https://telex.hu/belfold/2026/11/25/volt-sorkatona-imadni-fogja-a-magyar-nephadsereg-idoszakaban-keszult-filmeket",
+          "published": "2026-11-25T08:05:24+00:00",
+          "description": "Csorbítatlan formában közzéteszik a Katonai Filmstúdió által készített alkotásokat.",
+          "image": "https://assets.telex.hu/images/20261125/1795593862-temp-vq78015n8s1o4kombie_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "A pénzen vitatkoznak a fideszes influenszerek, Rost Andrea lánya is feltűnt egy új jobboldali csatornán",
+          "url": "https://telex.hu/belfold/2026/11/25/fideszes-influenszer-rost-andrea-harazdy-eszter-helyzet-dobbanjon-mozgalom",
+          "published": "2026-11-25T08:03:16+00:00",
+          "description": "A Helyzet szerkesztősége tagadja, hogy anyagi támogatást kapna a Fidesztől, Dopeman szerint pedig nem jár mindenkinek pénz csak azért, mert jobboldali.",
+          "image": "https://assets.telex.hu/images/20261125/1795593500-temp-l3vdcpqs7dv0fgicmhn_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Angel Marianna"
+        },
+        {
+          "title": "−10,4 fokot mértek hajnalban Lénárddarócon",
+          "url": "https://telex.hu/belfold/2026/11/25/hungaromet-fagy-eddigi-leghidegebb-ejszaka",
+          "published": "2026-11-25T08:00:08+00:00",
+          "description": "Túl vagyunk az ősz eddigi leghidegebb éjszakáján.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Az Nvidia-vezér egykori szeretőjéhez köthető cégek százmilliós MI-beszerzésekkel segítették Kínát",
+          "url": "https://telex.hu/gazdasag/2026/11/25/jensen-huang-nvidia-tencent-mi-adatkozpont",
+          "published": "2026-11-25T07:46:31+00:00",
+          "description": "A hardverek nagy része egy hatalmas sanghaji adatközpontban található, amelyet eredetileg a kínai technológiai óriással, a Tencent vállalattal együtt hoztak létre.",
+          "image": "https://assets.telex.hu/images/20261125/1795592215-temp-h43mfbaecml0aafgiai_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Orosz szabotázsakciókra figyelmeztet a brit hírszerzés egy nyilvános közleményben",
+          "url": "https://telex.hu/kulfold/2026/11/25/oroszorszag-szabotazs-fenyegetes-egyesult-kiralysag-hirszerzes-figyelmeztetes",
+          "published": "2026-11-25T07:39:52+00:00",
+          "description": "Az MI5 szerint az Ukrajnát támogató cégek válhatnak célponttá.",
+          "image": "https://assets.telex.hu/images/20261125/1795592232-temp-mh06iieq4vgg0ejmoka_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        },
+        {
+          "title": "A bérekről és a kultúrstratégiáról tárgyalna Tarr Zoltán minisztériuma a szakmai és érdekképviseleti szervezetekkel",
+          "url": "https://telex.hu/karakter/kultura/2026/11/25/tarr-zoltan-kulturalis-agazati-erdekegyezteto-tanacs-kulturalis-agazat-beremeles-strategia",
+          "published": "2026-11-25T07:29:28+00:00",
+          "description": "December 8-ra összehívták a 11 éve tetszhalott Kulturális Ágazati Érdekegyeztető Tanácsot.",
+          "image": "https://assets.telex.hu/images/20261125/1795591459-temp-66liaracl3ckaojlifc_cimlap-normal.jpg",
+          "category": "Kultúra",
+          "author": "Cseke Balázs"
+        },
+        {
+          "title": "Bűnösnek találta a Huaweit az amerikai bíróság üzleti titkok ellopása és az Irán elleni szankciók kikerülése miatt",
+          "url": "https://telex.hu/kulfold/2026/11/25/huawei-birosag-itelet-uzleti-titok-egyesult-allamok",
+          "published": "2026-11-25T06:29:00+00:00",
+          "description": "Az Egyesült Államokban 2018 óta folyik az ügy a kínai cég tevékenységei miatt.",
+          "image": "https://assets.telex.hu/images/20261125/1795587930-temp-pnaokovb1ve39bebaaa_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Kovács Pál"
+        }
+      ]
     },
     {
       "id": "444",
@@ -965,6 +1191,15 @@
       "article_count": 25,
       "articles": [
         {
+          "title": "Hiába tért vissza Jensen Huang, az Nvidia körüli bizonytalanságnak még nincs vége",
+          "url": "https://24.hu/tech/2026/11/25/jensen-huang-nvidia-reszvenyek-bizonytalansag/",
+          "published": "2026-11-25T12:15:00+01:00",
+          "description": "A cégvezér visszatérése után a befektetői bizalom helyreállítása mellett komoly vállalatirányítási, szabályozási és üzleti kihívások várnak a vállalatra.",
+          "image": "https://s.24.hu/app/uploads/2026/11/jensen-huang-nvidia-reszvenyek-bizonytalansag_3389138-e1795605151917-320x180.jpg",
+          "category": "Tech",
+          "author": "Birkás Péter"
+        },
+        {
           "title": "Sebestyén Balázs otthagyja a Nyerő Párost az új évad után",
           "url": "https://24.hu/elet-stilus/2026/11/25/sebestyen-balazs-nyero-paros-rtl/",
           "published": "2026-11-25T12:02:00+01:00",
@@ -1091,12 +1326,12 @@
           "author": "Kolontár Krisztián"
         },
         {
-          "title": "Szigorítják a felszámolásbiznisz szabályait januártól",
-          "url": "https://24.hu/fn/gazdasag/2026/11/25/felszamolas-csodeljaras-torvenymodositas-szigoritas/",
-          "published": "2026-11-25T10:36:00+01:00",
-          "description": "Egyúttal az új szabályozással érdekeltté teszik a felszámolókat a kimentett vagyonok visszaszerzésében.",
-          "image": "https://s.24.hu/app/uploads/2026/11/romhany-e1795597908686-320x180.jpg",
-          "category": "Gazdaság",
+          "title": "Kész a 120 milliós támogatásból forgatott Curtis-film, premierdátuma viszont még nincs",
+          "url": "https://24.hu/elet-stilus/2026/11/25/curtis-film-filmalap-tamogatas/",
+          "published": "2026-11-25T10:24:00+01:00",
+          "description": "Nincs még médiapartnere a filmnek, jelenleg több tévécsatornával is tárgyalnak.",
+          "image": "https://s.24.hu/app/uploads/2026/11/central-1090275550-e1795598442500-320x180.jpg",
+          "category": "Kikapcs",
           "author": "24.hu"
         },
         {
@@ -1179,15 +1414,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/central-0803252717-2026-02-16t121758-388-320x180.jpg",
           "category": "Belföld",
           "author": "Kolontár Krisztián"
-        },
-        {
-          "title": "Húszéves lány holttestét találták meg Szegeden",
-          "url": "https://24.hu/belfold/2026/11/25/huszeves-lany-holttestet-talaltak-szegeden/",
-          "published": "2026-11-25T08:54:00+01:00",
-          "description": "Az újszegedi kockaház utcában találták meg a húszéves lányt.",
-          "image": "https://s.24.hu/app/uploads/2026/11/halaleset-320x180.jpg",
-          "category": "Belföld",
-          "author": "Ürmös Dániel"
         }
       ]
     },
@@ -1301,6 +1527,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Szigorítaná a kormány a felszámolások szabályait, és megnehezítené a vagyonkimentést",
+          "url": "https://hvg.hu/gazdasag/20261125_felszamolas-csodeljaras-szigoritas-torvenyjavaslat",
+          "published": "2026-11-25T11:15:38+00:00",
+          "description": "A felszámolókat anyagilag is érdekeltté tennék, hogy mindent megtegyenek a felszámolás alatt álló cégek vagyonának visszaszerzéséért.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b9435679-958f-4783-8af5-f528c0b6bc35.jpg",
+          "category": "Gazdaság",
+          "author": "HVG (szerzo@hvg.hu (MTI))"
+        },
         {
           "title": "Ganxsta Zolee is megszólalt a Carson Coma nagy vitát kiváltó számáról: Világéletemben elég finoman bántam a nőkkel",
           "url": "https://hvg.hu/elet/20261125_ganxsta-zolee-is-megszolalt-a-nogyulolo-rappereket-tamado-carson-coma-dalrol-finoman-bantam-a-nokkel",
@@ -1516,15 +1751,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/50379ba1-6dc4-4aac-9960-48268a73416e.jpg",
           "category": "Vállalkozás",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Von der Leyen: Európa 45 milliárd euróval támogatná Ukrajnát 2027-ben",
-          "url": "https://hvg.hu/eurologus/20261125_ursula-von-der-leyen-orosz-ukran-haboru-ep2026",
-          "published": "2026-11-25T08:46:33+00:00",
-          "description": "Az Európai Bizottság elnöke szerint Ukrajna jövő évi, pótlólagos finanszírozási szükségleteinek kétharmadát az Európai Unió fedezné. Ursula von der Leyen a támogatás mellett a Moszkvára gyakorolt nyomás fokozását és Európa aktív részvételét sürgette az orosz–ukrán béketárgyalásokon. A Bizottság h...",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cc4376ee-ca2e-4533-92d4-1e79d8be7a57.jpg",
-          "category": "EUrologus",
-          "author": "HVG (szerzo@hvg.hu (EUrologus))"
         }
       ]
     },
@@ -1538,9 +1764,18 @@
       "article_count": 8,
       "articles": [
         {
+          "title": "Júdás szerepében a bugaci vendégház miatt magyarázkodó kecskeméti egyetem",
+          "url": "https://kontroll.hu/cikk/belfold/2026/11/25/judas-szerepeben-a-bugaci-vendeghaz-miatt-magyarazkodo-kecskemeti-egyetem",
+          "published": null,
+          "description": null,
+          "image": null,
+          "category": "Belfold",
+          "author": null
+        },
+        {
           "title": "A Pedagógus Kartól az aranyvízumig – több régi szabályt eltörölne a kormány",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/25/a-pedagogus-kartol-az-aranyvizumig-toebb-regi-szabalyt-eltoeroelne-a-kormany-1",
-          "published": "2026-11-25T11:54:48.899981+01:00",
+          "published": "2026-11-25T11:54:52.035328+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1549,7 +1784,7 @@
         {
           "title": "Két éve nyomoznak Koltay András havi egymilliós MCC-s állása ügyében",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/25/ket-eve-nyomoznak-koltay-andras-havi-egymillios-mcc-s-allasa-uegyeben",
-          "published": "2026-11-25T11:54:48.900221+01:00",
+          "published": "2026-11-25T11:53:52.035389+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
@@ -1595,15 +1830,6 @@
           "title": "Magyar Péter és Zelenszkij Beregszászon állt a sajtó elé, Ukrajna uniós tagságáról is beszéltek",
           "url": "https://kontroll.hu/cikk/belfold/2026/11/24/magyar-peter-es-zelenszkij-beregszaszon-allt-a-sajto-ele-ukrajna-unios-tagsagarol-is-beszeltek",
           "published": "2026-11-24T20:43:00+01:00",
-          "description": null,
-          "image": null,
-          "category": "Belfold",
-          "author": null
-        },
-        {
-          "title": "„A magyar nép Önök mellett áll” – mondta Magyar Péter Volodimir Zelenszkijnek Ungváron",
-          "url": "https://kontroll.hu/cikk/belfold/2026/11/24/a-magyar-nep-oenoek-mellett-all-mondta-magyar-peter-volodimir-zelenszkijnek-ungvaron",
-          "published": "2026-11-24T18:50:00+01:00",
           "description": null,
           "image": null,
           "category": "Belfold",
