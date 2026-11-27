@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-27T05:55:44.592529+00:00",
+  "scraped_at": "2026-11-27T06:01:00.101846+00:00",
   "portals": [
     {
       "id": "telex",
@@ -86,7 +86,7 @@
           "title": "Fukarbojkott és patthelyzet az EU-csúcson",
           "url": "https://telex.hu/kulfold/2026/11/26/eu-csucs-brusszel-antonio-costa-fukarok-kohezio-baratai-heteves-budzse",
           "published": "2026-11-26T22:50:29+00:00",
-          "description": "A nettó befizetők kivonultak a kiscsoportos egyeztetésekről. Úgy tűnik, neki se futnak pénteken, hogy közelebb jussanak az eleve későbbre várt megállapodáshoz a 2028–2034-es költségvetésről.",
+          "description": "A „fukarok” kivonultak a kiscsoportos egyeztetésekről, neki se futnak pénteken a 2028–2034-es költségvetésnek. Ukrajnánál három vezető – köztük valószínűleg Magyar Péter – ellenáll.",
           "image": "https://assets.telex.hu/images/20261126/1795729551-temp-989iu5jfgjgdfffedhi_cimlap-normal.jpg",
           "category": "Külföld",
           "author": "Molnár Zoltán"
@@ -246,6 +246,24 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Putyin büszkesége, Matolcsy cégei",
+          "url": "https://444.hu/2026/11/27/putyin-buszkesege-matolcsy-cegei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-27T05:57:34+00:00",
+          "description": "Nehezebb lesz a most végző színművészeknek? Miért átláthatatlan a Tisza-kormány színháztámogatása? Mi változott a GTA VI-ban az V-höz képest? Árthat Bondnak a ráncfelvarrás? Kik akadályozhatnák a visszatérő briteket? Itt a 444 napindító hírlevele.",
+          "image": "https://assets.4cdn.hu/kraken/8FXl2pp9IPi7fINEs.jpeg",
+          "category": "hírlevél",
+          "author": "Bódog Bálint"
+        },
+        {
+          "title": "Sopronban már húsz centi hó esett, Nógrádban kamionok akadtak el",
+          "url": "https://444.hu/2026/11/27/sopronban-mar-husz-centi-ho-esett-nogradban-kamionok-akadtak-el?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "published": "2026-11-27T05:57:14+00:00",
+          "description": "Péntek délelőtt még többfelé havazhat az ország északi részén, délutánra azonban már csak a hegyekben várható havazás.",
+          "image": "https://assets.4cdn.hu/kraken/8QA6stcq2Xms1PEu3s.jpeg",
+          "category": "hótakaró",
+          "author": "Benics Márk"
+        },
         {
           "title": "Zelenszkij: Az USA túlságosan a Közel-Keletre koncentrál, és nem gyakorol elég nyomást Oroszországra",
           "url": "https://444.hu/2026/11/27/zelenszkij-az-usa-tulsagosan-a-kozel-keletre-koncentral-es-nem-gyakorol-eleg-nyomast-oroszorszagra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -452,24 +470,6 @@
           "image": "https://assets.4cdn.hu/kraken/8Q9DFeq9sifRX2M1s.jpeg",
           "category": "külügyminisztérium",
           "author": "Haász János"
-        },
-        {
-          "title": "Lázár János a mezőkövesdi vasúti baleset után úgy gondolta, jó ötlet megszólalni",
-          "url": "https://444.hu/2026/11/26/lazar-janos-a-mezokovesdi-vasuti-baleset-utan-ugy-gondolta-jo-otlet-megszolalni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-26T16:08:43+00:00",
-          "description": "Egy 2025-ös kormányinfós videót posztolt azzal a megjegyzéssel, hogy a felelősséget vállalni kell.",
-          "image": "https://assets.4cdn.hu/kraken/8EoE1Lb8dmDC1az13zs.jpeg",
-          "category": "fidesz",
-          "author": "Tóth-Szenesi Attila"
-        },
-        {
-          "title": "Péntek estétől több mint 12 ezer lakásban nem lesz fűtés és meleg víz Békásmegyeren",
-          "url": "https://444.hu/2026/11/26/pentek-estetol-tobb-mint-12-ezer-lakasban-nem-lesz-futes-es-meleg-viz-bekasmegyeren?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "published": "2026-11-26T15:59:31+00:00",
-          "description": "Egy több mint ötvenéves távhővezetés meghibásodása miatt, a javítás 24 órát vehet igénybe.",
-          "image": "https://assets.4cdn.hu/kraken/7nmaZZxybEke29A1Qms.jpeg",
-          "category": "főtáv",
-          "author": "Benics Márk"
         }
       ]
     },
@@ -1386,10 +1386,101 @@
       "name": "Neokohn",
       "url": "https://neokohn.hu",
       "color": "#5ba8d6",
-      "status": "error",
-      "error": "TimeoutError: ",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 10,
+      "articles": [
+        {
+          "title": "„Intézményes antiszemitizmus” miatt kormányzati vizsgálat indult a BBC-nél",
+          "url": "https://neokohn.hu/2026/11/27/antiszemitizmus-vizsgalat-bbc-brit-kormany-diszkriminacio/",
+          "published": "2026-11-27T05:13:26+00:00",
+          "description": "Lord Mann szerint azok az intézkedések, amelyeket a BBC a probléma megoldására tett, nem vezettek eredményre. A „Intézményes antiszemitizmus” miatt kormányzati vizsgálat indult a BBC-nél bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/bbc.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "„Védjétek meg a zsidó testvéreiteket!” – meglepő üzenetet küldött egy francia imám",
+          "url": "https://neokohn.hu/2026/11/26/vedjetek-meg-a-zsido-testvereiteket-meglepo-uzenet-francia-imam/",
+          "published": "2026-11-26T17:00:57+00:00",
+          "description": "Hasszen Chalghoumi szerint Irán és a Muszlim Testvériség jelentik a béke legnagyobb akadályát. A „Védjétek meg a zsidó testvéreiteket!” – meglepő üzenetet küldött egy francia imám bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/Hassen_Chalghoumi-e1795645171959-1024x576.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Az Amazon 7,5 milliárd dollárért megvesz egy izraeli AI-startupot",
+          "url": "https://neokohn.hu/2026/11/26/amazon-felvasarlas-izraeli-ai-startup-decart-tech/",
+          "published": "2026-11-26T16:05:35+00:00",
+          "description": "Az ügylet középpontjában a Decart Optimization Stack szoftvere áll, amely segíti az AI-t a chipek hatékonyabb kihasználásában. A Az Amazon 7,5 milliárd dollárért megvesz egy izraeli AI-startupot bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/927046310_1150924227933012_4068011264339751210_n.jpeg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Döntött a hágai parlament: Hollandiába nem érkezhet zsidóellenes bevándorló",
+          "url": "https://neokohn.hu/2026/11/26/hollandia-parlament-zsidoellenesseg-bevandorlas-antiszemitizmus/",
+          "published": "2026-11-26T15:07:51+00:00",
+          "description": "A migránsoknak nyilatkozatban kell garantálniuk az antiszemitizmus elutasítását, a zsidó élet védelmét. A Döntött a hágai parlament: Hollandiába nem érkezhet zsidóellenes bevándorló bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/refugees.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Miért működik szektaként a palesztinpárti mozgalom? – a szakértő válaszol",
+          "url": "https://neokohn.hu/2026/11/26/miert-mukodik-szektakent-a-palesztinparti-mozgalom-a-szakerto-valaszol/",
+          "published": "2026-11-26T14:13:59+00:00",
+          "description": "Az Izrael-ellenes csoportok az összetartozás és erő érzését nyújtják, miközben egyéni meggyőződésnek álcázott gondolati kontrollal manipulálják a tagokat. A Miért működik szektaként a palesztinpárti mozgalom? – a szakértő válaszol bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/xswwgvpv3iu-1024x683.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Izrael-gyűlölők csaptak össze a rendőrökkel egy brooklyni kóser étteremnél",
+          "url": "https://neokohn.hu/2026/11/26/eroszakos-izrael-gyulolok-ooszecsapas-brooklyn-rendorseg-ingatlan/",
+          "published": "2026-11-26T13:00:20+00:00",
+          "description": "Az erőszakos zavargók egy kóser delinél próbálták felszabadítani Palesztinát. A Izrael-gyűlölők csaptak össze a rendőrökkel egy brooklyni kóser étteremnél bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/brooklyn.jpg",
+          "category": "Izrael",
+          "author": "Neokohn"
+        },
+        {
+          "title": "15 évesen gyilkolni akaró neonácik szervezetét verte szét a német rendőrség",
+          "url": "https://neokohn.hu/2026/11/26/terror-18-neonaci-fiatalok-nemet-rendorseg-szelsojobboldal/",
+          "published": "2026-11-26T12:15:45+00:00",
+          "description": "Csevegéseikben többek között egy menekültotthonban elkövetendő gyújtogatásról beszéltek. A 15 évesen gyilkolni akaró neonácik szervezetét verte szét a német rendőrség bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/vp2qkymlkuy-1024x683.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Konok Péter másodfokon is pert nyert Nemes Dániellel szemben",
+          "url": "https://neokohn.hu/2026/11/26/konok-peter-masodfokon-is-pert-nyert-nemes-daniellel-szemben/",
+          "published": "2026-11-26T11:07:03+00:00",
+          "description": "A Fővárosi Ítélőtábla ítéletét követően Nemes Dániel egy hosszú bejegyzést tett közzé, amelyet változtatás nélkül közlünk. A Konok Péter másodfokon is pert nyert Nemes Dániellel szemben bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/05/Untitled-Project-7-1024x538.jpg",
+          "category": "Belföld",
+          "author": "Hende Olivér"
+        },
+        {
+          "title": "Egyelőre nem adják ki Magyarországnak az antifaügy szír gyanúsítottját",
+          "url": "https://neokohn.hu/2026/11/26/kiadatas-francia-birosag-antifa-szir-gyanusitott-magyarorszag/",
+          "published": "2026-11-26T10:11:47+00:00",
+          "description": "A párizsi bíróság egyelőre a férfi ügyvédjére hallgatott, aki szerint ügyfele egy „módszeresen felépített ideális bűnös”. A Egyelőre nem adják ki Magyarországnak az antifaügy szír gyanúsítottját bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/images-5.jpeg",
+          "category": "Belföld",
+          "author": "Neokohn"
+        },
+        {
+          "title": "Holokauszttagadásért ítélték el Éric Zemmour francia zsidó politikust",
+          "url": "https://neokohn.hu/2026/11/26/holokauszttagadasert-iteltek-el-eric-zemmour-francia-zsido-politikust/",
+          "published": "2026-11-26T08:54:18+00:00",
+          "description": "Ilyet sem hall az ember minden nap. A Holokauszttagadásért ítélték el Éric Zemmour francia zsidó politikust bejegyzés először Neokohn -én jelent meg.",
+          "image": "https://neokohn.hu/files/2026/11/Untitled-Project-407-4-1024x538.jpg",
+          "category": "Külföld",
+          "author": "Neokohn"
+        }
+      ]
     },
     {
       "id": "hvg",
@@ -1400,6 +1491,15 @@
       "error": null,
       "article_count": 25,
       "articles": [
+        {
+          "title": "Nincs Fiesta, Focus és Mondeo, de most már van V8-as új hiperautója a Fordnak",
+          "url": "https://hvg.hu/cegauto/20261127_uj-v8-hiperauto-ford-gt41-le-mans-24h",
+          "published": "2026-11-27T05:57:36+00:00",
+          "description": "A Stellantis konszernnel ellentétben a Ford a jelek szerint igen komoly fantáziát lát Le Mans-ban.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/25a43c36-083b-43b1-a414-2debbad75309.jpg",
+          "category": "Autó",
+          "author": "szerzo@hvg.hu (HVG)"
+        },
         {
           "title": "Elhallgatott „apróságok”, titkolt egyezség, elveszett közpénzmilliárdok: még mindig csapkodnak a 2003-as brókerbotrány hullámai",
           "url": "https://hvg.hu/360/20261127_hvg-kh-bank-kulcsar-attila-kozpenzmilliardok-per-karosultak-allam-veszteseg",
@@ -1615,15 +1715,6 @@
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/71cdeed1-7420-445b-aafd-9c564fbbbab4.jpg",
           "category": "Itthon",
           "author": "szerzo@hvg.hu (HVG)"
-        },
-        {
-          "title": "Megállapodtak Brüsszelben, spanyol jegybankár válthatja Lagarde-ot az EKB élén",
-          "url": "https://hvg.hu/eurologus/20261126_megallapodtak-brusszelben-spanyol-jegybankar-valthatja-lagarde-ot-az-ekb-elen",
-          "published": "2026-11-26T18:23:37+00:00",
-          "description": "Az euróövezet vezetői Pablo Hernández de Cost támogatják az Európai Központi Bank élére. Christine Lagarde 2027 februárjában, kilenc hónappal mandátuma lejárta előtt távozik. A brüsszeli alku két másik vezető posztról is szól, a spanyol kormányfő pedig három nappal a választás előtt diplomáciai s...",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a600e4a9-8b0f-4a6f-9129-1bd9a6afc155.jpg",
-          "category": "EUrologus",
-          "author": "szerzo@hvg.hu (Folk György (EUrologus))"
         }
       ]
     },
