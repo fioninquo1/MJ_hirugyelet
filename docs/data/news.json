@@ -1,15 +1,241 @@
 {
-  "scraped_at": "2026-11-28T04:30:54.695982+00:00",
+  "scraped_at": "2026-11-28T04:35:32.830106+00:00",
   "portals": [
     {
       "id": "telex",
       "name": "Telex.hu",
       "url": "https://telex.hu",
       "color": "#2ec4b6",
-      "status": "error",
-      "error": "ClientResponseError: 403, message='Forbidden', url='https://telex.hu/rss'",
-      "article_count": 0,
-      "articles": []
+      "status": "ok",
+      "error": null,
+      "article_count": 25,
+      "articles": [
+        {
+          "title": "Az energiaárak jövőre végre Magyarország oldalára állhatnak",
+          "url": "https://telex.hu/g7/penz/2026/11/28/energiaarak-olaj-gaz-2027-kilatasok-magyar-gazdasag",
+          "published": "2026-11-28T03:57:02+00:00",
+          "description": "Ha a 2027-re várt kedvező olaj- és gázpiaci folyamatoknak akár csak egy része megvalósul, az energia az elmúlt évek ellenszele után végre némi hátszelet adhat a magyar gazdaságnak.",
+          "image": "https://assets.telex.hu/images/20261127/1795784934-temp-9ji6p2mr8odofaogaab_cimlap-normal.jpg",
+          "category": "Pénz",
+          "author": "Virovácz Péter"
+        },
+        {
+          "title": "„Nincs újjáépítés, nincs helyreállítás, semmi, ami javítana a helyzeten” – Gázában az újabb télre készülnek",
+          "url": "https://telex.hu/kulfold/2026/11/28/deutsche-welle-gaza-tel-izrael-haboru",
+          "published": "2026-11-28T03:50:03+00:00",
+          "description": "Családok romházakban, mások beázó sátrakban kénytelenek átélni a sokadik telet a szétlőtt városban. A Deutsche Welle riportja.",
+          "image": "https://assets.telex.hu/images/20261127/1795788422-temp-0cirgvpfdso05ioabfc_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Telex"
+        },
+        {
+          "title": "Pozitívan értékelte a Tisza-kormány gazdaságpolitikáját az egyik nagy hitelminősítő",
+          "url": "https://telex.hu/gazdasag/2026/11/27/s-p-global-ratings-negativrol-stabilra-magyar-allamados-osztalyzat-kilatasat",
+          "published": "2026-11-27T22:08:03+00:00",
+          "description": "A S&P érvényben hagyta Magyarország BBB mínusz adósbesorolását, de a negatív kilátást stabilra módosította.",
+          "image": "https://assets.telex.hu/images/20261127/1795816988-temp-76s18lnpgf9r5knlgnk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Elon Musk két SpaceX részvényt ígér minden amerikai gyereknek",
+          "url": "https://telex.hu/gazdasag/2026/11/27/elon-musk-spacex-reszveny-gyerekek-mesterseges-intelligencia",
+          "published": "2026-11-27T21:46:07+00:00",
+          "description": "Egyet a SpaceX-től, egyet közvetlenül a világ leggazdagabb emberétől kaphatnak.",
+          "image": "https://assets.telex.hu/images/20261127/1795815593-temp-js8q7uclbdc35acoojk_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "A nagy túlélő akkor is bukhat, ha végül nyer, Franco diktatúrája óta először kerülhet kormányra a szélsőjobb",
+          "url": "https://telex.hu/kulfold/2026/11/27/spanyolorszag-valasztas-pedro-sanchez-alberto-nunez-feijoo-felmeresek-neppart-szocialistak-vox",
+          "published": "2026-11-27T21:01:52+00:00",
+          "description": "Vasárnap előrehozott választáson mondanak ítéletet Európa legfontosabb szocialista vezetőjének elmúlt nyolc évéről Spanyolországban. Pedro Sánchez a közhangulatot próbálta meglovagolni, és pártja erősödött is a kampányhajrában. 10 éve elképzelhetetlennek tűnt, most nagy esélye van, hogy az Orbán-...",
+          "image": "https://assets.telex.hu/images/20261126/1795693657-temp-187cfu42ak2lbddcolb_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Jobb későn, mint soha: orosz evezősöket tiltottak el 12 évvel a doppingvétség elkövetése után",
+          "url": "https://telex.hu/sport/2026/11/27/orosz-evezosoket-tiltottak-el-12-evvel-a-doppingvetseg-elkovetese-utan",
+          "published": "2026-11-27T20:23:16+00:00",
+          "description": "A versenyzéstől már évekkel ezelőtt visszavonult sportolóktól 2014-ben levett minták három tiltott anabolikus szteroidot is tartalmaztak.",
+          "image": null,
+          "category": "Sport",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "A harmadik világháború a küszöbön, de előbb még rendbe kellene hozni egy házasságot",
+          "url": "https://telex.hu/after/2026/11/27/netflix-a-diplomata-keri-russell-rufus-sewell-allison-janney-kritika",
+          "published": "2026-11-27T20:18:37+00:00",
+          "description": "Minél kiszámíthatatlanabb a világ vezetőinek viselkedése, és minél sérülékenyebbek a világ szövetségi rendszerei, annál aktuálisabb A diplomata. A sorozat negyedik évada akciófilmeket megszégyenítő tempót diktál.",
+          "image": "https://assets.telex.hu/images/20261119/1795099811-temp-v6dhvbr91jnaecodebf_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Aradi Hanga Zsófia"
+        },
+        {
+          "title": "A Tisza budapesti frakcióvezetője lett a Városliget Zrt. igazgatóságának elnöke",
+          "url": "https://telex.hu/belfold/2026/11/27/orban-arpad-tisza-part-frakciovezeto-varosliget-zrt-igazgatosag",
+          "published": "2026-11-27T20:14:23+00:00",
+          "description": "Az illetékes minisztérium részletesen megindokolta, hogy miért rá esett a választás.",
+          "image": "https://assets.telex.hu/images/20261127/1795810292-temp-brvisu3cpfb92eejpef_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Schäfer András válogatott focista Orbán Viktor látogatásáról és Gulácsi kiállásáról is beszélt a Partizánnak",
+          "url": "https://telex.hu/sport/2026/11/27/schafer-andras-interju-partizan-orban-gulacsi-stadionok",
+          "published": "2026-11-27T19:45:47+00:00",
+          "description": "A magyar válogatott és az Union Berlin 27 éves középpályása pályafutása mélypontjai és sikerei mellett a speciális hazai futballviszonyokról is véleményt mondott.",
+          "image": "https://assets.telex.hu/images/20261127/1795808733-temp-md6s5kq5ogep2kpgilj_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Ághassi Attila"
+        },
+        {
+          "title": "Juhász Péter Pál és élettársa január végéig letartóztatásban marad",
+          "url": "https://telex.hu/belfold/2026/11/27/juhasz-peter-pal-es-elettarsa-letartoztatasa-meghosszabbitva-januarig-szolo-utcai-ugy",
+          "published": "2026-11-27T19:36:17+00:00",
+          "description": "A Szőlő utcai ügyben meggyanúsítottak letartóztatásának meghosszabbítását az ügyészség kérte.",
+          "image": "https://assets.telex.hu/images/20261127/1795808158-temp-hhpstuan42m28bgmpnh_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Trumpot bírálta, és Patriot rakétákat kért Zelenszkij",
+          "url": "https://telex.hu/kulfold/2026/11/27/volodimir-zelenszkij-bbc-interju-putyin-mint-trump-baratja-patriotok",
+          "published": "2026-11-27T19:08:40+00:00",
+          "description": "Az ukrán elnök a BBC-nek adott interjút, amiben vázolta, mit gondol Trump és Putyin kínai barátkozásáról.",
+          "image": "https://assets.telex.hu/images/20261127/1795806225-temp-rel978d4d9gp9ngjpea_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Szombathely polgármestere szerint az azbesztmentesítési alapból épp csak azbesztmentesítésre nem lehetett pályázni",
+          "url": "https://telex.hu/belfold/2026/11/27/elutasitottak-szombathely-koszeg-es-szentgotthard-azbesztmentesitesi-palyazatat",
+          "published": "2026-11-27T19:03:48+00:00",
+          "description": "Nemény András azután posztolt erről, miután elutasították Szombathely, Kőszeg és Szentgotthárd pályázatát.",
+          "image": "https://assets.telex.hu/images/20261127/1795805849-temp-per9h7pmjsnpfeklgfi_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Kinevezték a legfőbb ügyész helyettesét",
+          "url": "https://telex.hu/belfold/2026/11/27/legfobb-ugyesz-helyettes-fejes-peter-jagusztin-tamas",
+          "published": "2026-11-27T18:58:13+00:00",
+          "description": "Az Országgyűlés november elején választotta meg legfőbb ügyésznek Fejes Pétert.",
+          "image": "https://assets.telex.hu/images/20261127/1795805592-temp-u5q0b23e84rb4jmjcgg_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Ha hiba van a rendszerben, a vonat nyitott ajtóval is el tud indulni, ez is szerepet játszhatott a mezőkövesdi halálos balesetben",
+          "url": "https://telex.hu/belfold/2026/11/27/mezokovesdi-vonatbaleset-mav-vitezy-david",
+          "published": "2026-11-27T18:42:55+00:00",
+          "description": "A térfigyelő kamerák felvételei szerint már elindult a vonat, amikor a baleset áldozata megpróbált leszállni. Ez arra utal, hogy egyedül az a biztonsági rendszer működött, ami csak bizonyos sebesség felett akadályozza meg az ajtók kinyitását. A korszerű motorvonatokon nem történhetne meg hasonló ...",
+          "image": "https://assets.telex.hu/images/20261127/1795800472-temp-u0402o854bmh9mfjdei_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Mizsur András"
+        },
+        {
+          "title": "El lehet gyászolni egy anyát kétszer?",
+          "url": "https://telex.hu/karakter/konyvespolc/2026/11/27/andrea-bajani-ha-a-vetkeket-szamontartod-kritika",
+          "published": "2026-11-27T18:26:48+00:00",
+          "description": "Annál, hogy egy kisfiút elhagy az anyja, kevés drámaibb élethelyzet létezik, az olasz Andrea Bajani azonban pátosz nélkül, visszafogott, minimalista stílusban közelíti meg ezt a traumát. Kritika.",
+          "image": "https://assets.telex.hu/images/20261126/1795703146-temp-tgg3jvalf2grdkmgkkp_cimlap-normal.jpg",
+          "category": "Könyvespolc",
+          "author": "Kolozsi Orsolya"
+        },
+        {
+          "title": "Kinnfelejtett állványzatokról és csinosabb csomagmegőrzőkről is döntött a Fővárosi Közgyűlés",
+          "url": "https://telex.hu/belfold/2026/11/27/fovarosi-kozgyules-allvanyok-csomagmegorzok-reklamfeluletek",
+          "published": "2026-11-27T17:44:58+00:00",
+          "description": "Közterület-használati szabályokat rögzített a testület, emellett az adatvezéreltebb működés felé is elindul Budapest.",
+          "image": "https://assets.telex.hu/images/20261127/1795801225-temp-s1q3t6hflodc4lhlmhc_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Menesztették a Pick Szeged kézilabdacsapatának svéd vezetőedzőjét",
+          "url": "https://telex.hu/sport/2026/11/27/az-otp-bank-pick-szeged-kezilabdacsapata-menesztette-michael-apelgren-vezetoedzot-utodja-jonas-kallman-lett",
+          "published": "2026-11-27T17:44:31+00:00",
+          "description": "Utódja honfitársa, Jonas Källman lett, aki 2014 és 2021 között szegedi színekben játszott.",
+          "image": "https://assets.telex.hu/images/20261127/1795801275-temp-e5b4u32dpo7p0fjidgc_cimlap-normal.jpg",
+          "category": "Sport",
+          "author": "Bakró-Nagy Ferenc"
+        },
+        {
+          "title": "Jövőre a 2026-os támogatás töredékét kaphatja a Krausz-féle kutatóközpont, a kutatások egy része Németországba kerülhet",
+          "url": "https://telex.hu/techtud/2026/11/27/cmf-molekularis-ujjlenyomat-kutato-kozpont-krausz-ferenc-finanszirozas-tudomanyos-technologiai-miniszterium",
+          "published": "2026-11-27T17:34:29+00:00",
+          "description": "A minisztérium szerint befejezik a CMF-nek is helyet adó beruházást, Krausz Ferenc marad a központ ügyvezetője, a hongkongi kutatási együttműködés pedig nem kap magyar állami támogatást.",
+          "image": "https://assets.telex.hu/images/20261127/1795800810-temp-5rnm7ivbvla26fkdknl_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Nagy Nikoletta"
+        },
+        {
+          "title": "Betörtek az amerikai légierő felhőjébe, érzékeny adatokat szerezhettek meg hekkerek",
+          "url": "https://telex.hu/techtud/2026/11/27/hekkerek-betores-amerikai-legiero-cloud-one-felho",
+          "published": "2026-11-27T17:17:39+00:00",
+          "description": "A Reuters szerint a korábban 100 százalékosan biztonságosnak hitt Cloud One-ba törtek be, gyaníthatóan MI segítségével.",
+          "image": "https://assets.telex.hu/images/20261127/1795799653-temp-3ehoom06i70n1paflpl_cimlap-normal.jpg",
+          "category": "Techtud",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Koncertezőket akarhattak kirabolni a manchesteri koncerten, ahol ismeretlen anyag került a levegőbe",
+          "url": "https://telex.hu/kulfold/2026/11/27/don-toliver-manchesteri-koncert-evakualas-idegen-anyag-rablas-nyomozas",
+          "published": "2026-11-27T17:15:39+00:00",
+          "description": "A Co-op Live arénából 12 ezer embert kellett evakuálni vasárnap este.",
+          "image": "https://assets.telex.hu/images/20261127/1795799419-temp-6f1veno00vuieigejnn_cimlap-normal.jpg",
+          "category": "Külföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Mindent kimosott az idő a Schadl György végrehajtó-jelöltjeit vizsgáztató minisztériumi főtanácsos emlékezetéből",
+          "url": "https://telex.hu/belfold/2026/11/27/martonovics-bernadett-vegrehajtasokat-ellenorzo-bizottsag-schadl-volner-ugy",
+          "published": "2026-11-27T17:15:16+00:00",
+          "description": "Martonovics Bernadett semmire nem emlékezett, amikor a Schadl Györggyel folytatott telefonbeszélgetéseiről és sms-váltásairól kérdezték a parlamenti vizsgálóbizottságban.",
+          "image": "https://assets.telex.hu/images/20261127/1795797589-temp-t43o5ger9el55ehpdjm_cimlap-normal.jpg",
+          "category": "Belföld",
+          "author": "Weiler Vilmos"
+        },
+        {
+          "title": "Szégyentelenül hordták ki a pénzt a közmédiából az új kormány vizsgálata szerint",
+          "url": "https://telex.hu/after/2026/11/27/kozmedia-miniszterium-koltes-audit-lopas-mtva-duna-mediaszolgaltato-m1",
+          "published": "2026-11-27T16:46:55+00:00",
+          "description": "Milliárdos mutyi közvetítőkocsikkal és bérbe adott eszközparkkal, milliók AI slopra, az MTVA-ból élő időjárás-jelentők, belső jelentés Rogán Antalnak. Ezek estek ki az átvizsgálásból.",
+          "image": "https://assets.telex.hu/images/20261127/1795792702-temp-ldi54l37o0rcacbpaec_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Klág Dávid"
+        },
+        {
+          "title": "Orvosi végzettség nélkül csinált ajak- és ráncfeltöltéseket egy makói nő",
+          "url": "https://telex.hu/belfold/2026/11/27/arc-es-ajakfeltoltes-vegzettseg-nelkul-mako-rendroseg-buntetoeljaras",
+          "published": "2026-11-27T16:29:21+00:00",
+          "description": "A komoly egészségügyi kockázatot jelentő illegális kezelések miatt eljárás indult ellene.",
+          "image": null,
+          "category": "Belföld",
+          "author": "Szántó-Nagy Bálint"
+        },
+        {
+          "title": "Gajdos László országos palagáz-moratóriumért fordult Kapitány Istvánhoz",
+          "url": "https://telex.hu/gazdasag/2026/11/27/gajdos-laszlo-kapitany-istvan-palagaz-moratorium",
+          "published": "2026-11-27T16:27:24+00:00",
+          "description": "Az élő környezetért felelős miniszter levelet írt az energetikainak, miután konfliktust szült egy repesztéses projekt.",
+          "image": "https://assets.telex.hu/images/20261127/1795796603-temp-2nh9hijgk9j90fkgdml_cimlap-normal.jpg",
+          "category": "Gazdaság",
+          "author": "Molnár Zoltán"
+        },
+        {
+          "title": "Megkapta a névhasználati engedélyt a Budapest Parádé, de a kidolgozott tervekről még nem egyeztettek a fővárossal",
+          "url": "https://telex.hu/after/2026/11/27/budapest-parade-nevhasznalati-engedely-fopolgarmesteri-hivatal-fovaros-szaler-gabor",
+          "published": "2026-11-27T16:14:03+00:00",
+          "description": "Ez önmagában még nem jelenti azt, hogy a rendezvény biztosan megvalósul. A szervezők szerint már 55-60 cég jelezte, hogy kamiont indítana a parádén.",
+          "image": "https://assets.telex.hu/images/20261127/1795792502-temp-5bl8o1f2cbk9celobdo_cimlap-normal.jpg",
+          "category": "After",
+          "author": "Kersner Máté"
+        }
+      ]
     },
     {
       "id": "444",
@@ -965,13 +1191,13 @@
       "article_count": 25,
       "articles": [
         {
-          "title": "Mindössze 11-en élnek ebben a faluban, mégis országos rekordot tart",
-          "url": "https://sokszinuvidek.24.hu/viragzo-videkunk/2026/11/28/falu-rekord-lakossag-telepules/",
-          "published": "2026-11-28T05:00:00+01:00",
-          "description": "Ez a település a nyugalom kicsiny szigete, amit csak a természet ölel körbe.",
-          "image": "https://24.hu/app/uploads/sites/11/2026/11/kepernyokep-2026-11-24-145938-1-e1795529084684-320x180.png",
-          "category": "Virágzó vidékünk",
-          "author": "Sokszínű Vidék"
+          "title": "Lenyűgöző karácsonyi albummal kényezteti rajongóit a kanadai rocklegenda",
+          "url": "https://24.hu/ajandek/2026/11/28/bryan-adams-karacsonyi-album/",
+          "published": "2026-11-28T05:30:00+01:00",
+          "description": "A magyar rajongók 2026. december 16-án az MVM Dome színpadán köszönthetik a legendás zenészt.",
+          "image": "https://s.24.hu/app/uploads/2026/11/bryanadams-e1795714830799-320x180.jpg",
+          "category": "Advent",
+          "author": "24.hu"
         },
         {
           "title": "Őserdőben élt, és fegyverrel szerzett hatalmat Fidel Castro",
@@ -990,6 +1216,15 @@
           "image": "https://s.24.hu/app/uploads/2026/11/marc-marquez-320x180.jpg",
           "category": "Sport",
           "author": "24.hu"
+        },
+        {
+          "title": "Mindössze 11-en élnek ebben a faluban, mégis országos rekordot tart",
+          "url": "https://sokszinuvidek.24.hu/viragzo-videkunk/2026/11/28/falu-rekord-lakossag-telepules/",
+          "published": "2026-11-28T05:00:00+01:00",
+          "description": "Ez a település a nyugalom kicsiny szigete, amit csak a természet ölel körbe.",
+          "image": "https://24.hu/app/uploads/sites/11/2026/11/kepernyokep-2026-11-24-145938-1-e1795529084684-320x180.png",
+          "category": "Virágzó vidékünk",
+          "author": "Sokszínű Vidék"
         },
         {
           "title": "Németh Áron beesett a vízbe, de így is futamot nyert a magyar vitorlás válogatott",
@@ -1098,15 +1333,6 @@
           "image": "https://s.24.hu/app/uploads/2026/11/jonas-kallman-320x180.jpg",
           "category": "Sport",
           "author": "24.hu"
-        },
-        {
-          "title": "Forsthoffer megszólalt az Országgyűlésben síró képviselő ügyében",
-          "url": "https://24.hu/belfold/2026/11/27/forsthoffer-agnes-lejarato-manipulacio-goroghne-bocskai-agnas/",
-          "published": "2026-11-27T19:05:00+01:00",
-          "description": "A házelnök a manipuláció és a karaktergyilkosság minden formáját elítélte, és kiállt Göröghné Bocskai Éva mellett.",
-          "image": "https://s.24.hu/app/uploads/2026/11/central-1109063741-1-e1795802703504-320x180.jpg",
-          "category": "Belföld",
-          "author": "Kassai Zsigmond"
         },
         {
           "title": "Költségcsökkentés miatt elküld 65 alkalmazottat a Főpolgármesteri Hivatal",
